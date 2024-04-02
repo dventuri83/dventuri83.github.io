@@ -17,9 +17,10 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+As of April 2022, I am a Full Professor at the Computer Science Department of Sapienza University of Rome, Italy. My research focus is on theoretical and applied cryptography.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Prior to joining Sapienza University of Rome, from April 2016 to December 2016, I was an Assistant Professor in the Department of Information Engineering and Computer Science (DISI) at University of Trento, Italy. Before that, from January 2012 to March 2016, I was a Postdoctoral Fellowship at Sapienza University of Rome and Aarhus University (take a look here), under the guidance of Giuseppe Ateniese, Ivan Damgård and Jesper Buus Nielsen.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In December 2011, I got my PhD at the School of Information Engineering and Telecommunications, at the Department of Information Engineering, Electronics and Telecommunications (DIET) at Sapienza Unveristy of Rome. During my PhD, I had the wonderful fortune of visiting CWI in Amsterdam, hosted by Ronald Cramer and working under the guidance of Krzysztof Piertzak.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I got my Bachelor's degree in Electrical Engineering at ROMA TRE and my Master's degree in Telecommunication Engineering at Sapienza University.
