@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects prova
+title: teaching
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of courses I am teaching or I have taught in the past.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work, teaching]
 horizontal: false
 ---
 
