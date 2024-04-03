@@ -2,12 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=''>Computer Science Department</a>
-Sapienza University of Rome
-Building G, Room G29
-Viale Regina Elena 295
-00161, Rome
-Italy
+subtitle: <a href=''>Computer Science Department</a> Sapienza University of Rome Building G, Room G29 Viale Regina Elena 295 00161, Rome Italy
 
 profile:
   align: right
