@@ -71,19 +71,19 @@ github_username: dventuri83 # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: SapienzaCrypto # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: danieleventuri # your LinkedIn user name
+linkedin_username: # danieleventuri your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: dCsqhREAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0003-2379-8564 # your ORCID ID
+orcid_id: # 0000-0003-2379-8564 your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
-scopus_id: 56394720500 # your profile on Scopus
+scopus_id: # 56394720500 your profile on Scopus
 flickr_id: # your flickr id
 blogger_url: # your blogger URL
 work_url: # work page URL
@@ -99,7 +99,7 @@ pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
-youtube_id: ingping83 # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: # ingping83 your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
@@ -320,7 +320,24 @@ enable_publication_badges:
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
-  [abbr, abstract, altmetric, arxiv, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
+  [
+    abbr,
+    abstract,
+    altmetric,
+    arxiv,
+    bibtex_show,
+    blog,
+    code,
+    html,
+    pdf,
+    poster,
+    preview,
+    selected,
+    slides,
+    supp,
+    video,
+    website,
+  ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3 # leave blank to always show all authors
