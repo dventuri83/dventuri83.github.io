@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:clap: My paper with Danilo Francati on "Non-malleable Fuzzy Extractors" has been accepted at [ACNS 2024](https://wp.nyu.edu/acns2024/). :clap:
+My paper with Danilo Francati on *"Non-malleable Fuzzy Extractors"* has been accepted at [ACNS 2024](https://wp.nyu.edu/acns2024/) :clap:
