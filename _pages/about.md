@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: > 
-  Building G, Room G29 
-  Viale Regina Elena 295 
-  00161 Rome, Italy
+  more_info: > Building G, Room G29, Viale Regina Elena 295, 00161 Rome, Italy
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
