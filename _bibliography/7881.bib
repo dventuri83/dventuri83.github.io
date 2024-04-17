@@ -2,8 +2,8 @@
   abbr = {ACNS 2024},
   bibtex_show={true},
   abstract = {Fuzzy extractors (Dodis et al. EUROCRYPT’04) allow to generate close to uniform randomness using correlated distributions outputting samples that are close over some metric space. The latter requires to produce a helper value (along with the extracted key) that can be used to recover the key using close samples. Robust fuzzy extractors (Dodis et al., CRYPTO’06) further protect the helper string from arbitrary active manipulations, by requiring that the reconstructed key using a modified helper string cannot yield a different extractor output.
-It is well known that statistical robustness inherently requires large min-entropy (in fact,  where n is the bit length of the samples) from the underlying correlated distributions, even assuming trusted setup. Motivated by this limitation, we start the investigation of security properties weaker than robustness, but that can be achieved in the plain model assuming only minimal min-entropy (in fact, ), while still being useful for applications. We identify one such property and put forward the notion of non-malleable fuzzy extractors. Intuitively, non-malleability relaxes the robustness property by allowing the reconstructed key using a modified helper string to be different from the original extractor output, as long as it is a completely unrelated value.
-We give a black-box construction of non-malleable fuzzy extractors in the plain model for min-entropy , against interesting families of manipulations including split-state tampering, small-depth circuits tampering, and space-bounded tampering (in the information-theoretic setting), as well as tampering via partial functions (assuming one-way functions). We leave it as an open problem to establish whether non-malleability is possible for arbitrary manipulations of the helper string. Finally, we show an application of non-malleable fuzzy extractors to protect stateless cryptographic primitives whose secret keys are derived using fuzzy correlated distributions.},
+It is well known that statistical robustness inherently requires large min-entropy (in fact,  $m > n/2$ where $n$ is the bit length of the samples) from the underlying correlated distributions, even assuming trusted setup. Motivated by this limitation, we start the investigation of security properties weaker than robustness, but that can be achieved in the plain model assuming only minimal min-entropy (in fact,  $m=\omega(\log n)$), while still being useful for applications. We identify one such property and put forward the notion of non-malleable fuzzy extractors. Intuitively, non-malleability relaxes the robustness property by allowing the reconstructed key using a modified helper string to be different from the original extractor output, as long as it is a completely unrelated value.
+We give a black-box construction of non-malleable fuzzy extractors in the plain model for min-entropy $m=\omega(\log n)$, against interesting families of manipulations including split-state tampering, small-depth circuits tampering, and space-bounded tampering (in the information-theoretic setting), as well as tampering via partial functions (assuming one-way functions). We leave it as an open problem to establish whether non-malleability is possible for arbitrary manipulations of the helper string. Finally, we show an application of non-malleable fuzzy extractors to protect stateless cryptographic primitives whose secret keys are derived using fuzzy correlated distributions.},
   author = {Danilo Francati and Daniele Venturi},
   title = {Non-malleable Fuzzy Extractors},
   booktitle = {22nd International Conference on Applied Cryptography and Network Security},
@@ -14,10 +14,10 @@ We give a black-box construction of non-malleable fuzzy extractors in the plain 
   year = {2024},
   doi = {10.1007/978-3-031-54770-6\_6},
   html = {https://wp.nyu.edu/acns2024/},
-  pdf={example_pdf.pdf},
+  pdf = {https://link.springer.com/chapter/10.1007/978-3-031-54770-6_6},
   altmetric = {248277},
   dimensions = {true},
-  google_scholar_id = {M3ejUd6NZC8C},
+  google_scholar_id = {dCsqhREAAAAJ:PR6Y55bgFSsC},
   selected = {false}
 }
 
