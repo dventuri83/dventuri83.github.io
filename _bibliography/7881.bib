@@ -113,7 +113,9 @@ In particular, plugging in our constructions of multi-key and multi-input PE, un
 @article{DBLP:journals/tifs/FrioloMNV22,
   abbr = {IEEE TIFS},
   bibtex_show={true},
-  abstract = {},
+  abstract = {A recent trend in multi-party computation is to achieve cryptographic fairness via monetary penalties, i.e. each honest player either obtains the output or receives a compensation in the form of a cryptocurrency. We pioneer another type of fairness, financial fairness, that is closer to the real-world valuation of financial transactions. Intuitively, a penalty protocol is financially fair if the net present cost of participation (the total value of cash inflows less cash outflows, weighted by the relative discount rate) is the same for all honest participants, even when some parties cheat.
+We formally define the notion, show several impossibility results based on game theory, and analyze the practical effects of (lack of) financial fairness if one was to run the protocols for real on Bitcoin using Bloomberg's dark pool trading.
+For example, we show that the ladder protocol (CRYPTO'14), and its variants (CCS'15 and CCS'16), fail to achieve financial fairness both in theory and in practice, while the penalty protocols of Kumaresan and Bentov (CCS'14) and Baum, David and Dowsley (FC'20) are financially fair. This version contains formal definitions, detailed security proofs, demos and experimental data in the appendix.},
   author = {Daniele Friolo and Fabio Massacci and Chan Nam Ngo and Daniele Venturi},
   title = {Cryptographic and Financial Fairness},
   journal = {{IEEE} Transactions on Information Forensics and Security},
@@ -129,6 +131,9 @@ In particular, plugging in our constructions of multi-key and multi-input PE, un
 }
 
 @article{DBLP:journals/tit/BrianFORSSV22,
+  abbr = {IEEE TIT},
+  bibtex_show={true},
+  abstract = {We show that noisy leakage can be simulated in the information-theoretic setting using a single query of bounded leakage, up to a small statistical simulation error and a slight loss in the leakage parameter. The latter holds true in particular for one of the most used noisy-leakage models, where the noisiness is measured using the conditional average min-entropy (Naor and Segev, CRYPTO'09 and SICOMP'12). Our reductions between noisy and bounded leakage are achieved in two steps. First, we put forward a new leakage model (dubbed the dense leakage model) and prove that dense leakage can be simulated in the information-theoretic setting using a single query of bounded leakage, up to small statistical distance. Second, we show that the most common noisy-leakage models fall within the class of dense leakage, with good parameters. We also provide a complete picture of the relationships between different noisy-leakage models, and prove lower bounds showing that our reductions are nearly optimal. Our result finds applications to leakage-resilient cryptography, where we are often able to lift security in the presence of bounded leakage to security in the presence of noisy leakage, both in the information-theoretic and in the computational setting. Additionally, we show how to use lower bounds in communication complexity to prove that bounded-collusion protocols (Kumar, Meka, and Sahai, FOCS'19) for certain functions do not only require long transcripts, but also necessarily need to reveal enough information about the inputs.},
   author       = {Gianluca Brian and
                   Antonio Faonio and
                   Maciej Obremski and
@@ -138,37 +143,48 @@ In particular, plugging in our constructions of multi-key and multi-input PE, un
                   Daniele Venturi},
   title        = {The Mother of All Leakages: How to Simulate Noisy Leakages via Bounded
                   Leakage (Almost) for Free},
-  journal      = {{IEEE} Trans. Inf. Theory},
+  journal      = {{IEEE} Transactions on Information Theory},
   volume       = {68},
   number       = {12},
   pages        = {8197--8227},
   year         = {2022},
-  url          = {https://doi.org/10.1109/TIT.2022.3193848},
   doi          = {10.1109/TIT.2022.3193848},
-  timestamp    = {Sat, 18 Mar 2023 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/journals/tit/BrianFORSSV22.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://ieeexplore.ieee.org/document/9840398},
+  pdf = {https://eprint.iacr.org/2020/1246},
+  dimensions = {true},
+  google_scholar_id = {5Ul4iDaHHb8C},
+  selected = {true}
 }
 
 @article{DBLP:journals/tosc/BrianFRV22,
+  abbr = {IACR ToSC},
+  bibtex_show={true},
+  abstract = {We construct non-malleable codes in the split-state model with codeword length $m + 3\lambda$ or $m + 5\lambda$, where $m$ is the message size and $\lambda$ is the security parameter, depending on how conservative one is. Our scheme is very simple and involves a single call to a block cipher meeting a new security notion which we dub entropic fixed-related-key security, which essentially means that the block cipher behaves like a pseudorandom permutation when queried upon inputs sampled from a distribution with sufficient min-entropy, even under related-key attacks with respect to an arbitrary but fixed key relation. Importantly, indistinguishability only holds with respect to the original secret key (and not with respect to the tampered secret key). In a previous work, Fehr, Karpman, and Mennink (ToSC 2018) used a related assumption (where the block cipher inputs can be chosen by the adversary, and where indistinguishability holds even with respect to the tampered key) to construct a non-malleable code in the split-state model with codeword length $m + 2\lambda$. Unfortunately, no block cipher (even an ideal one) satisfies their assumption when the tampering function is allowed to be  cipher-dependent. In contrast, we are able to show that entropic fixed-related-key security holds in the ideal cipher model with respect to a large class of cipher-dependent tampering attacks (including those which break the assumption of Fehr, Karpman, and Mennink).},
   author       = {Gianluca Brian and
                   Antonio Faonio and
                   Jo{\~{a}}o Ribeiro and
                   Daniele Venturi},
   title        = {Short Non-Malleable Codes from Related-Key Secure Block Ciphers, Revisited},
-  journal      = {{IACR} Trans. Symmetric Cryptol.},
+  journal      = {{IACR} Transactions on Symmetric Cryptology},
   volume       = {2022},
   number       = {3},
   pages        = {1--19},
   year         = {2022},
-  url          = {https://doi.org/10.46586/tosc.v2022.i3.1-19},
   doi          = {10.46586/TOSC.V2022.I3.1-19},
-  timestamp    = {Mon, 28 Aug 2023 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/journals/tosc/BrianFRV22.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://fse.iacr.org/2023/},
+  pdf = {https://eprint.iacr.org/2022/1100},
+  dimensions = {true},
+  google_scholar_id = {AXPGKjj_ei8C},
+  selected = {true}
 }
 
 @inproceedings{DBLP:conf/asiacrypt/BrianFMV22,
+  abbr = {ASIACRYPT 2022},
+  bibtex_show={true},
+  abstract = {Non-malleable codes (Dziembowski, Pietrzak and Wichs, ICS 2010 & JACM 2018) allow protecting arbitrary cryptographic primitives against related-key attacks (RKAs). Even when using codes that are guaranteed to be non-malleable against a single tampering attempt, one obtains RKA security against poly-many tampering attacks at the price of assuming perfect memory erasures. In contrast, continuously non-malleable codes (Faust, Mukherjee, Nielsen and Venturi, TCC 2014) do not suffer from this limitation, as the non-malleability guarantee holds against poly-many tampering attempts. 
+    Unfortunately, there are only a handful of constructions of continuously non-malleable codes, while standard non-malleable codes are known for a large variety of tampering families including, e.g., NC0 and decision-tree tampering, AC0, and recently even bounded polynomial-depth tampering. We change this state of affairs by providing the first constructions of continuously non-malleable codes in the following natural settings:
+- Against decision-tree tampering, where, in each tampering attempt, every bit of the tampered codeword can be set arbitrarily after adaptively reading up to $d$ locations within the input codeword. Our scheme is in the plain model, can be instantiated assuming the existence of one-way functions, and tolerates tampering by decision trees of depth $d = O(n^{1/8})$, where $n$ is the length of the codeword. Notably, this class includes NC0.
+- Against bounded polynomial-depth tampering, where in each tampering attempt the adversary can select any tampering function that can be computed by a circuit of bounded polynomial depth (and unbounded polynomial size). Our scheme is in the common reference string model, and can be instantiated assuming the existence of time-lock puzzles and simulation-extractable (succinct) non-interactive zero-knowledge proofs.},
   author       = {Gianluca Brian and
                   Sebastian Faust and
                   Elena Micheli and
@@ -184,11 +200,12 @@ In particular, plugging in our constructions of multi-key and multi-input PE, un
   pages        = {384--413},
   publisher    = {Springer},
   year         = {2022},
-  url          = {https://doi.org/10.1007/978-3-031-22972-5\_14},
   doi          = {10.1007/978-3-031-22972-5\_14},
-  timestamp    = {Fri, 10 Feb 2023 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/conf/asiacrypt/BrianFMV22.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://asiacrypt.iacr.org/2022/},
+  pdf = {https://eprint.iacr.org/2022/1231},
+  dimensions = {true},
+  google_scholar_id = {eMMeJKvmdy0C},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/citc/MadathilOS022,
@@ -249,24 +266,6 @@ In particular, plugging in our constructions of multi-key and multi-input PE, un
   isbn         = {978-3-031-09233-6},
   timestamp    = {Tue, 21 Jun 2022 01:00:00 +0200},
   biburl       = {https://dblp.org/rec/conf/acns/2022.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
-
-@article{DBLP:journals/corr/abs-2207-10780,
-  author       = {Daniele Friolo and
-                  Fabio Massacci and
-                  Chan Nam Ngo and
-                  Daniele Venturi},
-  title        = {Cryptographic and Financial Fairness},
-  journal      = {CoRR},
-  volume       = {abs/2207.10780},
-  year         = {2022},
-  url          = {https://doi.org/10.48550/arXiv.2207.10780},
-  doi          = {10.48550/ARXIV.2207.10780},
-  eprinttype    = {arXiv},
-  eprint       = {2207.10780},
-  timestamp    = {Mon, 05 Feb 2024 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2207-10780.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
