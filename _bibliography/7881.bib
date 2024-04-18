@@ -1,5 +1,5 @@
 @inproceedings{DBLP:conf/acns/FrancatiV24,
-  abbr = {ACNS 2024},
+  abbr = {ACNS 24},
   bibtex_show={true},
   abstract = {Fuzzy extractors (Dodis et al. EUROCRYPT’04) allow to generate close to uniform randomness using correlated distributions outputting samples that are close over some metric space. The latter requires to produce a helper value (along with the extracted key) that can be used to recover the key using close samples. Robust fuzzy extractors (Dodis et al., CRYPTO’06) further protect the helper string from arbitrary active manipulations, by requiring that the reconstructed key using a modified helper string cannot yield a different extractor output.
 It is well known that statistical robustness inherently requires large min-entropy (in fact,  $m > n/2$ where $n$ is the bit length of the samples) from the underlying correlated distributions, even assuming trusted setup. Motivated by this limitation, we start the investigation of security properties weaker than robustness, but that can be achieved in the plain model assuming only minimal min-entropy (in fact,  $m=\omega(\log n)$), while still being useful for applications. We identify one such property and put forward the notion of non-malleable fuzzy extractors. Intuitively, non-malleability relaxes the robustness property by allowing the reconstructed key using a modified helper string to be different from the original extractor output, as long as it is a completely unrelated value.
@@ -21,7 +21,7 @@ We give a black-box construction of non-malleable fuzzy extractors in the plain 
 }
 
 @inproceedings{DBLP:conf/acns/FrioloSV23,
-  abbr = {ACNS 2023},
+  abbr = {ACNS 23},
   bibtex_show={true},
   abstract = {The Fujisaki-Okamoto (FO) transform (CRYPTO 1999 and JoC 2013) turns any weakly (i.e., IND-CPA) secure public-key encryption (PKE) scheme into a strongly (i.e., IND-CCA) secure key encapsulation method (KEM) in the random oracle model (ROM). Recently, the FO transform re-gained momentum as part of CRISTAL-Kyber, selected by the NIST as the PKE winner of the post-quantum cryptography standardization project. 
 Following Fischlin (ICALP 2005), we study the complete non-malleability of KEMs obtained via the FO transform. Intuitively, a KEM is completely non-malleable if no adversary can maul a given public key and ciphertext into a new public key and ciphertext encapsulating a related key for the underlying blockcipher. 
@@ -43,7 +43,7 @@ On the negative side, we find that KEMs derived via FO are not completely non-ma
 }
 
 @inproceedings{DBLP:conf/asiacrypt/FrancatiFMMRV23,
-  abbr = {ASIACRYPT 2023},
+  abbr = {ASIACRYPT 23},
   bibtex_show={true},
   abstract = {Registered encryption (Garg et al. , TCC'18) is an emerging  paradigm that tackles the key-escrow problem associated with identity-based encryption by replacing the private-key generator with a much weaker entity known as the key curator. The key curator holds no secret information, and is responsible to: 
 (i) update the master public key whenever a new user registers its own public key to the system;
@@ -67,7 +67,7 @@ In this paper, we generalize the notion of registered encryption to the setting 
 }
 
 @inproceedings{DBLP:conf/edoc/MarangoneCFNVW23,
-  abbr = {EDOC 2023},
+  abbr = {EDOC 23},
   bibtex_show={true},
   abstract = {Blockchain technology is apt to facilitate the automation of multi-party cooperations among various players in a decentralized setting, especially in cases where trust among participants is limited. Transactions are stored in a ledger, a replica of which is retained by every node of the blockchain network. The operations saved thereby are thus publicly accessible. While this aspect enhances transparency, reliability, and persistence, it hinders the utilization of public blockchains for process automation as it violates typical confidentiality requirements in corporate settings. To overcome this issue, we propose our approach named Multi-Authority Approach to Transaction Systems for Interoperating Applications (MARTSIA). Based on Multi-Authority Attribute-Based Encryption (MA-ABE), MARTSIA enables read-access control over shared data at the level of message parts. User-defined policies determine whether an actor can interpret the publicly stored information or not, depending on the actor's attributes declared by a consortium of certifiers. Still, all nodes in the blockchain network can attest to the publication of the (encrypted) data. We provide a formal analysis of the security guarantees of MARTSIA, and illustrate the proof-of-concept implementation over multiple blockchain platforms. To demonstrate its interoperability, we showcase its usage in ensemble with a state-of-the-art blockchain-based engine for multi-party process execution, and three real-world decentralized applications in the context of NFT markets, supply chain, and retail.},
   author = {Edoardo Marangone and Claudio Di Ciccio and Daniele Friolo and Eugenio Nerio Nemmi and Daniele Venturi and Ingo Weber},
@@ -87,7 +87,7 @@ In this paper, we generalize the notion of registered encryption to the setting 
 }
 
 @inproceedings{DBLP:conf/eurocrypt/FrancatiFMV23,
-  abbr = {EUROCRYPT 2023},
+  abbr = {EUROCRYPT 23},
   bibtex_show={true},  
   abstract = {We put forward two natural generalizations of predicate encryption (PE), dubbed multi-key and multi-input PE. More in details, our contributions are threefold.
 - Definitions. We formalize security of multi-key PE and multi-input PE following the standard indistinguishability paradigm, and modeling security both against malicious senders (i.e., corruption of encryption keys) and malicious receivers (i.e., collusions).
@@ -179,7 +179,7 @@ For example, we show that the ladder protocol (CRYPTO'14), and its variants (CCS
 }
 
 @inproceedings{DBLP:conf/asiacrypt/BrianFMV22,
-  abbr = {ASIACRYPT 2022},
+  abbr = {ASIACRYPT 22},
   bibtex_show={true},
   abstract = {Non-malleable codes (Dziembowski, Pietrzak and Wichs, ICS 2010 & JACM 2018) allow protecting arbitrary cryptographic primitives against related-key attacks (RKAs). Even when using codes that are guaranteed to be non-malleable against a single tampering attempt, one obtains RKA security against poly-many tampering attacks at the price of assuming perfect memory erasures. In contrast, continuously non-malleable codes (Faust, Mukherjee, Nielsen and Venturi, TCC 2014) do not suffer from this limitation, as the non-malleability guarantee holds against poly-many tampering attempts. 
     Unfortunately, there are only a handful of constructions of continuously non-malleable codes, while standard non-malleable codes are known for a large variety of tampering families including, e.g., NC0 and decision-tree tampering, AC0, and recently even bounded polynomial-depth tampering. We change this state of affairs by providing the first constructions of continuously non-malleable codes in the following natural settings:
@@ -192,9 +192,7 @@ For example, we show that the ladder protocol (CRYPTO'14), and its variants (CCS
   editor       = {Shweta Agrawal and
                   Dongdai Lin},
   title        = {Continuously Non-malleable Codes Against Bounded-Depth Tampering},
-  booktitle    = {Advances in Cryptology - {ASIACRYPT} 2022 - 28th International Conference
-                  on the Theory and Application of Cryptology and Information Security,
-                  Taipei, Taiwan, December 5-9, 2022, Proceedings, Part {IV}},
+  booktitle    = {28th International Conference on the Theory and Application of Cryptology and Information Security},
   series       = {Lecture Notes in Computer Science},
   volume       = {13794},
   pages        = {384--413},
@@ -209,27 +207,45 @@ For example, we show that the ladder protocol (CRYPTO'14), and its variants (CCS
 }
 
 @inproceedings{DBLP:conf/citc/MadathilOS022,
+  abbr = {ITC 22},
+  bibtex_show={true},
+  abstract = {We present an information-theoretic transformation from any 2-round OT protocol with only game-based security in the presence of malicious adversaries into a 4-round (which is known to be optimal) OT protocol with simulation-based security in the presence of malicious adversaries.
+Our transform is the first satisfying all of the following properties at the same time:
+– It is in the plain model, without requiring any setup assumption.
+– It only makes black-box usage of the underlying OT protocol.
+– It is information-theoretic, as it does not require any further cryptographic assumption
+(besides the existence of the underlying OT protocol).
+Additionally, our transform yields a cubic improvement in communication complexity over the best previously known transformation.},
   author       = {Varun Madathil and
                   Chris Orsini and
                   Alessandra Scafuro and
                   Daniele Venturi},
   editor       = {Dana Dachman{-}Soled},
   title        = {From Privacy-Only to Simulatable {OT:} Black-Box, Round-Optimal, Information-Theoretic},
-  booktitle    = {3rd Conference on Information-Theoretic Cryptography, {ITC} 2022,
-                  July 5-7, 2022, Cambridge, MA, {USA}},
+  booktitle    = {3rd Conference on Information-Theoretic Cryptography},
   series       = {LIPIcs},
   volume       = {230},
   pages        = {5:1--5:20},
   publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
   year         = {2022},
-  url          = {https://doi.org/10.4230/LIPIcs.ITC.2022.5},
   doi          = {10.4230/LIPICS.ITC.2022.5},
-  timestamp    = {Thu, 30 Jun 2022 16:13:48 +0200},
-  biburl       = {https://dblp.org/rec/conf/citc/MadathilOS022.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://itcrypto.github.io/},
+  pdf = {https://eprint.iacr.org/2022/034},
+  dimensions = {true},
+  google_scholar_id = {mvPsJ3kp5DgC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/eurocrypt/ChakrabortyMNV22,
+  abbr = {EUROCRYPT 22},
+  bibtex_show={true},
+  abstract = {Subversion attacks undermine security of cryptographic protocols by replacing a legitimate honest party's implementation with one that leaks information in an undetectable manner. An important limitation of all currently known techniques for designing cryptographic protocols with security against subversion attacks is that they do not automatically guarantee security in the realistic setting where a protocol session may run concurrently with other protocols.
+We remedy this situation by providing a foundation of *reverse firewalls* (Mironov and Stephens-Davidowitz, EUROCRYPT'15) in the *universal composability* (UC) framework (Canetti, FOCS'01 and J. ACM'20).  More in details, our contributions are threefold:
+- We generalize the UC framework to the setting where each party consists of a core (which has secret inputs and is in charge of generating protocol messages) and a firewall (which has no secrets and sanitizes the outgoing/incoming communication from/to the core). Both the core and the firewall can be subject to different flavors of corruption, modeling different kinds of subversion attacks.
+For instance,  we capture the setting where a subverted core looks like the honest core to any efficient test, yet it may leak secret information via covert channels (which we call *specious subversion*).
+- We show how to sanitize UC commitments and UC coin tossing against specious subversion, under the DDH assumption.
+- We show how to sanitize the classical GMW compiler (Goldreich, Micali and Wigderson, STOC 1987) for turning MPC with security in the presence of semi-honest adversaries into MPC with security in the presence of malicious adversaries. This yields a completeness theorem for maliciously secure MPC in the presence of specious subversion.
+Additionally, all our sanitized protocols are *transparent*, in the sense that communicating with a sanitized core looks indistinguishable from communicating with an honest core. Thanks to the composition theorem, our methodology allows, for the first time, to design subversion-resilient protocols by sanitizing different sub-components in a modular way.},
   author       = {Suvradip Chakraborty and
                   Bernardo Magri and
                   Jesper Buus Nielsen and
@@ -237,9 +253,7 @@ For example, we show that the ladder protocol (CRYPTO'14), and its variants (CCS
   editor       = {Orr Dunkelman and
                   Stefan Dziembowski},
   title        = {Universally Composable Subversion-Resilient Cryptography},
-  booktitle    = {Advances in Cryptology - {EUROCRYPT} 2022 - 41st Annual International
-                  Conference on the Theory and Applications of Cryptographic Techniques,
-                  Trondheim, Norway, May 30 - June 3, 2022, Proceedings, Part {I}},
+  booktitle    = {41st Annual International Conference on the Theory and Applications of Cryptographic Techniques},
   series       = {Lecture Notes in Computer Science},
   volume       = {13275},
   pages        = {272--302},
@@ -247,26 +261,11 @@ For example, we show that the ladder protocol (CRYPTO'14), and its variants (CCS
   year         = {2022},
   url          = {https://doi.org/10.1007/978-3-031-06944-4\_10},
   doi          = {10.1007/978-3-031-06944-4\_10},
-  timestamp    = {Tue, 31 May 2022 17:23:10 +0200},
-  biburl       = {https://dblp.org/rec/conf/eurocrypt/ChakrabortyMNV22.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
-
-@proceedings{DBLP:conf/acns/2022,
-  editor       = {Giuseppe Ateniese and
-                  Daniele Venturi},
-  title        = {Applied Cryptography and Network Security - 20th International Conference,
-                  {ACNS} 2022, Rome, Italy, June 20-23, 2022, Proceedings},
-  series       = {Lecture Notes in Computer Science},
-  volume       = {13269},
-  publisher    = {Springer},
-  year         = {2022},
-  url          = {https://doi.org/10.1007/978-3-031-09234-3},
-  doi          = {10.1007/978-3-031-09234-3},
-  isbn         = {978-3-031-09233-6},
-  timestamp    = {Tue, 21 Jun 2022 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/conf/acns/2022.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://eurocrypt.iacr.org/2022/},
+  pdf = {https://eprint.iacr.org/2022/244},
+  dimensions = {true},
+  google_scholar_id = {kRWSkSYxWN8C},
+  selected = {false}
 }
 
 @article{DBLP:journals/joc/AtenieseFNV21,
