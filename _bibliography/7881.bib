@@ -381,6 +381,9 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
 }
 
 @inproceedings{DBLP:conf/fc/BottaFVV21,
+  abbr = {FC 21},
+  bibtex_show={true},
+  abstract = {In this work, we consider executions of smart contracts for implementing secure multi-party computation (MPC) protocols on forking blockchains (e.g., Ethereum), and we study security and delay issues due to forks. In this setting, the classical double-spending problem tells us that messages of the MPC protocol should be confirmed on-chain before playing the next ones, thus slowing down the entire execution. Our contributions are twofold: - For the concrete case of fairly tossing multiple coins with penalties, we notice that the lottery protocol of Andrychowicz et al. (S&P '14) becomes insecure if players do not wait for the confirmations of several transactions. In addition, we present a smart contract that instead retains security even when all honest players immediately answer to transactions appearing on-chain. We analyze the performance using Ethereum as testbed. - We design a compiler that takes any ``digital and universally composable'' MPC protocol (with or without honest majority), and transforms it into another one (for the same task and same setup) which maintains security even if all messages are played on-chain without delays. The special requirements on the starting protocol mean that messages consist only of bits (e.g., no hardware token is sent) and security holds also in the presence of other protocols. We further show that our compiler satisfies fairness with penalties as long as honest players only wait for confirmations once. By reducing the number of confirmations, our protocols can be significantly faster than natural constructions.},
   author       = {Vincenzo Botta and
                   Daniele Friolo and
                   Daniele Venturi and
@@ -388,22 +391,24 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
   editor       = {Nikita Borisov and
                   Claudia D{\'{\i}}az},
   title        = {Shielded Computations in Smart Contracts Overcoming Forks},
-  booktitle    = {Financial Cryptography and Data Security - 25th International Conference,
-                  {FC} 2021, Virtual Event, March 1-5, 2021, Revised Selected Papers,
-                  Part {I}},
+  booktitle    = {25th International Conference on Financial Cryptography and Data Security},
   series       = {Lecture Notes in Computer Science},
   volume       = {12674},
   pages        = {73--92},
   publisher    = {Springer},
   year         = {2021},
-  url          = {https://doi.org/10.1007/978-3-662-64322-8\_4},
   doi          = {10.1007/978-3-662-64322-8\_4},
-  timestamp    = {Mon, 05 Feb 2024 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/conf/fc/BottaFVV21.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://fc21.ifca.ai/},
+  pdf = {https://eprint.iacr.org/2019/891},
+  dimensions = {true},
+  google_scholar_id = {fQNAKQ3IYiAC},
+  selected = {true}
 }
 
 @inproceedings{DBLP:conf/indocrypt/FrancatiGRV21,
+  abbr = {INDOCRYPT 21},
+  bibtex_show={true},
+  abstract = {Identity-based matchmaking encryption (IB-ME) is a generalization of identity-based encryption where the sender and the receiver can both specify a target identity: if both the chosen target identities match the one of the other party, the plaintext is revealed, and otherwise the sender’s identity, the target identity, and the plaintext remain hidden. Previous work showed how to construct IB-ME in the random oracle model. We give the first construction in the plain model, based on standard assumptions over bilinear groups.},
   author       = {Danilo Francati and
                   Alessio Guidi and
                   Luigi Russo and
@@ -412,21 +417,25 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
                   Ralf K{\"{u}}sters and
                   Bart Preneel},
   title        = {Identity-Based Matchmaking Encryption Without Random Oracles},
-  booktitle    = {Progress in Cryptology - {INDOCRYPT} 2021 - 22nd International Conference
-                  on Cryptology in India, Jaipur, India, December 12-15, 2021, Proceedings},
+  booktitle    = {22nd International Conference on Cryptology in India},
   series       = {Lecture Notes in Computer Science},
   volume       = {13143},
   pages        = {415--435},
   publisher    = {Springer},
   year         = {2021},
-  url          = {https://doi.org/10.1007/978-3-030-92518-5\_19},
   doi          = {10.1007/978-3-030-92518-5\_19},
-  timestamp    = {Wed, 15 Dec 2021 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/conf/indocrypt/FrancatiGRV21.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://indocrypt2021.lnmiit.ac.in/},
+  pdf = {https://eprint.iacr.org/2021/1660},
+  dimensions = {true},
+  google_scholar_id = {q3oQSFYPqjQC},
+  selected = {true}
 }
 
 @inproceedings{DBLP:conf/tcc/BrianF021,
+  abbr = {TCC 21},
+  bibtex_show={true},
+  abstract = {We study non-malleable secret sharing against joint leakage and joint tampering attacks.
+Our main result is the first threshold secret sharing scheme in the plain model achieving resilience to noisy-leakage and continuous tampering. The above holds under (necessary) minimal computational assumptions (i.e., the existence of one-to-one one-way functions), and in a model where the adversary commits to a fixed partition of all the shares into non-overlapping subsets of at most $t-1$ shares (where $t$ is the reconstruction threshold), and subsequently jointly leaks from and tampers with  the shares within each partition. We also study the capacity (i.e., the maximum achievable asymptotic information rate) of continuously non-malleable secret sharing against joint continuous tampering attacks. In particular, we prove that whenever the attacker can tamper jointly with $k > t/2$  shares, the capacity is at most $t-k$. The rate of our construction matches this upper bound. An important corollary of our results is the first non-malleable secret sharing scheme against independent tampering attacks breaking the rate-one barrier (under the same computational assumptions as above).},
   author       = {Gianluca Brian and
                   Antonio Faonio and
                   Daniele Venturi},
@@ -434,18 +443,18 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
                   Brent Waters},
   title        = {Continuously Non-malleable Secret Sharing: Joint Tampering, Plain
                   Model and Capacity},
-  booktitle    = {Theory of Cryptography - 19th International Conference, {TCC} 2021,
-                  Raleigh, NC, USA, November 8-11, 2021, Proceedings, Part {II}},
+  booktitle    = {19th International Theory of Cryptography Conference},
   series       = {Lecture Notes in Computer Science},
   volume       = {13043},
   pages        = {333--364},
   publisher    = {Springer},
   year         = {2021},
-  url          = {https://doi.org/10.1007/978-3-030-90453-1\_12},
   doi          = {10.1007/978-3-030-90453-1\_12},
-  timestamp    = {Tue, 21 Mar 2023 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/conf/tcc/BrianF021.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://tcc.iacr.org/2021/},
+  pdf = {https://eprint.iacr.org/2021/1128},
+  dimensions = {true},
+  google_scholar_id = {eflP2zaiRacC},
+  selected = {true}
 }
 
 @article{DBLP:journals/joc/CorettiDMTV20,
