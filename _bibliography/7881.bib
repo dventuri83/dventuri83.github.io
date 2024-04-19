@@ -458,59 +458,90 @@ Our main result is the first threshold secret sharing scheme in the plain model 
 }
 
 @article{DBLP:journals/joc/CorettiDMTV20,
+  abbr = {JoC},
+  bibtex_show={true},
+  abstract = {In a seminal paper, Dolev et al. (STOC'91) introduced the notion of non-malleable encryption (NM-CPA). This notion is very intriguing since it suffices for many applications of chosen-ciphertext secure encryption (IND-CCA), and, yet, can be generically built from semantically secure (IND-CPA) encryption, as was shown in the seminal works by Pass et al. (CRYPTO'06) and by Choi et al. (TCC'08), the latter of which provided a black-box construction. In this paper we investigate three questions related to NM-CPA security: - Can the rate of the construction by Choi et al. of NM-CPA from IND-CPA be improved? - Is it possible to achieve multi-bit NM-CPA security more efficiently from a single-bit NM-CPA scheme than from IND-CPA? - Is there a notion stronger than NM-CPA that has natural applications and can be achieved from IND-CPA security? We answer all three questions in the positive. First, we improve the rate in the construction of Choi et al. by a factor O(k), where k is the security parameter. Still, encrypting a message of size O(k) would require ciphertext and keys of size O(k^2) times that of the IND-CPA scheme, even in our improved scheme. Therefore, we show a more efficient domain extension technique for building a k-bit NM-CPA scheme from a single-bit NM-CPA scheme with keys and ciphertext of size O(k) times that of the NM-CPA one-bit scheme. To achieve our goal, we define and construct a novel type of continuous non-malleable code (NMC), called secret-state NMC, as we show that standard continuous NMCs are not enough for the natural "encode-then-encrypt-bit-by-bit" approach to work. Finally, we introduce a new security notion for public-key encryption (PKE) that we dub non-malleability under (chosen-ciphertext) self-destruct attacks (NM-SDA). After showing that NM-SDA is a strict strengthening of NM-CPA and allows for more applications, we nevertheless show that both of our results---(faster) construction from IND-CPA and domain extension from one-bit scheme---also hold for our stronger NM-SDA security. In particular, the notions of IND-CPA, NM-CPA, and NM-SDA security are all equivalent, lying (plausibly, strictly?) below IND-CCA security.},
   author       = {Sandro Coretti and
                   Yevgeniy Dodis and
                   Ueli Maurer and
                   Bj{\"{o}}rn Tackmann and
                   Daniele Venturi},
   title        = {Non-malleable Encryption: Simpler, Shorter, Stronger},
-  journal      = {J. Cryptol.},
+  journal      = {Journal of Cryptology},
   volume       = {33},
   number       = {4},
   pages        = {1984--2033},
   year         = {2020},
-  url          = {https://doi.org/10.1007/s00145-020-09361-0},
   doi          = {10.1007/S00145-020-09361-0},
-  timestamp    = {Mon, 28 Aug 2023 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/journals/joc/CorettiDMTV20.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://link.springer.com/article/10.1007/s00145-020-09361-0?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst},
+  pdf = {https://eprint.iacr.org/2015/772},
+  dimensions = {true},
+  google_scholar_id = {ZeXyd9-uunAC},
+  selected = {true}
 }
 
 @article{DBLP:journals/joc/FaustMNV20,
+  abbr = {JoC},
+  bibtex_show={true},
+  abstract = {Non-malleable codes (Dziembowski et al., ICS’10 and J. ACM’18) are a natural relaxation of error correcting/detecting codes with useful applications in cryptography. Informally, a code is non-malleable if an adversary trying to tamper with an encoding of a message can only leave it unchanged or modify it to the encoding of an unrelated value. This paper introduces continuous non-malleability, a generalization of standard non-malleability where the adversary is allowed to tamper continuously with the same encoding. This is in contrast to the standard definition of non-malleable codes, where the adversary can only tamper a single time. The only restriction is that after the first invalid codeword is ever generated, a special self-destruct mechanism is triggered and no further tampering is allowed; this restriction can easily be shown to be necessary. We focus on the split-state model, where an encoding consists of two parts and the tampering functions can be arbitrary as long as they act independently on each part. Our main contributions are outlined below. We show that continuous non-malleability in the split-state model is impossible without relying on computational assumptions. We construct a computationally secure split-state code satisfying continuous non-malleability in the common reference string (CRS) model. Our scheme can be instantiated assuming the existence of collision-resistant hash functions and (doubly enhanced) trapdoor permutations, but we also give concrete instantiations based on standard number-theoretic assumptions. We revisit the application of non-malleable codes to protecting arbitrary cryptographic primitives against related-key attacks. Previous applications of non-malleable codes in this setting required perfect erasures and the adversary to be restricted in memory. We show that continuously non-malleable codes allow to avoid these restrictions.},
   author       = {Sebastian Faust and
                   Pratyay Mukherjee and
                   Jesper Buus Nielsen and
                   Daniele Venturi},
   title        = {Continuously Non-malleable Codes in the Split-State Model},
-  journal      = {J. Cryptol.},
+  journal      = {Journal of Cryptology},
   volume       = {33},
   number       = {4},
   pages        = {2034--2077},
   year         = {2020},
-  url          = {https://doi.org/10.1007/s00145-020-09362-z},
   doi          = {10.1007/S00145-020-09362-Z},
-  timestamp    = {Mon, 05 Feb 2024 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/journals/joc/FaustMNV20.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://link.springer.com/article/10.1007/s00145-020-09362-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20200725},
+  pdf = {https://link.springer.com/content/pdf/10.1007/s00145-020-09362-z.pdf},
+  dimensions = {true},
+  google_scholar_id = {sSrBHYA8nusC},
+  selected = {true}
 }
 
 @article{DBLP:journals/tcs/AtenieseMV20,
+  abbr = {TCS},
+  bibtex_show={true},
+  abstract = {We provide a formal treatment of security of digital signatures against subversion attacks (SAs).
+Our model of subversion generalizes previous work in several directions, and is inspired by the proliferation of software attacks (e.g., malware and buffer overflow attacks), and by the recent revelations of Edward Snowden about intelligence agencies trying to surreptitiously sabotage cryptographic algorithms.
+The main security requirement we put forward demands that a signature scheme should remain unforgeable even in the presence of an attacker applying SAs (within a certain class of allowed attacks) in a fully-adaptive and continuous fashion. Previous notions---e.g., the notion of security against algorithm-substitution attacks introduced by Bellare et al. (CRYPTO '14) for symmetric encryption---were non-adaptive and non-continuous.
+In this vein, we show both positive and negative results for the goal of constructing subversion-resilient signature schemes.
+Negative results. As our main negative result, we show that a broad class of randomized signature schemes is unavoidably insecure against SAs, even if using just a single bit of randomness. This improves upon earlier work that was only able to attack schemes with larger randomness space. When designing our new attack we consider undetectability as an explicit
+adversarial goal, meaning that the end-users (even the ones knowing the signing key) should not be able to detect that the signature scheme was subverted.
+Positive results. We complement the above negative results by showing that signature schemes with unique signatures are subversion-resilient against all attacks that meet a basic undetectability requirement. A similar result was shown by Bellare et al. for symmetric encryption, who proved the necessity to rely on stateful schemes; in contrast unique signatures are stateless, and in fact they are among the fastest and most established digital signatures available.
+As our second positive result, we show how to construct subversion-resilient identification schemes from subversion-resilient signature schemes.
+We finally show that it is possible to devise signature schemes secure against arbitrary tampering with the computation, by making use of an un-tamperable cryptographic reverse firewall (Mironov and Stephens-Davidowitz, EUROCRYPT '15), i.e., an algorithm that "sanitizes" any signature given as input (using only public information).
+The firewall we design allows to successfully protect so-called re-randomizable signature schemes (which include unique signatures as special case). As an additional contribution, we extend our model to consider multiple users and show implications and separations among the various notions we introduced.
+While our study is mainly theoretical, due to its strong practical motivation, we believe that our results have important implications in practice and might influence the way digital signature schemes are selected or adopted in standards and protocols.},
   author       = {Giuseppe Ateniese and
                   Bernardo Magri and
                   Daniele Venturi},
   title        = {Subversion-resilient signatures: Definitions, constructions and applications},
-  journal      = {Theor. Comput. Sci.},
+  journal      = {Theoretical Computer Science},
   volume       = {820},
   pages        = {91--122},
   year         = {2020},
-  url          = {https://doi.org/10.1016/j.tcs.2020.03.021},
   doi          = {10.1016/J.TCS.2020.03.021},
-  timestamp    = {Tue, 21 Apr 2020 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/journals/tcs/AtenieseMV20.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {http://eprint.iacr.org/2015/517},
+  pdf = {https://doi.org/10.1016/j.tcs.2020.03.021},
+  dimensions = {true},
+  google_scholar_id = {-f6ydRqryjwC},
+  selected = {true}
 }
 
 @inproceedings{DBLP:conf/crypto/BrianFO0020,
+  abbr = {CRYPTO 20},
+  bibtex_show={true},
+  abstract = {Secret sharing enables a dealer to split a secret into a set of shares, in such a way that certain authorized subsets of share holders can reconstruct the secret, whereas all unauthorized subsets cannot.
+Non-malleable secret sharing (Goyal and Kumar, STOC 2018) additionally requires that, even if the shares have been tampered with, the reconstructed secret is either the original or a completely unrelated one.
+In this work, we construct non-malleable secret sharing tolerating -time {\em joint-tampering} attacks in the plain model (in the computational setting), where the latter means that, for any  fixed {\em a priori}, the attacker can tamper with the same target secret sharing up to  times. In particular, assuming one-to-one one-way functions, we obtain:
+- A secret sharing scheme for threshold access structures which tolerates joint -time tampering with subsets of the shares of maximal size ({\em i.e.}, matching the privacy threshold of the scheme). This holds in a model where the attacker commits to a partition of the shares into non-overlapping subsets, and keeps tampering jointly with the shares within such a partition (so-called {\em selective partitioning}).
+- A secret sharing scheme for general access structures which tolerates joint -time tampering with subsets of the shares of size , where  is the number of parties. This holds in a stronger model where the attacker is allowed to adaptively change the partition within each tampering query, under the restriction that once a subset of the shares has been tampered with jointly, that subset is always either tampered jointly or not modified by other tampering queries (so-called {\em semi-adaptive partitioning}).
+At the heart of our result for selective partitioning lies a new technique showing that every one-time {\em statistically} non-malleable secret sharing against joint tampering is in fact {\em leakage-resilient} non-malleable ({\em i.e.},\ the attacker can leak jointly from the shares prior to tampering).
+We believe this may be of independent interest, and in fact we show it implies lower bounds on the share size and randomness complexity of statistically non-malleable secret sharing against {\em independent} tampering.},
   author       = {Gianluca Brian and
                   Antonio Faonio and
                   Maciej Obremski and
@@ -520,41 +551,51 @@ Our main result is the first threshold secret sharing scheme in the plain model 
                   Thomas Ristenpart},
   title        = {Non-malleable Secret Sharing Against Bounded Joint-Tampering Attacks
                   in the Plain Model},
-  booktitle    = {Advances in Cryptology - {CRYPTO} 2020 - 40th Annual International
-                  Cryptology Conference, {CRYPTO} 2020, Santa Barbara, CA, USA, August
-                  17-21, 2020, Proceedings, Part {III}},
+  booktitle    = {40th Annual International Cryptology Conference},
   series       = {Lecture Notes in Computer Science},
   volume       = {12172},
   pages        = {127--155},
   publisher    = {Springer},
   year         = {2020},
-  url          = {https://doi.org/10.1007/978-3-030-56877-1\_5},
   doi          = {10.1007/978-3-030-56877-1\_5},
-  timestamp    = {Mon, 28 Aug 2023 21:17:50 +0200},
-  biburl       = {https://dblp.org/rec/conf/crypto/BrianFO0020.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://crypto.iacr.org/2020/},
+  pdf = {https://eprint.iacr.org/2020/725},
+  dimensions = {true},
+  google_scholar_id = {4fKUyHm3Qg0C},
+  selected = {true}
 }
 
 @inproceedings{DBLP:conf/eurosp/NgoFM0B20,
+  abbr = {EuroUSEC 20},
+  bibtex_show={true},
+  abstract = {The question above seems absurd but it is what a Bank has to ask to its suppliers to meet the European Central Bank (ECB) regulations on the continuity of critical business functions. The bank has no intention of mingling in the daily work of the supplier (that’s the whole purpose of outsourcing). Nor the supplier has any intention to make available to the bank the keys of its kingdom (it is actually forbidden to do so by the very same regulations). We need a way to do so only when the hearts of the key people stop beating. In this paper, we discuss whether recent advances in cryptography (secret sharing and MPC, time-lock puzzles, etc.) can replace the classical approach based on human redundancy.},
   author       = {Chan Nam Ngo and
                   Daniele Friolo and
                   Fabio Massacci and
                   Daniele Venturi and
                   Ettore Battaiola},
   title        = {Vision: What If They All Die? Crypto Requirements For Key People},
-  booktitle    = {{IEEE} European Symposium on Security and Privacy Workshops, EuroS{\&}P
-                  Workshops 2020, Genoa, Italy, September 7-11, 2020},
+  booktitle    = {{IEEE} European Symposium on Security and Privacy Workshops},
   pages        = {178--183},
   publisher    = {{IEEE}},
   year         = {2020},
-  url          = {https://doi.org/10.1109/EuroSPW51379.2020.00032},
   doi          = {10.1109/EUROSPW51379.2020.00032},
-  timestamp    = {Mon, 05 Feb 2024 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/conf/eurosp/NgoFM0B20.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://eusec20.cs.uchicago.edu/},
+  pdf = {https://conferences.computer.org/eurosp/pdfs/EuroSPW2020-7k9FlVRX4z43j4uE2SeXU0/859700a178/859700a178.pdf},
+  dimensions = {true},
+  google_scholar_id = {tS2w5q8j5-wC},
+  selected = {true}
 }
 
 @inproceedings{DBLP:conf/icalp/GaneshM020,
+  abbr = {ICALP 20},
+  bibtex_show={true},
+  abstract = {We study interactive proof systems (IPSes) in a strong adversarial setting where the machines of *honest parties* might be corrupted and under control of the adversary. Our aim is to answer the following, seemingly paradoxical, questions:
+- Can Peggy convince Vic of the veracity of an NP statement, without leaking any information about the witness even in case Vic is malicious and Peggy does not trust her computer?
+- Can we avoid that Peggy fools Vic into accepting false statements, even if Peggy is malicious and Vic does not trust her computer?
+At EUROCRYPT 2015, Mironov and Stephens-Davidowitz introduced cryptographic reverse firewalls (RFs) as an attractive approach to tackling such questions. Intuitively, a RF for Peggy/Vic is an external party that sits between Peggy/Vic and the outside world and whose scope is to sanitize Peggy's/Vic's incoming and outgoing messages in the face of subversion of her/his computer, e.g. in order to destroy subliminal channels.
+In this paper, we put forward several natural security properties for RFs in the concrete setting of IPSes. As our main contribution, we construct efficient RFs for different IPSes derived from a large class of Sigma protocols that we call malleable.
+A nice feature of our design is that it is completely transparent, in the sense that our RFs can be directly applied to already deployed IPSes, without the need to re-implement them.},
   author       = {Chaya Ganesh and
                   Bernardo Magri and
                   Daniele Venturi},
@@ -562,22 +603,30 @@ Our main result is the first threshold secret sharing scheme in the plain model 
                   Anuj Dawar and
                   Emanuela Merelli},
   title        = {Cryptographic Reverse Firewalls for Interactive Proof Systems},
-  booktitle    = {47th International Colloquium on Automata, Languages, and Programming,
-                  {ICALP} 2020, July 8-11, 2020, Saarbr{\"{u}}cken, Germany (Virtual
-                  Conference)},
+  booktitle    = {47th International Colloquium on Automata, Languages, and Programming},
   series       = {LIPIcs},
   volume       = {168},
   pages        = {55:1--55:16},
   publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
   year         = {2020},
-  url          = {https://doi.org/10.4230/LIPIcs.ICALP.2020.55},
   doi          = {10.4230/LIPICS.ICALP.2020.55},
-  timestamp    = {Mon, 21 Dec 2020 13:23:22 +0100},
-  biburl       = {https://dblp.org/rec/conf/icalp/GaneshM020.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://icalp2020.saarland-informatics-campus.de/},
+  pdf = {https://eprint.iacr.org/2020/204},
+  dimensions = {true},
+  google_scholar_id = {08ZZubdj9fEC},
+  selected = {true}
 }
 
 @inproceedings{DBLP:conf/scn/CiampiPV20,
+  abbr = {SCN 20},
+  bibtex_show={true},
+  abstract = {We study adaptive security of delayed-input Sigma protocols and non-interactive zero-knowledge (NIZK) proof systems in the common reference string (CRS) model. Our contributions are threefold:
+- We exhibit a generic compiler taking any delayed-input Sigma protocol and returning a delayed-input Sigma protocol satisfying adaptive-input special honest-verifier zero-knowledge (SHVZK). In case the initial Sigma protocol also satisfies adaptive-input special soundness, our compiler preserves this property.
+- We revisit the recent paradigm by Canetti et al. (STOC 2019) for obtaining NIZK proof systems in the CRS model via the Fiat-Shamir transform applied to so-called trapdoor Sigma protocols, in the context of adaptive security. In particular, assuming correlation-intractable hash functions for all sparse relations, we prove that Fiat- Shamir NIZKs satisfy either:
+(i) Adaptive soundness (and non-adaptive zero-knowledge), so long as the challenge is obtained by hashing both the prover’s first round and the instance being proven;
+(ii) Adaptive zero-knowledge (and non-adaptive soundness), so long as the challenge is obtained by hashing only the prover’s first round, and further assuming that the initial trapdoor Sigma protocol satisfies adaptive-input SHVZK.
+- We exhibit a generic compiler taking any Sigma protocol and returning a trapdoor Sigma protocol. Unfortunately, this transform does not preserve the delayed-input property of the initial Sigma protocol (if any). To complement this result, we also give yet another compiler taking any delayed-input trapdoor Sigma protocol and returning a delayed-input trapdoor Sigma protocol with adaptive-input SHVZK.
+An attractive feature of our first two compilers is that they allow obtaining efficient delayed-input Sigma protocols with adaptive security, and efficient Fiat-Shamir NIZKs with adaptive soundness (and non-adaptive zero-knowledge) in the CRS model. Prior to our work, the latter was only possible using generic NP reductions.},
   author       = {Michele Ciampi and
                   Roberto Parisella and
                   Daniele Venturi},
@@ -585,18 +634,18 @@ Our main result is the first threshold secret sharing scheme in the plain model 
                   Vladimir Kolesnikov},
   title        = {On Adaptive Security of Delayed-Input Sigma Protocols and Fiat-Shamir
                   NIZKs},
-  booktitle    = {Security and Cryptography for Networks - 12th International Conference,
-                  {SCN} 2020, Amalfi, Italy, September 14-16, 2020, Proceedings},
+  booktitle    = {12th International Conference on Security and Cryptography for Networks},
   series       = {Lecture Notes in Computer Science},
   volume       = {12238},
   pages        = {670--690},
   publisher    = {Springer},
   year         = {2020},
-  url          = {https://doi.org/10.1007/978-3-030-57990-6\_33},
   doi          = {10.1007/978-3-030-57990-6\_33},
-  timestamp    = {Sat, 19 Sep 2020 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/conf/scn/CiampiPV20.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://scn.unisa.it/},
+  pdf = {https://eprint.iacr.org/2020/831},
+  dimensions = {true},
+  google_scholar_id = {B3FOqHPlNUQC},
+  selected = {true}
 }
 
 @article{DBLP:journals/tcs/FaonioNSV19,
