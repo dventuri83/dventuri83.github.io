@@ -259,7 +259,6 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
   pages        = {272--302},
   publisher    = {Springer},
   year         = {2022},
-  url          = {https://doi.org/10.1007/978-3-031-06944-4\_10},
   doi          = {10.1007/978-3-031-06944-4\_10},
   html = {https://eurocrypt.iacr.org/2022/},
   pdf = {https://eprint.iacr.org/2022/244},
@@ -269,74 +268,93 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
 }
 
 @article{DBLP:journals/joc/AtenieseFNV21,
+  abbr = {JoC},
+  bibtex_show={true},
+  abstract = {We introduce a new form of encryption that we name matchmaking encryption (ME). Using ME, sender S and receiver R (each with its own attributes) can both specify policies the other party must satisfy in order for the message to be revealed. The main security guarantee is that of privacy-preserving policy matching: During decryption nothing is leaked beyond the fact that a match occurred/did not occur. ME opens up new ways of secretly communicating, and enables several new applications where both participants can specify fine-grained access policies to encrypted data. For instance, in social matchmaking, S can encrypt a file containing his/her personal details and specify a policy so that the file can be decrypted only by his/her ideal partner. On the other end, a receiver R will be able to decrypt the file only if S corresponds to his/her ideal partner defined through a policy. On the theoretical side, we define security for ME, as well as provide generic frameworks for constructing ME from functional encryption. These constructions need to face the technical challenge of simultaneously checking the policies chosen by S and R, to avoid any leakage. On the practical side, we construct an efficient identity-based scheme for equality policies, with provable security in the random oracle model under the standard BDH assumption. We implement and evaluate our scheme and provide experimental evidence that our construction is practical. We also apply identity-based ME to a concrete use case, in particular for creating an anonymous bulletin board over a Tor network.},
   author       = {Giuseppe Ateniese and
                   Danilo Francati and
                   David Nu{\~{n}}ez and
                   Daniele Venturi},
   title        = {Match Me if You Can: Matchmaking Encryption and Its Applications},
-  journal      = {J. Cryptol.},
+  journal      = {J.ournal of Cryptology},
   volume       = {34},
   number       = {3},
   pages        = {16},
   year         = {2021},
-  url          = {https://doi.org/10.1007/s00145-021-09381-4},
   doi          = {10.1007/S00145-021-09381-4},
-  timestamp    = {Mon, 28 Aug 2023 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/journals/joc/AtenieseFNV21.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://link.springer.com/article/10.1007/s00145-021-09381-4},
+  pdf = {https://eprint.iacr.org/2018/1094},
+  dimensions = {true},
+  google_scholar_id = {dQ2og3OwTAUC},
+  selected = {false}
 }
 
 @article{DBLP:journals/tcs/GaneshMV21,
+  abbr = {TCS},
+  bibtex_show={true},
+  abstract = {We study interactive proof systems (IPSes) in a strong adversarial setting where the machines of *honest parties* might be corrupted and under control of the adversary. Our aim is to answer the following, seemingly paradoxical, questions: - Can Peggy convince Vic of the veracity of an NP statement, without leaking any information about the witness even in case Vic is malicious and Peggy does not trust her computer? - Can we avoid that Peggy fools Vic into accepting false statements, even if Peggy is malicious and Vic does not trust her computer? At EUROCRYPT 2015, Mironov and Stephens-Davidowitz introduced cryptographic reverse firewalls (RFs) as an attractive approach to tackling such questions. Intuitively, a RF for Peggy/Vic is an external party that sits between Peggy/Vic and the outside world and whose scope is to sanitize Peggy's/Vic's incoming and outgoing messages in the face of subversion of her/his computer, e.g. in order to destroy subliminal channels. In this paper, we put forward several natural security properties for RFs in the concrete setting of IPSes. As our main contribution, we construct efficient RFs for different IPSes derived from a large class of Sigma protocols that we call malleable. A nice feature of our design is that it is completely transparent, in the sense that our RFs can be directly applied to already deployed IPSes, without the need to re-implement them.},
   author       = {Chaya Ganesh and
                   Bernardo Magri and
                   Daniele Venturi},
   title        = {Cryptographic reverse firewalls for interactive proof systems},
-  journal      = {Theor. Comput. Sci.},
+  journal      = {Theoretical Computer Science},
   volume       = {855},
   pages        = {104--132},
   year         = {2021},
-  url          = {https://doi.org/10.1016/j.tcs.2020.11.043},
   doi          = {10.1016/J.TCS.2020.11.043},
-  timestamp    = {Mon, 28 Aug 2023 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/journals/tcs/GaneshMV21.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://doi.org/10.1016/j.tcs.2020.11.043},
+  pdf = {https://eprint.iacr.org/2020/204},
+  dimensions = {true},
+  google_scholar_id = {08ZZubdj9fEC},
+  selected = {false}  
 }
 
 @article{DBLP:journals/tcs/AtenieseFMV21,
+  abbr = {TCS},
+  bibtex_show={true},
+  abstract = {We seek constructions of general-purpose immunizers that take arbitrary cryptographic primitives, and transform them into ones that withstand a powerful "malicious but proud" adversary, who attempts to break security by possibly subverting the implementation of all algorithms (including the immunizer itself!), while trying not to be detected. This question is motivated by the recent evidence of cryptographic schemes being intentionally weakened, or designed together with hidden backdoors, e.g., with the scope of mass surveillance. Our main result is a subversion-secure immunizer in the plain model, that works for a fairly large class of deterministic primitives, i.e. cryptoschemes where a secret (but tamperable) random source is used to generate the keys and the public parameters, whereas all other algorithms are deterministic. The immunizer relies on an additional independent source of public randomness, which is used to sample a public seed. Assuming the public source is untamperable, and that the subversion of the algorithms is chosen independently of the seed, we can instantiate our immunizer from any one-way function. In case the subversion is allowed to depend on the seed, and the public source is still untamperable, we obtain an instantiation from collision-resistant hash functions. In the more challenging scenario where the public source is also tamperable, we additionally need to assume that the initial cryptographic primitive has sub-exponential security. Previous work in the area only obtained subversion-secure immunization for very restricted classes of primitives, often in weaker models of subversion and using random oracles.},
   author       = {Giuseppe Ateniese and
                   Danilo Francati and
                   Bernardo Magri and
                   Daniele Venturi},
   title        = {Immunization against complete subversion without random oracles},
-  journal      = {Theor. Comput. Sci.},
+  journal      = {Theoretical Computer Science},
   volume       = {859},
   pages        = {1--36},
   year         = {2021},
-  url          = {https://doi.org/10.1016/j.tcs.2021.01.002},
   doi          = {10.1016/J.TCS.2021.01.002},
-  timestamp    = {Tue, 02 Mar 2021 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/journals/tcs/AtenieseFMV21.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://www.sciencedirect.com/science/article/pii/S0304397521000190?via%3Dihub},
+  pdf = {https://eprint.iacr.org/2019/1173},
+  dimensions = {true},
+  google_scholar_id = {UxriW0iASnsC},
+  selected = {false}    
 }
 
 @article{DBLP:journals/tcs/SamarinFVA21,
+  abbr = {TCS},
+  bibtex_show={true},
+  abstract = {At SCN 2018, Fiore and Pagnin proposed a generic compiler (called "Matrioska") allowing to transform sufficiently expressive single-key homomorphic signatures (SKHSs) into multi-key homomorphic signatures (MKHSs) under falsifiable assumptions in the standard model. Matrioska is designed for homomorphic signatures that support programs represented as circuits. The MKHS schemes obtained through Matrioska support the evaluation and verification of arbitrary circuits over data signed from multiple users, but they require the underlying SKHS scheme to work with circuits whose size  is *exponential* in the number of users,  and thus can only support a constant number of users. In this work, we propose a new generic compiler to convert an SKHS scheme into an MKHS scheme. Our compiler is a generalization of Matrioska for homomorphic signatures that support programs *in any model of computation*. When instantiated with SKHS for circuits, we recover the Matrioska compiler of Fiore and Pagnin. As an additional contribution, we show how to instantiate our generic compiler in the Turing Machines (TM) model and argue that this instantiation allows to overcome some limitations of Matrioska: - First, the MKHS we obtain require the underlying SKHS to support TMs whose size depends only {\em linearly} in the number of users. - Second, when instantiated with an SKHS with succinctness $\pl$ and fast enough verification time, e.g., $S \cdot \log \htime + n \cdot\pl$ or $T +\insize\cdot\pl$ (where $T$, $S$, and $\insize$ are the running time, description size, and input length of the program to verify, respectively), our compiler yields an MKHS in which the time complexity of both the prover and the verifier remains $\pl$ even if executed on programs with inputs from $\pl$ users. While we leave constructing an SKHS with these efficiency properties as an open problem,  we make one step towards this goal by proposing an SKHS scheme with verification time $\pl\cdot\htime$ under falsifiable assumptions in the standard model.},
   author       = {Somayeh Dolatnezhad Samarin and
                   Dario Fiore and
                   Daniele Venturi and
                   Morteza Amini},
   title        = {A compiler for multi-key homomorphic signatures for Turing machines},
-  journal      = {Theor. Comput. Sci.},
+  journal      = {Theoretical Computer Science},
   volume       = {889},
   pages        = {145--170},
   year         = {2021},
-  url          = {https://doi.org/10.1016/j.tcs.2021.08.002},
   doi          = {10.1016/J.TCS.2021.08.002},
-  timestamp    = {Sat, 21 Oct 2023 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/journals/tcs/SamarinFVA21.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://doi.org/10.1016/j.tcs.2021.08.002},
+  pdf = {https://eprint.iacr.org/2021/1651},
+  dimensions = {true},
+  google_scholar_id = {D_sINldO8mEC},
+  selected = {false}    
 }
 
 @inproceedings{DBLP:conf/eurocrypt/BrianFO00S021,
+  abbr = {EUROCRYPT 21},
+  bibtex_show={true},
+  abstract = {We show that noisy leakage can be simulated in the information-theoretic setting using a single query of bounded leakage, up to a small statistical simulation error and a slight loss in the leakage parameter. The latter holds true in particular for one of the most used noisy-leakage models, where the noisiness is measured using the conditional average min-entropy (Naor and Segev, CRYPTO'09 and SICOMP'12). Our reductions between noisy and bounded leakage are achieved in two steps. First, we put forward a new leakage model (dubbed the dense leakage model) and prove that dense leakage can be simulated in the information-theoretic setting using a single query of bounded leakage, up to small statistical distance. Second, we show that the most common noisy-leakage models fall within the class of dense leakage, with good parameters. We also provide a complete picture of the relationships between different noisy-leakage models, and prove lower bounds showing that our reductions are nearly optimal. Our result finds applications to leakage-resilient cryptography, where we are often able to lift security in the presence of bounded leakage to security in the presence of noisy leakage, both in the information-theoretic and in the computational setting. Additionally, we show how to use lower bounds in communication complexity to prove that bounded-collusion protocols (Kumar, Meka, and Sahai, FOCS'19) for certain functions do not only require long transcripts, but also necessarily need to reveal enough information about the inputs.},
   author       = {Gianluca Brian and
                   Antonio Faonio and
                   Maciej Obremski and
@@ -348,19 +366,18 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
                   Fran{\c{c}}ois{-}Xavier Standaert},
   title        = {The Mother of All Leakages: How to Simulate Noisy Leakages via Bounded
                   Leakage (Almost) for Free},
-  booktitle    = {Advances in Cryptology - {EUROCRYPT} 2021 - 40th Annual International
-                  Conference on the Theory and Applications of Cryptographic Techniques,
-                  Zagreb, Croatia, October 17-21, 2021, Proceedings, Part {II}},
+  booktitle    = {40th Annual International Conference on the Theory and Applications of Cryptographic Techniques},
   series       = {Lecture Notes in Computer Science},
   volume       = {12697},
   pages        = {408--437},
   publisher    = {Springer},
   year         = {2021},
-  url          = {https://doi.org/10.1007/978-3-030-77886-6\_14},
   doi          = {10.1007/978-3-030-77886-6\_14},
-  timestamp    = {Mon, 28 Aug 2023 21:17:52 +0200},
-  biburl       = {https://dblp.org/rec/conf/eurocrypt/BrianFO00S021.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://eurocrypt.iacr.org/2021/},
+  pdf = {https://eprint.iacr.org/2020/1246},
+  dimensions = {true},
+  google_scholar_id = {5Ul4iDaHHb8C},
+  selected = {true}
 }
 
 @inproceedings{DBLP:conf/fc/BottaFVV21,
