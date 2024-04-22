@@ -377,7 +377,7 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
   pdf = {https://eprint.iacr.org/2020/1246},
   dimensions = {true},
   google_scholar_id = {5Ul4iDaHHb8C},
-  selected = {true}
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/fc/BottaFVV21,
@@ -402,7 +402,7 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
   pdf = {https://eprint.iacr.org/2019/891},
   dimensions = {true},
   google_scholar_id = {fQNAKQ3IYiAC},
-  selected = {true}
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/indocrypt/FrancatiGRV21,
@@ -428,7 +428,7 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
   pdf = {https://eprint.iacr.org/2021/1660},
   dimensions = {true},
   google_scholar_id = {q3oQSFYPqjQC},
-  selected = {true}
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/tcc/BrianF021,
@@ -454,7 +454,7 @@ Our main result is the first threshold secret sharing scheme in the plain model 
   pdf = {https://eprint.iacr.org/2021/1128},
   dimensions = {true},
   google_scholar_id = {eflP2zaiRacC},
-  selected = {true}
+  selected = {false}
 }
 
 @article{DBLP:journals/joc/CorettiDMTV20,
@@ -477,7 +477,7 @@ Our main result is the first threshold secret sharing scheme in the plain model 
   pdf = {https://eprint.iacr.org/2015/772},
   dimensions = {true},
   google_scholar_id = {ZeXyd9-uunAC},
-  selected = {true}
+  selected = {false}
 }
 
 @article{DBLP:journals/joc/FaustMNV20,
@@ -499,7 +499,7 @@ Our main result is the first threshold secret sharing scheme in the plain model 
   pdf = {https://link.springer.com/content/pdf/10.1007/s00145-020-09362-z.pdf},
   dimensions = {true},
   google_scholar_id = {sSrBHYA8nusC},
-  selected = {true}
+  selected = {false}
 }
 
 @article{DBLP:journals/tcs/AtenieseMV20,
@@ -529,7 +529,7 @@ While our study is mainly theoretical, due to its strong practical motivation, w
   pdf = {https://doi.org/10.1016/j.tcs.2020.03.021},
   dimensions = {true},
   google_scholar_id = {-f6ydRqryjwC},
-  selected = {true}
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/crypto/BrianFO0020,
@@ -562,7 +562,7 @@ We believe this may be of independent interest, and in fact we show it implies l
   pdf = {https://eprint.iacr.org/2020/725},
   dimensions = {true},
   google_scholar_id = {4fKUyHm3Qg0C},
-  selected = {true}
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/eurosp/NgoFM0B20,
@@ -584,7 +584,7 @@ We believe this may be of independent interest, and in fact we show it implies l
   pdf = {https://conferences.computer.org/eurosp/pdfs/EuroSPW2020-7k9FlVRX4z43j4uE2SeXU0/859700a178/859700a178.pdf},
   dimensions = {true},
   google_scholar_id = {tS2w5q8j5-wC},
-  selected = {true}
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/icalp/GaneshM020,
@@ -614,7 +614,7 @@ A nice feature of our design is that it is completely transparent, in the sense 
   pdf = {https://eprint.iacr.org/2020/204},
   dimensions = {true},
   google_scholar_id = {08ZZubdj9fEC},
-  selected = {true}
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/scn/CiampiPV20,
@@ -645,27 +645,40 @@ An attractive feature of our first two compilers is that they allow obtaining ef
   pdf = {https://eprint.iacr.org/2020/831},
   dimensions = {true},
   google_scholar_id = {B3FOqHPlNUQC},
-  selected = {true}
+  selected = {false}
 }
 
 @article{DBLP:journals/tcs/FaonioNSV19,
+  abbr = {TCS},
+  bibtex_show={true},
+  abstract = {Non-malleable codes for the split-state model allow to encode a message into two parts, such that arbitrary independent tampering on each part, and subsequent decoding of the corresponding modified codeword, yields either the same as the original message, or a completely unrelated value. Continuously non-malleable codes further allow to tolerate an unbounded (polynomial) number of tampering attempts, until a decoding error happens. The drawback is that, after an error happens, the system must self-destruct and stop working, otherwise generic attacks become possible.
+In this paper we propose a solution to this limitation, by leveraging a split-state refreshing procedure. Namely, whenever a decoding error happens, the two parts of an encoding can be locally refreshed (i.e.,\ without any interaction), which allows to avoid the self-destruct mechanism in some applications. Additionally, the refreshing procedure can be exploited in order to obtain security against continual leakage attacks. We give an abstract framework for building refreshable continuously non-malleable codes in the common reference string model, and provide a concrete instantiation based on the external Diffie-Hellman assumption.
+Finally, we explore applications in which our notion turns out to be essential. The first application is a signature scheme tolerating an arbitrary polynomial number of split-state tampering attempts, without requiring a self-destruct capability, and in a model where refreshing of the memory happens only after an invalid output is produced. This circumvents an impossibility result from a recent work by Fuijisaki and Xagawa (Asiacrypt 2016). The second application is a compiler for tamper-resilient read-only RAM programs. In comparison to other tamper-resilient RAM compilers, ours has several advantages, among which the fact that, in some cases, it does not rely on the self-destruct feature.},
   author       = {Antonio Faonio and
                   Jesper Buus Nielsen and
                   Mark Simkin and
                   Daniele Venturi},
   title        = {Continuously non-malleable codes with split-state refresh},
-  journal      = {Theor. Comput. Sci.},
+  journal      = {Theoretical Computer Science},
   volume       = {759},
   pages        = {98--132},
   year         = {2019},
-  url          = {https://doi.org/10.1016/j.tcs.2018.12.028},
   doi          = {10.1016/J.TCS.2018.12.028},
-  timestamp    = {Sat, 05 Sep 2020 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/journals/tcs/FaonioNSV19.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://doi.org/10.1016/j.tcs.2018.12.028},
+  pdf = {https://eprint.iacr.org/2018/606},
+  dimensions = {true},
+  google_scholar_id = {zA6iFVUQeVQC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/acns/CorettiF019,
+  abbr = {ACNS 19},
+  bibtex_show={true},
+  abstract = {We study the *rate* of so-called *continuously* non-malleable codes, which allow to encode a message in such a way that (possibly adaptive) continuous tampering attacks on the codeword yield a decoded value that is unrelated to the original message. Our results are as follows:
+-) For the case of bit-wise independent tampering, we establish the existence of rate-one continuously non-malleable codes with information-theoretic security, in the plain model.
+-) For the case of split-state tampering, we establish the existence of rate-one continuously non-malleable codes with computational security, in the (non-programmable) random oracle model. We further exhibit a rate-1/2 code and a rate-one code in the common reference string model, but the latter only withstands *non-adaptive* tampering.
+It is well known that computational security is inherent for achieving continuous non-malleability in the split-state model (even in the presence of non-adaptive tampering).
+Continuously non-malleable codes are useful for protecting *arbitrary* cryptographic primitives against related-key attacks, as well as for constructing non-malleable public-key encryption schemes. Our results directly improve the efficiency of these applications.},
   author       = {Sandro Coretti and
                   Antonio Faonio and
                   Daniele Venturi},
@@ -674,21 +687,27 @@ An attractive feature of our first two compilers is that they allow obtaining ef
                   Mart{\'{\i}}n Ochoa and
                   Moti Yung},
   title        = {Rate-Optimizing Compilers for Continuously Non-malleable Codes},
-  booktitle    = {Applied Cryptography and Network Security - 17th International Conference,
-                  {ACNS} 2019, Bogota, Colombia, June 5-7, 2019, Proceedings},
+  booktitle    = {17th International Conference on Applied Cryptography and Network Security},
   series       = {Lecture Notes in Computer Science},
   volume       = {11464},
   pages        = {3--23},
   publisher    = {Springer},
   year         = {2019},
-  url          = {https://doi.org/10.1007/978-3-030-21568-2\_1},
   doi          = {10.1007/978-3-030-21568-2\_1},
-  timestamp    = {Tue, 21 Mar 2023 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/conf/acns/CorettiF019.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://www.acns19.com/},
+  pdf = {https://eprint.iacr.org/2019/055},
+  dimensions = {true},
+  google_scholar_id = {bFI3QPDXJZMC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/acns/AtenieseFM019,
+  abbr = {ACNS 19},
+  bibtex_show={true},
+  abstract = {We seek constructions of general-purpose immunizers that take arbitrary cryptographic primitives, and transform them into ones that withstand a powerful “malicious but proud” adversary, who attempts to break security by possibly subverting the implementation of all algorithms (including the immunizer itself!), while trying not to be detected. This question is motivated by the recent evidence of cryptographic schemes being intentionally weakened, or designed together with hidden backdoors, e.g., with the scope of mass surveillance.
+Our main result is a subversion-secure immunizer in the plain model, that works for a fairly large class of deterministic primitives, i.e. cryptoschemes where a secret (but tamperable) random source is used to generate the keys and the public parameters, whereas all other algorithms are deterministic. The immunizer relies on an additional independent source of public randomness, which is used to sample a public seed.
+Assuming the public source is untamperable, and that the subversion of the algorithms is chosen independently of the seed, we can instantiate our immunizer from any one-way function. In case the subversion is allowed to depend on the seed, and the public source is still untamperable, we obtain an instantiation from collision-resistant hash functions. In the more challenging scenario where the public source is also tamperable, we additionally need to assume that the initial cryptographic primitive has sub-exponential security.
+Previous work in the area only obtained subversion-secure immunization for very restricted classes of primitives, often in weaker models of subversion and using random oracles.},
   author       = {Giuseppe Ateniese and
                   Danilo Francati and
                   Bernardo Magri and
@@ -698,43 +717,56 @@ An attractive feature of our first two compilers is that they allow obtaining ef
                   Mart{\'{\i}}n Ochoa and
                   Moti Yung},
   title        = {Public Immunization Against Complete Subversion Without Random Oracles},
-  booktitle    = {Applied Cryptography and Network Security - 17th International Conference,
-                  {ACNS} 2019, Bogota, Colombia, June 5-7, 2019, Proceedings},
+  booktitle    = {17th International Conference on Applied Cryptography and Network Security},
   series       = {Lecture Notes in Computer Science},
   volume       = {11464},
   pages        = {465--485},
   publisher    = {Springer},
   year         = {2019},
-  url          = {https://doi.org/10.1007/978-3-030-21568-2\_23},
   doi          = {10.1007/978-3-030-21568-2\_23},
-  timestamp    = {Mon, 03 Jan 2022 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/conf/acns/AtenieseFM019.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://www.acns19.com/},
+  pdf = {https://eprint.iacr.org/2019/1173},
+  dimensions = {true},
+  google_scholar_id = {UxriW0iASnsC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/crypto/Faonio019,
+  abbr = {CRYPTO 19},
+  bibtex_show={true},
+  abstract = {We revisit the concept of *non-malleable* secret sharing (Goyal and Kumar, STOC 2018) in the computational setting. In particular, under the assumption of one-to-one one-way functions, we exhibit a *computationally* private, *threshold* secret sharing scheme satisfying all of the following properties.
+-) Continuous non-malleability: No computationally-bounded adversary tampering independently with all the shares can produce mauled shares that reconstruct to a value related to the original secret. This holds even in case the adversary can tamper *continuously*, for an *unbounded* polynomial number of times, with the same target secret sharing, where the next sequence of tampering functions, as well as the subset of shares used for reconstruction, can be chosen *adaptively* based on the outcome of previous reconstructions.
+-) Resilience to noisy leakage: Non-malleability holds even if the adversary can additionally leak information independently from all the shares. There is no bound on the length of leaked information, as long as the overall leakage does not decrease the min-entropy of each share by too much.
+-) Improved rate: The information rate of our final scheme, defined as the ratio between the size of the message and the maximal size of a share, asymptotically approaches 1 when the message length goes to infinity.
+Previous constructions achieved information-theoretic security, sometimes even for arbitrary access structures, at the price of *at least one* of the following limitations: (i) Non-malleability only holds against one-time tampering attacks; (ii) Non-malleability holds against a bounded number of tampering attacks, but both the choice of the tampering functions and of the sets used for reconstruction is non-adaptive; (iii) Information rate asymptotically approaching zero; (iv) No security guarantee in the presence of leakage.},
   author       = {Antonio Faonio and
                   Daniele Venturi},
   editor       = {Alexandra Boldyreva and
                   Daniele Micciancio},
   title        = {Non-malleable Secret Sharing in the Computational Setting: Adaptive
                   Tampering, Noisy-Leakage Resilience, and Improved Rate},
-  booktitle    = {Advances in Cryptology - {CRYPTO} 2019 - 39th Annual International
-                  Cryptology Conference, Santa Barbara, CA, USA, August 18-22, 2019,
-                  Proceedings, Part {II}},
+  booktitle    = {39th Annual International Cryptology Conference},
   series       = {Lecture Notes in Computer Science},
   volume       = {11693},
   pages        = {448--479},
   publisher    = {Springer},
   year         = {2019},
-  url          = {https://doi.org/10.1007/978-3-030-26951-7\_16},
   doi          = {10.1007/978-3-030-26951-7\_16},
-  timestamp    = {Tue, 21 Mar 2023 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/conf/crypto/Faonio019.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://crypto.iacr.org/2019/},
+  pdf = {https://eprint.iacr.org/2019/105},
+  dimensions = {true},
+  google_scholar_id = {b0M2c_1WBrUC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/crypto/AtenieseFN019,
+  abbr = {CRYPTO 19},
+  bibtex_show={true},
+  abstract = {We introduce a new form of encryption that we name matchmaking encryption (ME). Using ME, sender S and receiver R (each with its own attributes) can both specify policies the other party must satisfy in order for the message to be revealed. The main security guarantee is that of privacy-preserving policy matching: During decryption nothing is leaked beyond the fact that a match occurred/did not occur.
+ME opens up new ways of secretly communicating, and enables several new applications where both participants can specify fine-grained access policies to encrypted data. For instance, in social matchmaking, S can encrypt a file containing his/her personal details and specify a policy so that the file can be decrypted only by his/her ideal partner. On the other end, a receiver R will be able to decrypt the file only if S corresponds to his/her ideal partner defined through a policy.
+On the theoretical side, we define security for ME, as well as provide generic frameworks for constructing ME from functional encryption.
+These constructions need to face the technical challenge of simultaneously checking the policies chosen by S and R, to avoid any leakage.
+On the practical side, we construct an efficient identity-based scheme for equality policies, with provable security in the random oracle model under the standard BDH assumption. We implement and evaluate our scheme and provide experimental evidence that our construction is practical. We also apply identity-based ME to a concrete use case, in particular for creating an anonymous bulletin board over a Tor network.},
   author       = {Giuseppe Ateniese and
                   Danilo Francati and
                   David Nu{\~{n}}ez and
@@ -742,39 +774,46 @@ An attractive feature of our first two compilers is that they allow obtaining ef
   editor       = {Alexandra Boldyreva and
                   Daniele Micciancio},
   title        = {Match Me if You Can: Matchmaking Encryption and Its Applications},
-  booktitle    = {Advances in Cryptology - {CRYPTO} 2019 - 39th Annual International
-                  Cryptology Conference, Santa Barbara, CA, USA, August 18-22, 2019,
-                  Proceedings, Part {II}},
+  booktitle    = {39th Annual International Cryptology Conference},
   series       = {Lecture Notes in Computer Science},
   volume       = {11693},
   pages        = {701--731},
   publisher    = {Springer},
   year         = {2019},
-  url          = {https://doi.org/10.1007/978-3-030-26951-7\_24},
   doi          = {10.1007/978-3-030-26951-7\_24},
-  timestamp    = {Mon, 03 Jan 2022 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/conf/crypto/AtenieseFN019.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://crypto.iacr.org/2019/},
+  pdf = {https://eprint.iacr.org/2018/1094},
+  dimensions = {true},
+  google_scholar_id = {dQ2og3OwTAUC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/sds/AkilMV19,
+  abbr = {SDS 19},
+  bibtex_show={true},
+  abstract = {},
   author       = {Mahdi Akil and
                   Luigi V. Mancini and
                   Daniele Venturi},
   title        = {Multi-Covert Channel Attack in the Cloud},
-  booktitle    = {6th International Conference on Software Defined Systems, {SDS} 2019,
-                  Rome, Italy, June 10-13, 2019},
+  booktitle    = {6th International Conference on Software Defined Systems},
   pages        = {160--165},
   publisher    = {{IEEE}},
   year         = {2019},
-  url          = {https://doi.org/10.1109/SDS.2019.8768563},
   doi          = {10.1109/SDS.2019.8768563},
-  timestamp    = {Wed, 16 Oct 2019 14:14:52 +0200},
-  biburl       = {https://dblp.org/rec/conf/sds/AkilMV19.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+    html = {https://scn.unisa.it/},
+  pdf = {https://eprint.iacr.org/2020/831},
+  dimensions = {true},
+  google_scholar_id = {XiSMed-E-HIC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/spw/FrioloMN019,
+  abbr = {SPW 19},
+  bibtex_show={true},
+  abstract = {When we design a security protocol we assume that the humans (or organizations) playing Alice and Bob do not make a difference. In particular, their financial capacity seems to be irrelevant.
+In the latest trend to guarantee that secure multi-party computation protocols are fair and not vulnerable to malicious aborts, a slate of protocols has been proposed based on penalty mechanisms. We look at two well-known penalty mechanisms, and show that the so-called see-saw mechanism (Kumaresan et al., CCS 15), is only fit for people with deep pockets, well beyond the stake in the multi-party computation itself.
+Depending on the scheme, fairness is not affordable by everyone which has several policy implications on protocol design. To explicitly capture the above issues, we introduce a new property called financial fairness.},
   author       = {Daniele Friolo and
                   Fabio Massacci and
                   Chan Nam Ngo and
@@ -785,21 +824,26 @@ An attractive feature of our first two compilers is that they allow obtaining ef
                   Vashek Maty{\'{a}}s},
   title        = {Affordable Security or Big Guy vs Small Guy - Does the Depth of Your
                   Pockets Impact Your Protocols?},
-  booktitle    = {Security Protocols {XXVII} - 27th International Workshop, Cambridge,
-                  UK, April 10-12, 2019, Revised Selected Papers},
+  booktitle    = {27th International Workshop on Security Protocols},
   series       = {Lecture Notes in Computer Science},
   volume       = {12287},
   pages        = {135--147},
   publisher    = {Springer},
   year         = {2019},
-  url          = {https://doi.org/10.1007/978-3-030-57043-9\_13},
   doi          = {10.1007/978-3-030-57043-9\_13},
-  timestamp    = {Mon, 05 Feb 2024 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/conf/spw/FrioloMN019.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://www.cl.cam.ac.uk/events/spw/2019/},
+  pdf = {https://link.springer.com/chapter/10.1007/978-3-030-57043-9_13},
+  dimensions = {true},
+  google_scholar_id = {8AbLer7MMksC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/tcc/FrioloM019,
+  abbr = {TCC 19},
+  bibtex_show={true},
+  abstract = {We show how to construct maliciously secure oblivious transfer (M-OT) from a strengthening of key agreement (KA) which we call *strongly uniform* KA (SU-KA), where the latter roughly means that the messages sent by one party are computationally close to uniform, even if the other party is malicious. Our transformation is black-box, almost round preserving (adding only a constant overhead of up to two rounds), and achieves standard simulation-based security in the plain model.
+As we show, 2-round SU-KA can be realized from cryptographic assumptions such as low-noise LPN, high-noise LWE, Subset Sum, DDH, CDH and RSA---all with polynomial hardness---thus yielding a black-box construction of fully-simulatable, round-optimal, M-OT from the same set of assumptions (some of which were not known before).
+},
   author       = {Daniele Friolo and
                   Daniel Masny and
                   Daniele Venturi},
@@ -807,40 +851,46 @@ An attractive feature of our first two compilers is that they allow obtaining ef
                   Alon Rosen},
   title        = {A Black-Box Construction of Fully-Simulatable, Round-Optimal Oblivious
                   Transfer from Strongly Uniform Key Agreement},
-  booktitle    = {Theory of Cryptography - 17th International Conference, {TCC} 2019,
-                  Nuremberg, Germany, December 1-5, 2019, Proceedings, Part {I}},
+  booktitle    = {17th International Theory of Cryptography Conference},
   series       = {Lecture Notes in Computer Science},
   volume       = {11891},
   pages        = {111--130},
   publisher    = {Springer},
   year         = {2019},
-  url          = {https://doi.org/10.1007/978-3-030-36030-6\_5},
   doi          = {10.1007/978-3-030-36030-6\_5},
-  timestamp    = {Mon, 05 Feb 2024 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/conf/tcc/FrioloM019.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://tcc.iacr.org/2019/},
+  pdf = {https://eprint.iacr.org/2018/473},
+  dimensions = {true},
+  google_scholar_id = {P5F9QuxV20EC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/tcc/BrianF019,
+  abbr = {TCC 19},
+  bibtex_show={true},
+  abstract = {We study leakage-resilient continuously non-malleable secret sharing, as recently introduced by Faonio and Venturi (CRYPTO 2019). In this setting, an attacker can continuously tamper and leak from a target secret sharing of some message, with the goal of producing a modified set of shares that reconstructs to a message related to the originally shared value. Our contributions are two fold.
+-- In the plain model, assuming one-to-one one-way functions, we show how to obtain noisy-leakage-resilient continuous non-malleability for arbitrary access structures, in case the attacker can continuously leak from and tamper with all of the shares independently.
+-- In the common reference string model, we show how to obtain a new flavor of security which we dub bounded-leakage-resilient continuous non-malleability under selective k-partitioning. In this model, the attacker is allowed to partition the target n shares into any number of non-overlapping blocks of maximal size k, and then can continuously leak from and tamper with the shares within each block jointly. Our construction works for arbitrary access structures, and assuming (doubly enhanced) trapdoor permutations and collision-resistant hash functions, we achieve a concrete instantiation for k = O(log(n)).
+Prior to our work, there was no secret sharing scheme achieving continuous non-malleability against joint tampering, and the only known scheme for independent tampering was tailored to threshold access structures.},
   author       = {Gianluca Brian and
                   Antonio Faonio and
                   Daniele Venturi},
   editor       = {Dennis Hofheinz and
                   Alon Rosen},
   title        = {Continuously Non-malleable Secret Sharing for General Access Structures},
-  booktitle    = {Theory of Cryptography - 17th International Conference, {TCC} 2019,
-                  Nuremberg, Germany, December 1-5, 2019, Proceedings, Part {II}},
+  booktitle    = {17th International Theory of Cryptography Conference},
   series       = {Lecture Notes in Computer Science},
   volume       = {11892},
   pages        = {211--232},
   publisher    = {Springer},
   year         = {2019},
-  url          = {https://doi.org/10.1007/978-3-030-36033-7\_8},
   doi          = {10.1007/978-3-030-36033-7\_8},
-  timestamp    = {Tue, 21 Mar 2023 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/conf/tcc/BrianF019.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
+  html = {https://tcc.iacr.org/2019/},
+  pdf = {https://eprint.iacr.org/2019/602},
+  dimensions = {true},
+  google_scholar_id = {OU6Ihb5iCvQC},
+  selected = {false}
+  }
 
 @article{DBLP:journals/ijisec/FaustH018,
   author       = {Sebastian Faust and
