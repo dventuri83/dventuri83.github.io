@@ -1300,91 +1300,104 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
   selected = {false}
 }
 
-@phdthesis{DBLP:phd/basesearch/Dellinformazione16a,
-  author       = {Daniele Venturi},
-  title        = {Tampering in wonderland},
-  school       = {Sapienza University of Rome, Italy},
-  year         = {2016},
-  url          = {http://hdl.handle.net/11573/918100},
-  timestamp    = {Tue, 10 Jan 2023 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/phd/basesearch/Dellinformazione16a.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
-
 @article{DBLP:journals/fgcs/AtenieseDDV16,
+  abbr = {FGCS},
+  bibtex_show={true},
+  abstract = {Entangled cloud storage (Aspnes et al., ESORICS 2004) enables a set of clients to "entangle" their files into a single *clew* to be stored by a (potentially malicious) cloud provider. The entanglement makes it impossible to modify or delete significant part of the clew without affecting *all* files encoded in the clew. A clew  keeps the files in it private but still lets each client recover his own data by interacting with the cloud provider; no cooperation from other clients is needed. At the same time, the cloud provider is discouraged from altering or overwriting any significant part of the clew as this will imply that none of the clients can recover their files.
+We put forward the first simulation-based security definition for entangled cloud storage, in the framework of *universal composability* (Canetti, FOCS 2001). We then construct a protocol satisfying our security definition, relying on an *entangled encoding scheme* based on privacy-preserving polynomial interpolation; entangled encodings were originally proposed by Aspnes et al. as useful tools for the purpose of data entanglement. As a contribution of independent interest we revisit the security notions for entangled encodings, putting forward stronger definitions than previous work (that for instance did not consider collusion between clients and the cloud provider).
+Protocols for entangled cloud storage find application in the cloud setting, where clients store their files on a remote server and need to be ensured that the cloud provider will not modify or delete their data illegitimately. Current solutions, e.g., based on Provable Data Possession and Proof of Retrievability, require the server to be challenged regularly to provide evidence that the clients' files are stored *at a given time*. Entangled cloud storage provides an alternative approach where any single client operates implicitly on behalf of all others, i.e., as long as one client's files are intact, the entire remote database continues to be safe and unblemished.},
   author       = {Giuseppe Ateniese and
                   {\"{O}}zg{\"{u}}r Dagdelen and
                   Ivan Damg{\aa}rd and
                   Daniele Venturi},
   title        = {Entangled cloud storage},
-  journal      = {Future Gener. Comput. Syst.},
+  journal      = {Future Generation Computing Systems},
   volume       = {62},
   pages        = {104--118},
   year         = {2016},
-  url          = {https://doi.org/10.1016/j.future.2016.01.008},
   doi          = {10.1016/J.FUTURE.2016.01.008},
-  timestamp    = {Wed, 19 Feb 2020 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/journals/fgcs/AtenieseDDV16.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {http://danieleventuri.altervista.org/10.1016/j.future.2016.01.008},
+  pdf = {http://eprint.iacr.org/2012/511},
+  dimensions = {true},
+  google_scholar_id = {zYLM7Y9cAGgC},
+  selected = {false}
 }
 
 @article{DBLP:journals/tcs/DagdelenMV16,
+  abbr = {TCS},
+  bibtex_show={true},
+  abstract = {We introduce the notion of rate-limited secure function evaluation (RL-SFE). Loosely speaking, in an RL-SFE protocol participants can monitor and limit the number of distinct inputs (i.e., rate) used by their counterparts in multiple executions of an SFE, in a private and verifiable manner. The need for RL-SFE naturally arises in a variety of scenarios: e.g., it enables service providers to ``meter'' their customers' usage without compromising their privacy, or can be used to prevent oracle attacks against SFE constructions.
+We consider three variants of RL-SFE providing different levels of security. As a stepping stone, we also formalize the notion of commit-first SFE (cf-SFE) wherein parties are committed to their inputs before each SFE execution. We provide compilers for transforming any cf-SFE protocol into each of the three RL-SFE variants. Our compilers are accompanied with simulation-based proofs of security in the standard model and show a clear tradeoff between the level of security offered and the  overhead required. Moreover, motivated by the fact that in many client-server applications clients do not keep state, we also describe a general approach for transforming the resulting RL-SFE protocols into stateless ones.
+As a case study, we take a closer look at the oblivious polynomial evaluation (OPE) protocol of Hazay and Lindell, show that it is commit-first and instantiate efficient rate-limited variants of it.},
   author       = {{\"{O}}zg{\"{u}}r Dagdelen and
                   Payman Mohassel and
                   Daniele Venturi},
   title        = {Rate-limited secure function evaluation},
-  journal      = {Theor. Comput. Sci.},
+  journal      = {Theoretical Computer Science},
   volume       = {653},
   pages        = {53--78},
   year         = {2016},
-  url          = {https://doi.org/10.1016/j.tcs.2016.09.020},
   doi          = {10.1016/J.TCS.2016.09.020},
-  timestamp    = {Wed, 17 Feb 2021 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/journals/tcs/DagdelenMV16.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://doi.org/10.1016/j.tcs.2016.09.020},
+  pdf = {http://eprint.iacr.org/2013/021},
+  dimensions = {true},
+  google_scholar_id = {fPk4N6BV_jEC},
+  selected = {false}
 }
 
 @article{DBLP:journals/tit/FaustMVW16,
+  abbr = {IEEE TIT},
+  bibtex_show={true},
+  abstract = {Non-malleable codes, defined by Dziembowski, Pietrzak and Wichs (ICS '10),  provide roughly the following guarantee: if a codeword $c$ encoding some message $x$ is tampered to $c' = f(c)$ such that $c' \neq c$, then the tampered message $x'$ contained in $c'$ reveals no information about $x$.  Non-malleable codes have applications to immunizing cryptosystems against tampering attacks and related-key attacks.
+One \emph{cannot} have an \emph{efficient} non-malleable code that protects against  \emph{all efficient} tampering functions $f$. However, in this work we show ``the next best thing'': for any polynomial bound $s$ given a-priori, there is an efficient non-malleable code that protects against all tampering functions $f$ computable by a circuit of size $s$. More generally, for any family of tampering functions $\F$ of size $|\F| \leq 2^{s}$, there is an efficient non-malleable code that protects against all $f \in \F$. The \emph{rate} of our codes, defined as the ratio of message to codeword size, approaches $1$. Our results are information-theoretic and our main proof technique relies on a careful probabilistic method argument using limited independence. As a result, we get an efficiently samplable family of efficient codes, such that a random member of the family is non-malleable with overwhelming probability. Alternatively, we can view the result as providing an efficient non-malleable code in the ``common reference string'' (CRS) model.
+We also introduce a new notion of non-malleable key derivation, which uses randomness $x$ to derive a secret key $y = h(x)$ in such a way that, even if $x$ is tampered to a different value $x' = f(x)$, the derived key $y'  = h(x')$ does not reveal any information about $y$. Our results for non-malleable key derivation are analogous to those for non-malleable codes.
+As a useful tool in our analysis, we rely on the notion of ``leakage-resilient storage'' of Dav\`{\i}, Dziembowski and Venturi (SCN '10) and, as a result of independent interest, we also significantly improve on the parameters of such schemes.},
   author       = {Sebastian Faust and
                   Pratyay Mukherjee and
                   Daniele Venturi and
                   Daniel Wichs},
   title        = {Efficient Non-Malleable Codes and Key Derivation for Poly-Size Tampering
                   Circuits},
-  journal      = {{IEEE} Trans. Inf. Theory},
+  journal      = {{IEEE} Transactions on Information Theory},
   volume       = {62},
   number       = {12},
   pages        = {7179--7194},
   year         = {2016},
-  url          = {https://doi.org/10.1109/TIT.2016.2613919},
   doi          = {10.1109/TIT.2016.2613919},
-  timestamp    = {Mon, 05 Feb 2024 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/journals/tit/FaustMVW16.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://doi.org/10.1109/TIT.2016.2613919},
+  pdf = {http://eprint.iacr.org/2013/702},
+  dimensions = {true},
+  google_scholar_id = {4OULZ7Gr8RgC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/asiacrypt/Faonio016,
+  abbr = {ASIACRYPT 16},
+  bibtex_show={true},
+  abstract = {},
   author       = {Antonio Faonio and
                   Daniele Venturi},
   editor       = {Jung Hee Cheon and
                   Tsuyoshi Takagi},
   title        = {Efficient Public-Key Cryptography with Bounded Leakage and Tamper
                   Resilience},
-  booktitle    = {Advances in Cryptology - {ASIACRYPT} 2016 - 22nd International Conference
-                  on the Theory and Application of Cryptology and Information Security,
-                  Hanoi, Vietnam, December 4-8, 2016, Proceedings, Part {I}},
+  booktitle    = {22nd International Conference on the Theory and Application of Cryptology and Information Security},
   series       = {Lecture Notes in Computer Science},
   volume       = {10031},
   pages        = {877--907},
   year         = {2016},
-  url          = {https://doi.org/10.1007/978-3-662-53887-6\_32},
   doi          = {10.1007/978-3-662-53887-6\_32},
-  timestamp    = {Tue, 14 May 2019 10:00:40 +0200},
-  biburl       = {https://dblp.org/rec/conf/asiacrypt/Faonio016.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {maZDTaKrznsC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/pkc/FaustMV16,
+  abbr = {PKC 16},
+  bibtex_show={true},
+  abstract = {},
   author       = {Sebastian Faust and
                   Daniel Masny and
                   Daniele Venturi},
@@ -1393,63 +1406,71 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
                   Giuseppe Persiano and
                   Bo{-}Yin Yang},
   title        = {Chosen-Ciphertext Security from Subset Sum},
-  booktitle    = {Public-Key Cryptography - {PKC} 2016 - 19th {IACR} International Conference
-                  on Practice and Theory in Public-Key Cryptography, Taipei, Taiwan,
-                  March 6-9, 2016, Proceedings, Part {I}},
+  booktitle    = {19th {IACR} International Conference on Practice and Theory in Public-Key Cryptography},
   series       = {Lecture Notes in Computer Science},
   volume       = {9614},
   pages        = {35--46},
   publisher    = {Springer},
   year         = {2016},
-  url          = {https://doi.org/10.1007/978-3-662-49384-7\_2},
   doi          = {10.1007/978-3-662-49384-7\_2},
-  timestamp    = {Fri, 01 May 2020 18:32:25 +0200},
-  biburl       = {https://dblp.org/rec/conf/pkc/FaustMV16.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {4JMBOYKVnBMC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/scn/BiagioniMV16,
+  abbr = {SCN 16},
+  bibtex_show={true},
+  abstract = {},
   author       = {Silvio Biagioni and
                   Daniel Masny and
                   Daniele Venturi},
   editor       = {Vassilis Zikas and
                   Roberto De Prisco},
   title        = {Naor-Yung Paradigm with Shared Randomness and Applications},
-  booktitle    = {Security and Cryptography for Networks - 10th International Conference,
-                  {SCN} 2016, Amalfi, Italy, August 31 - September 2, 2016, Proceedings},
+  booktitle    = {10th International Conference on Security and Cryptography for Networks},
   series       = {Lecture Notes in Computer Science},
   volume       = {9841},
   pages        = {62--80},
   publisher    = {Springer},
   year         = {2016},
-  url          = {https://doi.org/10.1007/978-3-319-44618-9\_4},
   doi          = {10.1007/978-3-319-44618-9\_4},
-  timestamp    = {Thu, 23 Jun 2022 19:58:57 +0200},
-  biburl       = {https://dblp.org/rec/conf/scn/BiagioniMV16.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {JV2RwH3_ST0C},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/scn/MittelbachV16,
+  abbr = {SCN 16},
+  bibtex_show={true},
+  abstract = {},
   author       = {Arno Mittelbach and
                   Daniele Venturi},
   editor       = {Vassilis Zikas and
                   Roberto De Prisco},
   title        = {Fiat-Shamir for Highly Sound Protocols Is Instantiable},
-  booktitle    = {Security and Cryptography for Networks - 10th International Conference,
-                  {SCN} 2016, Amalfi, Italy, August 31 - September 2, 2016, Proceedings},
+  booktitle    = {10th International Conference on Security and Cryptography for Networks},
   series       = {Lecture Notes in Computer Science},
   volume       = {9841},
   pages        = {198--215},
   publisher    = {Springer},
   year         = {2016},
-  url          = {https://doi.org/10.1007/978-3-319-44618-9\_11},
   doi          = {10.1007/978-3-319-44618-9\_11},
-  timestamp    = {Thu, 15 Jun 2017 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/conf/scn/MittelbachV16.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {eq2jaN3J8jMC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/tcc/CorettiDTV16,
+  abbr = {TCC 16},
+  bibtex_show={true},
+  abstract = {},
   author       = {Sandro Coretti and
                   Yevgeniy Dodis and
                   Bj{\"{o}}rn Tackmann and
@@ -1457,21 +1478,24 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
   editor       = {Eyal Kushilevitz and
                   Tal Malkin},
   title        = {Non-Malleable Encryption: Simpler, Shorter, Stronger},
-  booktitle    = {Theory of Cryptography - 13th International Conference, {TCC} 2016-A,
-                  Tel Aviv, Israel, January 10-13, 2016, Proceedings, Part {I}},
+  booktitle    = {13th International Theory of Cryptography Conference},
   series       = {Lecture Notes in Computer Science},
   volume       = {9562},
   pages        = {306--335},
   publisher    = {Springer},
   year         = {2016},
-  url          = {https://doi.org/10.1007/978-3-662-49096-9\_13},
   doi          = {10.1007/978-3-662-49096-9\_13},
-  timestamp    = {Tue, 14 May 2019 10:00:47 +0200},
-  biburl       = {https://dblp.org/rec/conf/tcc/CorettiDTV16.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {ZeXyd9-uunAC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/ccs/AtenieseDDV15,
+  abbr = {SCC @ ASIACCS 15},
+  bibtex_show={true},
+  abstract = {},
   author       = {Giuseppe Ateniese and
                   {\"{O}}zg{\"{u}}r Dagdelen and
                   Ivan Damg{\aa}rd and
@@ -1481,20 +1505,22 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
                   Sherman S. M. Chow and
                   Danfeng Yao},
   title        = {Entangled Encodings and Data Entanglement},
-  booktitle    = {Proceedings of the 3rd International Workshop on Security in Cloud
-                  Computing, SCC@ASIACCS '15, Singapore, Republic of Singapore, April
-                  14, 2015},
+  booktitle    = {3rd International Workshop on Security in Cloud Computing},
   pages        = {3--12},
   publisher    = {{ACM}},
   year         = {2015},
-  url          = {https://doi.org/10.1145/2732516.2732524},
   doi          = {10.1145/2732516.2732524},
-  timestamp    = {Thu, 20 Oct 2022 10:45:07 +0200},
-  biburl       = {https://dblp.org/rec/conf/ccs/AtenieseDDV15.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {zYLM7Y9cAGgC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/ccs/AtenieseMV15,
+  abbr = {ACM CCS 15},
+  bibtex_show={true},
+  abstract = {},
   author       = {Giuseppe Ateniese and
                   Bernardo Magri and
                   Daniele Venturi},
@@ -1502,19 +1528,22 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
                   Ninghui Li and
                   Christopher Kruegel},
   title        = {Subversion-Resilient Signature Schemes},
-  booktitle    = {Proceedings of the 22nd {ACM} {SIGSAC} Conference on Computer and
-                  Communications Security, Denver, CO, USA, October 12-16, 2015},
+  booktitle    = {22nd {ACM} {SIGSAC} Conference on Computer and Communications Security},
   pages        = {364--375},
   publisher    = {{ACM}},
   year         = {2015},
-  url          = {https://doi.org/10.1145/2810103.2813635},
   doi          = {10.1145/2810103.2813635},
-  timestamp    = {Tue, 10 Nov 2020 19:58:09 +0100},
-  biburl       = {https://dblp.org/rec/conf/ccs/AtenieseMV15.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {7PzlFSSx8tAC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/cloudforward/SuzicRRVK15,
+  abbr = {CCF 15},
+  bibtex_show={true},
+  abstract = {},
   author       = {Bojan Suzic and
                   Andreas Reiter and
                   Florian Reimair and
@@ -1523,21 +1552,24 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
   editor       = {Keith G. Jeffery and
                   Dimosthenis Kyriazis},
   title        = {Secure Data Sharing and Processing in Heterogeneous Clouds},
-  booktitle    = {1st International Conference on Cloud Forward: From Distributed to
-                  Complete Computing, October 6-8, 2015, Pisa, Italy},
+  booktitle    = {1st International Conference on Cloud Forward},
   series       = {Procedia Computer Science},
   volume       = {68},
   pages        = {116--126},
   publisher    = {Elsevier},
   year         = {2015},
-  url          = {https://doi.org/10.1016/j.procs.2015.09.228},
   doi          = {10.1016/J.PROCS.2015.09.228},
-  timestamp    = {Thu, 08 Jul 2021 16:04:02 +0200},
-  biburl       = {https://dblp.org/rec/conf/cloudforward/SuzicRRVK15.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {hC7cP41nSMkC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/icalp/FaonioNV15,
+  abbr = {ICALP 15},
+  bibtex_show={true},
+  abstract = {},
   author       = {Antonio Faonio and
                   Jesper Buus Nielsen and
                   Daniele Venturi},
@@ -1547,21 +1579,24 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
                   Bettina Speckmann},
   title        = {Mind Your Coins: Fully Leakage-Resilient Signatures with Graceful
                   Degradation},
-  booktitle    = {Automata, Languages, and Programming - 42nd International Colloquium,
-                  {ICALP} 2015, Kyoto, Japan, July 6-10, 2015, Proceedings, Part {I}},
+  booktitle    = {42nd International Colloquium on Automata, Languages, and Programming},
   series       = {Lecture Notes in Computer Science},
   volume       = {9134},
   pages        = {456--468},
   publisher    = {Springer},
   year         = {2015},
-  url          = {https://doi.org/10.1007/978-3-662-47672-7\_37},
   doi          = {10.1007/978-3-662-47672-7\_37},
-  timestamp    = {Fri, 27 Mar 2020 09:02:59 +0100},
-  biburl       = {https://dblp.org/rec/conf/icalp/FaonioNV15.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {4DMP91E08xMC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/icits/DamgardFMV15,
+  abbr = {ICTS 15},
+  bibtex_show={true},
+  abstract = {},
   author       = {Ivan Damg{\aa}rd and
                   Sebastian Faust and
                   Pratyay Mukherjee and
@@ -1569,21 +1604,24 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
   editor       = {Anja Lehmann and
                   Stefan Wolf},
   title        = {The Chaining Lemma and Its Application},
-  booktitle    = {Information Theoretic Security - 8th International Conference, {ICITS}
-                  2015, Lugano, Switzerland, May 2-5, 2015. Proceedings},
+  booktitle    = {8th International Information Theoretic Security Conference},
   series       = {Lecture Notes in Computer Science},
   volume       = {9063},
   pages        = {181--196},
   publisher    = {Springer},
   year         = {2015},
-  url          = {https://doi.org/10.1007/978-3-319-17470-9\_11},
   doi          = {10.1007/978-3-319-17470-9\_11},
-  timestamp    = {Tue, 14 May 2019 10:00:40 +0200},
-  biburl       = {https://dblp.org/rec/conf/icits/DamgardFMV15.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {Wp0gIr-vW9MC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/indocrypt/KohlweissMOTV15,
+  abbr = {INDOCRYPT 15},
+  bibtex_show={true},
+  abstract = {},
   author       = {Markulf Kohlweiss and
                   Ueli Maurer and
                   Cristina Onete and
@@ -1592,43 +1630,48 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
   editor       = {Alex Biryukov and
                   Vipul Goyal},
   title        = {(De-)Constructing {TLS} 1.3},
-  booktitle    = {Progress in Cryptology - {INDOCRYPT} 2015 - 16th International Conference
-                  on Cryptology in India, Bangalore, India, December 6-9, 2015, Proceedings},
+  booktitle    = {16th International Conference on Cryptology in India},
   series       = {Lecture Notes in Computer Science},
   volume       = {9462},
   pages        = {85--102},
   publisher    = {Springer},
   year         = {2015},
-  url          = {https://doi.org/10.1007/978-3-319-26617-6\_5},
   doi          = {10.1007/978-3-319-26617-6\_5},
-  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/conf/indocrypt/KohlweissMOTV15.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {hFOr9nPyWt4C},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/pkc/FaustMNV15,
+  abbr = {PKC 15},
+  bibtex_show={true},
+  abstract = {},
   author       = {Sebastian Faust and
                   Pratyay Mukherjee and
                   Jesper Buus Nielsen and
                   Daniele Venturi},
   editor       = {Jonathan Katz},
   title        = {A Tamper and Leakage Resilient von Neumann Architecture},
-  booktitle    = {Public-Key Cryptography - {PKC} 2015 - 18th {IACR} International Conference
-                  on Practice and Theory in Public-Key Cryptography, Gaithersburg, MD,
-                  USA, March 30 - April 1, 2015, Proceedings},
+  booktitle    = {18th {IACR} International Conference on Practice and Theory in Public-Key Cryptography},
   series       = {Lecture Notes in Computer Science},
   volume       = {9020},
   pages        = {579--603},
   publisher    = {Springer},
   year         = {2015},
-  url          = {https://doi.org/10.1007/978-3-662-46447-2\_26},
   doi          = {10.1007/978-3-662-46447-2\_26},
-  timestamp    = {Fri, 01 May 2020 18:32:25 +0200},
-  biburl       = {https://dblp.org/rec/conf/pkc/FaustMNV15.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {9ZlFYXVOiuMC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/tcc/CorettiMTV15,
+  abbr = {TCC 15},
+  bibtex_show={true},
+  abstract = {},
   author       = {Sandro Coretti and
                   Ueli Maurer and
                   Bj{\"{o}}rn Tackmann and
@@ -1637,63 +1680,70 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
                   Jesper Buus Nielsen},
   title        = {From Single-Bit to Multi-bit Public-Key Encryption via Non-malleable
                   Codes},
-  booktitle    = {Theory of Cryptography - 12th Theory of Cryptography Conference, {TCC}
-                  2015, Warsaw, Poland, March 23-25, 2015, Proceedings, Part {I}},
+  booktitle    = {12th International Theory of Cryptography Conference},
   series       = {Lecture Notes in Computer Science},
   volume       = {9014},
   pages        = {532--560},
   publisher    = {Springer},
   year         = {2015},
-  url          = {https://doi.org/10.1007/978-3-662-46494-6\_22},
   doi          = {10.1007/978-3-662-46494-6\_22},
-  timestamp    = {Tue, 20 Aug 2019 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/conf/tcc/CorettiMTV15.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {M3ejUd6NZC8C},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/africacrypt/DagdelenV14,
+  abbr = {AFRICACRYPT 14},
+  bibtex_show={true},
+  abstract = {},
   author       = {{\"{O}}zg{\"{u}}r Dagdelen and
                   Daniele Venturi},
   editor       = {David Pointcheval and
                   Damien Vergnaud},
   title        = {A Second Look at Fischlin's Transformation},
-  booktitle    = {Progress in Cryptology - {AFRICACRYPT} 2014 - 7th International Conference
-                  on Cryptology in Africa, Marrakesh, Morocco, May 28-30, 2014. Proceedings},
-  series       = {Lecture Notes in Computer Science},
+  booktitle    = {7th International Conference on Cryptology in Africa},
   volume       = {8469},
   pages        = {356--376},
   publisher    = {Springer},
   year         = {2014},
-  url          = {https://doi.org/10.1007/978-3-319-06734-6\_22},
   doi          = {10.1007/978-3-319-06734-6\_22},
-  timestamp    = {Tue, 14 May 2019 10:00:52 +0200},
-  biburl       = {https://dblp.org/rec/conf/africacrypt/DagdelenV14.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {4TOpqqG69KYC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/balkancryptsec/DagdelenV14,
+  abbr = {BalkanCryptSec 14},
+  bibtex_show={true},
+  abstract = {},
   author       = {{\"{O}}zg{\"{u}}r Dagdelen and
                   Daniele Venturi},
   editor       = {Berna {\"{O}}rs and
                   Bart Preneel},
   title        = {A Multi-Party Protocol for Privacy-Preserving Cooperative Linear Systems
                   of Equations},
-  booktitle    = {Cryptography and Information Security in the Balkans - First International
-                  Conference, BalkanCryptSec 2014, Istanbul, Turkey, October 16-17,
-                  2014, Revised Selected Papers},
+  booktitle    = {First International Conference on Cryptography and Information Security in the Balkans},
   series       = {Lecture Notes in Computer Science},
   volume       = {9024},
   pages        = {161--172},
   publisher    = {Springer},
   year         = {2014},
-  url          = {https://doi.org/10.1007/978-3-319-21356-9\_11},
   doi          = {10.1007/978-3-319-21356-9\_11},
-  timestamp    = {Tue, 16 Nov 2021 09:08:54 +0100},
-  biburl       = {https://dblp.org/rec/conf/balkancryptsec/DagdelenV14.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {IWHjjKOFINEC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/eurocrypt/FaustMVW14,
+  abbr = {EUROCRYPT 14},
+  bibtex_show={true},
+  abstract = {},
   author       = {Sebastian Faust and
                   Pratyay Mukherjee and
                   Daniele Venturi and
@@ -1702,64 +1752,71 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
                   Elisabeth Oswald},
   title        = {Efficient Non-malleable Codes and Key-Derivation for Poly-size Tampering
                   Circuits},
-  booktitle    = {Advances in Cryptology - {EUROCRYPT} 2014 - 33rd Annual International
-                  Conference on the Theory and Applications of Cryptographic Techniques,
-                  Copenhagen, Denmark, May 11-15, 2014. Proceedings},
+  booktitle    = {33rd Annual International Conference on the Theory and Applications of Cryptographic Techniques},
   series       = {Lecture Notes in Computer Science},
   volume       = {8441},
   pages        = {111--128},
   publisher    = {Springer},
   year         = {2014},
-  url          = {https://doi.org/10.1007/978-3-642-55220-5\_7},
   doi          = {10.1007/978-3-642-55220-5\_7},
-  timestamp    = {Thu, 14 Oct 2021 09:58:16 +0200},
-  biburl       = {https://dblp.org/rec/conf/eurocrypt/FaustMVW14.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {4OULZ7Gr8RgC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/pkc/NielsenVZ14,
+  abbr = {PKC 14},
+  bibtex_show={true},
+  abstract = {},
   author       = {Jesper Buus Nielsen and
                   Daniele Venturi and
                   Angela Zottarel},
   editor       = {Hugo Krawczyk},
   title        = {Leakage-Resilient Signatures with Graceful Degradation},
-  booktitle    = {Public-Key Cryptography - {PKC} 2014 - 17th International Conference
-                  on Practice and Theory in Public-Key Cryptography, Buenos Aires, Argentina,
-                  March 26-28, 2014. Proceedings},
+  booktitle    = {17th International Conference on Practice and Theory in Public-Key Cryptography},
   series       = {Lecture Notes in Computer Science},
   volume       = {8383},
   pages        = {362--379},
   publisher    = {Springer},
   year         = {2014},
-  url          = {https://doi.org/10.1007/978-3-642-54631-0\_21},
   doi          = {10.1007/978-3-642-54631-0\_21},
-  timestamp    = {Fri, 01 May 2020 18:32:25 +0200},
-  biburl       = {https://dblp.org/rec/conf/pkc/NielsenVZ14.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {_kc_bZDykSQC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/tcc/FaustMNV14,
+  abbr = {TCC 14},
+  bibtex_show={true},
+  abstract = {},
   author       = {Sebastian Faust and
                   Pratyay Mukherjee and
                   Jesper Buus Nielsen and
                   Daniele Venturi},
   editor       = {Yehuda Lindell},
   title        = {Continuous Non-malleable Codes},
-  booktitle    = {Theory of Cryptography - 11th Theory of Cryptography Conference, {TCC}
-                  2014, San Diego, CA, USA, February 24-26, 2014. Proceedings},
+  booktitle    = {11th International Theory of Cryptography Conference},
   series       = {Lecture Notes in Computer Science},
   volume       = {8349},
   pages        = {465--488},
   publisher    = {Springer},
   year         = {2014},
-  url          = {https://doi.org/10.1007/978-3-642-54242-8\_20},
   doi          = {10.1007/978-3-642-54242-8\_20},
-  timestamp    = {Tue, 14 May 2019 10:00:47 +0200},
-  biburl       = {https://dblp.org/rec/conf/tcc/FaustMNV14.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {YOwf2qJgpHMC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/asiacrypt/DamgardFMV13,
+  abbr = {ASIACRYPT 13},
+  bibtex_show={true},
+  abstract = {},
   author       = {Ivan Damg{\aa}rd and
                   Sebastian Faust and
                   Pratyay Mukherjee and
@@ -1767,22 +1824,24 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
   editor       = {Kazue Sako and
                   Palash Sarkar},
   title        = {Bounded Tamper Resilience: How to Go beyond the Algebraic Barrier},
-  booktitle    = {Advances in Cryptology - {ASIACRYPT} 2013 - 19th International Conference
-                  on the Theory and Application of Cryptology and Information Security,
-                  Bengaluru, India, December 1-5, 2013, Proceedings, Part {II}},
+  booktitle    = {19th International Conference on the Theory and Application of Cryptology and Information Security},
   series       = {Lecture Notes in Computer Science},
   volume       = {8270},
   pages        = {140--160},
   publisher    = {Springer},
   year         = {2013},
-  url          = {https://doi.org/10.1007/978-3-642-42045-0\_8},
   doi          = {10.1007/978-3-642-42045-0\_8},
-  timestamp    = {Tue, 14 May 2019 10:00:40 +0200},
-  biburl       = {https://dblp.org/rec/conf/asiacrypt/DamgardFMV13.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {KlAtU1dfN6UC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/icalp/FaustHV13,
+  abbr = {ICALP 13},
+  bibtex_show={true},
+  abstract = {},
   author       = {Sebastian Faust and
                   Carmit Hazay and
                   Daniele Venturi},
@@ -1791,21 +1850,24 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
                   Marta Z. Kwiatkowska and
                   David Peleg},
   title        = {Outsourced Pattern Matching},
-  booktitle    = {Automata, Languages, and Programming - 40th International Colloquium,
-                  {ICALP} 2013, Riga, Latvia, July 8-12, 2013, Proceedings, Part {II}},
+  booktitle    = {40th International Colloquium on Automata, Languages, and Programming},
   series       = {Lecture Notes in Computer Science},
   volume       = {7966},
   pages        = {545--556},
   publisher    = {Springer},
   year         = {2013},
-  url          = {https://doi.org/10.1007/978-3-642-39212-2\_48},
   doi          = {10.1007/978-3-642-39212-2\_48},
-  timestamp    = {Tue, 14 May 2019 10:00:44 +0200},
-  biburl       = {https://dblp.org/rec/conf/icalp/FaustHV13.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {3fE2CSJIrl8C},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/pet/KohlweissMOTV13,
+  abbr = {PETS 13},
+  bibtex_show={true},
+  abstract = {},
   author       = {Markulf Kohlweiss and
                   Ueli Maurer and
                   Cristina Onete and
@@ -1814,64 +1876,72 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
   editor       = {Emiliano De Cristofaro and
                   Matthew K. Wright},
   title        = {Anonymity-Preserving Public-Key Encryption: {A} Constructive Approach},
-  booktitle    = {Privacy Enhancing Technologies - 13th International Symposium, {PETS} 2013, Bloomington, IN, USA, July 10-12, 2013. Proceedings},
+  booktitle    = {13th International Symposium on Privacy Enhancing Technologies},
   series       = {Lecture Notes in Computer Science},
   volume       = {7981},
   pages        = {19--39},
   publisher    = {Springer},
   year         = {2013},
-  url          = {https://doi.org/10.1007/978-3-642-39077-7\_2},
   doi          = {10.1007/978-3-642-39077-7\_2},
-  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/conf/pet/KohlweissMOTV13.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {MXK_kJrjxJIC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/pkc/DagdelenMV13,
+  abbr = {PKC 13},
+  bibtex_show={true},
+  abstract = {},
   author       = {{\"{O}}zg{\"{u}}r Dagdelen and
                   Payman Mohassel and
                   Daniele Venturi},
   editor       = {Kaoru Kurosawa and
                   Goichiro Hanaoka},
   title        = {Rate-Limited Secure Function Evaluation: Definitions and Constructions},
-  booktitle    = {Public-Key Cryptography - {PKC} 2013 - 16th International Conference
-                  on Practice and Theory in Public-Key Cryptography, Nara, Japan, February
-                  26 - March 1, 2013. Proceedings},
+  booktitle    = {16th International Conference on Practice and Theory in Public-Key Cryptography},
   series       = {Lecture Notes in Computer Science},
   volume       = {7778},
   pages        = {461--478},
   publisher    = {Springer},
   year         = {2013},
-  url          = {https://doi.org/10.1007/978-3-642-36362-7\_28},
   doi          = {10.1007/978-3-642-36362-7\_28},
-  timestamp    = {Fri, 01 May 2020 18:32:25 +0200},
-  biburl       = {https://dblp.org/rec/conf/pkc/DagdelenMV13.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {fPk4N6BV_jEC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/pkc/NielsenVZ13,
+  abbr = {PKC 13},
+  bibtex_show={true},
+  abstract = {},
   author       = {Jesper Buus Nielsen and
                   Daniele Venturi and
                   Angela Zottarel},
   editor       = {Kaoru Kurosawa and
                   Goichiro Hanaoka},
   title        = {On the Connection between Leakage Tolerance and Adaptive Security},
-  booktitle    = {Public-Key Cryptography - {PKC} 2013 - 16th International Conference
-                  on Practice and Theory in Public-Key Cryptography, Nara, Japan, February
-                  26 - March 1, 2013. Proceedings},
+  booktitle    = {16th International Conference on Practice and Theory in Public-Key Cryptography},
   series       = {Lecture Notes in Computer Science},
   volume       = {7778},
   pages        = {497--515},
   publisher    = {Springer},
   year         = {2013},
-  url          = {https://doi.org/10.1007/978-3-642-36362-7\_30},
   doi          = {10.1007/978-3-642-36362-7\_30},
-  timestamp    = {Mon, 06 Nov 2017 00:00:00 +0100},
-  biburl       = {https://dblp.org/rec/conf/pkc/NielsenVZ13.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {W7OEmFMy1HYC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/indocrypt/FaustKMV12,
+  abbr = {INDOCRYPT 12},
+  bibtex_show={true},
+  abstract = {},
   author       = {Sebastian Faust and
                   Markulf Kohlweiss and
                   Giorgia Azzurra Marson and
@@ -1879,21 +1949,23 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
   editor       = {Steven D. Galbraith and
                   Mridul Nandi},
   title        = {On the Non-malleability of the Fiat-Shamir Transform},
-  booktitle    = {Progress in Cryptology - {INDOCRYPT} 2012, 13th International Conference
-                  on Cryptology in India, Kolkata, India, December 9-12, 2012. Proceedings},
-  series       = {Lecture Notes in Computer Science},
+  booktitle    = {13th International Conference on Cryptology in India},
   volume       = {7668},
   pages        = {60--79},
   publisher    = {Springer},
   year         = {2012},
-  url          = {https://doi.org/10.1007/978-3-642-34931-7\_5},
   doi          = {10.1007/978-3-642-34931-7\_5},
-  timestamp    = {Sat, 30 Sep 2023 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/conf/indocrypt/FaustKMV12.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {Tyk-4Ss8FVUC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/eurocrypt/KiltzPCJV11,
+  abbr = {EUROCRYPT 11},
+  bibtex_show={true},
+  abstract = {},
   author       = {Eike Kiltz and
                   Krzysztof Pietrzak and
                   David Cash and
@@ -1901,22 +1973,24 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
                   Daniele Venturi},
   editor       = {Kenneth G. Paterson},
   title        = {Efficient Authentication from Hard Learning Problems},
-  booktitle    = {Advances in Cryptology - {EUROCRYPT} 2011 - 30th Annual International
-                  Conference on the Theory and Applications of Cryptographic Techniques,
-                  Tallinn, Estonia, May 15-19, 2011. Proceedings},
+  booktitle    = {30th Annual International Conference on the Theory and Applications of Cryptographic Techniques},
   series       = {Lecture Notes in Computer Science},
   volume       = {6632},
   pages        = {7--26},
   publisher    = {Springer},
   year         = {2011},
-  url          = {https://doi.org/10.1007/978-3-642-20465-4\_3},
   doi          = {10.1007/978-3-642-20465-4\_3},
-  timestamp    = {Sun, 02 Jun 2019 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/conf/eurocrypt/KiltzPCJV11.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {u-x6o8ySG0sC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/icalp/FaustPV11,
+  abbr = {ICALP 11},
+  bibtex_show={true},
+  abstract = {},
   author       = {Sebastian Faust and
                   Krzysztof Pietrzak and
                   Daniele Venturi},
@@ -1924,70 +1998,61 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
                   Monika Henzinger and
                   Jir{\'{\i}} Sgall},
   title        = {Tamper-Proof Circuits: How to Trade Leakage for Tamper-Resilience},
-  booktitle    = {Automata, Languages and Programming - 38th International Colloquium,
-                  {ICALP} 2011, Zurich, Switzerland, July 4-8, 2011, Proceedings, Part
-                  {I}},
+  booktitle    = {38th International Colloquium on Automata, Languages and Programming},
   series       = {Lecture Notes in Computer Science},
   volume       = {6755},
   pages        = {391--402},
   publisher    = {Springer},
   year         = {2011},
-  url          = {https://doi.org/10.1007/978-3-642-22006-7\_33},
   doi          = {10.1007/978-3-642-22006-7\_33},
-  timestamp    = {Tue, 14 May 2019 10:00:44 +0200},
-  biburl       = {https://dblp.org/rec/conf/icalp/FaustPV11.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {9yKSN-GCB0IC},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/scn/DaviDV10,
+  abbr = {SCN 10},
+  bibtex_show={true},
+  abstract = {},
   author       = {Francesco Dav{\`{\i}} and
                   Stefan Dziembowski and
                   Daniele Venturi},
   editor       = {Juan A. Garay and
                   Roberto De Prisco},
   title        = {Leakage-Resilient Storage},
-  booktitle    = {Security and Cryptography for Networks, 7th International Conference,
-                  {SCN} 2010, Amalfi, Italy, September 13-15, 2010. Proceedings},
+  booktitle    = {7th International Conference on Security and Cryptography for Networks},
   series       = {Lecture Notes in Computer Science},
   volume       = {6280},
   pages        = {121--137},
   publisher    = {Springer},
   year         = {2010},
-  url          = {https://doi.org/10.1007/978-3-642-15317-4\_9},
   doi          = {10.1007/978-3-642-15317-4\_9},
-  timestamp    = {Tue, 14 May 2019 10:00:54 +0200},
-  biburl       = {https://dblp.org/rec/conf/scn/DaviDV10.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {u5HHmVD_uO8C},
+  selected = {false}
 }
 
 @inproceedings{DBLP:conf/icc/TodiniBV09,
+  abbr = {IEEE ICC 09},
+  bibtex_show={true},
+  abstract = {},
   author       = {Alfredo Todini and
                   Andrea Baiocchi and
                   Daniele Venturi},
   title        = {Inadequacy of the Queue-Based Max-Weight Optimal Scheduler on Wireless
                   Links with {TCP} Sources},
-  booktitle    = {Proceedings of {IEEE} International Conference on Communications,
-                  {ICC} 2009, Dresden, Germany, 14-18 June 2009},
+  booktitle    = {{IEEE} International Conference on Communications},
   pages        = {1--6},
   publisher    = {{IEEE}},
   year         = {2009},
-  url          = {https://doi.org/10.1109/ICC.2009.5199080},
   doi          = {10.1109/ICC.2009.5199080},
-  timestamp    = {Thu, 25 May 2017 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/conf/icc/TodiniBV09.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
-
-@article{DBLP:journals/eccc/Venturi09,
-  author       = {Daniele Venturi},
-  title        = {Lecture Notes on Algorithmic Number Theory},
-  journal      = {Electron. Colloquium Comput. Complex.},
-  volume       = {{TR09-062}},
-  year         = {2009},
-  url          = {https://eccc.weizmann.ac.il/report/2009/062},
-  eprinttype    = {ECCC},
-  eprint       = {TR09-062},
-  timestamp    = {Tue, 27 Sep 2022 01:00:00 +0200},
-  biburl       = {https://dblp.org/rec/journals/eccc/Venturi09.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  html = {https://wuwnet.acm.org/2017/},
+  pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
+  dimensions = {true},
+  google_scholar_id = {2osOgNQ5qMEC},
+  selected = {false}
 }
