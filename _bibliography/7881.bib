@@ -21,6 +21,39 @@ In particular, plugging in our constructions of multi-key and multi-input PE, un
   selected = {false}
 }
 
+@inproceedings{DBLP:conf/crypto/BrianFO0024,
+  abbr = {CRYPTO 24},
+  bibtex_show={true},
+  abstract = {Secret sharing enables a dealer to split a secret into a set of shares, in such a way that certain authorized subsets of share holders can reconstruct the secret, whereas all unauthorized subsets cannot.
+Non-malleable secret sharing (Goyal and Kumar, STOC 2018) additionally requires that, even if the shares have been tampered with, the reconstructed secret is either the original or a completely unrelated one.
+In this work, we construct non-malleable secret sharing tolerating -time {\em joint-tampering} attacks in the plain model (in the computational setting), where the latter means that, for any  fixed {\em a priori}, the attacker can tamper with the same target secret sharing up to  times. In particular, assuming one-to-one one-way functions, we obtain:
+- A secret sharing scheme for threshold access structures which tolerates joint -time tampering with subsets of the shares of maximal size ({\em i.e.}, matching the privacy threshold of the scheme). This holds in a model where the attacker commits to a partition of the shares into non-overlapping subsets, and keeps tampering jointly with the shares within such a partition (so-called {\em selective partitioning}).
+- A secret sharing scheme for general access structures which tolerates joint -time tampering with subsets of the shares of size , where  is the number of parties. This holds in a stronger model where the attacker is allowed to adaptively change the partition within each tampering query, under the restriction that once a subset of the shares has been tampered with jointly, that subset is always either tampered jointly or not modified by other tampering queries (so-called {\em semi-adaptive partitioning}).
+At the heart of our result for selective partitioning lies a new technique showing that every one-time {\em statistically} non-malleable secret sharing against joint tampering is in fact {\em leakage-resilient} non-malleable ({\em i.e.},\ the attacker can leak jointly from the shares prior to tampering).
+We believe this may be of independent interest, and in fact we show it implies lower bounds on the share size and randomness complexity of statistically non-malleable secret sharing against {\em independent} tampering.},
+  author       = {Gianluca Brian and
+                  Antonio Faonio and
+                  Maciej Obremski and
+                  Mark Simkin and
+                  Daniele Venturi},
+  editor       = {Daniele Micciancio and
+                  Thomas Ristenpart},
+  title        = {Non-malleable Secret Sharing Against Bounded Joint-Tampering Attacks
+                  in the Plain Model},
+  booktitle    = {40th Annual International Cryptology Conference},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {12172},
+  pages        = {127--155},
+  publisher    = {Springer},
+  year         = {2020},
+  doi          = {10.1007/978-3-030-56877-1\_5},
+  html = {https://crypto.iacr.org/2020/},
+  pdf = {https://eprint.iacr.org/2020/725},
+  dimensions = {true},
+  google_scholar_id = {4fKUyHm3Qg0C},
+  selected = {false}
+}
+
 @inproceedings{DBLP:conf/crypto/ORRSV24,
   abbr = {CRYPTO 24},
   bibtex_show={true},
