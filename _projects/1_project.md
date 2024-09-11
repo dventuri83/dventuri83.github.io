@@ -97,7 +97,7 @@ You may also find useful the following lecture notes from a past edition of the 
 
 <h2>Exams</h2>
 The exam dates for academic year 2024/2025 will be displayed here when available.
-
+<!--
 <u><em>Exam 1</em></u>. Date: 11/01/24. Aula 1 (RM018). Time: 09:00-12:00. <em>Scores</em> [<a href="files/crypto_esame01_2324_scores.pdf">pdf</a>].
 <br>
 <u><em>Exam 2</em></u>. Date: 07/02/24. Aula 1 (RM018). Time: 09:00-12:00. <em>Scores</em> [<a href="files/crypto_esame02_2324_scores.pdf">pdf</a>].
@@ -109,6 +109,7 @@ The exam dates for academic year 2024/2025 will be displayed here when available
 <u><em>Exam 5</em></u>. Date: 04/07/24. Aula 1 (RM018). Time: 09:30-12:30. <em>Scores</em> [<a href="files/crypto_esame05_2324_scores.pdf">pdf</a>].
 <br>
 <u><em>Exam 6</em></u>. Date: 10/09/24. Aula 2 (RM018). Time: 09:30-12:30. <em>Scores</em> [<a href="files/crypto_esame06_2324_scores.pdf">pdf</a>].
+-->
 
 <h2>Announcements</h2>
 <u>11/09/2024:</u> The course will start on September 23rd, 2024.
@@ -197,7 +198,7 @@ The exam dates for academic year 2024/2025 will be displayed here when available
         <!-- and so on... -->
     </tbody>
 </table>
-<br>
+<!--
 The whiteboard notes for each lecture can be downloaded by clicking on the corresponding lecture.
 <br>
 <br>
@@ -363,8 +364,8 @@ The whiteboard notes for each lecture can be downloaded by clicking on the corre
                 <td>Black-box construction of UF-CMA signatures from IND-ID-CPA secure IBE. Black-box construction of CCA secure PKE from selectivly IND-ID-CPA secure IBE.</td>
                 <td>[6]: 5, 6</td>
             </tr>
-            -->
 		</table>             
+-->
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
