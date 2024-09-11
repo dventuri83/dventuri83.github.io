@@ -365,6 +365,5 @@ The whiteboard notes for each lecture can be downloaded by clicking on the corre
                 <td>[6]: 5, 6</td>
             </tr>
 		</table>             
--->
-
 {% endraw %}
+-->

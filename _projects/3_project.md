@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automi, Calcolabilità e Complessità (Autunno 2024)
+title: Automi, Calcolabilita e Complessita (Autunno 2024)
 description: Laurea Triennale in Informatica
 img: assets/img/acc.jpg
 importance: 1
