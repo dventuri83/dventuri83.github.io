@@ -180,8 +180,29 @@ The exam dates for academic year 2024/2025 will be displayed here when available
 -->
 
 <h2>Lectures</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Points</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Dom</td>
+            <td>6000</td>
+        </tr>
+        <tr>
+            <td>Melissa</td>
+            <td>5150</td>
+        </tr>
+        <!-- and so on... -->
+    </tbody>
+</table>
+<br>
 The whiteboard notes for each lecture can be downloaded by clicking on the corresponding lecture.
-<br><br>
+<br>
+<br>
         <table class="alt">
         <colgroup>
         	<col span="1" style="width: 5%;">
