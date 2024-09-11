@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /projects/
-description: A growing collection of courses I am teaching or I have taught in the past.
+description: Courses I am currently teaching.
 nav: true
 nav_order: 3
 display_categories: [work, teaching]
