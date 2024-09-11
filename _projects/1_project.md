@@ -8,7 +8,52 @@ category: work
 related_publications: true
 ---
 
-Che succede se scrivo qui?
+<h2>Syllabus</h2>
+The course is meant to be an introduction to modern cryptography, with a focus on provable security. Below is a tentative list of topics.
+<br><br>
+<em>Information-Theoretic Cryptography:</em>
+<ul>
+<li> Perfect secrecy, one-time pad, Shannon's theorem.
+</li>
+<li> Perfect authentication, universal hashing, extractors, leftover-hash lemma.
+</li>
+</ul>
+
+<em>Computational Security:</em>
+<ul>
+<li> One-Way Functions (OWF) and complexity theory.
+</li>
+<li> Brush-up on number theory, candidate OWF (Factoring, RSA, DL, LWE).
+</li>
+<li> Computational indistinguishability, decisional assumptions (DDH, LWE).
+</li>
+</ul>
+
+<em>Symmetric Cryptography:</em>
+<ul>
+<li> Pseudorandom Generators (PRG), hard-core bits, PRG constructions.
+</li>
+<li> Pseudorandom Functions (PRF), PRF constructions, Feistel networks.
+</li>
+<li> Symmetric encryption: Definitions and constructions, modes of operation.
+</li>
+<li> Message authentication: Definitions and constructions, authenticated encryption.
+</li>
+<li> Hash functions: Random oracle model, first/second pre-image resistance, collision resistance, Merkle-Damgaard construction.
+</li>
+</ul>
+
+<em>Public-Key Cryptography:</em>
+<ul>
+<li> Public-key encryption: Definitions, RSA and ElGamal cryptosystems. Cramer-Shoup encryption.
+</li>
+<li> Digital signatures: Definitions, full-domain hash, signatures from OWF, Waters' signatures.
+</li>
+<li> Identification schemes: Definitions, constructions and applications to signatures.
+</li>
+<li> Identity-based encryption and applications.
+</li>
+</ul>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
