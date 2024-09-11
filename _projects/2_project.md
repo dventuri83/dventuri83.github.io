@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Privacy and Security
+title: Data Privacy and Security (Fall 2024)
 description: Master's Degree in Data Science
 img: assets/img/dps.jpg
 importance: 2

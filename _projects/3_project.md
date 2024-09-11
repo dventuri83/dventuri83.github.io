@@ -1,12 +1,16 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Automi, Calcolabilità e Complessità (Autunno 2024)
+description: Laurea Triennale in Informatica
+img: assets/img/acc.jpg
 importance: 3
 category: work
 ---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/acc.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
