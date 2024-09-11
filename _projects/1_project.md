@@ -183,23 +183,22 @@ The exam dates for academic year 2024/2025 will be displayed here when available
 <table>
     <thead>
         <tr>
-            <th>Name</th>
-            <th>Points</th>
+            <th>Date</th>
+            <th>Topics</th>
+            <th>References</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Dom</td>
-            <td>6000</td>
-        </tr>
-        <tr>
-            <td>Melissa</td>
-            <td>5150</td>
+            <td>Lecture 1 - 24/09/24</td>
+            <td>Introduction to the course. Secure communication: message confidentiality and integrity. Symmetric encryption and perfect secrecy. Equivalent notions of perfect secrecy. The one-time pad and Shannon's impossibility result.</td>
+            <td>[1]: Chap. 1</td>
         </tr>
         <!-- and so on... -->
     </tbody>
 </table>
-<br>
+
+<!-- <br>
 The whiteboard notes for each lecture can be downloaded by clicking on the corresponding lecture.
 <br>
 <br>
@@ -365,10 +364,9 @@ The whiteboard notes for each lecture can be downloaded by clicking on the corre
                 <td>Black-box construction of UF-CMA signatures from IND-ID-CPA secure IBE. Black-box construction of CCA secure PKE from selectivly IND-ID-CPA secure IBE.</td>
                 <td>[6]: 5, 6</td>
             </tr>
-            -->
 		</table>             
-
-Every project has a beautiful feature showcase page.
+-->
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -439,3 +437,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+-->
