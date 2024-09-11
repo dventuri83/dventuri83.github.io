@@ -2,11 +2,16 @@
 layout: page
 title: Cryptography (Fall 2024)
 description: Master's Degree in Computer Science, Master's Degree in Cybersecurity, Master's Degree in Mathematics
-img: assets/img/12.jpg
+img: assets/img/crypto.jpg
 importance: 1
 category: work
 related_publications: true
 ---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/crypto.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <h2>Syllabus</h2>
 The course is meant to be an introduction to modern cryptography, with a focus on provable security. Below is a tentative list of topics.
@@ -57,7 +62,6 @@ The course is meant to be an introduction to modern cryptography, with a focus o
 
 <h2>Logistics</h2>
 <p style="color:red;"><b> Important: </b>The lectures are offered exclusively in-person (with no registration taking place). </p>
-<!-- Please use <a href="https://forms.gle/oh7oegAWFeSBMWUt5">this form</a> to record your attendance to each lecture (the latter is required only to track possible covid-19 cases). -->
 <em>Lecture time:</em> Tuesday (8:00am - 11:00am) and Friday (11:00am - 13:00am).
 <br>
 <em>Location:</em> Aula Magna - Viale Regina Elena 295.
@@ -65,15 +69,9 @@ The course is meant to be an introduction to modern cryptography, with a focus o
 <em>Twitter:</em> <a href="https://twitter.com/SapienzaCrypto">@SapienzaCrypto</a>.
 <br>
 <em>Google Group:</em> <a href="https://groups.google.com/u/2/a/uniroma1.it/g/sapienzacrypto">SapienzaCrypto</a>.
-<!--
-<em>Google Classroom:</em> The homework will be managed using Google Classroom. Please <a href="https://classroom.google.com/c/MTYyOTcyNDI5NTE0?cjc=zedm4z2">register</a> to the class as soon as possible using your official Sapienza email address. The class code is zedm4z2.
-<br>
-<em>Zoom:</em> Meeting ID: 896 1242 4321; Passcode: 721295
-<p style="color:red;"><b>Important:</b> You can access the Zoom meeting automatically using an institutional email address from the domain *.uniroma1.it. In case you don't have such an email address but still want to follow the course, drop me a line by email. When the lecture starts you will end up in a waiting room and then I will let you in (so long as you show up within 10 minutes from the official starting time).</p>
--->
 
 <h2>Grading</h2>
-Written exam. The written exam lasts 3 hours and consists of 3 excercises and 1 open questions. Books, notes and electronic devices are not allowed during the exam.
+Written exam. The written exam lasts 3 hours and consists of 3 exercises and 3 open questions. Books, notes and electronic devices are not allowed during the exam.
 
 <h2>References</h2>
 We will not follow a single book; the following textbooks are suggested as reference and for deeper study:
@@ -97,16 +95,9 @@ You may also find useful the following lecture notes from a past edition of the 
 </li>
 </ul>
 
-<!--
-<h2><font color="white">Homework</font></h2>
-There will be 1 homework during the course, which will be made available through the Google Classroom page dedicated to the course (see above). The deadline for handing in the homework is strict. Only PDF files will be accepted. Make sure to clearly write your name and student ID; collaboration with your colleagues is welcome, but each student is required to write its own version of the solution. Evident cases of plagiarism will be penalized.
-<br><br>
-<u><em>Homework</em></u>. Due date: November 17, 2020 (EOD). The homework is available on Google Classroom. In case you don't have an institutional email address, but still want to hand in the homework, drop me an email.
-<br>
-<u><em>Homework 2</em></u> [<a href="files/hw2_1920.pdf">pdf</a>]. Due date: December 18th, 2019. <em>Scores</em> [<a href="files/hw2_1920_scores.pdf">pdf</a>].
--->
-
 <h2>Exams</h2>
+The exam dates for academic year 2024/2025 will be displayed here when available.
+
 <u><em>Exam 1</em></u>. Date: 11/01/24. Aula 1 (RM018). Time: 09:00-12:00. <em>Scores</em> [<a href="files/crypto_esame01_2324_scores.pdf">pdf</a>].
 <br>
 <u><em>Exam 2</em></u>. Date: 07/02/24. Aula 1 (RM018). Time: 09:00-12:00. <em>Scores</em> [<a href="files/crypto_esame02_2324_scores.pdf">pdf</a>].
@@ -120,12 +111,12 @@ There will be 1 homework during the course, which will be made available through
 <u><em>Exam 6</em></u>. Date: 10/09/24. Aula 2 (RM018). Time: 09:30-12:30. <em>Scores</em> [<a href="files/crypto_esame06_2324_scores.pdf">pdf</a>].
 
 <h2>Announcements</h2>
-<u>24/09/2023:</u> The course will start on September 26th, 2023.
+<u>11/09/2024:</u> The course will start on September 23rd, 2024.
+<!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
 <br>
 <u>19/10/2023:</u> The students are invited to join the next appointment in the series of seminars <a href="https://www.di.uniroma1.it/it/notizie/seminari/distinguished-lectures">Distinguished Lectures</a>, hosted by the Computer Science Department. The talk is on 23/10/23 and starts at 12pm in Viale Regina Elena 295, Building D, Room 101.
-<!--
 <br>
 <u>03/11/2022:</u> The lecture on 04/11/2022 will take place remotely via <a href="https://uniroma1.zoom.us/j/93815848058?pwd=Q0swODd3WlY0R095Sk0rWGg0bDZUQT09">Zoom</a>. The lecture will be recorded, and the recording will be made available for 7 days.
 <br>
