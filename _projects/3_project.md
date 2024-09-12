@@ -13,90 +13,54 @@ related_publications: true
     </div>
 </div>
 
-<h2>Syllabus</h2>
-The course is meant to be an introduction to modern cryptography, with a focus on provable security. Below is a tentative list of topics.
+<h2>Contenuto del Corso</h2>
+Durante il corso saranno introdotti i pi&ugrave; importanti risultati dell'Informatica teorica: a partire dai fondamentali risultati in teoria della calcolabilit&agrave; degli anni trenta, passando per quelli in teoria degli automi degli anni cinquanta per arrivare al problema aperto P contenuto o uguale a NP, esplicitamente sollevato negli anni settanta.
 <br><br>
-<em>Information-Theoretic Cryptography:</em>
+<em>Teoria degli automi:</em>
 <ul>
-<li> Perfect secrecy, one-time pad, Shannon's theorem.
+<li> Linguaggi regolari e non regolari, automi finiti e non determinismo.
 </li>
-<li> Perfect authentication, universal hashing, extractors, leftover-hash lemma.
+<li> Grammatiche acontestuali, automi a pila.
 </li>
 </ul>
 
-<em>Computational Security:</em>
+<em>Teoria della calcolabilit&agrave;:</em>
 <ul>
-<li> One-Way Functions (OWF) and complexity theory.
+<li> La tesi di Church-Turing e la macchina di Turing.
 </li>
-<li> Brush-up on number theory, candidate OWF (Factoring, RSA, DL, LWE).
+<li> Linguaggi decidibili e non decidibili.
 </li>
-<li> Computational indistinguishability, decisional assumptions (DDH, LWE).
+<li> Riducibilit&agrave;.
 </li>
 </ul>
 
-<em>Symmetric Cryptography:</em>
+<em>Teoria della complessit&agrave;</em>
 <ul>
-<li> Pseudorandom Generators (PRG), hard-core bits, PRG constructions.
+<li> Complessit&agrave; di tempo e di spazio.
 </li>
-<li> Pseudorandom Functions (PRF), PRF constructions, Feistel networks.
+<li> Le classi P ed NP.
 </li>
-<li> Symmetric encryption: Definitions and constructions, modes of operation.
-</li>
-<li> Message authentication: Definitions and constructions, authenticated encryption.
-</li>
-<li> Hash functions: Random oracle model, first/second pre-image resistance, collision resistance, Merkle-Damgaard construction.
+<li> NP completezza.
 </li>
 </ul>
 
-<em>Public-Key Cryptography:</em>
-<ul>
-<li> Public-key encryption: Definitions, RSA and ElGamal cryptosystems. Cramer-Shoup encryption.
-</li>
-<li> Digital signatures: Definitions, full-domain hash, signatures from OWF, Waters' signatures.
-</li>
-<li> Identification schemes: Definitions, constructions and applications to signatures.
-</li>
-<li> Identity-based encryption and applications.
-</li>
-</ul>
-
-<h2>Logistics</h2>
-<p style="color:red;"><b> Important: </b>The lectures are offered exclusively in-person (with no registration taking place). </p>
-<em>Lecture time:</em> Tuesday (8:00am - 11:00am) and Friday (11:00am - 13:00am).
+<h2>Logistica</h2>
+<p style="color:red;"><b> Importante: </b>Le lezioni avvengono esclusivamente in presenza (senza registrazioni).</p>
+<em>Orario:</em> Mercoled&igrave; (08:00 - 11:00) e Venerd&igrave; (15:00 - 17:00).
 <br>
-<em>Location:</em> Aula Magna - Viale Regina Elena 295.
-<br>
-<em>Twitter:</em> <a href="https://twitter.com/SapienzaCrypto">@SapienzaCrypto</a>.
-<br>
-<em>Google Group:</em> <a href="https://groups.google.com/u/2/a/uniroma1.it/g/sapienzacrypto">SapienzaCrypto</a>.
+<em>Aula:</em> La lezione del Mercoled&igrave; è in Aula 3L -- Via del Castro Laurenziano 7a. La lezione del Venerdì è in Aula De Lollis 1 --- ???.
 
-<h2>Grading</h2>
-Written exam. The written exam lasts 3 hours and consists of 3 exercises and 3 open questions. Books, notes and electronic devices are not allowed during the exam.
+<h2>Modalit&agrave; di Esame</h2>
+Prova scritta. La prova consiste nella risoluzione di tre esercizi e nella risposta a tre domande di teoria.
 
-<h2>References</h2>
-We will not follow a single book; the following textbooks are suggested as reference and for deeper study:
+<h2>Bibliografia</h2>
 <ul>
-<li>[1] Daniele Venturi, <em><a href="http://www.springer.com/us/book/9788847024809">Crittografia nel Paese delle Meraviglie</a></em>, Springer, Collana di Informatica, 2012.
-</li>
-<li>[2] Jonathan Katz and Yehuda Lindell, <em><a href="https://www.crcpress.com/Introduction-to-Modern-Cryptography-Second-Edition/Katz-Lindell/p/book/9781466570269">Introduction to Modern Cryptography</a></em>, CRC Press, Second Edition, 2014.
-</li>
-<li>[3] Jonathan Katz, <em><a href="http://www.springer.com/us/book/9780387277110">Digital Signatures</a></em>, Springer, 2010.
-</li>
-<li>[4] Salil P. Vadhan, <em><a href="http://www.nowpublishers.com/article/Details/TCS-010">Pseudorandomness</a></em>, Foundations and Trends in Theoretical Computer Science, Vol. 7, Issue 1-3, 2012. Freely available <a href="http://people.seas.harvard.edu/~salil/pseudorandomness/">here</a>.
-</li>
-<li>[5] Jonathan Katz, Lecture Notes for a course on <em><a href="http://www.cs.umd.edu/~jkatz/gradcrypto2/">Advanced Topics in Cryptography</a></em>, (Sping 2004). Lecture 9 and Lecture 10 are about the Cramer-Shoup PKE scheme.
-</li>
-<li>[6] Sanjit Chatterjee and Palash Sarkar, <em><a href="https://www.springer.com/la/book/9781441993823">Identity-Based Encryption</a></em>, Springer, 2011.
-</li>
-</ul>
-You may also find useful the following lecture notes from a past edition of the course (although not reviewed by myself):
-<ul>
-<li>[7] Michele Laurenti, <em><a href="https://github.com/asmeikal/crypto16/tree/master/notes">Lecture Notes for the Cryptography Course</a></em>, Sapienza University of Rome, A. Y. 2016/2017.
+<li>Michael Sipser, <em><a href="https://www.hoepli.it/libro/introduzione-alla-teoria-della-computazione/9788891616180.html?origin=google-shopping">Introduzione alla Teoria della Computazione</a></em>, Maggioli Editore, 2016.
 </li>
 </ul>
 
-<h2>Exams</h2>
-The exam dates for academic year 2024/2025 will be displayed here when available.
+<h2>Esami</h2>
+Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena disponibili.
 <!--
 <u><em>Exam 1</em></u>. Date: 11/01/24. Aula 1 (RM018). Time: 09:00-12:00. <em>Scores</em> [<a href="files/crypto_esame01_2324_scores.pdf">pdf</a>].
 <br>
@@ -111,8 +75,8 @@ The exam dates for academic year 2024/2025 will be displayed here when available
 <u><em>Exam 6</em></u>. Date: 10/09/24. Aula 2 (RM018). Time: 09:30-12:30. <em>Scores</em> [<a href="files/crypto_esame06_2324_scores.pdf">pdf</a>].
 -->
 
-<h2>Announcements</h2>
-<u>11/09/2024:</u> The course will start on September 23rd, 2024.
+<h2>Avvisi</h2>
+<u>11/09/2024:</u> Il corso inizierà il 25 settembre 2024.
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
@@ -180,7 +144,7 @@ The exam dates for academic year 2024/2025 will be displayed here when available
 <u>24/08/2021:</u> Following Sapienza regulations, the exam in September will take place physically. Remote participation is also possible, in exceptional cases, after emailing the professor.
 -->
 
-<h2>Lectures</h2>
+<h2>Diario delle lezioni</h2>
 <table>
     <thead>
         <tr>
