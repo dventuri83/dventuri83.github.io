@@ -62,6 +62,8 @@ The course is meant to be an introduction to modern cryptography, with a focus o
 
 <h2>Logistics</h2>
 <p style="color:red;"><b> Important: </b>The lectures are offered exclusively in-person (with no registration taking place). </p>
+<br>
+<p style="color:red;"><b> Important: </b>The lecture on 24/09/24 will take place in Aula IV Matematica - Edificio Castelnuovo, Città Universitaria. </p>
 <em>Lecture time:</em> Tuesday (8:00am - 11:00am) and Friday (11:00am - 13:00am).
 <br>
 <em>Location:</em> The lectures on Tuesday take place in Aula Magna - Viale Regina Elena 295. The lectures on Friday take place in Aula 1L - Via del Castro Laurenziano 7a.
@@ -112,7 +114,7 @@ The exam dates for academic year 2024/2025 will be displayed here when available
 -->
 
 <h2>Announcements</h2>
-<u>11/09/2024:</u> The course will start on September 24th, 2024.
+<u>12/09/2024:</u> The course will start on September 24th, 2024. Due to the ongoing construction works in Aula Magna, the lecture on 24/09/2024 will take place in Aula IV Matematica - Edificio Castelnuovo, Città Universitaria.
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
