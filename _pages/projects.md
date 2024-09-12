@@ -1,7 +1,7 @@
 ---
 layout: page
 title: teaching
-permalink: /teaching/
+permalink: /projects/
 description: This page contains all the courses I am currently teaching at the university.
 nav: true
 nav_order: 3
@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<div class="teaching">
+<div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
