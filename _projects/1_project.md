@@ -64,7 +64,7 @@ The course is meant to be an introduction to modern cryptography, with a focus o
 <p style="color:red;"><b> Important: </b>The lectures are offered exclusively in-person (with no registration taking place). </p>
 <em>Lecture time:</em> Tuesday (8:00am - 11:00am) and Friday (11:00am - 13:00am).
 <br>
-<em>Location:</em> Aula Magna - Viale Regina Elena 295.
+<em>Location:</em> The lectures on Tuesday take place in Aula Magna - Viale Regina Elena 295. The lectures on Friday take place in Aula 1L - Via del Castro Laurenziano 7a.
 <br>
 <em>Twitter:</em> <a href="https://twitter.com/SapienzaCrypto">@SapienzaCrypto</a>.
 <br>
@@ -112,7 +112,7 @@ The exam dates for academic year 2024/2025 will be displayed here when available
 -->
 
 <h2>Announcements</h2>
-<u>11/09/2024:</u> The course will start on September 23rd, 2024.
+<u>11/09/2024:</u> The course will start on September 24th, 2024.
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
@@ -191,7 +191,7 @@ The exam dates for academic year 2024/2025 will be displayed here when available
     </thead>
     <tbody>
         <tr>
-            <td>Lecture 1 - 24/09/24</td>
+            <td>Lecture 1 24/09/24</td>
             <td>Introduction to the course. Secure communication: message confidentiality and integrity. Symmetric encryption and perfect secrecy. Equivalent notions of perfect secrecy. The one-time pad and Shannon's impossibility result.</td>
             <td>[1]: Chap. 1</td>
         </tr>

@@ -67,36 +67,138 @@ The course is meant to cover an overview of modern techniques aimed at protectin
 
 <h2>Logistics</h2>
 <p style="color:red;"><b> Important: </b>The lectures are offered exclusively in-person (with no registration taking place). </p>
-<em>Lecture time:</em> Tuesday (8:00am - 11:00am) and Friday (11:00am - 13:00am).
+<em>Lecture time:</em> Tuesday (15:00 - 17:00) and Thursday (12:00 - 15:00).
 <br>
-<em>Location:</em> Aula Magna - Viale Regina Elena 295.
+<em>Location:</em> Room A2 - Via Ariosto 25, Rome.
 <br>
 <em>Twitter:</em> <a href="https://twitter.com/SapienzaCrypto">@SapienzaCrypto</a>.
 <br>
 <em>Google Group:</em> <a href="https://groups.google.com/u/2/a/uniroma1.it/g/sapienzacrypto">SapienzaCrypto</a>.
 
 <h2>Grading</h2>
-Written exam. The written exam lasts 3 hours and consists of 3 exercises and 3 open questions. Books, notes and electronic devices are not allowed during the exam.
+Project (30%), oral exam (70%).
 
-<h2>References</h2>
-We will not follow a single book; the following textbooks are suggested as reference and for deeper study:
+<h2>Course Slides</h2>
 <ul>
-<li>[1] Daniele Venturi, <em><a href="http://www.springer.com/us/book/9788847024809">Crittografia nel Paese delle Meraviglie</a></em>, Springer, Collana di Informatica, 2012.
+<li> Course info [<a href="https://danieleventuri.altervista.org/files/00_Course_Info.pdf">pdf</a>].
 </li>
-<li>[2] Jonathan Katz and Yehuda Lindell, <em><a href="https://www.crcpress.com/Introduction-to-Modern-Cryptography-Second-Edition/Katz-Lindell/p/book/9781466570269">Introduction to Modern Cryptography</a></em>, CRC Press, Second Edition, 2014.
+<li> Chapter 1: Secret-key cryptography [<a href="https://danieleventuri.altervista.org/files/01_Crypto_101_Sym.pdf">pdf</a>].
 </li>
-<li>[3] Jonathan Katz, <em><a href="http://www.springer.com/us/book/9780387277110">Digital Signatures</a></em>, Springer, 2010.
+<li> Chapter 2: Public-key cryptography [<a href="https://danieleventuri.altervista.org/files/02_Crypto_101_Asym.pdf">pdf</a>].
 </li>
-<li>[4] Salil P. Vadhan, <em><a href="http://www.nowpublishers.com/article/Details/TCS-010">Pseudorandomness</a></em>, Foundations and Trends in Theoretical Computer Science, Vol. 7, Issue 1-3, 2012. Freely available <a href="http://people.seas.harvard.edu/~salil/pseudorandomness/">here</a>.
+<li> Chapter 3: Applications [<a href="https://danieleventuri.altervista.org/files/03_Crypto_101_Apps.pdf">pdf</a>].
 </li>
-<li>[5] Jonathan Katz, Lecture Notes for a course on <em><a href="http://www.cs.umd.edu/~jkatz/gradcrypto2/">Advanced Topics in Cryptography</a></em>, (Sping 2004). Lecture 9 and Lecture 10 are about the Cramer-Shoup PKE scheme.
+<li> Chapter 4: Big data and cloud cryptography [<a href="https://danieleventuri.altervista.org/files/04_BigData_Cloud.pdf">pdf</a>].
 </li>
-<li>[6] Sanjit Chatterjee and Palash Sarkar, <em><a href="https://www.springer.com/la/book/9781441993823">Identity-Based Encryption</a></em>, Springer, 2011.
+<li> Chapter 5: Differential privacy [<a href="https://danieleventuri.altervista.org/files/05_Diff_Priv.pdf">pdf</a>].
+</li>
+<li> Chapter 6: Bitcoin [<a href="https://danieleventuri.altervista.org/files/06_Bitcoin.pdf">pdf</a>].
+</li>
+<li> Chapter 7: Alternative currencies [<a href="https://danieleventuri.altervista.org/files/07_Alt_Curr.pdf">pdf</a>].
+</li>
+<li> Chapter 8: Secure Multiparty Computation [<a href="https://danieleventuri.altervista.org/files/08_MPC.pdf">pdf</a>].
 </li>
 </ul>
-You may also find useful the following lecture notes from a past edition of the course (although not reviewed by myself):
+
+<h2>References</h2>
+While we will not follow a single book; the following sources are suggested as reference. However, only the material included in the slides will be part of the oral exam.
 <ul>
-<li>[7] Michele Laurenti, <em><a href="https://github.com/asmeikal/crypto16/tree/master/notes">Lecture Notes for the Cryptography Course</a></em>, Sapienza University of Rome, A. Y. 2016/2017.
+<li> [1] Daniele Venturi. <em><a href="http://www.springer.com/us/book/9788847024809">Crittografia nel Paese delle Meraviglie</a></em>, Springer, Collana di Informatica, 2012.
+</li>
+<li> [2] Jonathan Katz, Yehuda Lindell. <em><a href="https://www.crcpress.com/Introduction-to-Modern-Cryptography-Second-Edition/Katz-Lindell/p/book/9781466570269">Introduction to Modern Cryptography</a></em>, CRC Press, Second Edition, 2014.
+</li>
+<li> [3] Dan Boneh, Matthew Franklin. <em><a href="https://crypto.stanford.edu/~dabo/papers/bfibe.pdf">Identity-Based Encryption from the Weil Pairing</a></em>, SIAM J. of Computing, Vol. 32, No. 3, 2003.
+</li>
+<li> [4] Jonathan Katz, Ji Sun Shin. <em><a href="https://eprint.iacr.org/2005/461">Parallel and Concurrent Security of the HB and HB+ Protocols</a></em>, EUROCRYPT 2006.
+</li>
+<li> [5] Hugo Krawczyk. <em><a href="http://webee.technion.ac.il/~hugo/sigma-pdf.pdf">SIGMA: The "SIGn-and-MAc" Approach to Authenticated Diffie-Hellman and its Use in the IKE Protocols</a></em>, CRYPTO 2003.
+</li>
+<li> [6] Ari Juels, Thomas Ristenpart. <em><a href="https://eprint.iacr.org/2014/155">Honey Encryption: Security Beyond the Brute-Force Bound</a></em>, EUROCRYPT 2014.
+</li>
+<li> [7] Dan Boneh, Amit Sahai, Brent Waters. <em><a href="https://eprint.iacr.org/2010/543">Functional Encryption: Definitions and Challenges</a></em>, Theory of Cryptography Conference 2011.
+</li>
+<li> [8] Vipul Goyal, Omkant Pandey, Amit Sahai, Brent Waters. <em><a href="https://eprint.iacr.org/2006/309">Attribute-Based Encryption for Fine-Grained Access Control of Encrypted Data</a></em>, CCS 2006.
+</li>
+<li> [9] Shai Halevi. <em><a href="https://www.springer.com/gp/book/9783319570471">Homomorphic Encryption</a></em>, Chapter 5 of Tutorials on the Foundations of Cryptography, Yehuda Lindell Ed., Springer, 2017.
+</li>
+<li> [10] Bryan Parno, Mariana Raykova, Vinod Vaikuntanathan. <em><a href="">How to Delegate and Verify in Public: Verifiable Computation from Attribute-based Encryption</a></em>, Theory of Cryptography Conference 2012.
+</li>
+<li> [11] Hovav Shacham, Brent Water. <em><a href="https://hovav.net/ucsd/dist/verstore.pdf">Compact Proofs of Retrievability</a></em>,  Journal of Cryptology 26(3): 442-483 (2013).
+</li>
+<li> [12] Salil Vadhan. <em><a href="https://www.springer.com/gp/book/9783319570471">The Complexity of Differential Privacy</a></em>, Chapter 7 of Tutorials on the Foundations of Cryptography, Yehuda Lindell Ed., Springer, 2017.
+</li>
+<li> [13] Satoshi Nakamoto. <em><a href="https://bitcoin.org/bitcoin.pdf">Bitcoin: A Peer-to-Peer Electronic Cash System</a></em>, Bitcoin white paper.
+</li>
+<li> [14] Meni Rosenfeld. <em><a href="">Analysis of Bitcoin Pooled Mining Reward Systems</a></em>, CoRR abs/1112.4980, 2011.
+</li>
+<li> [15] Ittay Eyal, Emin Gun Sirer. <em><a href="https://bitcoin.org/bitcoin.pdf">Majority Is Not Enough: Bitcoin Mining Is Vulnerable</a></em>, Financial Cryptography 2014.
+</li>
+<li> [16] Dongning Guo and Ling Ren. <em><a href="https://arxiv.org/abs/2203.06357">Bitcoin's Latency--Security Analysis Made Simple.</a></em>, ACM Advances in Financial Cryptography 2022.
+</li>
+<li> [17] Joseph Poon, Thaddeus Dryja. <em><a href="https://lightning.network/lightning-network-paper.pdf">The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments</a></em>, Lightning Network white paper, 2016.
+</li>
+<li> [18] Aggelos Kiayias, Alexander Russell, Bernardo David, Roman Oliynykov. <em><a href="https://eprint.iacr.org/2016/889.pdf">Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol</a></em>, CRYPTO 2017.
+</li>  
+<li> [19] Silvio Micali. <em><a href="https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Distributed%20Computation/BYZANTYNE%20AGREEMENT%20MADE%20TRIVIAL.pdf">Byzantine Agreement Made Simple</a></em>, Innovations in Theoretical Computer Science 2017.
+</li>
+<li> [20] Jing Chen, Silvio Micali. <em><a href="https://arxiv.org/abs/1607.01341">Algorand</a></em>, technical paper, 2017.
+</li>
+<li> [21] Stefan Dziembowski, Sebastian Faust, Vladimir Kolmogorov, Krzysztof Pietrzak. <em><a href="https://eprint.iacr.org/2013/796.pdf">Proofs of Space</a></em>, CRYPTO 2015.
+</li>  
+<li> [22] Sunoo Park, Albert Kwon, Georg Fuchsbauer, Peter Gazi, Joel Alwen, Krzysztof Pietrzak. <em><a href="https://eprint.iacr.org/2015/528.pdf">SpaceMint: A Cryptocurrency Based on Proofs of Space</a></em>, Financial Cryptography 2018.
+</li>  
+<li> [23] Eli Ben-Sasson, Alessandro Chiesa, Christina Garman, Matthew Green, Ian Miers, Eran Tromer, Madars Virza. <em><a href="http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf">Zerocash: Decentralized Anonymous Payments from Bitcoin</a></em>, IEEE Symposium on Security and Privacy, 2014.
+</li>
+<li> [24] Carmit Hazay and Yehuda Lindell. <em><a href="http://www.springer.com/la/book/9783642143021">Efficient Secure Two-Party Protocols</a></em>, Springer, 2010.
+</li>
+<li> [25] Marcin Andrychowicz, Stefan Dziembowski, Daniel Malinowski, Lukasz Mazurek. <em><a href="https://eprint.iacr.org/2013/784.pdf">Secure Multiparty Computations on Bitcoin</a></em>, IEEE Symposium on Security and Privacy 2014.
+</li>  
+<li> [26] Giuseppe Ateniese, Bernardo Magri, Daniele Venturi, Ewerton Andrade. <em><a href="https://eprint.iacr.org/2016/757">Redactable Blockchain -- or -- Rewriting History in Bitcoin and Friends</a></em>, IEEE European Symposium on Security and Privacy, 2017.
+</li>
+</ul>
+
+<h2>Students' Projects</h2>
+As part of the exam, students are required to solve a small project and present the solution during the exam. The list of available projects is shown below; proposals for further projects are always welcome. In order to pick a project, it suffices to write me an email.
+<br>
+<h4><font color="black">List of Projects (By Topic)</font></h4>
+The following is a good reference for solving some of the projects below using Python:
+<br><br>
+Al Sweigart, <em><a href="http://inventwithpython.com/hackingciphers.pdf">Hacking Secret Ciphers with Python</a></em>, Creative Commons, 2013.
+<br><br>
+<ul>
+<li><u>Secret-Key Cryptography:</u>
+<ul>
+<li> <b>Inside Rijndael</b>. The goal of this project is to gain a better understanding of the arithmetic in Rijndael's finite field (underlying the AES blockcipher). Write a program (using your favourite programming language) able to perform the basic operations in <a href="https://en.wikipedia.org/wiki/Finite_field_arithmetic#Rijndael's_finite_field">Rijndael's finite field</a>, using the <a href="https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm#Polynomial_extended_Euclidean_algorithm">extended Euclidean algorithm</a> for computing the multiplicative inverse of a polynomial. Next, use your program to re-generate the AES S-Boxes (for both encryption and decryption).
+</li>
+<li><s><b>Ancient Ciphers</b>. The goal of this project is to learn how to implement and break some of the blockciphers commonly used in the past. Write a program (using your favourite programming language) implementing encryption/decryption, as well as efficient attacks, on the following blockciphers: The <a href="https://en.wikipedia.org/wiki/Caesar_cipher">Caesar Cipher</a>, the <a href="https://en.wikipedia.org/wiki/Transposition_cipher">Transposition Cipher</a>, the <a href="https://en.wikipedia.org/wiki/Affine_cipher">Affine Cipher</a>, and the <a href="https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher">Vigenere Cipher</a>.</s>
+</li>
+</ul>
+<li><u>Public-Key Cryptography:</u>
+<ul>
+<li><s><b>Primality Testing</b>. The goal of this project is to better understand the task of primality testing. Write a program (using your favourite programming language) implementing the following primality testing algorithms: The <a href="https://en.wikipedia.org/wiki/Fermat_primality_test">Fermat's Test</a> and the <a href="https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test">Miller-Rabin Test</a>. Compare the performances of the two tests.</s>
+</li>
+<li><s><b>Inside RSA</b>. The goal of this project is to better understand the number theory behind the RSA cryptosystem. Write programs (using your favourite programming language) for the following tasks: (i) Computing the gcd; (ii) Computing the modular multiplicative inverse (when it exists); (iii) Encryption/Decryption with Textbook RSA; (iv) Signature with Full-Domain Hash.</s>
+</li>
+</ul>
+<li><u>Differential Privacy:</u>
+<ul>
+<li> <b>Experiments with Differential Privacy.</b> This project can be chosen <u>by an arbitrary number of students</u>, Implement some of the differentially private mechanisms studied in class (using any programming language of your choice), and apply it to solve a toy use case which is relevant for data science.
+</li>
+</ul>
+<li><u>Blockchain:</u>
+<ul>
+<li> <b>Ethereumlab.</b> Learn how to implement a secure smart contract. This project can be chosen <u>by an arbitrary number of students</u>, with the idea that each student should implement a different smart contract for a toy application of his/her choice. Reference: <em><a href="https://remix.ethereum.org">Remix</a></em>.
+</li>
+</ul>
+<li><u>Secure Computation:</u>
+<ul>
+<li> <b>SCAPI.</b> Learn how to implement secure multiparty computation protocols (in java). This project can be chosen by an arbitrary number of students, with the idea that each student should implement a protocol for a different application of his/her choice. Reference: <em><a href="https://eprint.iacr.org/2012/629">SCAPI: The Secure Computation Application Programming Interface</a></em>.
+</li>
+</ul>
+</li>
+<li><u>Bonus Topics:</u>
+<ul>
+<li> <b>Steganography.</b> The goal of this project is to get the basics about steganography and steganalysis. Write programs (using your favourite programming language) for the following  tasks: (i) Encrypt/decrypt using the LSB algorithm; (ii) Encrypt/decrypt using JSteg; (iii) Steganalysis of JSteg; (iv) Steganalysis of LSB.
 </li>
 </ul>
 
@@ -117,7 +219,7 @@ The exam dates for academic year 2024/2025 will be displayed here when available
 -->
 
 <h2>Announcements</h2>
-<u>11/09/2024:</u> The course will start on September 23rd, 2024.
+<u>11/09/2024:</u> The course will start on September 24th, 2024.
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
@@ -196,8 +298,8 @@ The exam dates for academic year 2024/2025 will be displayed here when available
     </thead>
     <tbody>
         <tr>
-            <td>Lecture 1 - 24/09/24</td>
-            <td>Introduction to the course. Secure communication: message confidentiality and integrity. Symmetric encryption and perfect secrecy. Equivalent notions of perfect secrecy. The one-time pad and Shannon's impossibility result.</td>
+            <td>Lecture 1 24/09/24</td>
+            <td>TBA.</td>
             <td>[1]: Chap. 1</td>
         </tr>
         <!-- and so on... -->
