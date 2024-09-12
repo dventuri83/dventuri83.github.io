@@ -62,7 +62,6 @@ The course is meant to be an introduction to modern cryptography, with a focus o
 
 <h2>Logistics</h2>
 <p style="color:red;"><b> Important: </b>The lectures are offered exclusively in-person (with no registration taking place). </p>
-<br>
 <p style="color:red;"><b> Important: </b>The lecture on 24/09/24 will take place in Aula IV Matematica - Edificio Castelnuovo, Città Universitaria. </p>
 <em>Lecture time:</em> Tuesday (8:00am - 11:00am) and Friday (11:00am - 13:00am).
 <br>
