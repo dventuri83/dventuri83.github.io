@@ -16,7 +16,7 @@ related_publications: true
 <h2>Syllabus</h2>
 The course is meant to cover an overview of modern techniques aimed at protecting data privacy and security in digital applications. Below is a tentative list of topics.
 <br><br>
-<em>Brush-up on Cryptography:</em>
+<em>Introduction to cryptography:</em>
 <ul>
 <li> Confidential communication, secret-key and public-key encryption.
 </li>
@@ -24,24 +24,16 @@ The course is meant to cover an overview of modern techniques aimed at protectin
 </li>
 <li> Key exchange protocols and TLS.
 </li>
-<li> Cryptographic applications (authentication protocols, passwords, ...).</li>
-</ul>
-
-<em>Outsourcing of storage and computation:</em>
-<ul>
-<li> Proofs of storage and proofs of retrievability.
-</li>
-<li> Verifiable computation.
-</li>
+<li> Post-quantum cryptography. Fully-homomorphic encryption.</li>
 </ul>
 
 <em>Differential Privacy:</em>
 <ul>
-<li> Privacy-preserving statistical databases.
+<li> Approximate and pure differential privacy. Properties.
 </li>
-<li> The Laplace mechanism and the exponential mechanism.
+<li> Examples of differentially-private mechanisms: randomized responses, the Laplace mechanism, the Gaussian mechanism, the exponential mechanism.
 </li>
-<li> Lower bounds.
+<li> Lower bounds on differentially-private mechanisms.
 </li>
 </ul>
 
@@ -49,9 +41,9 @@ The course is meant to cover an overview of modern techniques aimed at protectin
 <ul>
 <li> The Bitcoin protocol.
 </li>
-<li> Ethereum Smart contracts.
+<li> Ethereum and smart contracts.
 </li>
-<li> Altcoins (Algorand, Cardano, ZCash, Spacemint).
+<li> Altcoins (Algorand, Cardano, ZCash, ...).
 </li>
 </ul>
 
@@ -76,7 +68,7 @@ The course is meant to cover an overview of modern techniques aimed at protectin
 <em>Google Group:</em> <a href="https://groups.google.com/u/2/a/uniroma1.it/g/sapienzacrypto">SapienzaCrypto</a>.
 
 <h2>Grading</h2>
-Project (30%), oral exam (70%).
+Student's presentation (30%), oral exam (70%).
 
 <h2>Course Slides</h2>
 <ul>
@@ -103,10 +95,15 @@ Project (30%), oral exam (70%).
 <h2>References</h2>
 While we will not follow a single book; the following sources are suggested as reference. However, only the material included in the slides will be part of the oral exam.
 <ul>
-<li> [1] Daniele Venturi. <em><a href="http://www.springer.com/us/book/9788847024809">Crittografia nel Paese delle Meraviglie</a></em>, Springer, Collana di Informatica, 2012.
+<li> Daniele Venturi. <em><a href="http://www.springer.com/us/book/9788847024809">Crittografia nel Paese delle Meraviglie</a></em>, Springer, Collana di Informatica, 2012.
 </li>
-<li> [2] Jonathan Katz, Yehuda Lindell. <em><a href="https://www.crcpress.com/Introduction-to-Modern-Cryptography-Second-Edition/Katz-Lindell/p/book/9781466570269">Introduction to Modern Cryptography</a></em>, CRC Press, Second Edition, 2014.
+<li> Jonathan Katz, Yehuda Lindell. <em><a href="https://www.crcpress.com/Introduction-to-Modern-Cryptography-Second-Edition/Katz-Lindell/p/book/9781466570269">Introduction to Modern Cryptography</a></em>, CRC Press, Second Edition, 2014.
 </li>
+<li> [12] Salil Vadhan. <em><a href="https://www.springer.com/gp/book/9783319570471">The Complexity of Differential Privacy</a></em>, Chapter 7 of Tutorials on the Foundations of Cryptography, Yehuda Lindell Ed., Springer, 2017.
+</li>
+<li> [24] Carmit Hazay and Yehuda Lindell. <em><a href="http://www.springer.com/la/book/9783642143021">Efficient Secure Two-Party Protocols</a></em>, Springer, 2010.
+</li>
+<!--
 <li> [3] Dan Boneh, Matthew Franklin. <em><a href="https://crypto.stanford.edu/~dabo/papers/bfibe.pdf">Identity-Based Encryption from the Weil Pairing</a></em>, SIAM J. of Computing, Vol. 32, No. 3, 2003.
 </li>
 <li> [4] Jonathan Katz, Ji Sun Shin. <em><a href="https://eprint.iacr.org/2005/461">Parallel and Concurrent Security of the HB and HB+ Protocols</a></em>, EUROCRYPT 2006.
@@ -125,8 +122,7 @@ While we will not follow a single book; the following sources are suggested as r
 </li>
 <li> [11] Hovav Shacham, Brent Water. <em><a href="https://hovav.net/ucsd/dist/verstore.pdf">Compact Proofs of Retrievability</a></em>,  Journal of Cryptology 26(3): 442-483 (2013).
 </li>
-<li> [12] Salil Vadhan. <em><a href="https://www.springer.com/gp/book/9783319570471">The Complexity of Differential Privacy</a></em>, Chapter 7 of Tutorials on the Foundations of Cryptography, Yehuda Lindell Ed., Springer, 2017.
-</li>
+
 <li> [13] Satoshi Nakamoto. <em><a href="https://bitcoin.org/bitcoin.pdf">Bitcoin: A Peer-to-Peer Electronic Cash System</a></em>, Bitcoin white paper.
 </li>
 <li> [14] Meni Rosenfeld. <em><a href="">Analysis of Bitcoin Pooled Mining Reward Systems</a></em>, CoRR abs/1112.4980, 2011.
@@ -149,16 +145,17 @@ While we will not follow a single book; the following sources are suggested as r
 </li>  
 <li> [23] Eli Ben-Sasson, Alessandro Chiesa, Christina Garman, Matthew Green, Ian Miers, Eran Tromer, Madars Virza. <em><a href="http://zerocash-project.org/media/pdf/zerocash-extended-20140518.pdf">Zerocash: Decentralized Anonymous Payments from Bitcoin</a></em>, IEEE Symposium on Security and Privacy, 2014.
 </li>
-<li> [24] Carmit Hazay and Yehuda Lindell. <em><a href="http://www.springer.com/la/book/9783642143021">Efficient Secure Two-Party Protocols</a></em>, Springer, 2010.
-</li>
+
 <li> [25] Marcin Andrychowicz, Stefan Dziembowski, Daniel Malinowski, Lukasz Mazurek. <em><a href="https://eprint.iacr.org/2013/784.pdf">Secure Multiparty Computations on Bitcoin</a></em>, IEEE Symposium on Security and Privacy 2014.
 </li>  
 <li> [26] Giuseppe Ateniese, Bernardo Magri, Daniele Venturi, Ewerton Andrade. <em><a href="https://eprint.iacr.org/2016/757">Redactable Blockchain -- or -- Rewriting History in Bitcoin and Friends</a></em>, IEEE European Symposium on Security and Privacy, 2017.
 </li>
+-->
 </ul>
 
 <h2>Students' Projects</h2>
-As part of the exam, students are required to solve a small project and present the solution during the exam. The list of available projects is shown below; proposals for further projects are always welcome. In order to pick a project, it suffices to write me an email.
+As part of the exam, students are required to present a research paper or solve a small project and present the solution during the exam. Reach out to me by email after choosing a topic of preference (among those covered in the course) in order to get an assignment.
+<!--
 <br>
 <h4><font color="black">List of Projects (By Topic)</font></h4>
 The following is a good reference for solving some of the projects below using Python:
@@ -201,6 +198,7 @@ Al Sweigart, <em><a href="http://inventwithpython.com/hackingciphers.pdf">Hackin
 <li> <b>Steganography.</b> The goal of this project is to get the basics about steganography and steganalysis. Write programs (using your favourite programming language) for the following  tasks: (i) Encrypt/decrypt using the LSB algorithm; (ii) Encrypt/decrypt using JSteg; (iii) Steganalysis of JSteg; (iv) Steganalysis of LSB.
 </li>
 </ul>
+-->
 
 <h2>Exams</h2>
 The exam dates for academic year 2024/2025 will be displayed here when available.
@@ -219,7 +217,7 @@ The exam dates for academic year 2024/2025 will be displayed here when available
 -->
 
 <h2>Announcements</h2>
-<u>11/09/2024:</u> The course will start on September 24th, 2024.
+<u>18/09/2024:</u> The course will start on September 26th, 2024.
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
@@ -300,7 +298,7 @@ The exam dates for academic year 2024/2025 will be displayed here when available
         <tr>
             <td>Lecture 1 24/09/24</td>
             <td>TBA.</td>
-            <td>[1]: Chap. 1</td>
+            <td>TBA.</td>
         </tr>
         <!-- and so on... -->
     </tbody>
