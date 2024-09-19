@@ -2,11 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching (draft)
-description: Courses I am currently teaching.
+description: This page contains all the courses I am currently teaching at the university.
 nav: true
 nav_order: 6
 display_categories: teaching
-horizontal: false
 ---
 
 <!-- pages/projects.md -->
