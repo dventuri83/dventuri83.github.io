@@ -14,7 +14,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.teaching | sort: "importance" %}
+{% assign sorted_projects = site.projects | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
