@@ -1,7 +1,7 @@
 ---
 layout: page
 title: teaching
-permalink: /teaching/
+permalink: /projects/
 description: This page contains all the courses I am currently teaching at the university.
 nav: true
 nav_order: 3
