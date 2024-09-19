@@ -4,8 +4,8 @@ title: Cryptography (Fall 2024)
 description: Master's Degree in Computer Science, Master's Degree in Cybersecurity, Master's Degree in Mathematics
 img: assets/img/crypto.jpg
 importance: 1
-category: work
-related_publications: true
+category: teaching
+related_publications: false
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

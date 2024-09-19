@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Data Privacy and Security (Fall 2024)
-description: Master's Degree in <a href="https://corsidilaurea.uniroma1.it/it/corso/2023/32344/home">Data Science</a>
+description: Master's Degree in Data Science
 img: assets/img/dps.jpg
 importance: 1
-category: work
+category: teaching
 related_publications: false
 ---
 <div class="row">
