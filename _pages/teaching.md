@@ -6,6 +6,7 @@ description: This page contains all the courses I am currently teaching at the u
 nav: true
 nav_order: 6
 display_categories: teaching
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
@@ -40,7 +41,7 @@ display_categories: teaching
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.teaching | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
