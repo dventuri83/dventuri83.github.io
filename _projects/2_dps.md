@@ -72,7 +72,7 @@ Student's presentation (30%), oral exam (70%).
 
 <h2>Course Slides</h2>
 <ul>
-<li> Course info [<a href="00_Course_Info">pdf</a>].
+<li> Course info [<a href="https://dventuri83.github.io/assets/pdf/00_Course_Info.pdf" target="_blank">PDF.</a>].
 </li>
 <li> Chapter 1: Secret-key cryptography [<a href="https://danieleventuri.altervista.org/files/01_Crypto_101_Sym.pdf">pdf</a>].
 </li>
