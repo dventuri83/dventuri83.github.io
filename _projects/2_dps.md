@@ -74,11 +74,11 @@ Student's presentation (30%), oral exam (70%).
 <ul>
 <li> Course info [<a href="https://dventuri83.github.io/assets/pdf/00_Course_Info.pdf" target="_blank">pdf</a>].
 </li>
-<li> Chapter 1: Secret-key cryptography [<a href="https://dventuri83.github.io/assets/pdf/00_Course_Info.pdf" target="_blank">pdf</a>].
+<li> Chapter 1: Secret-key cryptography [<a href="https://dventuri83.github.io/assets/pdf/01_Crypto_101_Sym" target="_blank">pdf</a>].
 </li>
-<li> Chapter 2: Public-key cryptography [<a href="https://dventuri83.github.io/assets/pdf/00_Course_Info.pdf">pdf</a>].
+<li> Chapter 2: Public-key cryptography [<a href="https://dventuri83.github.io/assets/pdf/02_Crypto_101_Asym" target="_blank">pdf</a>].
 </li>
-<li> Chapter 3: Applications [<a href="https://dventuri83.github.io/assets/pdf/00_Course_Info.pdf">pdf</a>].
+<li> Chapter 3: Applications [<a href="https://dventuri83.github.io/assets/pdf/03_Crypto_101_Key_Exchange" target="_blank">pdf</a>].
 </li>
 <li> Chapter 4: Post-quantum cryptography [<a href="">pdf</a>].
 </li>
