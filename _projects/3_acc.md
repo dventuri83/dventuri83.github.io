@@ -46,9 +46,10 @@ Durante il corso saranno introdotti i pi&ugrave; importanti risultati dell'Infor
 
 <h2>Logistica</h2>
 <p style="color:red;"><b> Importante: </b>Le lezioni avvengono esclusivamente in presenza (senza registrazioni).</p>
+<p style="color:red;"><b> Importante: </b>La lezione del 27/09/24 avrà luogo in Aula A - Pietro Benedetti (Via dei Sabelli 108). </p>
 <em>Orario:</em> Mercoled&igrave; (08:00 - 11:00) e Venerd&igrave; (15:00 - 17:00).
 <br>
-<em>Aula:</em> La lezione del Mercoled&igrave; è in Aula 3L -- Via del Castro Laurenziano 7a. La lezione del Venerdì è in Aula De Lollis 1 --- ???.
+<em>Aula:</em> La lezione del Mercoled&igrave; è in Aula 3L -- Via del Castro Laurenziano 7a. La lezione del Venerdì è in Aula 3 De Lollis.
 
 <h2>Modalit&agrave; di Esame</h2>
 Prova scritta. La prova consiste nella risoluzione di tre esercizi e nella risposta a tre domande di teoria.
@@ -76,7 +77,7 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
 -->
 
 <h2>Avvisi</h2>
-<u>11/09/2024:</u> Il corso inizierà il 25 settembre 2024.
+<u>11/09/2024:</u> Il corso inizierà il 25 settembre 2024. A causa dei lavori in corso nelle aule in Via De Lollis, le lezione del 27 settembre avrà luogo in Aula A - Pietro Benedetti (Via dei Sabelli 108).
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
@@ -155,9 +156,9 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
     </thead>
     <tbody>
         <tr>
-            <td>Lecture 1 - 24/09/24</td>
-            <td>Introduction to the course. Secure communication: message confidentiality and integrity. Symmetric encryption and perfect secrecy. Equivalent notions of perfect secrecy. The one-time pad and Shannon's impossibility result.</td>
-            <td>[1]: Chap. 1</td>
+            <td>Lezione 1 - 25/09/24</td>
+            <td>TBA.</td>
+            <td>TBA.</td>
         </tr>
         <!-- and so on... -->
     </tbody>
