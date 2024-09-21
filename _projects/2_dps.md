@@ -72,23 +72,23 @@ Student's presentation (30%), oral exam (70%).
 
 <h2>Course Slides</h2>
 <ul>
-<li> Course info [<a href="https://dventuri83.github.io/assets/pdf/00_Course_Info.pdf" target="_blank">PDF.</a>].
+<li> Course info [<a href="https://dventuri83.github.io/assets/pdf/00_Course_Info.pdf" target="_blank">pdf</a>].
 </li>
-<li> Chapter 1: Secret-key cryptography [<a href="https://danieleventuri.altervista.org/files/01_Crypto_101_Sym.pdf">pdf</a>].
+<li> Chapter 1: Secret-key cryptography [<a href="https://dventuri83.github.io/assets/pdf/00_Course_Info.pdf" target="_blank">pdf</a>].
 </li>
-<li> Chapter 2: Public-key cryptography [<a href="https://danieleventuri.altervista.org/files/02_Crypto_101_Asym.pdf">pdf</a>].
+<li> Chapter 2: Public-key cryptography [<a href="https://dventuri83.github.io/assets/pdf/00_Course_Info.pdf">pdf</a>].
 </li>
-<li> Chapter 3: Applications [<a href="https://danieleventuri.altervista.org/files/03_Crypto_101_Apps.pdf">pdf</a>].
+<li> Chapter 3: Applications [<a href="https://dventuri83.github.io/assets/pdf/00_Course_Info.pdf">pdf</a>].
 </li>
-<li> Chapter 4: Big data and cloud cryptography [<a href="https://danieleventuri.altervista.org/files/04_BigData_Cloud.pdf">pdf</a>].
+<li> Chapter 4: Post-quantum cryptography [<a href="">pdf</a>].
 </li>
-<li> Chapter 5: Differential privacy [<a href="https://danieleventuri.altervista.org/files/05_Diff_Priv.pdf">pdf</a>].
+<li> Chapter 5: Differential privacy [<a href="">pdf</a>].
 </li>
-<li> Chapter 6: Bitcoin [<a href="https://danieleventuri.altervista.org/files/06_Bitcoin.pdf">pdf</a>].
+<li> Chapter 6: Bitcoin [<a href="">pdf</a>].
 </li>
-<li> Chapter 7: Alternative currencies [<a href="https://danieleventuri.altervista.org/files/07_Alt_Curr.pdf">pdf</a>].
+<li> Chapter 7: Alternative currencies [<a href="">pdf</a>].
 </li>
-<li> Chapter 8: Secure Multiparty Computation [<a href="https://danieleventuri.altervista.org/files/08_MPC.pdf">pdf</a>].
+<li> Chapter 8: Secure Multiparty Computation [<a href="">pdf</a>].
 </li>
 </ul>
 
