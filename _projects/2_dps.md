@@ -78,7 +78,7 @@ Student's presentation (30%), oral exam (70%).
 </li>
 <li> Chapter 2: Public-key cryptography [<a href="https://dventuri83.github.io/assets/pdf/02_Crypto_101_Asym.pdf">pdf</a>].
 </li>
-<li> Chapter 3: Applications [<a href="https://dventuri83.github.io/assets/pdf/03_Crypto_101_Key_Exchange.pdf">pdf</a>].
+<li> Chapter 3: Key exchange protocols [<a href="https://dventuri83.github.io/assets/pdf/03_Crypto_101_Key_Exchange.pdf">pdf</a>].
 </li>
 <li> Chapter 4: Post-quantum cryptography [<a href="">pdf</a>].
 </li>
@@ -88,7 +88,7 @@ Student's presentation (30%), oral exam (70%).
 </li>
 <li> Chapter 7: Alternative currencies [<a href="">pdf</a>].
 </li>
-<li> Chapter 8: Secure Multiparty Computation [<a href="">pdf</a>].
+<li> Chapter 8: Secure multiparty computation [<a href="">pdf</a>].
 </li>
 </ul>
 
