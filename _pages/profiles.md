@@ -17,12 +17,4 @@ profiles:
       <p>Building G, Room G29</p>
       <p>Viale Regina Elena 295</p>
       <p>00161 Rome, Italy</p>
-  - align: left
-    image: df_pic.jpg
-    content: about_df.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Building E, Room ???</p>
-      <p>Viale Regina Elena 295</p>
-      <p>00161 Rome, Italy</p>
 ---
