@@ -31,15 +31,28 @@
       institution: Sapienza University of Rome
       year: 2022 - today
       description: Computer Science
-    - title: Assistant Professor
+    - title: Associate Professor
       institution: Sapienza University of Rome
-      year: 2019-2021
+      year: 2019-2022
       description: Computer Science
-    - title: Tenior Track
+    - title: Assistant Professor
       institution: Sapienza University of Rome
       year: 2016-2019
       description: Computer Science
-    - title: Tenior Track
+    - title: Assistant Professor
       institution: University of Trento
       year: 2016
       description: Computer Engineering
+
+- title: Service
+  type: time_table
+  contents:
+    - title: Editorial Board Member
+      institution: IEEE
+      description: <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206">Transactions on Information Forensics and Security</a>
+    - title: Program Chair
+      institution: IACR
+      description: 20th International Conference on Applied Cryptography (<a href="https://serics.eu">ACNS 2022</a>)
+    - title: Program Committee Member
+      institution: IACR, ACM, IEEE
+      description: I am often a PC member for the most prestigious conferences in cryptography and computer security (Eurocrypt, Crypto, Asiacrypt), CCS, S&P, ...
