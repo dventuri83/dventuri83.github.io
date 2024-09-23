@@ -48,24 +48,28 @@
   type: time_table
   contents:
     - title: Editorial Board Member
-      institution: IEEE
-      description: <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206">Transactions on Information Forensics and Security</a>
+      description: IEEE <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206">Transactions on Information Forensics and Security</a>
     - title: Program Chair
-      institution: IACR
       description: 20th International Conference on Applied Cryptography (<a href="https://serics.eu">ACNS 2022</a>)
     - title: Program Committee Member
-      institution: IACR, ACM, IEEE
-      description: I am often a PC member for the most prestigious conferences in cryptography and computer security (Eurocrypt, Crypto, Asiacrypt), CCS, S&P, ...
+      description: I am often a PC member for the most prestigious conferences in cryptography and computer security (Eurocrypt, Crypto, Asiacrypt), ACM CCS, IEEE S&P, ...
 
 - title: Membership
   type: time_table
   contents:
     - title: Member of the IACR
-      institution: International Association for Cryptologic Research
-      description: https://iacr.org
+      description: International Association for Cryptologic Research
+      url: https://iacr.org
     - title: Senior Member of the IEEE
-      institution: Institute of Electrical and Electronics Engineers
-      description: https://ieeexplore.ieee.org/Xplore/home.jsp
+      description: Institute of Electrical and Electronics Engineers
+      url: https://ieeexplore.ieee.org/Xplore/home.jsp
     - title: Member of De Componendis Cifris
-      institution: Italian Association for Cryptography
-      description: https://www.decifris.it
+      description: Italian Association for Cryptography
+      url: https://www.decifris.it
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: Best Paper Award
+      description: Eurocrypt 2011
+      url: https://iacr.org/cryptodb/data/bestpapers.php
