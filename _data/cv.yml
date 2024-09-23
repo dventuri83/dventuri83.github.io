@@ -56,3 +56,16 @@
     - title: Program Committee Member
       institution: IACR, ACM, IEEE
       description: I am often a PC member for the most prestigious conferences in cryptography and computer security (Eurocrypt, Crypto, Asiacrypt), CCS, S&P, ...
+
+- title: Membership
+  type: time_table
+  contents:
+    - title: Member of the IACR
+      institution: International Association for Cryptologic Research
+      description: https://iacr.org
+    - title: Senior Member of the IEEE
+      institution: Institute of Electrical and Electronics Engineers
+      description: https://ieeexplore.ieee.org/Xplore/home.jsp
+    - title: Member of De Componendis Cifris
+      institution: Italian Association for Cryptography
+      description: https://www.decifris.it
