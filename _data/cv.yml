@@ -23,3 +23,23 @@
       institution: University of Rome ROMA TRE
       year: 2005
       description: Electronic Engineering
+
+- title: Institutional Appointments
+  type: time_table
+  contents:
+    - title: Professor
+      institution: Sapienza University of Rome
+      year: 2022 - today
+      description: Computer Science
+    - title: Assistant Professor
+      institution: Sapienza University of Rome
+      year: 2019-2021
+      description: Computer Science
+    - title: Tenior Track
+      institution: Sapienza University of Rome
+      year: 2016-2019
+      description: Computer Science
+    - title: Tenior Track
+      institution: University of Trento
+      year: 2016
+      description: Computer Engineering
