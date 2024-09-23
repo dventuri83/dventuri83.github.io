@@ -1,0 +1,9 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Daniele Venturi
+    - name: Date of Birth
+      value: 29th June 1983
+    - name: Languages
+      value: English, Italian
