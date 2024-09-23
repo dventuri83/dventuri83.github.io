@@ -58,18 +58,14 @@
   type: time_table
   contents:
     - title: Member of the IACR
-      description: International Association for Cryptologic Research
-      url: https://iacr.org
+      description: <a href="https://iacr.org">International Association for Cryptologic Research</a>
     - title: Senior Member of the IEEE
-      description: Institute of Electrical and Electronics Engineers
-      url: https://ieeexplore.ieee.org/Xplore/home.jsp
+      description: <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">Institute of Electrical and Electronics Engineers</a>
     - title: Member of De Componendis Cifris
-      description: Italian Association for Cryptography
-      url: https://www.decifris.it
+      description: <a href="https://www.decifris.it">Italian Association for Cryptography</a>
 
 - title: Honors and Awards
   type: time_table
   contents:
     - title: Best Paper Award
-      description: Eurocrypt 2011
-      url: https://iacr.org/cryptodb/data/bestpapers.php
+      description: <a href="https://iacr.org/cryptodb/data/bestpapers.php">Eurocrypt 2011</a>
