@@ -7,3 +7,19 @@
       value: 29th June 1983
     - name: Languages
       value: English, Italian
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: Sapienza University of Rome, Rome, Italy
+      year: 2012
+      description: Information and Communication Engineering
+    - title: Master's Degree
+      institution: Sapienza University of Rome
+      year: 2008
+      description: Communication Engineering
+    - title: Bachelor's Degree
+      institution: University of Rome ROMA TRE
+      year: 2005
+      description: Electronic Engineering
