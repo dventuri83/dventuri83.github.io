@@ -1,5 +1,3 @@
-Daniele Friolo received the B.Sc., M.Sc., and Ph.D. degrees in Computer Science from the Department of Computer Science, Sapienza University of Rome. He worked as a Research Fellow at the Department of Information Engineering, Electrical Engineering and Applied Mathematics (DIEM), University of Salerno, during his Ph.D. degree. Then, he worked as a Post-Doctoral Researcher at the Department of Computer Science, Sapienza University of Rome.
-
-He is currently an Assistant Professor (RTD-A) at the Department of Computer Science, Sapienza University of Rome.
+Daniele Friolo received the B.Sc., M.Sc., and Ph.D. degrees in Computer Science from the Department of Computer Science, Sapienza University of Rome. He worked as a Research Fellow at the Department of Information Engineering, Electrical Engineering and Applied Mathematics (DIEM), University of Salerno, during his Ph.D. degree. Then, he worked as a Post-Doctoral Researcher at the Department of Computer Science, Sapienza University of Rome. He is currently an Assistant Professor (RTD-A) at the Department of Computer Science, Sapienza University of Rome.
 
 His research interests include theoretical and applied cryptography, in particular public-key cryptography, zero-knowledge, multi-party computation, advanced encryption schemes, and blockchain applications.
