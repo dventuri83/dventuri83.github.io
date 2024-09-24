@@ -22,7 +22,8 @@ profiles:
     content: about_df.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Building E, Room ???</p>
+      <p>Homepage: <a href="https://danielefriolo.github.io/">https://danielefriolo.github.io/</p>
+      <p>Building G, Room G24</p>
       <p>Viale Regina Elena 295</p>
       <p>00161 Rome, Italy</p>
   - align: right
@@ -30,7 +31,8 @@ profiles:
     content: about_vb.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Building E, Room ???</p>
+      <p>Homepage: <a href="https://scholar.google.it/citations?user=Q4WEJ_gAAAAJ&hl=en">???</p>
+      <p>Building F, Room F13</p>
       <p>Viale Regina Elena 295</p>
       <p>00161 Rome, Italy</p>
 ---
