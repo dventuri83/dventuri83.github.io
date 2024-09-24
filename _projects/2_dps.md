@@ -97,7 +97,7 @@ While we will not follow a single book; the following sources are suggested as r
 <ul>
 <li> Daniele Venturi. <em><a href="http://www.springer.com/us/book/9788847024809">Crittografia nel Paese delle Meraviglie</a></em>, Springer, Collana di Informatica, 2012.
 </li>
-<li> Jonathan Katz, Yehuda Lindell. <em><a href="https://www.crcpress.com/Introduction-to-Modern-Cryptography-Second-Edition/Katz-Lindell/p/book/9781466570269">Introduction to Modern Cryptography</a></em>, CRC Press, Second Edition, 2014.
+<li> Jonathan Katz, Yehuda Lindell. <em><a href="https://www.crcpress.com/Introduction-to-Modern-Cryptography-Second-Edition/Katz-Lindell/p/book/9781466570269">Introduction to Modern Cryptography</a></em>, CRC Press, Third Edition, 2020.
 </li>
 <li> Salil Vadhan. <em><a href="https://www.springer.com/gp/book/9783319570471">The Complexity of Differential Privacy</a></em>, Chapter 7 of Tutorials on the Foundations of Cryptography, Yehuda Lindell Ed., Springer, 2017.
 </li>
@@ -139,8 +139,8 @@ The exam dates for academic year 2024/2025 will be displayed here when available
     <tbody>
         <tr>
             <td>Lecture 1 24/09/24</td>
-            <td>TBA.</td>
-            <td>TBA.</td>
+            <td>Modern cryptography. Overview of the course. Syntax of secret-key encryption, public-key encryption, message authentication codes and digital signatures. Definition of perfect secrecy.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture01_2425.pdf" target="_blank">pdf</a>]</td>
         </tr>
         <!-- and so on... -->
     </tbody>
