@@ -193,8 +193,8 @@ The exam dates for academic year 2024/2025 will be displayed here when available
     <tbody>
         <tr>
             <td>Lecture 1 24/09/24</td>
-            <td>Introduction to the course. Secure communication: message confidentiality and integrity. Symmetric encryption and perfect secrecy. Equivalent notions of perfect secrecy. The one-time pad and Shannon's impossibility result.</td>
-            <td>[1]: Chap. 1</td>
+            <td>Modern cryptography. Overview of the course. Syntax of secret-key encryption, public-key encryption, message authentication codes and digital signatures. Definition of perfect secrecy.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture01_2425.pdf" target="_blank">pdf</a>]</td>
         </tr>
         <!-- and so on... -->
     </tbody>
