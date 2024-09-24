@@ -194,7 +194,7 @@ The exam dates for academic year 2024/2025 will be displayed here when available
         <tr>
             <td>Lecture 1 24/09/24</td>
             <td>Modern cryptography. Overview of the course. Syntax of secret-key encryption, public-key encryption, message authentication codes and digital signatures. Definition of perfect secrecy.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture01_2425.pdf" target="_blank">pdf</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture01_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <!-- and so on... -->
     </tbody>

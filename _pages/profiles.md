@@ -25,4 +25,12 @@ profiles:
       <p>Building E, Room ???</p>
       <p>Viale Regina Elena 295</p>
       <p>00161 Rome, Italy</p>
+  - align: right
+    image: vb_pic.jpg
+    content: about_vb.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Building E, Room ???</p>
+      <p>Viale Regina Elena 295</p>
+      <p>00161 Rome, Italy</p>
 ---
