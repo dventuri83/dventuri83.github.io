@@ -156,9 +156,9 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
     </thead>
     <tbody>
         <tr>
-            <td>Lezione 1 - 25/09/24</td>
-            <td>TBA.</td>
-            <td>TBA.</td>
+            <td>Lezione 1 25/09/24</td>
+            <td>Introduzione al corso. Automi a stati finiti: prime definizioni ed esempi. Linguaggi regolari. Operazioni sui linguaggi.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture01_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <!-- and so on... -->
     </tbody>
