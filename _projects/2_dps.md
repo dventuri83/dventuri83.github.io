@@ -139,8 +139,8 @@ The exam dates for academic year 2024/2025 will be displayed here when available
     <tbody>
         <tr>
             <td>Lecture 1 26/09/24</td>
-            <td>TBA.</td>
-            <td>TBA.</td>
+            <td>Introduction to the course. Modern cryptography. Message confidentiality and authenticity. Symmetric encryption. Perfect secrecy and Shannon's impossibility result. The AES blockcipher.</td>
+            <td>Course slides (Chapter 1)</td>
         </tr>
         <!-- and so on... -->
     </tbody>
