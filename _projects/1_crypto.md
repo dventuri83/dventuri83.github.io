@@ -62,7 +62,7 @@ The course is meant to be an introduction to modern cryptography, with a focus o
 
 <h2>Logistics</h2>
 <p style="color:red;"><b> Important: </b>The lectures are offered exclusively in-person (with no registration taking place). </p>
-<p style="color:red;"><b> Important: </b>The lecture on 24/09/24 will take place in Aula IV Matematica - Edificio Castelnuovo, Città Universitaria. </p>
+<p style="color:red;"><b> Important: </b>The lecture on 01/10/24 will take place in Aula 301 - Palazzina D, Viale Regina Elena 295, 00161 Rome. </p>
 <em>Lecture time:</em> Tuesday (8:00am - 11:00am) and Friday (11:00am - 13:00am).
 <br>
 <em>Location:</em> The lectures on Tuesday take place in Aula Magna - Viale Regina Elena 295. The lectures on Friday take place in Aula 1L - Via del Castro Laurenziano 7a.
@@ -114,6 +114,8 @@ The exam dates for academic year 2024/2025 will be displayed here when available
 
 <h2>Announcements</h2>
 <u>12/09/2024:</u> The course will start on September 24th, 2024. Due to the ongoing construction works in Aula Magna, the lecture on 24/09/2024 will take place in Aula IV Matematica - Edificio Castelnuovo, Città Universitaria.
+<br>
+<u>30/09/2024:</u> Due to the ongoing construction works in Aula Magna, the lecture on 01/10/2024 will take place in Aula 301 - Palazzina D, Viale Regina Elena 295, 00161 Rome.
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
@@ -195,6 +197,11 @@ The exam dates for academic year 2024/2025 will be displayed here when available
             <td>Lecture 1 24/09/24</td>
             <td>Modern cryptography. Overview of the course. Syntax of secret-key encryption, public-key encryption, message authentication codes and digital signatures. Definition of perfect secrecy.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture01_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 2 27/09/24</td>
+            <td>Equivalent notions of perfect secrecy. The one-time pad and Shannon's impossibility result. Definition of statistically-secure (one-time) MACs.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture02_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <!-- and so on... -->
     </tbody>
