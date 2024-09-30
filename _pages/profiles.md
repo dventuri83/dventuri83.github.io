@@ -18,7 +18,7 @@ profiles:
       <p>Viale Regina Elena 295</p>
       <p>00161 Rome, Italy</p>
   - align: left
-    image: df_pic.jpg
+    image: df_pic.jpeg
     content: about_df.md
     image_circular: true # crops the image to make it circular
     more_info: >
