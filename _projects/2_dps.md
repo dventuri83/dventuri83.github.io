@@ -142,6 +142,11 @@ The exam dates for academic year 2024/2025 will be displayed here when available
             <td>Introduction to the course. Modern cryptography. Message confidentiality and authenticity. Symmetric encryption. Perfect secrecy and Shannon's impossibility result. The AES blockcipher.</td>
             <td>Course slides (Chapter 1)</td>
         </tr>
+        <tr>
+            <td>Lecture 2 01/10/24</td>
+            <td>Modes of operation: ECB, CBC, CFB, OFB and CTR. Definition of CPA security for symmetric encryption. Message authentication codes and unforgeability. CBC-MAC and its security.</td>
+            <td>Course slides (Chapter 1)</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
