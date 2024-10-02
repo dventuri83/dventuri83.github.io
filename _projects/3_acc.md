@@ -80,7 +80,9 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
 
 <h2>Avvisi</h2>
 <u>11/09/2024:</u> Il corso inizierà il 25 settembre 2024. A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 27 settembre avrà luogo in Aula A - Pietro Benedetti (Via dei Sabelli 108).
+<br>
 <u>30/09/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 4 ottobre sarà da remoto a <a href="https://uniroma1.zoom.us/j/86123921107?pwd=YICFZ9rvjNF2eSqU7mN6c8xoJOIndS.1">questo link</a>.
+<br>
 <u>02/10/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 11 ottobre avrà luogo in Aula A - Scienze Biochimiche (Città Universitaria).
 <!--
 <br>
