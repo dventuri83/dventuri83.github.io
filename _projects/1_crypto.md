@@ -212,6 +212,11 @@ The exam dates for academic year 2024/2025 will be displayed here when available
             <td>Constructions of pairwise independent hash functions and one-time statistically secure MACs. Randomness extraction. Impossibility of randomness extraction from a single min-entropy source. Definition of seeded extractors.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture03_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lecture 4 04/10/24</td>
+            <td>Leftover hash lemma. Beginning of computational security.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture04_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>

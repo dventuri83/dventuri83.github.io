@@ -179,6 +179,11 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
             <td>Equivalenza tra automi a stati finiti deterministici e non-deterministici. Chiusura dei linguaggi regolari rispetto alla concatenzazione e all'operazione star. Espressioni regolari: definizioni ed esempi. Equivalenza tra espressioni regolari e linguaggi regolari.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture03_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lezione 4 04/10/24</td>
+            <td>Equivalenza tra espressioni regolari e linguaggi regolari. Esempi. Linguaggi non regolari: pumping lemma.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture04_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
