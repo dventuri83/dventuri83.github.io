@@ -140,12 +140,22 @@ The exam dates for academic year 2024/2025 will be displayed here when available
         <tr>
             <td>Lecture 1 26/09/24</td>
             <td>Introduction to the course. Modern cryptography. Message confidentiality and authenticity. Symmetric encryption. Perfect secrecy and Shannon's impossibility result. The AES blockcipher.</td>
-            <td>Course slides (Chapter 1)</td>
+            <td>Chapter 1</td>
         </tr>
         <tr>
             <td>Lecture 2 01/10/24</td>
             <td>Modes of operation: ECB, CBC, CFB, OFB and CTR. Definition of CPA security for symmetric encryption. Message authentication codes and unforgeability. CBC-MAC and its security.</td>
-            <td>Course slides (Chapter 1)</td>
+            <td>Chapter 1</td>
+        </tr>
+        <tr>
+            <td>Lecture 3 03/10/24</td>
+            <td>Collision-resistant hash functions. The Merkle-Damgaard paradigm and SHA-1. The sponge construction and SHA-3. HMAC. Definition of CCA security for symmetric encryption. Combining encryption and authentication.>
+            <td>Chapter 1</td>
+        </tr>
+        <tr>
+            <td>Lecture 4 08/10/24</td>
+            <td>A brief tour of Minicrypt: one-way functions, pseudorandom generators, pseudorandom functions and pseudorandom permutations. Beginning of asymmetric cryptography: brush-up on number theory.>
+            <td>Chapter 1</td>
         </tr>
         <!-- and so on... -->
     </tbody>

@@ -184,6 +184,11 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
             <td>Equivalenza tra espressioni regolari e linguaggi regolari. Esempi. Linguaggi non regolari: pumping lemma.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture04_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lezione 5 09/10/24</td>
+            <td>Esercizi sui linguaggi regolari. Grammatiche acontestuali: prime definizioni ed esempi.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture05_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
