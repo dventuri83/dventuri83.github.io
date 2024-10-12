@@ -62,7 +62,6 @@ The course is meant to be an introduction to modern cryptography, with a focus o
 
 <h2>Logistics</h2>
 <p style="color:red;"><b> Important: </b>The lectures are offered exclusively in-person (with no registration taking place). </p>
-<p style="color:red;"><b> Important: </b>The lecture on 08/10/24 will take place in Aula 301 - Palazzina D, Viale Regina Elena 295, 00161 Rome. </p>
 <em>Lecture time:</em> Tuesday (8:00am - 11:00am) and Friday (11:00am - 13:00am).
 <br>
 <em>Location:</em> The lectures on Tuesday take place in Aula Magna - Viale Regina Elena 295. The lectures on Friday take place in Aula 1L - Via del Castro Laurenziano 7a.
@@ -221,6 +220,11 @@ The exam dates for academic year 2024/2025 will be displayed here when available
             <td>Lecture 5 08/10/24</td>
             <td>Computational security. Definition and examples of one-way functions. Definition of pseudorandom generators.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture05_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 6 11/10/24</td>
+            <td>Definition of one-time computationally secure secret-key encryption. Construction from any PRG.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture06_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <!-- and so on... -->
     </tbody>

@@ -46,11 +46,8 @@ Durante il corso saranno introdotti i pi&ugrave; importanti risultati dell'Infor
 
 <h2>Logistica</h2>
 <p style="color:red;"><b> Importante: </b>Le lezioni avvengono esclusivamente in presenza (senza registrazioni).</p>
-<p style="color:red;"><b> Importante: </b>La lezione del 04/10/24 sarà da remoto a <a href="https://uniroma1.zoom.us/j/86123921107?pwd=YICFZ9rvjNF2eSqU7mN6c8xoJOIndS.1">questo link</a>.</p>
+<p style="color:red;"><b> Importante: </b>La lezione del 18/10/24 sarà in Aula D101 - Palazzina D - Viale Regina Elena 295.</p>
 <em>Orario:</em> Mercoled&igrave; (08:00 - 11:00) e Venerd&igrave; (15:00 - 17:00).
-<p style="color:red;"><b> Importante: </b>La lezione del 11/10/24 sarà in Aula A - Scienze Biochimiche.</p>
-<em>Orario:</em> Mercoled&igrave; (08:00 - 11:00) e Venerd&igrave; (15:00 - 17:00).
-<br>
 <em>Aula:</em> La lezione del Mercoled&igrave; è in Aula 3L -- Via del Castro Laurenziano 7a. La lezione del Venerdì è in Aula 3 De Lollis.
 
 <h2>Modalit&agrave; di Esame</h2>
@@ -87,6 +84,7 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
 <u>30/09/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 4 ottobre sarà da remoto a <a href="https://uniroma1.zoom.us/j/86123921107?pwd=YICFZ9rvjNF2eSqU7mN6c8xoJOIndS.1">questo link</a>.
 <br>
 <u>02/10/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 11 ottobre avrà luogo in Aula A - Scienze Biochimiche (Città Universitaria).
+<u>12/10/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 18 ottobre avrà luogo in Aula D101 - Palazzina D - Viale Regina Elena 295.
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
@@ -188,6 +186,11 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
             <td>Lezione 5 09/10/24</td>
             <td>Esercizi sui linguaggi regolari. Grammatiche acontestuali: prime definizioni ed esempi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture05_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lezione 6 11/10/24</td>
+            <td>Ambiguità nelle grammatiche acontestuali. Forma normale di Chomsky. Esempi.</td>
+            <td>[<a href="" target="_blank">PDF</a>]</td>
         </tr>
         <!-- and so on... -->
     </tbody>
