@@ -226,6 +226,11 @@ The exam dates for academic year 2024/2025 will be displayed here when available
             <td>Definition of one-time computationally secure secret-key encryption. Construction from any PRG.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture06_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lecture 7 15/10/24</td>
+            <td>Constructing PRGs. Proof that one bit of stretch implies unbounded polynomial stretch. PRGs from one-way functions and hard-core bits. Applications to real-world PRGs.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture07_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>

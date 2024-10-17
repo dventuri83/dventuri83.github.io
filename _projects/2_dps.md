@@ -149,18 +149,28 @@ The exam dates for academic year 2024/2025 will be displayed here when available
         </tr>
         <tr>
             <td>Lecture 3 03/10/24</td>
-            <td>Collision-resistant hash functions. The Merkle-Damgaard paradigm and SHA-1. The sponge construction and SHA-3. HMAC. Definition of CCA security for symmetric encryption. Combining encryption and authentication.>
+            <td>Collision-resistant hash functions. The Merkle-Damgaard paradigm and SHA-1. The sponge construction and SHA-3. HMAC. Definition of CCA security for symmetric encryption. Combining encryption and authentication.</td>
             <td>Chapter 1</td>
         </tr>
         <tr>
             <td>Lecture 4 08/10/24</td>
-            <td>A brief tour of Minicrypt: one-way functions, pseudorandom generators, pseudorandom functions and pseudorandom permutations. Beginning of asymmetric cryptography: brush-up on number theory.>
-            <td>Chapter 1 and 2</td>
+            <td>A brief tour of Minicrypt: one-way functions, pseudorandom generators, pseudorandom functions and pseudorandom permutations. Beginning of asymmetric cryptography: brush-up on number theory.</td>
+            <td>Chapter 2</td>
         </tr>
         <tr>
             <td>Lecture 5 10/10/24</td>
-            <td>The RSA public-key encryption and its security. The ElGamal public-key encryption and its security. Diffie-Hellmann assumptions.>
+            <td>The RSA public-key encryption and its security. The ElGamal public-key encryption and its security. Diffie-Hellmann assumptions.</td>
             <td>Chapter 2</td>
+        </tr>
+        <tr>
+            <td>Lecture 6 15/10/24</td>
+            <td>Pairings and assumptions on bilinear groups. Digital signatures and unforgeability. Signing with RSA and Full-Domain Hash. Public-key infrastructures and X.509 certificates. Identity-based encryption.</td>
+            <td>Chapter 2</td>
+        </tr>
+        <tr>
+            <td>Lecture 7 17/10/24</td>
+            <td>Key exchange protocols. Diffie-Hellmann key exchange. Security in the Canetti-Krawczyk model. ISO 9697 protocol. IPsec and IKE: SKEME and SIGMA. MQV and HMQV.</td>
+            <td>Chapter 3</td>
         </tr>
         <!-- and so on... -->
     </tbody>
