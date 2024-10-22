@@ -172,6 +172,11 @@ The exam dates for academic year 2024/2025 will be displayed here when available
             <td>Key exchange protocols. Diffie-Hellmann key exchange. Security in the Canetti-Krawczyk model. ISO 9697 protocol. IPsec and IKE: SKEME and SIGMA. MQV and HMQV.</td>
             <td>Chapter 3</td>
         </tr>
+        <tr>
+            <td>Lecture 8 22/10/24</td>
+            <td>Key derivation functions using HMAC. Passwords. Bloom filters. Password-based encryption. Password-authenticated key exchange.</td>
+            <td>Chapter 3</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>

@@ -198,7 +198,7 @@ The exam dates for academic year 2024/2025 will be displayed here when available
     <tbody>
         <tr>
             <td>Lecture 1 24/09/24</td>
-            <td>Modern cryptography. Overview of the course. Syntax of secret-key encryption, public-key encryption, message authentication codes and digital signatures. Definition of perfect secrecy.</td>
+            <td>Modern cryptography. Overview of the course. Syntax of secret-key encryption (SKE), public-key encryption (PKE), message authentication codes (MACs) and digital signatures. Definition of perfect secrecy.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture01_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
@@ -218,18 +218,28 @@ The exam dates for academic year 2024/2025 will be displayed here when available
         </tr>
         <tr>
             <td>Lecture 5 08/10/24</td>
-            <td>Computational security. Definition and examples of one-way functions. Definition of pseudorandom generators.</td>
+            <td>Computational security. Definition and examples of one-way functions. Definition of pseudorandom generators (PRGs).</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture05_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
             <td>Lecture 6 11/10/24</td>
-            <td>Definition of one-time computationally secure secret-key encryption. Construction from any PRG.</td>
+            <td>Definition of one-time computationally secure SKE. Construction from any PRG.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture06_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
             <td>Lecture 7 15/10/24</td>
-            <td>Constructing PRGs. Proof that one bit of stretch implies unbounded polynomial stretch. PRGs from one-way functions and hard-core bits. Applications to real-world PRGs.</td>
+            <td>Constructing PRGs. Proof that one bit of stretch implies unbounded polynomial stretch. PRGs from one-way functions and hard-core bits. Applications to real-world PRGs. Definition of chosen-plaintext attacks (CPA) security for SKE.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture07_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 8 18/10/24</td>
+            <td>Definition of pseudorandom functions (PRFs). Application to constructing CPA-secure SKE for fixed input length (FIL) messages. Definition of universal unforgeability under chosen-message attacks (UFCMA) for MACs.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture08_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 9 22/10/24</td>
+            <td>Proof that PRFs imply CPA-secure SKE for FIL messages. Proof that PRFs imply UFCMA MACs for FIL messages. Modes of operation for SKE.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture09_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <!-- and so on... -->
     </tbody>
