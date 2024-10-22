@@ -80,7 +80,7 @@ Student's presentation (30%), oral exam (70%).
 </li>
 <li> Chapter 3: Key exchange protocols [<a href="https://dventuri83.github.io/assets/pdf/03_Crypto_101_Key_Exchange.pdf">pdf</a>].
 </li>
-<li> Chapter 4: Post-quantum cryptography [<a href="">pdf</a>].
+<li> Chapter 4: Post-quantum cryptography [<a href="https://dventuri83.github.io/assets/pdf/04_Crypto_101_PQC.pdf">pdf</a>].
 </li>
 <li> Chapter 5: Differential privacy [<a href="">pdf</a>].
 </li>
