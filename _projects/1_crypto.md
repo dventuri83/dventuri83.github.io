@@ -241,6 +241,11 @@ The exam dates for academic year 2024/2025 will be displayed here when available
             <td>Proof that PRFs imply CPA-secure SKE for FIL messages. Proof that PRFs imply UFCMA MACs for FIL messages. Modes of operation for SKE.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture09_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lecture 10 25/10/24</td>
+            <td>Proof of CPA security for the CTR mode. Domain extension for MACs.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture10_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>

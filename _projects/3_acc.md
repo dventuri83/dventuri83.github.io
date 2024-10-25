@@ -205,6 +205,16 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
             <td>Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Pumping lemma per linguaggi acontestuali.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture08_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lezione 9 23/10/24</td>
+            <td>Esercizi sulle grammatiche acontestuali. Calcolabilità. Macchine di Turing: prime definizioni ed esempi.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture09_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lezione 10 25/10/24</td>
+            <td>Esempi di macchine di Turing e trucchi di programmazione. Linguaggi Turing-riconoscibili e linguaggi decidibili.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture10_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>

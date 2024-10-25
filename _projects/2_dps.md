@@ -177,6 +177,11 @@ The exam dates for academic year 2024/2025 will be displayed here when available
             <td>Key derivation functions using HMAC. Passwords. Bloom filters. Password-based encryption. Password-authenticated key exchange.</td>
             <td>Chapter 3</td>
         </tr>
+        <tr>
+            <td>Lecture 8 24/10/24</td>
+            <td>The TLS protocol and TLS 1.3. Post-quantum cryptography. Lattices and hard problems: SIS and LWE.</td>
+            <td>Chapter 3, 4</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
