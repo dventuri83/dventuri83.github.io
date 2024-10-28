@@ -35,4 +35,13 @@ profiles:
       <p>Building F, Room F13</p>
       <p>Viale Regina Elena 295</p>
       <p>00161 Rome, Italy</p>
+  - align: left
+    image: lm_pic.png
+    content: about_lm.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p><a href="https://dblp.org/pid/362/6152.html">Personal homepage</p>
+      <p>Building G, Room G48</p>
+      <p>Viale Regina Elena 295</p>
+      <p>00161 Rome, Italy</p>  
 ---
