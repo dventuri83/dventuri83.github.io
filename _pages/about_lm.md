@@ -1,0 +1,2 @@
+<h2>Lorenzo Magliocco</h2>
+Lorenzo Magliocco is a Ph.D. student in Cybersecurity at Sapienza University of Rome. He obtained his B.Sc. in Engineering in Computer Science in 2020 and his M.Sc. in Cybersecurity in 2022, both awarded with honours at Sapienza University of Rome. During his Ph.D., he carried out a research internship at the School of Informatics of the University of Edinburgh. His research focuses on cryptography, particularly in the fields of subversion resilience and secure multi-party computation.
