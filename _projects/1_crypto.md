@@ -98,7 +98,7 @@ You may also find useful the following lecture notes from a past edition of the 
 <h2>Exams</h2>
 The exam dates for academic year 2024/2025 will be displayed here when available.
 
-<u><em>Exam (October 2024)</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in INFOSTUD is still required). Date: 21/10/24. Aula: G50 (Viale Regina Elena 295). Time: 11:00-14:00. <em>Scores</em> [<a href="">pdf</a>].
+<u><em>Exam (October 2024)</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in INFOSTUD is still required). Date: 21/10/24. Aula: G50 (Viale Regina Elena 295). Time: 11:00-14:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame07_2324_scores.pdf">pdf</a>].
 <!--
 <u><em>Exam 1</em></u>. Date: 11/01/24. Aula 1 (RM018). Time: 09:00-12:00. <em>Scores</em> [<a href="files/crypto_esame01_2324_scores.pdf">pdf</a>].
 <br>

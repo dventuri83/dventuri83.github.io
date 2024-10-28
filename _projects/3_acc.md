@@ -62,7 +62,7 @@ Prova scritta. La prova consiste nella risoluzione di tre esercizi e nella rispo
 <h2>Esami</h2>
 Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena disponibili.
 
-<u><em>Exam (Ottobre 2024)</em></u>. Riservato agli studenti lavoratori e part-time (è necessario aver fatto la richiesta in segreteria; la registrazione su INFOSTUD è comunque richiesta). Data: 21/10/24. Aula: G50 (Viale Regina Elena 295). Orario: 11:00-14:00. <em>Risultati</em> [<a href="">pdf</a>].
+<u><em>Esame (Ottobre 2024)</em></u>. Riservato agli studenti lavoratori e part-time (è necessario aver fatto la richiesta in segreteria; la registrazione su INFOSTUD è comunque richiesta). Data: 21/10/24. Aula: G50 (Viale Regina Elena 295). Orario: 11:00-14:00. <em>Risultati</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame07_2324.pdf">pdf</a>].
 
 <!--
 <u><em>Exam 1</em></u>. Date: 11/01/24. Aula 1 (RM018). Time: 09:00-12:00. <em>Scores</em> [<a href="files/crypto_esame01_2324_scores.pdf">pdf</a>].
