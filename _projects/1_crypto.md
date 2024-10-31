@@ -246,6 +246,11 @@ The exam dates for academic year 2024/2025 will be displayed here when available
             <td>Proof of CPA security for the CTR mode. Domain extension for MACs.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture10_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lecture 11 30/10/24</td>
+            <td>Domain extension for MACs. Universal hashing and CBC-MAC. XOR-MAC.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture11_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>

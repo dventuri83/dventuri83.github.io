@@ -215,6 +215,11 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
             <td>Esempi di macchine di Turing e trucchi di programmazione. Linguaggi Turing-riconoscibili e linguaggi decidibili.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture10_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lezione 11 30/10/24</td>
+            <td>Varianti di macchine di Turing: La macchina di Turing multi-nastro e macchine di Turing non-deterministiche. Equivalenza con la macchina di Turing deterministica a singolo nastro.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture11_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>

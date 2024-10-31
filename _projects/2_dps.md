@@ -182,6 +182,16 @@ The exam dates for academic year 2024/2025 will be displayed here when available
             <td>The TLS protocol and TLS 1.3. Post-quantum cryptography. Lattices and hard problems: SIS and LWE.</td>
             <td>Chapter 3, 4</td>
         </tr>
+        <tr>
+            <td>Lecture 10 29/10/24</td>
+            <td>Basic cryptographic primitives based on lattices. Lattice trapdoors and Falcon. Canonical identification schemes and Crystals-Dilithium.</td>
+            <td>Chapter 4</td>
+        </tr>
+        <tr>
+            <td>Lecture 11 31/10/24</td>
+            <td>Regev public-key encryption. The Fujisaki-Okamoto transform and Crystals-Kyber.</td>
+            <td>Chapter 4</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
