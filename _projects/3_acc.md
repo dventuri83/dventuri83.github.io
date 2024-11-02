@@ -46,7 +46,7 @@ Durante il corso saranno introdotti i pi&ugrave; importanti risultati dell'Infor
 
 <h2>Logistica</h2>
 <p style="color:red;"><b> Importante: </b>Le lezioni avvengono esclusivamente in presenza (senza registrazioni).</p>
-<p style="color:red;"><b> Importante: </b>La lezione del 25/10/24 sarà in Aula D301 - Palazzina D - Viale Regina Elena 295.</p>
+<p style="color:red;"><b> Importante: </b>La lezione del 08/11/24 sarà in Aula 301 - Palazzina D - Viale Regina Elena 295.</p>
 <em>Orario:</em> Mercoled&igrave; (08:00 - 11:00) e Venerd&igrave; (15:00 - 17:00).
 <em>Aula:</em> La lezione del Mercoled&igrave; è in Aula 3L -- Via del Castro Laurenziano 7a. La lezione del Venerdì è in Aula 3 De Lollis.
 
@@ -85,9 +85,11 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
 <br>
 <u>02/10/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 11 ottobre avrà luogo in Aula A - Scienze Biochimiche (Città Universitaria).
 <br>
-<u>12/10/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 18 ottobre avrà luogo in Aula D101 - Palazzina D - Viale Regina Elena 295.
+<u>12/10/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 18 ottobre avrà luogo in Aula 101 - Palazzina D - Viale Regina Elena 295.
 <br>
-<u>22/10/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 25 ottobre avrà luogo in Aula D301 - Palazzina D - Viale Regina Elena 295.
+<u>22/10/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 25 ottobre avrà luogo in Aula 301 - Palazzina D - Viale Regina Elena 295.
+<br>
+<u>02/11/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 08 novembre avrà luogo in Aula 301 - Palazzina D - Viale Regina Elena 295.
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
