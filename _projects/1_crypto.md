@@ -61,7 +61,8 @@ The course is meant to be an introduction to modern cryptography, with a focus o
 </ul>
 
 <h2>Logistics</h2>
-<p style="color:red;"><b> Important: </b>The lectures are offered exclusively in-person (with no registration taking place). </p>
+<p style="color:red;"><b> Important: </b>The lectures are offered exclusively in-person (with no registration taking place).</p>
+<p style="color:red;"><b> Important: </b>The lecture on 08/11/24 will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/89487521223?pwd=KzrfMElWv3v7c6bOi7BGXR9U9rCw49.1">this link</a>.</p>
 <em>Lecture time:</em> Tuesday (8:00am - 11:00am) and Friday (11:00am - 13:00am).
 <br>
 <em>Location:</em> The lectures on Tuesday take place in Aula Magna - Viale Regina Elena 295. The lectures on Friday take place in Aula 1L - Via del Castro Laurenziano 7a.
@@ -119,6 +120,8 @@ The exam dates for academic year 2024/2025 will be displayed here when available
 <u>30/09/2024:</u> Due to the ongoing construction works in Aula Magna, the lecture on 01/10/2024 will take place in Aula 301 - Palazzina D, Viale Regina Elena 295, 00161 Rome.
 <br>
 <u>02/10/2024:</u> Due to the ongoing construction works in Aula Magna, the lecture on 08/10/2024 will take place in Aula 301 - Palazzina D, Viale Regina Elena 295, 00161 Rome.
+<br>
+<u>07/11/2024:</u> Due to the national strike announced for tomorrow, the lecture on November 8th will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/89487521223?pwd=KzrfMElWv3v7c6bOi7BGXR9U9rCw49.1">this link</a>.
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
