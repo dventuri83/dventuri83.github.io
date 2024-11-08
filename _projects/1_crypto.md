@@ -254,6 +254,16 @@ The exam dates for academic year 2024/2025 will be displayed here when available
             <td>Domain extension for MACs. Universal hashing and CBC-MAC. XOR-MAC.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture11_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lecture 12 05/11/24</td>
+            <td>Definition of CCA security for SKE. Combining encryption and authentication.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture12_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 13 08/11/24</td>
+            <td>Exercises.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture13_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>

@@ -221,8 +221,18 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
         </tr>
         <tr>
             <td>Lezione 11 30/10/24</td>
-            <td>Varianti di macchine di Turing: La macchina di Turing multi-nastro e macchine di Turing non-deterministiche. Equivalenza con la macchina di Turing deterministica a singolo nastro.</td>
+            <td>Varianti di macchine di Turing: La macchina di Turing multi-nastro e macchine di Turing non-deterministiche. Equivalenza con la macchina di Turing deterministica a singolo nastro. Macchine di Turing enumeratori.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture11_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lezione 12 06/11/24</td>
+            <td>Esempi di linguaggi Turing-decidibili. Esistenza di linguaggi non decidibili e non Turing-riconoscibili.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture12_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lezione 13 08/11/24</td>
+            <td>La diagonalizzazione ed esempi di linguaggi indecidibili. Primi esempi di riducibilità.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture13_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <!-- and so on... -->
     </tbody>

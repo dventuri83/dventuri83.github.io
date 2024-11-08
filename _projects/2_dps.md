@@ -189,8 +189,18 @@ The exam dates for academic year 2024/2025 will be displayed here when available
         </tr>
         <tr>
             <td>Lecture 11 31/10/24</td>
-            <td>Regev public-key encryption. The Fujisaki-Okamoto transform and Crystals-Kyber.</td>
+            <td>Regev public-key encryption. The Fujisaki-Okamoto transform and Crystals-Kyber. Fully-homomorphic encryption.</td>
             <td>Chapter 4</td>
+        </tr>
+        <tr>
+            <td>Lecture 12 05/11/24</td>
+            <td>Fully-homomorphic encryption. Identity-based encryption and attribute-based encryption from lattices.</td>
+            <td>Chapter 4</td>
+        </tr>
+        <tr>
+            <td>Lecture 13 07/11/24</td>
+            <td>Differential privacy and approximate differential privacy. Properties. Randomized responses. The Laplace and the Gaussian mechanisms.</td>
+            <td>Chapter 5</td>
         </tr>
         <!-- and so on... -->
     </tbody>
