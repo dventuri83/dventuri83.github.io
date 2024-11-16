@@ -84,11 +84,11 @@ Student's presentation (30%), oral exam (70%).
 </li>
 <li> Chapter 5: Differential privacy [<a href="https://dventuri83.github.io/assets/pdf/05_Diff_Priv.pdf">pdf</a>].
 </li>
-<li> Chapter 6: Bitcoin [<a href="">pdf</a>].
+<li> Chapter 6: Bitcoin [<a href="https://dventuri83.github.io/assets/pdf/06_Bitcoin.pdf">pdf</a>].
 </li>
-<li> Chapter 7: Alternative currencies [<a href="">pdf</a>].
+<li> Chapter 7: Alternative currencies [<a href="https://dventuri83.github.io/assets/pdf/07_Alt_Curr.pdf">pdf</a>].
 </li>
-<li> Chapter 8: Secure multiparty computation [<a href="">pdf</a>].
+<li> Chapter 8: Secure multiparty computation [<a href="https://dventuri83.github.io/assets/pdf/08_MPC.pdf">pdf</a>].
 </li>
 </ul>
 
@@ -109,23 +109,26 @@ While we will not follow a single book; the following sources are suggested as r
 As part of the exam, students are required to present a research paper or solve a small project and present the solution during the exam. Reach out to me by email after choosing a topic of preference (among those covered in the course) in order to get an assignment.
 
 <h2>Exams</h2>
-The exam dates for academic year 2024/2025 will be displayed here when available.
-<!--
-<u><em>Exam 1</em></u>. Date: 11/01/24. Aula 1 (RM018). Time: 09:00-12:00. <em>Scores</em> [<a href="files/crypto_esame01_2324_scores.pdf">pdf</a>].
+Below are the exam dates for academic year 2024/2025. Please register via Infostud.
+
+<u><em>Exam 1</em></u>. Date: 15/01/25. Aula T1 (Viale Regina Elena 295). Starting time: 09:30.
 <br>
-<u><em>Exam 2</em></u>. Date: 07/02/24. Aula 1 (RM018). Time: 09:00-12:00. <em>Scores</em> [<a href="files/crypto_esame02_2324_scores.pdf">pdf</a>].
+<u><em>Exam 2</em></u>. Date: 05/02/25. Aula T1 (Viale Regina Elena 295). Starting time: 09:30.
 <br>
-<u><em>Exam 3</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in INFOSTUD is still required). Date: 08/04/24. Aula: 2L (Via del Castro Laurenziano 7a). Time: 09:30-12:30. <em>Scores</em> [<a href="files/crypto_esame03_2324_scores.pdf">pdf</a>].
+<u><em>Exam 3</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: 26/03/25. Stanza G29 (Viale Regina Elena 295). Starting time: 09:30.
 <br>
-<u><em>Exam 4</em></u>. Date: 05/06/24. Aula 3 (RM018). Time: 08:30-11:30. <em>Scores</em> [<a href="files/crypto_esame04_2324_scores.pdf">pdf</a>].
+<u><em>Exam 4</em></u>. Date: 11/06/25. Aula T1 (Viale Regina Elena 295). Starting time: 09:30.
 <br>
-<u><em>Exam 5</em></u>. Date: 04/07/24. Aula 1 (RM018). Time: 09:30-12:30. <em>Scores</em> [<a href="files/crypto_esame05_2324_scores.pdf">pdf</a>].
+<u><em>Exam 5</em></u>. Date: 16/07/25. Aula G0 (Viale Regina Elena 295). Starting time: 09:30.
 <br>
-<u><em>Exam 6</em></u>. Date: 10/09/24. Aula 2 (RM018). Time: 09:30-12:30. <em>Scores</em> [<a href="files/crypto_esame06_2324_scores.pdf">pdf</a>].
--->
+<u><em>Exam 6</em></u>. Date: 10/09/25. Aula T1 (Viale Regina Elena 295). Starting time: 09:30.
+<br>
+<u><em>Exam 7</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: 14/10/25. Stanza G29 (Viale Regina Elena 295). Starting time: 09:30.
 
 <h2>Announcements</h2>
 <u>18/09/2024:</u> The course will start on September 26th, 2024.
+<br>
+<u>16/11/2024:</u> The lecture on 12/12/2024 will not take place in order to allow second year students to participate to the 52nd edition of the <a href="https://itmeeting.wordpress.com">ITMeeting</a>.
 
 <h2>Lectures</h2>
 <table>
@@ -200,6 +203,16 @@ The exam dates for academic year 2024/2025 will be displayed here when available
         <tr>
             <td>Lecture 13 07/11/24</td>
             <td>Differential privacy and approximate differential privacy. Properties. Randomized responses. The Laplace and the Gaussian mechanisms.</td>
+            <td>Chapter 5</td>
+        </tr>
+        <tr>
+            <td>Lecture 14 12/11/24</td>
+            <td>Advanced composition. The exponential mechanism and its applications.</td>
+            <td>Chapter 5</td>
+        </tr>
+        <tr>
+            <td>Lecture 15 14/11/24</td>
+            <td>The SmallDB mechanism. Information-theoretic lower bounds. Traitor tracing and computational lower bounds. Differential privacy and game theory.</td>
             <td>Chapter 5</td>
         </tr>
         <!-- and so on... -->

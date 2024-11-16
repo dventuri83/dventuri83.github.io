@@ -97,22 +97,21 @@ You may also find useful the following lecture notes from a past edition of the 
 </ul>
 
 <h2>Exams</h2>
-The exam dates for academic year 2024/2025 will be displayed here when available.
+Below are the exam dates for academic year 2024/2025. Please register via Infostud.
 
-<u><em>Exam (October 2024)</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in INFOSTUD is still required). Date: 21/10/24. Aula: G50 (Viale Regina Elena 295). Time: 11:00-14:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame07_2324_scores.pdf">pdf</a>].
-<!--
-<u><em>Exam 1</em></u>. Date: 11/01/24. Aula 1 (RM018). Time: 09:00-12:00. <em>Scores</em> [<a href="files/crypto_esame01_2324_scores.pdf">pdf</a>].
+<u><em>Exam 1</em></u>. Date: 13/01/25. Aula 3 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="files/crypto_esame01_2425_scores.pdf">pdf</a>].
 <br>
-<u><em>Exam 2</em></u>. Date: 07/02/24. Aula 1 (RM018). Time: 09:00-12:00. <em>Scores</em> [<a href="files/crypto_esame02_2324_scores.pdf">pdf</a>].
+<u><em>Exam 2</em></u>. Date: 03/02/25. Aula 1 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="files/crypto_esame02_2425_scores.pdf">pdf</a>].
 <br>
-<u><em>Exam 3</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in INFOSTUD is still required). Date: 08/04/24. Aula: 2L (Via del Castro Laurenziano 7a). Time: 09:30-12:30. <em>Scores</em> [<a href="files/crypto_esame03_2324_scores.pdf">pdf</a>].
+<u><em>Exam 3</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Time: TBA. <em>Scores</em> [<a href="files/crypto_esame03_2425_scores.pdf">pdf</a>].
 <br>
-<u><em>Exam 4</em></u>. Date: 05/06/24. Aula 3 (RM018). Time: 08:30-11:30. <em>Scores</em> [<a href="files/crypto_esame04_2324_scores.pdf">pdf</a>].
+<u><em>Exam 4</em></u>. Date: 09/06/25. Aula 1 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="files/crypto_esame04_2425_scores.pdf">pdf</a>].
 <br>
-<u><em>Exam 5</em></u>. Date: 04/07/24. Aula 1 (RM018). Time: 09:30-12:30. <em>Scores</em> [<a href="files/crypto_esame05_2324_scores.pdf">pdf</a>].
+<u><em>Exam 5</em></u>. Date: 14/07/25. Aula 1 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="files/crypto_esame05_2425_scores.pdf">pdf</a>].
 <br>
-<u><em>Exam 6</em></u>. Date: 10/09/24. Aula 2 (RM018). Time: 09:30-12:30. <em>Scores</em> [<a href="files/crypto_esame06_2324_scores.pdf">pdf</a>].
--->
+<u><em>Exam 6</em></u>. Date: 08/09/25. Aula 1 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="files/crypto_esame06_2425_scores.pdf">pdf</a>].
+<br>
+<u><em>Exam 7</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Time: TBA. <em>Scores</em> [<a href="files/crypto_esame07_2425_scores.pdf">pdf</a>].
 
 <h2>Announcements</h2>
 <u>12/09/2024:</u> The course will start on September 24th, 2024. Due to the ongoing construction works in Aula Magna, the lecture on 24/09/2024 will take place in Aula IV Matematica - Edificio Castelnuovo, Città Universitaria.
@@ -263,6 +262,16 @@ The exam dates for academic year 2024/2025 will be displayed here when available
             <td>Lecture 13 08/11/24</td>
             <td>Exercises.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture13_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 14 12/11/24</td>
+            <td>Authenticated encryption. Blockciphers and Feistel networks.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture14_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 15 15/11/24</td>
+            <td>Brush-up on number theory.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture15_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <!-- and so on... -->
     </tbody>

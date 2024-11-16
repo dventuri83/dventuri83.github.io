@@ -46,7 +46,7 @@ Durante il corso saranno introdotti i pi&ugrave; importanti risultati dell'Infor
 
 <h2>Logistica</h2>
 <p style="color:red;"><b> Importante: </b>Le lezioni avvengono esclusivamente in presenza (senza registrazioni).</p>
-<p style="color:red;"><b> Importante: </b>La lezione del 08/11/24 sarà eccezionalmente da remoto a <a href="https://uniroma1.zoom.us/j/81229907754?pwd=EZK66yAlBNbtC8NDMubGoZA3MJtGs3.1">questo link</a>.</p>
+<p style="color:red;"><b> Importante: </b>La lezione del 22/11/24 avrà luogo in Aula 201 - Palazzina D - Viale Regina Elena 295.</p>
 <em>Orario:</em> Mercoled&igrave; (08:00 - 11:00) e Venerd&igrave; (15:00 - 17:00).
 <em>Aula:</em> La lezione del Mercoled&igrave; è in Aula 3L -- Via del Castro Laurenziano 7a. La lezione del Venerdì è in Aula 3 De Lollis.
 
@@ -61,8 +61,6 @@ Prova scritta. La prova consiste nella risoluzione di tre esercizi e nella rispo
 
 <h2>Esami</h2>
 Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena disponibili.
-
-<u><em>Esame (Ottobre 2024)</em></u>. Riservato agli studenti lavoratori e part-time (è necessario aver fatto la richiesta in segreteria; la registrazione su INFOSTUD è comunque richiesta). Data: 21/10/24. Aula: G50 (Viale Regina Elena 295). Orario: 11:00-14:00. <em>Risultati</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame07_2324_scores.pdf">pdf</a>].
 
 <!--
 <u><em>Exam 1</em></u>. Date: 11/01/24. Aula 1 (RM018). Time: 09:00-12:00. <em>Scores</em> [<a href="files/crypto_esame01_2324_scores.pdf">pdf</a>].
@@ -92,6 +90,12 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
 <u>02/11/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 08 novembre avrà luogo in Aula 301 - Palazzina D - Viale Regina Elena 295.
 <br>
 <u>07/11/2024:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 8 novembre sarà eccezionalmente da remoto a <a href="https://uniroma1.zoom.us/j/81229907754?pwd=EZK66yAlBNbtC8NDMubGoZA3MJtGs3.1">questo link</a>.
+<br>
+<u>09/11/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 15 novembre avrà luogo in Aula 201 - Palazzina D - Viale Regina Elena 295.
+<br>
+<u>16/11/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 22 novembre avrà luogo in Aula 201 - Palazzina D - Viale Regina Elena 295.
+<br>
+<u>18/10/2024:</u> Gli studenti sono invitati al prossimo appuntamento della serie di seminari <a href="https://www.di.uniroma1.it/it/notizie/seminari/distinguished-lectures">Distinguished Lectures</a>, sponsorizzata dal Dipartimento di Informatica. Il seminario avrà luogo il 25/11/24 alle ore 12pm in Viale Regina Elena 295, Palazzina D, Aula 101.
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
@@ -233,6 +237,16 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
             <td>Lezione 13 08/11/24</td>
             <td>La diagonalizzazione ed esempi di linguaggi indecidibili. Primi esempi di riducibilità.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture13_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lezione 14 13/11/24</td>
+            <td>Riducibilità mediante funzione. Esercizi di calcolabilità.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture14_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lezione 15 15/11/24</td>
+            <td>Teoremi di incompletezza di Goedel.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture15_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <!-- and so on... -->
     </tbody>
