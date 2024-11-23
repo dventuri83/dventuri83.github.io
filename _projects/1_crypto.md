@@ -273,6 +273,16 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
             <td>Brush-up on number theory.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture15_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lecture 16 19/11/24</td>
+            <td>Brush-up on number theory (continued). The Diffie-Hellmann key exchange.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture16_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 17 22/11/24</td>
+            <td>Symmetric cryptography using number theory. Public-key encryption. The ElGamal PKE.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture17_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>

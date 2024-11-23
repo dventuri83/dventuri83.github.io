@@ -215,6 +215,16 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
             <td>The SmallDB mechanism. Information-theoretic lower bounds. Traitor tracing and computational lower bounds. Differential privacy and game theory.</td>
             <td>Chapter 5</td>
         </tr>
+        <tr>
+            <td>Lecture 16 19/11/24</td>
+            <td>Introduction to Bitcoin. Basic design principles.</td>
+            <td>Chapter 6</td>
+        </tr>
+        <tr>
+            <td>Lecture 17 21/11/24</td>
+            <td>Mining pools and attacks. Security of Bitcoin.</td>
+            <td>Chapter 5</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>

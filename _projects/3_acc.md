@@ -46,9 +46,8 @@ Durante il corso saranno introdotti i pi&ugrave; importanti risultati dell'Infor
 
 <h2>Logistica</h2>
 <p style="color:red;"><b> Importante: </b>Le lezioni avvengono esclusivamente in presenza (senza registrazioni).</p>
-<p style="color:red;"><b> Importante: </b>La lezione del 22/11/24 avrà luogo in Aula 201 - Palazzina D - Viale Regina Elena 295.</p>
 <em>Orario:</em> Mercoled&igrave; (08:00 - 11:00) e Venerd&igrave; (15:00 - 17:00).
-<em>Aula:</em> La lezione del Mercoled&igrave; è in Aula 3L -- Via del Castro Laurenziano 7a. La lezione del Venerdì è in Aula 3 De Lollis.
+<em>Aula:</em> La lezione del Mercoled&igrave; è in Aula 3L -- Via del Castro Laurenziano 7a. La lezione del Venerdì è in Aula 4 De Lollis.
 
 <h2>Modalit&agrave; di Esame</h2>
 Prova scritta. La prova consiste nella risoluzione di tre esercizi e nella risposta a tre domande di teoria.
@@ -96,6 +95,8 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
 <u>16/11/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 22 novembre avrà luogo in Aula 201 - Palazzina D - Viale Regina Elena 295.
 <br>
 <u>18/10/2024:</u> Gli studenti sono invitati al prossimo appuntamento della serie di seminari <a href="https://www.di.uniroma1.it/it/notizie/seminari/distinguished-lectures">Distinguished Lectures</a>, sponsorizzata dal Dipartimento di Informatica. Il seminario avrà luogo il 25/11/24 alle ore 12pm in Viale Regina Elena 295, Palazzina D, Aula 101.
+<br>
+<u>23/11/2024:</u> A partire dalla prossima settimana, le lezioni del venerdì avranno luogo in Aula 4 De Lollis (Via Tiburtina 205).
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
@@ -247,6 +248,16 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
             <td>Lezione 15 15/11/24</td>
             <td>Teoremi di incompletezza di Goedel.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture15_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lezione 16 20/11/24</td>
+            <td>Teoremi di incompletezza di Goedel. Complessità di tempo. Le classi P ed EXP. Esempi di problemi in P.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture16_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lezione 17 22/11/24</td>
+            <td>Soddisfacibilità. 2-SAT in P. Definizione di NP tramite verificatori.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture17_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <!-- and so on... -->
     </tbody>
