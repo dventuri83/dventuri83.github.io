@@ -223,7 +223,17 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
         <tr>
             <td>Lecture 17 21/11/24</td>
             <td>Mining pools and attacks. Security of Bitcoin.</td>
-            <td>Chapter 5</td>
+            <td>Chapter 6</td>
+        </tr>
+        <tr>
+            <td>Lecture 18 26/11/24</td>
+            <td>Lightning networks. Altcoins: Ethereum.</td>
+            <td>Chapter 6, Chapter 7</td>
+        </tr>
+        <tr>
+            <td>Lecture 19 28/11/24</td>
+            <td>Altcoins: Cardano, Algorand, Litecoin, Filecoin.</td>
+            <td>Chapter 7</td>
         </tr>
         <!-- and so on... -->
     </tbody>

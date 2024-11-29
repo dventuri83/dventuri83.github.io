@@ -259,6 +259,16 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
             <td>Soddisfacibilità. 2-SAT in P. Definizione di NP tramite verificatori.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture17_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lezione 18 27/11/24</td>
+            <td>Definizione di NP tramite non-determinismo. Esempi di linguaggi in NP. Equivalenza delle due definizioni di NP. NP-completezza.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture18_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lezione 19 29/11/24</td>
+            <td>Teorema di Cook-Levin. Ulteriori problemi NP-completi.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture19_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>

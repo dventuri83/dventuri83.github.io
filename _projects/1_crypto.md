@@ -283,6 +283,16 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
             <td>Symmetric cryptography using number theory. Public-key encryption. The ElGamal PKE.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture17_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lecture 18 26/11/24</td>
+            <td>The RSA PKE and the PKCS standard. Collision-resistant hash functions.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture18_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 19 29/11/24</td>
+            <td>Merkle trees and the Merklee-Damgaard paradigm. Building compression functions.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture19_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
