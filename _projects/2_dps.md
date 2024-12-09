@@ -235,6 +235,31 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
             <td>Altcoins: Cardano, Algorand, Litecoin, Filecoin.</td>
             <td>Chapter 7</td>
         </tr>
+        <tr>
+            <td>Lecture 20 03/12/24</td>
+            <td>Altcoins: Zerocash.</td>
+            <td>Chapter 7</td>
+        </tr>
+        <tr>
+            <td>Lecture 21 05/12/24</td>
+            <td>Introduction to multi-party computation. Coin tossing and oblivious transfer.</td>
+            <td>Chapter 8</td>
+        </tr>
+        <tr>
+            <td>Lecture 22 10/12/24</td>
+            <td>Introduction to multi-party computation. Coin tossing and oblivious transfer.</td>
+            <td>Chapter 8</td>
+        </tr>
+        <tr>
+            <td>Lecture 23 17/12/24</td>
+            <td>Introduction to multi-party computation. Coin tossing and oblivious transfer.</td>
+            <td>Chapter 8</td>
+        </tr>
+        <tr>
+            <td>Lecture 24 19/12/24</td>
+            <td>Introduction to multi-party computation. Coin tossing and oblivious transfer.</td>
+            <td>Chapter 8</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>

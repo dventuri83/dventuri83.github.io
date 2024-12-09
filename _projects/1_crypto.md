@@ -293,6 +293,36 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
             <td>Merkle trees and the Merklee-Damgaard paradigm. Building compression functions.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture19_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lecture 20 03/12/24</td>
+            <td>Digital signatures and universal unforgeability under chosen-message attacks. Public key infrastructures. Full-domain hash signatures and the random oracle model.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture20_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 21 06/12/24</td>
+            <td>Identification schemes and passive security. The Schnorr protocol. Honest-verifier zero knowledge.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture21_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 22 10/11/24</td>
+            <td>Special soundness. Proof that honest-verifier zero knowledge and special soundness imply passive security. Fiat-Shamir signatures.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture22_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 23 13/11/24</td>
+            <td>Lattices. The short integer solution (SIS) problem and the learning with errors (LWE) problem. Regev's PKE.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture23_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 24 17/12/24</td>
+            <td>Lattice trapdoors. Signatures from lattices. Identity-based encryption.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture24_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 25 20/12/24</td>
+            <td>Exercises.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture25_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>

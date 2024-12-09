@@ -269,6 +269,16 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
             <td>Teorema di Cook-Levin. Ulteriori problemi NP-completi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture19_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lezione 20 04/12/24</td>
+            <td>Conseguenze di P = NP. coNP e coNP-completezza. Complessità di spazio: definizioni e primi esempi.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture20_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lezione 21 06/12/24</td>
+            <td>Classi PSPACE, L, NPSPACE, NL. PATH in SPACE(log^2 n). PATH in NL.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture21_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
