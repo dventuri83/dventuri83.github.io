@@ -247,17 +247,17 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
         </tr>
         <tr>
             <td>Lecture 22 10/12/24</td>
-            <td>Introduction to multi-party computation. Coin tossing and oblivious transfer.</td>
+            <td>Yao's protocol for semi-honest and malicious adversaries.</td>
             <td>Chapter 8</td>
         </tr>
         <tr>
             <td>Lecture 23 17/12/24</td>
-            <td>Introduction to multi-party computation. Coin tossing and oblivious transfer.</td>
+            <td>Secret sharing. MPC with honest majority.</td>
             <td>Chapter 8</td>
         </tr>
         <tr>
             <td>Lecture 24 19/12/24</td>
-            <td>Introduction to multi-party computation. Coin tossing and oblivious transfer.</td>
+            <td>Redactable blockchain.</td>
             <td>Chapter 8</td>
         </tr>
         <!-- and so on... -->
