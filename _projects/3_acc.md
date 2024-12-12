@@ -97,6 +97,8 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
 <u>18/10/2024:</u> Gli studenti sono invitati al prossimo appuntamento della serie di seminari <a href="https://www.di.uniroma1.it/it/notizie/seminari/distinguished-lectures">Distinguished Lectures</a>, sponsorizzata dal Dipartimento di Informatica. Il seminario avrà luogo il 25/11/24 alle ore 12pm in Viale Regina Elena 295, Palazzina D, Aula 101.
 <br>
 <u>23/11/2024:</u> A partire dalla prossima settimana, le lezioni del venerdì avranno luogo in Aula 4 De Lollis (Via Tiburtina 205).
+<br>
+<u>12/12/2024:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 13 dicembre sarà eccezionalmente da remoto a <a href="https://uniroma1.zoom.us/j/89788890233?pwd=BnKB3PL5q96ZyhbAbobid00lrPIUc1.1">questo link</a>.
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  

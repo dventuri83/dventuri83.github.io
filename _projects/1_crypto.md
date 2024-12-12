@@ -121,6 +121,8 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
 <u>02/10/2024:</u> Due to the ongoing construction works in Aula Magna, the lecture on 08/10/2024 will take place in Aula 301 - Palazzina D, Viale Regina Elena 295, 00161 Rome.
 <br>
 <u>07/11/2024:</u> Due to the national strike announced for tomorrow, the lecture on November 8th will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/89487521223?pwd=KzrfMElWv3v7c6bOi7BGXR9U9rCw49.1">this link</a>.
+<br>
+<u>12/12/2024:</u> Due to the national strike announced for tomorrow, the lecture on December 13th will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/82386433484?pwd=i5bFdUzJBkya2gzWTd7jlUuH1lcyQr.1">this link</a>.
 <!--
 <br>
 <u>25/09/2023:</u> The lecture on 29/09/2023 has been canceled due to personal reasons.  
