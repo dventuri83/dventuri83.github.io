@@ -281,6 +281,16 @@ Le date degli esami per l'anno accademico 2024/2025 appariranno qui non appena d
             <td>Classi PSPACE, L, NPSPACE, NL. PATH in SPACE(log^2 n). PATH in NL.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture21_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lezione 22 11/12/24</td>
+            <td>NL-completezza. Teorema di Savitch. Riduzioni in spazio logaritmico.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture22_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lezione 23 06/12/24</td>
+            <td>PSPACE-completezza. NL=coNL.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture23_2425.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!-- and so on... -->
     </tbody>
 </table>
