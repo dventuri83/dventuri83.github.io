@@ -1,3 +1,26 @@
+@article{DBLP:journals/joc/AvitabileBFVV25,
+  abbr = {JoC},
+  bibtex_show={true},  
+  abstract = {At CRYPTO '94, Cramer, Damg\r{a}rd, and Schoenmakers introduced a general technique for constructing 
+honest-verifier zero-knowledge proofs of partial knowledge (PPK), where a prover Alice wants to prove to a verifier Bob she knows $\thrs$ witnesses for $\thrs$ claims out of $\clen$ claims without revealing the indices of those $\thrs$ claims.  Their solution starts from a base honest-verifier zero-knowledge proof of knowledge $\Sigma$ and requires to run in parallel $\clen$ execution of the base protocol, giving a complexity of $O(\clen \complexity(\Sigma))$, where $\complexity(\Sigma)$ is the communication complexity of the base protocol. However, modern practical scenarios require  communication-efficient zero-knowledge proofs tailored to handle partial knowledge in specific application-dependent formats.
+In this paper we propose a  technique to compose a large class of $\Sigma$-protocols for atomic statements into $\Sigma$-protocols for PPK over formulae in conjunctive normal form (CNF) that overlap, in the sense that there is a common subset of literals among all clauses of the formula. In such formulae, the statement is expressed as a conjunction of $\num$ clauses, each of which consists of a disjunction of $\clen$ literals (i.e., each literal is an atomic statement)
+and $\ell$ literals are shared among clauses. The prover, for a threshold parameter $\thrs \le \clen$, proves knowledge of at least $\thrs$ witnesses for $\thrs$ distinct literals in each clause.
+ At the core of our protocol, there is a new technique to compose $\Sigma$-protocols for regular CNF relations (i.e., when $ \thrs=1$) that exploits the overlap among clauses and that we then generalize to formulae where $\thrs>1$ providing improvements over state-of-the-art constructions. },
+  author = {Gennaro Avitabile and Vincenzo Botta and Daniele Friolo and Daniele Venturi and Ivan Visconti},
+  title = {Compact Proofs of Partial Knowledge for Overlapping {CNF} Formulae},
+  journal      = {Journal of Cryptology},
+  volume       = {38},
+  number       = {1},
+  pages        = {7},
+  year         = {2025},
+  doi          = {10.1007/S00145-024-09532-3},
+  html = {https://link.springer.com/article/10.1007/s00145-024-09532-3},
+  pdf = {https://eprint.iacr.org/2024/1488},
+  dimensions = {true},
+  google_scholar_id = {7T2F9Uy0os0C},
+  selected = {false}
+}
+
 @article{DBLP:journals/joc/FrancatiFMV24,
   abbr = {JoC},
   bibtex_show={true},  
