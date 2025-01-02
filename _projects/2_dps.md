@@ -260,6 +260,5 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
             <td>Redactable blockchain.</td>
             <td>Chapter 8</td>
         </tr>
-        <!-- and so on... -->
     </tbody>
 </table>
