@@ -61,19 +61,19 @@ Prova scritta. La prova consiste nella risoluzione di tre esercizi e nella rispo
 <h2>Esami</h2>
 Le date degli esami per l'anno accademico 2024/2025 sono mostrate di seguito:
 
-<u><em>Esame 1</em></u>. Data: 14/01/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="files/acc_esame01_2425_scores.pdf">pdf</a>].
+<u><em>Esame 1</em></u>. Data: 14/01/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame01_2425_scores.pdf">pdf</a>].
 <br>
-<u><em>Esame 2</em></u>. Data: 04/02/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="files/acc_esame02_2425_scores.pdf">pdf</a>].
+<u><em>Esame 2</em></u>. Data: 04/02/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame02_2425_scores.pdf">pdf</a>].
 <br>
-<u><em>Esame 3</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: TBA. Aula: TBA. Orario: TBA. <em>Voti</em> [<a href="files/acc_esame03_2425_scores.pdf">pdf</a>].
+<u><em>Esame 3</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: TBA. Aula: TBA. Orario: TBA. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame03_2425_scores.pdf">pdf</a>].
 <br>
-<u><em>Esame 4</em></u>. Data: 10/06/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="files/acc_esame04_2425_scores.pdf">pdf</a>].
+<u><em>Esame 4</em></u>. Data: 10/06/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame04_2425_scores.pdf">pdf</a>].
 <br>
-<u><em>Esame 5</em></u>. Data: 15/07/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="files/acc_esame05_2425_scores.pdf">pdf</a>].
+<u><em>Esame 5</em></u>. Data: 15/07/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame05_2425_scores.pdf">pdf</a>].
 <br>
-<u><em>Esame 6</em></u>. Data: 09/09/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="files/acc_esame06_2425_scores.pdf">pdf</a>].
+<u><em>Esame 6</em></u>. Data: 09/09/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame06_2425_scores.pdf">pdf</a>].
 <br>
-<u><em>Esame 7</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: TBA. Aula: TBA. Orario: TBA. <em>Voti</em> [<a href="files/acc_esame07_2425_scores.pdf">pdf</a>].
+<u><em>Esame 7</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: TBA. Aula: TBA. Orario: TBA. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame07_2425_scores.pdf">pdf</a>].
 
 <h2>Avvisi</h2>
 <u>11/09/2024:</u> Il corso inizierà il 25 settembre 2024. A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 27 settembre avrà luogo in Aula A - Pietro Benedetti (Via dei Sabelli 108).
