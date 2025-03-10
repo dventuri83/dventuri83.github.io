@@ -103,7 +103,7 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
 <br>
 <u><em>Exam 2</em></u>. Date: 03/02/25. Aula 1 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame02_2425_scores.pdf">pdf</a>].
 <br>
-<u><em>Exam 3</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Time: TBA. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame03_2425_scores.pdf">pdf</a>].
+<u><em>Exam 3</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: 04/04/25. Aula: 3 (RM018). Time: 08:30-11:30. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame03_2425_scores.pdf">pdf</a>].
 <br>
 <u><em>Exam 4</em></u>. Date: 09/06/25. Aula 1 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame04_2425_scores.pdf">pdf</a>].
 <br>

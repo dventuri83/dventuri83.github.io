@@ -65,7 +65,7 @@ Le date degli esami per l'anno accademico 2024/2025 sono mostrate di seguito:
 <br>
 <u><em>Esame 2</em></u>. Data: 04/02/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame02_2425_scores.pdf">pdf</a>].
 <br>
-<u><em>Esame 3</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: TBA. Aula: TBA. Orario: TBA. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame03_2425_scores.pdf">pdf</a>].
+<u><em>Esame 3</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: 04/04/25. Aula: 3 (RM018). Orario: 08:30-11:30. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame03_2425_scores.pdf">pdf</a>].
 <br>
 <u><em>Esame 4</em></u>. Data: 10/06/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame04_2425_scores.pdf">pdf</a>].
 <br>
