@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automi, Calcolabilità e Complessità (Autunno 2024)
+title: Automi, Calcolabilità e Complessità (Autunno 2025)
 description: Laurea Triennale in Informatica
 img: assets/img/acc.jpg
 importance: 1
@@ -46,8 +46,8 @@ Durante il corso saranno introdotti i pi&ugrave; importanti risultati dell'Infor
 
 <h2>Logistica</h2>
 <p style="color:red;"><b> Importante: </b>Le lezioni avvengono esclusivamente in presenza (senza registrazioni).</p>
-<em>Orario:</em> Mercoled&igrave; (08:00 - 11:00) e Venerd&igrave; (15:00 - 17:00).
-<em>Aula:</em> La lezione del Mercoled&igrave; è in Aula 3L -- Via del Castro Laurenziano 7a. La lezione del Venerdì è in Aula 4 De Lollis.
+<em>Orario:</em> Mercoled&igrave; (08:00 - 11:00) e Venerd&igrave; (08:00 - 10:00).
+<em>Aula:</em> Aula 4 (RM158).
 
 <h2>Modalit&agrave; di Esame</h2>
 Prova scritta. La prova consiste nella risoluzione di tre esercizi e nella risposta a tre domande di teoria.
@@ -59,8 +59,8 @@ Prova scritta. La prova consiste nella risoluzione di tre esercizi e nella rispo
 </ul>
 
 <h2>Esami</h2>
-Le date degli esami per l'anno accademico 2024/2025 sono mostrate di seguito:
-
+Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
+<!---
 <u><em>Esame 1</em></u>. Data: 14/01/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame01_2425_scores.pdf">pdf</a>].
 <br>
 <u><em>Esame 2</em></u>. Data: 04/02/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame02_2425_scores.pdf">pdf</a>].
@@ -74,10 +74,12 @@ Le date degli esami per l'anno accademico 2024/2025 sono mostrate di seguito:
 <u><em>Esame 6</em></u>. Data: 09/09/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame06_2425_scores.pdf">pdf</a>].
 <br>
 <u><em>Esame 7</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: TBA. Aula: TBA. Orario: TBA. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame07_2425_scores.pdf">pdf</a>].
+--->
 
 <h2>Avvisi</h2>
-<u>11/09/2024:</u> Il corso inizierà il 25 settembre 2024. A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 27 settembre avrà luogo in Aula A - Pietro Benedetti (Via dei Sabelli 108).
+<u>20/09/2025:</u> Il corso inizierà il 23 settembre 2025.
 <br>
+<!---
 <u>30/09/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 4 ottobre sarà da remoto a <a href="https://uniroma1.zoom.us/j/86123921107?pwd=YICFZ9rvjNF2eSqU7mN6c8xoJOIndS.1">questo link</a>.
 <br>
 <u>02/10/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 11 ottobre avrà luogo in Aula A - Scienze Biochimiche (Città Universitaria).
@@ -99,6 +101,7 @@ Le date degli esami per l'anno accademico 2024/2025 sono mostrate di seguito:
 <u>23/11/2024:</u> A partire dalla prossima settimana, le lezioni del venerdì avranno luogo in Aula 4 De Lollis (Via Tiburtina 205).
 <br>
 <u>12/12/2024:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 13 dicembre sarà eccezionalmente da remoto a <a href="https://uniroma1.zoom.us/j/89788890233?pwd=BnKB3PL5q96ZyhbAbobid00lrPIUc1.1">questo link</a>.
+--->
 
 <h2>Diario delle lezioni</h2>
 <table>
@@ -111,10 +114,11 @@ Le date degli esami per l'anno accademico 2024/2025 sono mostrate di seguito:
     </thead>
     <tbody>
         <tr>
-            <td>Lezione 1 25/09/24</td>
+            <td>Lezione 1 23/09/25</td>
             <td>Introduzione al corso. Automi a stati finiti: definizioni ed esempi. Linguaggi regolari. Operazioni sui linguaggi.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture01_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture01_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---
         <tr>
             <td>Lezione 2 27/09/24</td>
             <td>Chiusura dei linguaggi regolari rispetto ad unione ed intersezione. Automi a stati finiti non deterministici: definizioni ed esempi.</td>
@@ -235,5 +239,6 @@ Le date degli esami per l'anno accademico 2024/2025 sono mostrate di seguito:
             <td>Esercizi di complessità..</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture25_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        --->
     </tbody>
 </table>
