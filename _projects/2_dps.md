@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Privacy and Security (Fall 2024)
+title: Data Privacy and Security (Fall 2025)
 description: Master's Degree in Data Science
 img: assets/img/dps.jpg
 importance: 1
@@ -59,7 +59,7 @@ The course is meant to cover an overview of modern techniques aimed at protectin
 
 <h2>Logistics</h2>
 <p style="color:red;"><b> Important: </b>The lectures are offered exclusively in-person (with no registration taking place). </p>
-<em>Lecture time:</em> Tuesday (15:00 - 17:00) and Thursday (12:00 - 15:00).
+<em>Lecture time:</em> Tuesday (14:00 - 17:00) and Thursday (14:00 - 16:00).
 <br>
 <em>Location:</em> Room A2 - Via Ariosto 25, Rome.
 <br>
@@ -68,7 +68,7 @@ The course is meant to cover an overview of modern techniques aimed at protectin
 <em>Google Group:</em> <a href="https://groups.google.com/u/2/a/uniroma1.it/g/sapienzacrypto">SapienzaCrypto</a>.
 
 <h2>Grading</h2>
-Student's presentation (30%), oral exam (70%).
+Project (30%), oral exam (70%).
 
 <h2>Course Slides</h2>
 <ul>
@@ -106,11 +106,11 @@ While we will not follow a single book; the following sources are suggested as r
 </ul>
 
 <h2>Students' Projects</h2>
-As part of the exam, students are required to present a research paper or solve a small project and present the solution during the exam. Reach out to me by email after choosing a topic of preference (among those covered in the course) in order to get an assignment.
+As part of the exam, students are required to solve a small project and present their project work during the exam. Reach out to me by email after choosing a topic of preference (among those covered in the course) in order to get an assignment. Collaboration among students is welcome.
 
 <h2>Exams</h2>
-Below are the exam dates for academic year 2024/2025. Please register via Infostud.
-
+The exam dates for academic year 2025/2026 will appear below. Please always register via Infostud.
+<!---
 <u><em>Exam 1</em></u>. Date: 15/01/25. Aula T1 (Viale Regina Elena 295). Starting time: 09:30.
 <br>
 <u><em>Exam 2</em></u>. Date: 05/02/25. Aula T1 (Viale Regina Elena 295). Starting time: 09:30.
@@ -124,11 +124,14 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
 <u><em>Exam 6</em></u>. Date: 10/09/25. Aula T1 (Viale Regina Elena 295). Starting time: 09:30.
 <br>
 <u><em>Exam 7</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: 14/10/25. Stanza G29 (Viale Regina Elena 295). Starting time: 09:30.
+--->
 
 <h2>Announcements</h2>
-<u>18/09/2024:</u> The course will start on September 26th, 2024.
+<u>20/09/2025:</u> The course will start on September 23, 2025.
 <br>
+<!---
 <u>16/11/2024:</u> The lecture on 12/12/2024 will not take place in order to allow second year students to participate to the 52nd edition of the <a href="https://itmeeting.wordpress.com">ITMeeting</a>.
+--->
 
 <h2>Lectures</h2>
 <table>
@@ -141,10 +144,11 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
     </thead>
     <tbody>
         <tr>
-            <td>Lecture 1 26/09/24</td>
+            <td>Lecture 1 23/09/25</td>
             <td>Introduction to the course. Modern cryptography. Message confidentiality and authenticity. Symmetric encryption. Perfect secrecy and Shannon's impossibility result. The AES blockcipher.</td>
             <td>Chapter 1</td>
         </tr>
+        <!---
         <tr>
             <td>Lecture 2 01/10/24</td>
             <td>Modes of operation: ECB, CBC, CFB, OFB and CTR. Definition of CPA security for symmetric encryption. Message authentication codes and unforgeability. CBC-MAC and its security.</td>
@@ -260,5 +264,6 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
             <td>Redactable blockchain.</td>
             <td>Chapter 8</td>
         </tr>
+        --->
     </tbody>
 </table>
