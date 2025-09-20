@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cryptography (Fall 2024)
+title: Cryptography (Fall 2025)
 description: Master's Degree in Computer Science, Master's Degree in Cybersecurity, Master's Degree in Mathematics
 img: assets/img/crypto.jpg
 importance: 1
@@ -62,10 +62,12 @@ The course is meant to be an introduction to modern cryptography, with a focus o
 
 <h2>Logistics</h2>
 <p style="color:red;"><b> Important: </b>The lectures are offered exclusively in-person (with no registration taking place).</p>
+<!---
 <p style="color:red;"><b> Important: </b>The lecture on 08/11/24 will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/89487521223?pwd=KzrfMElWv3v7c6bOi7BGXR9U9rCw49.1">this link</a>.</p>
+--->
 <em>Lecture time:</em> Tuesday (8:00am - 11:00am) and Friday (11:00am - 13:00am).
 <br>
-<em>Location:</em> The lectures on Tuesday take place in Aula Magna - Viale Regina Elena 295. The lectures on Friday take place in Aula 1L - Via del Castro Laurenziano 7a.
+<em>Location:</em> Aula 1L (RM018) - Via del Castro Laurenziano 7a.
 <br>
 <em>Twitter:</em> <a href="https://twitter.com/SapienzaCrypto">@SapienzaCrypto</a>.
 <br>
@@ -97,8 +99,8 @@ You may also find useful the following lecture notes from a past edition of the 
 </ul>
 
 <h2>Exams</h2>
-Below are the exam dates for academic year 2024/2025. Please register via Infostud.
-
+The exam dates for academic year 2025/2026 will appear below. Please always register via Infostud.
+<!---
 <u><em>Exam 1</em></u>. Date: 13/01/25. Aula 3 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame01_2425_scores.pdf">pdf</a>].
 <br>
 <u><em>Exam 2</em></u>. Date: 03/02/25. Aula 1 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame02_2425_scores.pdf">pdf</a>].
@@ -112,10 +114,12 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
 <u><em>Exam 6</em></u>. Date: 08/09/25. Aula 1 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame06_2425_scores.pdf">pdf</a>].
 <br>
 <u><em>Exam 7</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Time: TBA. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame07_2425_scores.pdf">pdf</a>].
+--->
 
 <h2>Announcements</h2>
-<u>12/09/2024:</u> The course will start on September 24th, 2024. Due to the ongoing construction works in Aula Magna, the lecture on 24/09/2024 will take place in Aula IV Matematica - Edificio Castelnuovo, Città Universitaria.
+<u>20/09/2025:</u> The course will start on September 23, 2025.
 <br>
+<!---
 <u>30/09/2024:</u> Due to the ongoing construction works in Aula Magna, the lecture on 01/10/2024 will take place in Aula 301 - Palazzina D, Viale Regina Elena 295, 00161 Rome.
 <br>
 <u>02/10/2024:</u> Due to the ongoing construction works in Aula Magna, the lecture on 08/10/2024 will take place in Aula 301 - Palazzina D, Viale Regina Elena 295, 00161 Rome.
@@ -123,6 +127,7 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
 <u>07/11/2024:</u> Due to the national strike announced for tomorrow, the lecture on November 8th will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/89487521223?pwd=KzrfMElWv3v7c6bOi7BGXR9U9rCw49.1">this link</a>.
 <br>
 <u>12/12/2024:</u> Due to the national strike announced for tomorrow, the lecture on December 13th will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/82386433484?pwd=i5bFdUzJBkya2gzWTd7jlUuH1lcyQr.1">this link</a>.
+--->
 
 <h2>Lectures</h2>
 <table>
@@ -135,10 +140,11 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
     </thead>
     <tbody>
         <tr>
-            <td>Lecture 1 24/09/24</td>
+            <td>Lecture 1 23/09/25</td>
             <td>Modern cryptography. Overview of the course. Syntax of secret-key encryption (SKE), public-key encryption (PKE), message authentication codes (MACs) and digital signatures. Definition of perfect secrecy.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture01_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture01_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---
         <tr>
             <td>Lecture 2 27/09/24</td>
             <td>Equivalent notions of perfect secrecy. The one-time pad and Shannon's impossibility result. Definition of statistically-secure (one-time) MACs.</td>
@@ -259,5 +265,6 @@ Below are the exam dates for academic year 2024/2025. Please register via Infost
             <td>Exercises.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture25_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        --->
     </tbody>
 </table>
