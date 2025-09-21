@@ -44,6 +44,85 @@ In particular, plugging in our constructions of multi-key and multi-input PE, un
   selected = {false}
 }
 
+@inproceedings{DBLP:conf/acns/FrancatiV24,
+  abbr = {ACNS 24},
+  bibtex_show={true},
+  abstract = {Fuzzy extractors (Dodis et al. EUROCRYPT’04) allow to generate close to uniform randomness using correlated distributions outputting samples that are close over some metric space. The latter requires to produce a helper value (along with the extracted key) that can be used to recover the key using close samples. Robust fuzzy extractors (Dodis et al., CRYPTO’06) further protect the helper string from arbitrary active manipulations, by requiring that the reconstructed key using a modified helper string cannot yield a different extractor output.
+It is well known that statistical robustness inherently requires large min-entropy (in fact,  $m > n/2$ where $n$ is the bit length of the samples) from the underlying correlated distributions, even assuming trusted setup. Motivated by this limitation, we start the investigation of security properties weaker than robustness, but that can be achieved in the plain model assuming only minimal min-entropy (in fact,  $m=\omega(\log n)$), while still being useful for applications. We identify one such property and put forward the notion of non-malleable fuzzy extractors. Intuitively, non-malleability relaxes the robustness property by allowing the reconstructed key using a modified helper string to be different from the original extractor output, as long as it is a completely unrelated value.
+We give a black-box construction of non-malleable fuzzy extractors in the plain model for min-entropy $m=\omega(\log n)$, against interesting families of manipulations including split-state tampering, small-depth circuits tampering, and space-bounded tampering (in the information-theoretic setting), as well as tampering via partial functions (assuming one-way functions). We leave it as an open problem to establish whether non-malleability is possible for arbitrary manipulations of the helper string. Finally, we show an application of non-malleable fuzzy extractors to protect stateless cryptographic primitives whose secret keys are derived using fuzzy correlated distributions.},
+  author = {Danilo Francati and Daniele Venturi},
+  title = {Non-malleable Fuzzy Extractors},
+  booktitle = {22nd International Conference on Applied Cryptography and Network Security},
+  series = {Lecture Notes in Computer Science},
+  volume = {14583},
+  pages = {135--155},
+  publisher = {Springer},
+  year = {2024},
+  doi = {10.1007/978-3-031-54770-6\_6},
+  html = {https://wp.nyu.edu/acns2024/},
+  pdf = {https://link.springer.com/chapter/10.1007/978-3-031-54770-6_6},
+  dimensions = {true},
+  google_scholar_id = {PR6Y55bgFSsC},
+  selected = {false}
+}
+
+@inproceedings{DBLP:conf/asiacrypt/FrancatiV24,
+  abbr = {ASIACRYPT 24},
+  bibtex_show={true},  
+  abstract = {Evolving secret sharing (Komargodski, Naor, and Yogev, TCC’16) generalizes the notion of secret sharing to the setting of evolving access structures, in which the share holders are added to the system in an online manner, and where the dealer does not know neither the access structure nor the maximum number of parties in advance. Here, the main difficulty is to distribute shares to the new players without updating the shares of old players; moreover, one would like to minimize the share size as a function of the number of players.
+In this paper, we initiate a systematic study of evolving secret sharing in the computational setting, where the maximum number of parties is polynomial in the security parameter, but the dealer still does not know this value, neither it knows the access structure in advance. Moreover, the privacy guarantee only holds against computationally bounded adversaries corrupting an unauthorized subset of the players.
+Our main result is that for many interesting, and practically relevant, evolving access structures (including graphs access structures, DNF and CNF formulas access structures, monotone circuits access structures, and threshold access structures), under standard hardness assumptions, there exist efficient secret sharing schemes with computational privacy and in which the shares are succinct (i.e., much smaller compared to the size of a natural computational representation of the evolving access structure).},
+  author       = {Danilo Francati and
+                  Daniele Venturi},
+  editor       = {Kai{-}Min Chung and
+                  Yu Sasaki},
+  title        = {Evolving Secret Sharing Made Short},
+  booktitle    = {Advances in Cryptology - {ASIACRYPT} 2024 - 30th International Conference
+                  on the Theory and Application of Cryptology and Information Security,
+                  Kolkata, India, December 9-13, 2024, Proceedings, Part {VII}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {15490},
+  pages        = {69--99},
+  publisher    = {Springer},
+  year         = {2024},
+  doi          = {10.1007/978-981-96-0941-3\_3},
+  html          = {https://link.springer.com/chapter/10.1007/978-981-96-0941-3_3},
+  pdf = {https://eprint.iacr.org/2023/1534},
+  dimensions = {true},
+  google_scholar_id = {ye4kPcJQO24C},
+  selected = {false}
+}
+
+@inproceedings{DBLP:conf/asiacrypt/ChakrabortyMMV24,
+  abbr = {ASIACRYPT 24},
+  bibtex_show={true},  
+  abstract = {Password-Authenticated Key Exchange (PAKE) allows two parties to establish a common high-entropy secret from a possibly low-entropy pre-shared secret such as a password. In this work, we provide the first PAKE protocol with subversion resilience in the framework of universal composability (UC), where the latter roughly means that UC security still holds even if one of the two parties is malicious and the honest party's code has been subverted (in an undetectable manner). 
+We achieve this result by sanitizing the PAKE protocol from oblivious transfer (OT) due to Canetti et al. (PKC'12) via cryptographic reverse firewalls in the UC framework (Chakraborty et al.,  EUROCRYPT'22). This requires new techniques, which help us uncover new cryptographic primitives with sanitation-friendly properties along the way (such as OT, dual-mode cryptosystems, and signature schemes).
+As an additional contribution, we delve deeper in the backbone of communication required in the subversion-resilient UC framework, extending it to the unauthenticated setting, in line with the work of Barak et al. (CRYPTO'05).},
+  author       = {Suvradip Chakraborty and
+                  Lorenzo Magliocco and
+                  Bernardo Magri and
+                  Daniele Venturi},
+  editor       = {Kai{-}Min Chung and
+                  Yu Sasaki},
+  title        = {Key Exchange in the Post-snowden Era: Universally Composable Subversion-Resilient
+                  {PAKE}},
+  booktitle    = {Advances in Cryptology - {ASIACRYPT} 2024 - 30th International Conference
+                  on the Theory and Application of Cryptology and Information Security,
+                  Kolkata, India, December 9-13, 2024, Proceedings, Part {V}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {15488},
+  pages        = {101--133},
+  publisher    = {Springer},
+  year         = {2024},
+  doi          = {10.1007/978-981-96-0935-2\_4},
+  html          = {https://link.springer.com/chapter/10.1007/978-981-96-0935-2_4},
+  pdf = {https://eprint.iacr.org/2023/1827},
+  dimensions = {true},
+  google_scholar_id = {_Re3VWB3Y0AC},
+  selected = {false}
+}
+
 @inproceedings{DBLP:conf/crypto/ObresmkiRRSV24,
   abbr = {CRYPTO 24},
   bibtex_show={true},
@@ -85,28 +164,6 @@ We demonstrate the feasibility of our attack by instantiating it to attack three
   dimensions = {true},
   google_scholar_id = {VL0QpB8kHFEC},
   selected = {true}
-}
-
-@inproceedings{DBLP:conf/acns/FrancatiV24,
-  abbr = {ACNS 24},
-  bibtex_show={true},
-  abstract = {Fuzzy extractors (Dodis et al. EUROCRYPT’04) allow to generate close to uniform randomness using correlated distributions outputting samples that are close over some metric space. The latter requires to produce a helper value (along with the extracted key) that can be used to recover the key using close samples. Robust fuzzy extractors (Dodis et al., CRYPTO’06) further protect the helper string from arbitrary active manipulations, by requiring that the reconstructed key using a modified helper string cannot yield a different extractor output.
-It is well known that statistical robustness inherently requires large min-entropy (in fact,  $m > n/2$ where $n$ is the bit length of the samples) from the underlying correlated distributions, even assuming trusted setup. Motivated by this limitation, we start the investigation of security properties weaker than robustness, but that can be achieved in the plain model assuming only minimal min-entropy (in fact,  $m=\omega(\log n)$), while still being useful for applications. We identify one such property and put forward the notion of non-malleable fuzzy extractors. Intuitively, non-malleability relaxes the robustness property by allowing the reconstructed key using a modified helper string to be different from the original extractor output, as long as it is a completely unrelated value.
-We give a black-box construction of non-malleable fuzzy extractors in the plain model for min-entropy $m=\omega(\log n)$, against interesting families of manipulations including split-state tampering, small-depth circuits tampering, and space-bounded tampering (in the information-theoretic setting), as well as tampering via partial functions (assuming one-way functions). We leave it as an open problem to establish whether non-malleability is possible for arbitrary manipulations of the helper string. Finally, we show an application of non-malleable fuzzy extractors to protect stateless cryptographic primitives whose secret keys are derived using fuzzy correlated distributions.},
-  author = {Danilo Francati and Daniele Venturi},
-  title = {Non-malleable Fuzzy Extractors},
-  booktitle = {22nd International Conference on Applied Cryptography and Network Security},
-  series = {Lecture Notes in Computer Science},
-  volume = {14583},
-  pages = {135--155},
-  publisher = {Springer},
-  year = {2024},
-  doi = {10.1007/978-3-031-54770-6\_6},
-  html = {https://wp.nyu.edu/acns2024/},
-  pdf = {https://link.springer.com/chapter/10.1007/978-3-031-54770-6_6},
-  dimensions = {true},
-  google_scholar_id = {PR6Y55bgFSsC},
-  selected = {false}
 }
 
 @inproceedings{DBLP:conf/acns/FrioloSV23,
