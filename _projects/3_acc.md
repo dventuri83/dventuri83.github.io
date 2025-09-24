@@ -114,14 +114,14 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
     </thead>
     <tbody>
         <tr>
-            <td>Lezione 1 23/09/25</td>
-            <td>Introduzione al corso. Automi a stati finiti: definizioni ed esempi. Linguaggi regolari. Operazioni sui linguaggi.</td>
+            <td>Lezione 1 24/09/25</td>
+            <td>Introduzione al corso. Automi a stati finiti: prime definizioni ed esempi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture01_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <!---
         <tr>
             <td>Lezione 2 27/09/24</td>
-            <td>Chiusura dei linguaggi regolari rispetto ad unione ed intersezione. Automi a stati finiti non deterministici: definizioni ed esempi.</td>
+            <td>Linguaggi regolari. Operazioni sui linguaggi. Chiusura dei linguaggi regolari rispetto ad unione ed intersezione. Automi a stati finiti non deterministici: definizioni ed esempi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture02_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
