@@ -144,12 +144,12 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Overview of the course. Definition of secret-key encryption (SKE). Definition of perfect secrecy. The one-time pad and Shannon's impossibility result.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture01_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---
         <tr>
             <td>Lecture 2 26/09/25</td>
             <td>Equivalent notions of perfect secrecy. Definition of statistically-secure (one-time) MACs.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture02_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture02_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---
         <tr>
             <td>Lecture 3 01/10/24</td>
             <td>Constructions of pairwise independent hash functions and one-time statistically secure MACs. Randomness extraction. Impossibility of randomness extraction from a single min-entropy source. Definition of seeded extractors.</td>
