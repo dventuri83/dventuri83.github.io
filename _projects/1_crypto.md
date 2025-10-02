@@ -151,17 +151,17 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Equivalent notions of perfect secrecy. Definition of statistically-secure (one-time) MACs.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture02_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---
         <tr>
-            <td>Lecture 3 01/10/24</td>
+            <td>Lecture 3 30/09/25</td>
             <td>Constructions of pairwise independent hash functions and one-time statistically secure MACs. Randomness extraction. Impossibility of randomness extraction from a single min-entropy source. Definition of seeded extractors.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture03_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture03_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 4 04/10/24</td>
+            <td>Lecture 4 03/10/25</td>
             <td>Leftover hash lemma. Beginning of computational security.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture04_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture04_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---
         <tr>
             <td>Lecture 5 08/10/24</td>
             <td>Computational security. Definition and examples of one-way functions. Definition of pseudorandom generators (PRGs).</td>

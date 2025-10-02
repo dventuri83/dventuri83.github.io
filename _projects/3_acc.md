@@ -125,17 +125,18 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
             <td>Esempi di progettazione di DFA. Linguaggi regolari. Operazioni sui linguaggi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture02_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---
         <tr>
-            <td>Lezione 3 02/10/24</td>
-            <td>Chiusura dei linguaggi regolari rispetto ad unione ed intersezione. Automi a stati finiti non deterministici: definizioni ed esempi. Equivalenza tra automi a stati finiti deterministici e non-deterministici. Chiusura dei linguaggi regolari rispetto alla concatenzazione e all'operazione star. Espressioni regolari: definizioni ed esempi. Equivalenza tra espressioni regolari e linguaggi regolari.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture03_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 3 01/10/25</td>
+            <td>Chiusura dei linguaggi regolari rispetto ad unione ed intersezione. Automi a stati finiti non deterministici: definizioni ed esempi. Equivalenza tra automi a stati finiti deterministici e non-deterministici.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture03_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---  
         <tr>
-            <td>Lezione 4 04/10/24</td>
-            <td>Equivalenza tra espressioni regolari e linguaggi regolari. Esempi. Linguaggi non regolari: pumping lemma.</td>
+            <td>Lezione 4 03/10/25</td>
+            <td>Chiusura dei linguaggi regolari rispetto alla concatenzazione e all'operazione star. Espressioni regolari: definizioni ed esempi. Equivalenza tra espressioni regolari e linguaggi regolari. Equivalenza tra espressioni regolari e linguaggi regolari. Esempi. Linguaggi non regolari: pumping lemma.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture04_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---        
         <tr>
             <td>Lezione 5 09/10/24</td>
             <td>Esercizi sui linguaggi regolari. Grammatiche acontestuali: prime definizioni ed esempi.</td>
