@@ -79,6 +79,8 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
 <h2>Avvisi</h2>
 <u>20/09/2025:</u> Il corso inizierà il 23 settembre 2025.
 <br>
+<u>02/10/2025:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 3 ottobre sarà eccezionalmente da remoto a <a href="https://uniroma1.zoom.us/j/85012034183?pwd=UhBbmHbLMAbrBAh09OGjdus4sXOhqM.1">questo link</a>.
+<br>
 <!---
 <u>30/09/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 4 ottobre sarà da remoto a <a href="https://uniroma1.zoom.us/j/86123921107?pwd=YICFZ9rvjNF2eSqU7mN6c8xoJOIndS.1">questo link</a>.
 <br>

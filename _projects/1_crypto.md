@@ -119,6 +119,8 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
 <h2>Announcements</h2>
 <u>20/09/2025:</u> The course will start on September 23, 2025.
 <br>
+<u>02/10/2025:</u> Due to the national strike announced for tomorrow, the lecture on October 3 will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/84580904785?pwd=XuEpGhYpm650li6wVU0jmqny7rIxPq.1">this link</a>.
+<br>
 <!---
 <u>30/09/2024:</u> Due to the ongoing construction works in Aula Magna, the lecture on 01/10/2024 will take place in Aula 301 - Palazzina D, Viale Regina Elena 295, 00161 Rome.
 <br>
