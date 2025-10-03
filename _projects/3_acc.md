@@ -60,6 +60,8 @@ Prova scritta. La prova consiste nella risoluzione di tre esercizi e nella rispo
 
 <h2>Esami</h2>
 Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
+<u><em>Esame 8</em></u>. Riservato agli studenti part-time e fuori corso a.a. 2024/2025 (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: 05/11/2025. Aula: 4 (RM158). Orario: 08:00-11:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame08_2425_scores.pdf">pdf</a>].
+<br>
 <!---
 <u><em>Esame 1</em></u>. Data: 14/01/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame01_2425_scores.pdf">pdf</a>].
 <br>
@@ -129,17 +131,16 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
             <td>Lezione 3 01/10/25</td>
             <td>Chiusura dei linguaggi regolari rispetto ad unione ed intersezione. Automi a stati finiti non deterministici: definizioni ed esempi. Equivalenza tra automi a stati finiti deterministici e non-deterministici.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture03_2526.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <!---  
+        </tr>  
         <tr>
             <td>Lezione 4 03/10/25</td>
-            <td>Chiusura dei linguaggi regolari rispetto alla concatenzazione e all'operazione star. Espressioni regolari: definizioni ed esempi. Equivalenza tra espressioni regolari e linguaggi regolari. Equivalenza tra espressioni regolari e linguaggi regolari. Esempi. Linguaggi non regolari: pumping lemma.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture04_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Chiusura dei linguaggi regolari rispetto alla concatenzazione e all'operazione star. Espressioni regolari: definizioni ed esempi.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture04_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <!---        
         <tr>
             <td>Lezione 5 09/10/24</td>
-            <td>Esercizi sui linguaggi regolari. Grammatiche acontestuali: prime definizioni ed esempi.</td>
+            <td>Equivalenza tra espressioni regolari e linguaggi regolari. Equivalenza tra espressioni regolari e linguaggi regolari. Esempi. Linguaggi non regolari: pumping lemma. Esercizi sui linguaggi regolari. Grammatiche acontestuali: prime definizioni ed esempi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture05_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
