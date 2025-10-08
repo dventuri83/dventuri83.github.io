@@ -137,15 +137,15 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
             <td>Chiusura dei linguaggi regolari rispetto alla concatenzazione e all'operazione star. Espressioni regolari: definizioni ed esempi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture04_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---        
         <tr>
-            <td>Lezione 5 09/10/24</td>
-            <td>Equivalenza tra espressioni regolari e linguaggi regolari. Equivalenza tra espressioni regolari e linguaggi regolari. Esempi. Linguaggi non regolari: pumping lemma. Esercizi sui linguaggi regolari. Grammatiche acontestuali: prime definizioni ed esempi.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture05_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 5 08/10/25</td>
+            <td>Equivalenza tra espressioni regolari e linguaggi regolari.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture05_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                
         <tr>
             <td>Lezione 6 11/10/24</td>
-            <td>Ambiguità nelle grammatiche acontestuali. Forma normale di Chomsky. Esempi.</td>
+            <td>Linguaggi non regolari: pumping lemma. Esercizi sui linguaggi regolari. Grammatiche acontestuali: prime definizioni ed esempi. Ambiguità nelle grammatiche acontestuali. Forma normale di Chomsky. Esempi.</td>
             <td>[<a href="" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
