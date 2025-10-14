@@ -168,15 +168,15 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>A brief tour of Minicrypt: one-way functions, pseudorandom generators, pseudorandom functions and pseudorandom permutations. Beginning of asymmetric cryptography: brush-up on number theory.</td>
             <td>Chapter 2</td>
         </tr>
-        <!---        
         <tr>
-            <td>Lecture 6 15/10/24</td>
-            <td>The RSA public-key encryption and its security. The ElGamal public-key encryption and its security. Diffie-Hellmann assumptions. Pairings and assumptions on bilinear groups. Digital signatures and unforgeability. Signing with RSA and Full-Domain Hash. Public-key infrastructures and X.509 certificates. Identity-based encryption.</td>
+            <td>Lecture 6 09/10/25</td>
+            <td>The RSA public-key encryption and its security. The ElGamal public-key encryption and its security. Diffie-Hellmann assumptions. Pairings and assumptions on bilinear groups.</td>
             <td>Chapter 2</td>
         </tr>
+        <!---                
         <tr>
             <td>Lecture 7 17/10/24</td>
-            <td>Key exchange protocols. Diffie-Hellmann key exchange. Security in the Canetti-Krawczyk model. ISO 9697 protocol. IPsec and IKE: SKEME and SIGMA. MQV and HMQV.</td>
+            <td>Digital signatures and unforgeability. Signing with RSA and Full-Domain Hash. Public-key infrastructures and X.509 certificates. Identity-based encryption. Key exchange protocols. Diffie-Hellmann key exchange. Security in the Canetti-Krawczyk model. ISO 9697 protocol. IPsec and IKE: SKEME and SIGMA. MQV and HMQV.</td>
             <td>Chapter 3</td>
         </tr>
         <tr>

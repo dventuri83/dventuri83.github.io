@@ -168,16 +168,16 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Definition and examples of one-way functions. Definition of pseudorandom generators (PRGs). Proof that one bit of stretch implies unbounded polynomial stretch. Constructions of real-world PRGs.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture05_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---
         <tr>
-            <td>Lecture 6 11/10/24</td>
-            <td>Definition of one-time computationally secure SKE. Construction from any PRG.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture06_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lecture 6 10/10/25</td>
+            <td>Hard-core predicates and the Goldreich-Levin theorem.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture06_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---        
         <tr>
-            <td>Lecture 7 15/10/24</td>
-            <td>Constructing PRGs. Proof that one bit of stretch implies unbounded polynomial stretch. PRGs from one-way functions and hard-core bits. Applications to real-world PRGs. Definition of chosen-plaintext attacks (CPA) security for SKE.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture07_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lecture 7 14/10/25</td>
+            <td>Definition of one-time computationally secure and chosen-plaintext attacks (CPA) secure SKE. Construction of one-time computationally secure SKE from any PRG. Definition of pseudorandom functions (PRFs)</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture07_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
             <td>Lecture 8 18/10/24</td>
