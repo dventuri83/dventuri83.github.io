@@ -173,12 +173,12 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Hard-core predicates and the Goldreich-Levin theorem.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture06_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---        
         <tr>
             <td>Lecture 7 14/10/25</td>
             <td>Definition of one-time computationally secure and chosen-plaintext attacks (CPA) secure SKE. Construction of one-time computationally secure SKE from any PRG. Definition of pseudorandom functions (PRFs)</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture07_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                
         <tr>
             <td>Lecture 8 18/10/24</td>
             <td>Definition of pseudorandom functions (PRFs). Application to constructing CPA-secure SKE for fixed input length (FIL) messages. Definition of universal unforgeability under chosen-message attacks (UFCMA) for MACs.</td>
