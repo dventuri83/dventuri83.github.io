@@ -147,15 +147,15 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
             <td>Linguaggi non regolari: pumping lemma. Esercizi sui linguaggi regolari.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture06_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                        
         <tr>
-            <td>Lezione 7 16/10/24</td>
-            <td>Grammatiche acontestuali: prime definizioni ed esempi. Ambiguità nelle grammatiche acontestuali. Forma normale di Chomsky. Esempi. Automi a pila: definizioni ed esempi. Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture07_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 7 15/10/25</td>
+            <td>Esercizi sui linguaggi regolari. Grammatiche acontestuali: prime definizioni ed esempi.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture07_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                
         <tr>
             <td>Lezione 8 18/10/24</td>
-            <td>Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Pumping lemma per linguaggi acontestuali.</td>
+            <td>Ambiguità nelle grammatiche acontestuali. Forma normale di Chomsky. Esempi. Automi a pila: definizioni ed esempi. Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Pumping lemma per linguaggi acontestuali.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture08_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
