@@ -152,15 +152,15 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
             <td>Esercizi sui linguaggi regolari. Grammatiche acontestuali: prime definizioni ed esempi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture07_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                
         <tr>
-            <td>Lezione 8 18/10/24</td>
-            <td>Ambiguità nelle grammatiche acontestuali. Forma normale di Chomsky. Esempi. Automi a pila: definizioni ed esempi. Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Pumping lemma per linguaggi acontestuali.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture08_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 8 17/10/25</td>
+            <td>Progettazione di grammatiche. Forma normale di Chomsky. Esempi.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture08_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                       
         <tr>
             <td>Lezione 9 23/10/24</td>
-            <td>Esercizi sulle grammatiche acontestuali. Calcolabilità. Macchine di Turing: prime definizioni ed esempi.</td>
+            <td>Automi a pila: definizioni ed esempi. Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Pumping lemma per linguaggi acontestuali. Esercizi sulle grammatiche acontestuali. Calcolabilità. Macchine di Turing: prime definizioni ed esempi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture09_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
@@ -240,7 +240,7 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
         </tr>
         <tr>
             <td>Lezione 25 20/12/24</td>
-            <td>Esercizi di complessità..</td>
+            <td>Esercizi di complessità.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture25_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         --->

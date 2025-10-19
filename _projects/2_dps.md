@@ -170,24 +170,29 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
         </tr>
         <tr>
             <td>Lecture 6 09/10/25</td>
-            <td>The RSA public-key encryption and its security. The ElGamal public-key encryption and its security. Diffie-Hellmann assumptions. Pairings and assumptions on bilinear groups.</td>
+            <td>The RSA public-key encryption and its security. The ElGamal public-key encryption and its security. Diffie-Hellmann assumptions. Pairings and assumptions on bilinear groups. Digital signatures and unforgeability. Signing with RSA and Full-Domain Hash. Public-key infrastructures and X.509 certificates. Identity-based encryption.</td>
             <td>Chapter 2</td>
         </tr>
-        <!---                
         <tr>
-            <td>Lecture 7 17/10/24</td>
-            <td>Digital signatures and unforgeability. Signing with RSA and Full-Domain Hash. Public-key infrastructures and X.509 certificates. Identity-based encryption. Key exchange protocols. Diffie-Hellmann key exchange. Security in the Canetti-Krawczyk model. ISO 9697 protocol. IPsec and IKE: SKEME and SIGMA. MQV and HMQV.</td>
+            <td>Lecture 7 13/10/25</td>
+            <td> Free software and freedom in the digial society (invited lecture by Richard Stallman).</td>
+            <td>--</td>
+        </tr>                
+        <tr>
+            <td>Lecture 8 16/10/25</td>
+            <td> Key exchange protocols. Diffie-Hellmann key exchange. Security in the Canetti-Krawczyk model. The ISO 9697 protocol. IPsec and IKE: SKEME and SIGMA. MQV and HMQV.</td>
             <td>Chapter 3</td>
         </tr>
+<!---        
         <tr>
             <td>Lecture 8 22/10/24</td>
-            <td>Key derivation functions using HMAC. Passwords. Bloom filters. Password-based encryption. Password-authenticated key exchange.</td>
+            <td>Key derivation functions using HMAC. Passwords. Bloom filters. Password-based encryption. Password-authenticated key exchange. The TLS protocol and TLS 1.3.</td>
             <td>Chapter 3</td>
         </tr>
         <tr>
             <td>Lecture 9 24/10/24</td>
-            <td>The TLS protocol and TLS 1.3. Post-quantum cryptography. Lattices and hard problems: SIS and LWE.</td>
-            <td>Chapter 3, 4</td>
+            <td>Post-quantum cryptography. Lattices and hard problems: SIS and LWE.</td>
+            <td>Chapter 4</td>
         </tr>
         <tr>
             <td>Lecture 10 29/10/24</td>

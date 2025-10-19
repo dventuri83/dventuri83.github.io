@@ -100,7 +100,7 @@ You may also find useful the following lecture notes from a past edition of the 
 
 <h2>Exams</h2>
 The exam dates for academic year 2025/2026 will appear below. Please always register via Infostud.
-<u><em>Exam 8</em></u>. Reserved to part-time and working students a.y. 2024/2025 (you must make a formal request to the secretariat; registration in Infostud is still required). Date: 05/11/2025. Aula: 4 (RM158). Time: 08:00-11:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame08_2425_scores.pdf">pdf</a>].
+<u><em>Exam 8</em></u>. Reserved to part-time and working students a.y. 2024/2025 (you must make a formal request to the secretariat; registration in Infostud is still required). Date: 05/11/2025. Aula: 4 (RM158). Time: 08:00-11:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame08_2526_scores.pdf">pdf</a>].
 <br>
 <!---
 <u><em>Exam 1</em></u>. Date: 13/01/25. Aula 3 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame01_2425_scores.pdf">pdf</a>].
@@ -178,15 +178,15 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Definition of one-time computationally secure and chosen-plaintext attacks (CPA) secure SKE. Construction of one-time computationally secure SKE from any PRG. Definition of pseudorandom functions (PRFs)</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture07_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                
         <tr>
-            <td>Lecture 8 18/10/24</td>
-            <td>Definition of pseudorandom functions (PRFs). Application to constructing CPA-secure SKE for fixed input length (FIL) messages. Definition of universal unforgeability under chosen-message attacks (UFCMA) for MACs.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture08_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lecture 8 17/10/25</td>
+            <td>Constructing PRFs from OWFs: The GGM construction and its proof of security. </td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture08_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                        
         <tr>
             <td>Lecture 9 22/10/24</td>
-            <td>Proof that PRFs imply CPA-secure SKE for FIL messages. Proof that PRFs imply UFCMA MACs for FIL messages. Modes of operation for SKE.</td>
+            <td>Application to constructing CPA-secure SKE for fixed input length (FIL) messages. Definition of universal unforgeability under chosen-message attacks (UFCMA) for MACs. Proof that PRFs imply CPA-secure SKE for FIL messages. Proof that PRFs imply UFCMA MACs for FIL messages. Modes of operation for SKE.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture09_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
