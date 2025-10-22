@@ -183,15 +183,15 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Constructing PRFs from OWFs: The GGM construction and its proof of security. </td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture08_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                        
         <tr>
-            <td>Lecture 9 22/10/24</td>
-            <td>Application to constructing CPA-secure SKE for fixed input length (FIL) messages. Definition of universal unforgeability under chosen-message attacks (UFCMA) for MACs. Proof that PRFs imply CPA-secure SKE for FIL messages. Proof that PRFs imply UFCMA MACs for FIL messages. Modes of operation for SKE.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture09_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lecture 9 21/10/25</td>
+            <td> Modes of operation for SKE. CPA security of the CTR mode. Definition of universal unforgeability under chosen-message attacks (UFCMA) for MACs.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture09_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                               
         <tr>
             <td>Lecture 10 25/10/24</td>
-            <td>Proof of CPA security for the CTR mode. Domain extension for MACs.</td>
+            <td>Proof that PRFs imply CPA-secure SKE for FIL messages. Proof that PRFs imply UFCMA MACs for FIL messages. Domain extension for MACs.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture10_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

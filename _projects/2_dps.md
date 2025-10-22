@@ -183,89 +183,89 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td> Key exchange protocols. Diffie-Hellmann key exchange. Security in the Canetti-Krawczyk model. The ISO 9697 protocol. IPsec and IKE: SKEME and SIGMA. MQV and HMQV.</td>
             <td>Chapter 3</td>
         </tr>
-<!---        
         <tr>
-            <td>Lecture 8 22/10/24</td>
+            <td>Lecture 9 21/10/25</td>
             <td>Key derivation functions using HMAC. Passwords. Bloom filters. Password-based encryption. Password-authenticated key exchange. The TLS protocol and TLS 1.3.</td>
             <td>Chapter 3</td>
         </tr>
         <tr>
-            <td>Lecture 9 24/10/24</td>
-            <td>Post-quantum cryptography. Lattices and hard problems: SIS and LWE.</td>
+            <td>Lecture 10 23/10/25</td>
+            <td>Post-quantum cryptography. Lattices and hard problems: SIS and LWE. Basic cryptographic primitives based on lattices. Lattice trapdoors and Falcon.</td>
+            <td>Chapter 4</td>
+        </tr>
+<!---                        
+        <tr>
+            <td>Lecture 11 29/10/24</td>
+            <td> Canonical identification schemes and Crystals-Dilithium.</td>
             <td>Chapter 4</td>
         </tr>
         <tr>
-            <td>Lecture 10 29/10/24</td>
-            <td>Basic cryptographic primitives based on lattices. Lattice trapdoors and Falcon. Canonical identification schemes and Crystals-Dilithium.</td>
-            <td>Chapter 4</td>
-        </tr>
-        <tr>
-            <td>Lecture 11 31/10/24</td>
+            <td>Lecture 12 31/10/24</td>
             <td>Regev public-key encryption. The Fujisaki-Okamoto transform and Crystals-Kyber. Fully-homomorphic encryption.</td>
             <td>Chapter 4</td>
         </tr>
         <tr>
-            <td>Lecture 12 05/11/24</td>
+            <td>Lecture 13 05/11/24</td>
             <td>Fully-homomorphic encryption. Identity-based encryption and attribute-based encryption from lattices.</td>
             <td>Chapter 4</td>
         </tr>
         <tr>
-            <td>Lecture 13 07/11/24</td>
+            <td>Lecture 14 07/11/24</td>
             <td>Differential privacy and approximate differential privacy. Properties. Randomized responses. The Laplace and the Gaussian mechanisms.</td>
             <td>Chapter 5</td>
         </tr>
         <tr>
-            <td>Lecture 14 12/11/24</td>
+            <td>Lecture 15 12/11/24</td>
             <td>Advanced composition. The exponential mechanism and its applications.</td>
             <td>Chapter 5</td>
         </tr>
         <tr>
-            <td>Lecture 15 14/11/24</td>
+            <td>Lecture 16 14/11/24</td>
             <td>The SmallDB mechanism. Information-theoretic lower bounds. Traitor tracing and computational lower bounds. Differential privacy and game theory.</td>
             <td>Chapter 5</td>
         </tr>
         <tr>
-            <td>Lecture 16 19/11/24</td>
+            <td>Lecture 17 19/11/24</td>
             <td>Introduction to Bitcoin. Basic design principles.</td>
             <td>Chapter 6</td>
         </tr>
         <tr>
-            <td>Lecture 17 21/11/24</td>
+            <td>Lecture 18 21/11/24</td>
             <td>Mining pools and attacks. Security of Bitcoin.</td>
             <td>Chapter 6</td>
         </tr>
         <tr>
-            <td>Lecture 18 26/11/24</td>
+            <td>Lecture 19 26/11/24</td>
             <td>Lightning networks. Altcoins: Ethereum.</td>
             <td>Chapter 6, Chapter 7</td>
         </tr>
         <tr>
-            <td>Lecture 19 28/11/24</td>
+            <td>Lecture 20 28/11/24</td>
             <td>Altcoins: Cardano, Algorand, Litecoin, Filecoin.</td>
             <td>Chapter 7</td>
         </tr>
         <tr>
-            <td>Lecture 20 03/12/24</td>
+            <td>Lecture 21 03/12/24</td>
             <td>Altcoins: Zerocash.</td>
             <td>Chapter 7</td>
         </tr>
         <tr>
-            <td>Lecture 21 05/12/24</td>
+            <td>Lecture 22 05/12/24</td>
             <td>Introduction to multi-party computation. Coin tossing and oblivious transfer.</td>
             <td>Chapter 8</td>
         </tr>
         <tr>
-            <td>Lecture 22 10/12/24</td>
+            <td>Lecture 23 10/12/24</td>
             <td>Yao's protocol for semi-honest and malicious adversaries.</td>
             <td>Chapter 8</td>
         </tr>
         <tr>
-            <td>Lecture 23 17/12/24</td>
+            <td>Lecture 24 17/12/24</td>
             <td>Secret sharing. MPC with honest majority.</td>
             <td>Chapter 8</td>
         </tr>
         <tr>
-            <td>Lecture 24 19/12/24</td>
+            <td>Lecture 25 19/12/24</td>
             <td>Redactable blockchain.</td>
             <td>Chapter 8</td>
         </tr>
