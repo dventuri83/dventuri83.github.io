@@ -59,7 +59,7 @@ Prova scritta. La prova consiste nella risoluzione di tre esercizi e nella rispo
 </ul>
 Gli appunti che seguono, relativi a un'edizione passata del corso, possono anche essere un riferimento utile:
 <ul>
-<li>Simone Bianco, <em><a href="https://github.com/Exyss/university-notes/raw/main/Master/Cryptography.pdf">Appunti del Corso di Automi, Calcolabilità e Complessità</a></em>, Sapienza Università di Roma, A. A. 2024/2025.
+<li>Simone Bianco, <em><a href="https://github.com/Exyss/university-notes/raw/main/Bachelor/Terzo%20Anno/Automi%2C%20Calcolabilita%20e%20Complessita.pdf">Appunti del Corso di Automi, Calcolabilità e Complessità</a></em>, Sapienza Università di Roma, A. A. 2024/2025.
 </li>
 </ul>
 
