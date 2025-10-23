@@ -57,6 +57,11 @@ Prova scritta. La prova consiste nella risoluzione di tre esercizi e nella rispo
 <li>Michael Sipser, <em><a href="https://www.hoepli.it/libro/introduzione-alla-teoria-della-computazione/9788891616180.html?origin=google-shopping">Introduzione alla Teoria della Computazione</a></em>, Maggioli Editore, 2016.
 </li>
 </ul>
+Gli appunti che seguono, relativi a un'edizione passata del corso, possono anche essere un riferimento utile:
+<ul>
+<li>Simone Bianco, <em><a href="https://github.com/Exyss/university-notes/raw/main/Master/Cryptography.pdf">Appunti del Corso di Automi, Calcolabilità e Complessità</a></em>, Sapienza Università di Roma, A. A. 2024/2025.
+</li>
+</ul>
 
 <h2>Esami</h2>
 Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.

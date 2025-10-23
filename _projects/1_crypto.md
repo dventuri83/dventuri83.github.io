@@ -94,7 +94,7 @@ We will not follow a single book; the following textbooks are suggested as refer
 </ul>
 You may also find useful the following lecture notes from a past edition of the course (although not reviewed by myself):
 <ul>
-<li>[7] Michele Laurenti, <em><a href="https://github.com/asmeikal/crypto16/tree/master/notes">Lecture Notes for the Cryptography Course</a></em>, Sapienza University of Rome, A. Y. 2016/2017.
+<li>[7] Simone Bianco, <em><a href="https://github.com/Exyss/university-notes/raw/main/Master/Cryptography.pdf">Lecture Notes for the Cryptography Course</a></em>, Sapienza University of Rome, A. Y. 2025/2026 (work in progress).
 </li>
 </ul>
 

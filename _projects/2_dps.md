@@ -190,13 +190,13 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
         </tr>
         <tr>
             <td>Lecture 10 23/10/25</td>
-            <td>Post-quantum cryptography. Lattices and hard problems: SIS and LWE. Basic cryptographic primitives based on lattices. Lattice trapdoors and Falcon.</td>
+            <td>Post-quantum cryptography. Lattices and hard problems: SIS and LWE. Basic cryptographic primitives based on lattices. Lattice trapdoors.</td>
             <td>Chapter 4</td>
         </tr>
 <!---                        
         <tr>
             <td>Lecture 11 29/10/24</td>
-            <td> Canonical identification schemes and Crystals-Dilithium.</td>
+            <td> Falcon. Canonical identification schemes and Crystals-Dilithium.</td>
             <td>Chapter 4</td>
         </tr>
         <tr>
