@@ -188,15 +188,15 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td> Modes of operation for SKE. CPA security of the CTR mode. Definition of universal unforgeability under chosen-message attacks (UFCMA) for MACs.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture09_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                               
         <tr>
-            <td>Lecture 10 25/10/24</td>
-            <td>Proof that PRFs imply CPA-secure SKE for FIL messages. Proof that PRFs imply UFCMA MACs for FIL messages. Domain extension for MACs.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture10_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lecture 10 24/10/25</td>
+            <td>Proof that PRFs imply UFCMA MACs for FIL messages. Domain extension for MACs. Universal hashing and CBC-MAC.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture10_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                       
         <tr>
             <td>Lecture 11 30/10/24</td>
-            <td>Domain extension for MACs. Universal hashing and CBC-MAC. XOR-MAC.</td>
+            <td>XOR-MAC.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture11_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

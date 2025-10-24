@@ -167,15 +167,15 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
             <td>Automi a pila: definizioni ed esempi. Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture09_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                               
         <tr>
-            <td>Lezione 10 25/10/24</td>
-            <td>Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Pumping lemma per linguaggi acontestuali. Esercizi sulle grammatiche acontestuali.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture10_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 10 24/10/25</td>
+            <td>Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Pumping lemma per linguaggi acontestuali.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture10_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                                       
         <tr>
             <td>Lezione 11 30/10/24</td>
-            <td>Calcolabilità. Macchine di Turing: prime definizioni ed esempi. Esempi di macchine di Turing e trucchi di programmazione. Linguaggi Turing-riconoscibili e linguaggi decidibili. Varianti di macchine di Turing: La macchina di Turing multi-nastro e macchine di Turing non-deterministiche. Equivalenza con la macchina di Turing deterministica a singolo nastro. Macchine di Turing enumeratori.</td>
+            <td>Esercizi sulle grammatiche acontestuali. Calcolabilità. Macchine di Turing: prime definizioni ed esempi. Esempi di macchine di Turing e trucchi di programmazione. Linguaggi Turing-riconoscibili e linguaggi decidibili. Varianti di macchine di Turing: La macchina di Turing multi-nastro e macchine di Turing non-deterministiche. Equivalenza con la macchina di Turing deterministica a singolo nastro. Macchine di Turing enumeratori.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture11_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
