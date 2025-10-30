@@ -123,9 +123,9 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
 <br>
 <u>02/10/2025:</u> Due to the national strike announced for tomorrow, the lecture on October 3 will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/84580904785?pwd=XuEpGhYpm650li6wVU0jmqny7rIxPq.1">this link</a>.
 <br>
-<!---
-<u>30/09/2024:</u> Due to the ongoing construction works in Aula Magna, the lecture on 01/10/2024 will take place in Aula 301 - Palazzina D, Viale Regina Elena 295, 00161 Rome.
+<u>30/10/2025:</u> The lecture on 04/11/2025 will not take place.
 <br>
+<!---
 <u>02/10/2024:</u> Due to the ongoing construction works in Aula Magna, the lecture on 08/10/2024 will take place in Aula 301 - Palazzina D, Viale Regina Elena 295, 00161 Rome.
 <br>
 <u>07/11/2024:</u> Due to the national strike announced for tomorrow, the lecture on November 8th will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/89487521223?pwd=KzrfMElWv3v7c6bOi7BGXR9U9rCw49.1">this link</a>.
@@ -193,25 +193,25 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Proof that PRFs imply UFCMA MACs for FIL messages. Domain extension for MACs. Universal hashing and CBC-MAC.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture10_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                       
         <tr>
-            <td>Lecture 11 30/10/24</td>
-            <td>XOR-MAC.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture11_2425.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <tr>
-            <td>Lecture 12 05/11/24</td>
+            <td>Lecture 11 28/10/25</td>
             <td>Definition of CCA security for SKE. Combining encryption and authentication.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture12_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture11_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lecture 12 31/10/25</td>
+            <td>Exercises.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture12_2526.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <!---                                               
         <tr>
             <td>Lecture 13 08/11/24</td>
-            <td>Exercises.</td>
+            <td>Blockciphers: DES and AES.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture13_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
             <td>Lecture 14 12/11/24</td>
-            <td>Authenticated encryption. Blockciphers and Feistel networks.</td>
+            <td>Authenticated encryption. </td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture14_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

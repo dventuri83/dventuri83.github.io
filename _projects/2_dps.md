@@ -193,17 +193,17 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Post-quantum cryptography. Lattices and hard problems: SIS and LWE. Basic cryptographic primitives based on lattices. Lattice trapdoors.</td>
             <td>Chapter 4</td>
         </tr>
-<!---                        
         <tr>
-            <td>Lecture 11 29/10/24</td>
-            <td> Falcon. Canonical identification schemes and Crystals-Dilithium.</td>
+            <td>Lecture 11 28/10/25</td>
+            <td>Falcon. Canonical identification schemes and Crystals-Dilithium. Regev public-key encryption. The Fujisaki-Okamoto transform and Crystals-Kyber.</td>
             <td>Chapter 4</td>
         </tr>
         <tr>
-            <td>Lecture 12 31/10/24</td>
-            <td>Regev public-key encryption. The Fujisaki-Okamoto transform and Crystals-Kyber. Fully-homomorphic encryption.</td>
+            <td>Lecture 12 30/10/25</td>
+            <td>Fully-homomorphic encryption and advanced cryptographic applications.</td>
             <td>Chapter 4</td>
         </tr>
+<!---                               
         <tr>
             <td>Lecture 13 05/11/24</td>
             <td>Fully-homomorphic encryption. Identity-based encryption and attribute-based encryption from lattices.</td>

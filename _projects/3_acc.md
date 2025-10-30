@@ -88,10 +88,10 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
 <br>
 <u>02/10/2025:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 3 ottobre sarà eccezionalmente da remoto a <a href="https://uniroma1.zoom.us/j/85012034183?pwd=UhBbmHbLMAbrBAh09OGjdus4sXOhqM.1">questo link</a>.
 <br>
+<u>30/10/2025:</u> La lezione del 31 ottobre sarà un'esercitazione e avrà luogo in Aula Magna - Viale Regina Elena 295. La lezione del 5 novembre non avrà luogo.
+<br>
 <!---
 <u>30/09/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 4 ottobre sarà da remoto a <a href="https://uniroma1.zoom.us/j/86123921107?pwd=YICFZ9rvjNF2eSqU7mN6c8xoJOIndS.1">questo link</a>.
-<br>
-<u>02/10/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 11 ottobre avrà luogo in Aula A - Scienze Biochimiche (Città Universitaria).
 <br>
 <u>12/10/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 18 ottobre avrà luogo in Aula 101 - Palazzina D - Viale Regina Elena 295.
 <br>
@@ -172,20 +172,20 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
             <td>Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Pumping lemma per linguaggi acontestuali.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture10_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                                       
         <tr>
-            <td>Lezione 11 30/10/24</td>
-            <td>Esercizi sulle grammatiche acontestuali. Calcolabilità. Macchine di Turing: prime definizioni ed esempi. Esempi di macchine di Turing e trucchi di programmazione. Linguaggi Turing-riconoscibili e linguaggi decidibili. Varianti di macchine di Turing: La macchina di Turing multi-nastro e macchine di Turing non-deterministiche. Equivalenza con la macchina di Turing deterministica a singolo nastro. Macchine di Turing enumeratori.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture11_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 11 29/10/25</td>
+            <td> Pumping lemma per linguaggi acontestuali. Calcolabilità. Macchine di Turing: prime definizioni ed esempi. Linguaggi Turing-riconoscibili e linguaggi decidibili.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture11_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 12 06/11/24</td>
-            <td>Esempi di linguaggi Turing-decidibili. Esistenza di linguaggi non decidibili e non Turing-riconoscibili.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture12_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 12 31/10/25</td>
+            <td>Esercitazione.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture12_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                                               
         <tr>
             <td>Lezione 13 08/11/24</td>
-            <td>La diagonalizzazione ed esempi di linguaggi indecidibili. Primi esempi di riducibilità.</td>
+            <td>Varianti di macchine di Turing: La macchina di Turing multi-nastro e macchine di Turing non-deterministiche. Equivalenza con la macchina di Turing deterministica a singolo nastro. Esistenza di linguaggi non decidibili e non Turing-riconoscibili. Macchine di Turing enumeratori. La diagonalizzazione ed esempi di linguaggi indecidibili. Primi esempi di riducibilità.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture13_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
