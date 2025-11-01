@@ -206,12 +206,12 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
         <!---                                               
         <tr>
             <td>Lecture 13 08/11/24</td>
-            <td>Blockciphers: DES and AES.</td>
+            <td>Teaching break.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture13_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
             <td>Lecture 14 12/11/24</td>
-            <td>Authenticated encryption. </td>
+            <td>Blockciphers: DES and AES. Collision-resistant hash functions. The Merklee-Damgaard paradigm. Building compression functions.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture14_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

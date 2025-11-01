@@ -206,7 +206,7 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
 <!---                               
         <tr>
             <td>Lecture 13 05/11/24</td>
-            <td>Fully-homomorphic encryption. Identity-based encryption and attribute-based encryption from lattices.</td>
+            <td>Advanced cryptographic applications: identity-based encryption and attribute-based encryption from lattices.</td>
             <td>Chapter 4</td>
         </tr>
         <tr>
