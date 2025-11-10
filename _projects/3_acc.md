@@ -182,15 +182,15 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
             <td>Esercitazione.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture12_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <tr>
+            <td>Lezione 13 07/11/25</td>
+            <td>Varianti di macchine di Turing: La macchina di Turing multi-nastro e macchine di Turing non-deterministiche. Equivalenza con la macchina di Turing deterministica a singolo nastro.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture13_2526.pdf" target="_blank">PDF</a>]</td>
+        </tr>
         <!---                                                               
         <tr>
-            <td>Lezione 13 08/11/24</td>
-            <td>Varianti di macchine di Turing: La macchina di Turing multi-nastro e macchine di Turing non-deterministiche. Equivalenza con la macchina di Turing deterministica a singolo nastro. Esistenza di linguaggi non decidibili e non Turing-riconoscibili. Macchine di Turing enumeratori. La diagonalizzazione ed esempi di linguaggi indecidibili. Primi esempi di riducibilità.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture13_2425.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <tr>
             <td>Lezione 14 13/11/24</td>
-            <td>Riducibilità mediante funzione. Esercizi di calcolabilità.</td>
+            <td>Esistenza di linguaggi non decidibili e non Turing-riconoscibili. Macchine di Turing enumeratori. La diagonalizzazione ed esempi di linguaggi indecidibili. Primi esempi di riducibilità. Riducibilità mediante funzione. Esercizi di calcolabilità.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture14_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

@@ -203,20 +203,15 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Exercises.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture12_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                               
         <tr>
-            <td>Lecture 13 08/11/24</td>
-            <td>Teaching break.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture13_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lecture 13 07/11/25</td>
+            <td>Blockciphers: DES and AES. Feistel networks and substitution-permutation networks.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture13_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <tr>
-            <td>Lecture 14 12/11/24</td>
-            <td>Blockciphers: DES and AES. Collision-resistant hash functions. The Merklee-Damgaard paradigm. Building compression functions.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture14_2425.pdf" target="_blank">PDF</a>]</td>
-        </tr>
+        <!---                                                      
         <tr>
             <td>Lecture 15 15/11/24</td>
-            <td>Brush-up on number theory.</td>
+            <td>Collision-resistant hash functions. The Merklee-Damgaard paradigm. Building compression functions.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture15_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

@@ -203,20 +203,20 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Fully-homomorphic encryption and advanced cryptographic applications.</td>
             <td>Chapter 4</td>
         </tr>
-<!---                               
         <tr>
-            <td>Lecture 13 05/11/24</td>
-            <td>Advanced cryptographic applications: identity-based encryption and attribute-based encryption from lattices.</td>
-            <td>Chapter 4</td>
+            <td>Lecture 13 04/11/25</td>
+            <td>Advanced cryptographic applications: identity-based encryption and attribute-based encryption from lattices. Differential privacy and approximate differential privacy. Properties. Randomized responses. The Laplace and the Gaussian mechanisms.</td>
+            <td>Chapters 4 and 5</td>
         </tr>
         <tr>
-            <td>Lecture 14 07/11/24</td>
-            <td>Differential privacy and approximate differential privacy. Properties. Randomized responses. The Laplace and the Gaussian mechanisms.</td>
+            <td>Lecture 14 06/11/25</td>
+            <td>Advanced composition. The exponential mechanism and its applications.</td>
             <td>Chapter 5</td>
         </tr>
+<!---                                       
         <tr>
             <td>Lecture 15 12/11/24</td>
-            <td>Advanced composition. The exponential mechanism and its applications.</td>
+            <td>The SmallDB mechanism. Information-theoretic lower bounds. Traitor tracing and computational lower bounds. Differential privacy and game theory.</td>
             <td>Chapter 5</td>
         </tr>
         <tr>
