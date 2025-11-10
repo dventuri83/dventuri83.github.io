@@ -65,7 +65,7 @@ Gli appunti che seguono, relativi a un'edizione passata del corso, possono anche
 
 <h2>Esami</h2>
 Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
-<u><em>Esame 8</em></u>. Riservato agli studenti part-time e fuori corso a.a. 2024/2025 (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: 05/11/2025. Aula: 4 (RM158). Orario: 08:00-11:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame08_2425_scores.pdf">pdf</a>].
+<u><em>Esame 8</em></u>. Riservato agli studenti part-time e fuori corso a.a. 2024/2025 (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: 05/11/2025. Aula: 4 (RM158). Orario: 08:00-11:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame07_2425_scores.pdf">pdf</a>].
 <br>
 <!---
 <u><em>Esame 1</em></u>. Data: 14/01/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame01_2425_scores.pdf">pdf</a>].
