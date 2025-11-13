@@ -65,6 +65,7 @@ Gli appunti che seguono, relativi a un'edizione passata del corso, possono anche
 
 <h2>Esami</h2>
 Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
+<br>
 <u><em>Esame 8</em></u>. Riservato agli studenti part-time e fuori corso a.a. 2024/2025 (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: 05/11/2025. Aula: 4 (RM158). Orario: 08:00-11:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame07_2425_scores.pdf">pdf</a>].
 <br>
 <!---
@@ -89,6 +90,8 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
 <u>02/10/2025:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 3 ottobre sarà eccezionalmente da remoto a <a href="https://uniroma1.zoom.us/j/85012034183?pwd=UhBbmHbLMAbrBAh09OGjdus4sXOhqM.1">questo link</a>.
 <br>
 <u>30/10/2025:</u> La lezione del 31 ottobre sarà un'esercitazione e avrà luogo in Aula Magna - Viale Regina Elena 295. La lezione del 5 novembre non avrà luogo.
+<br>
+<u>13/11/2025:</u> A causa dello sciopero dei trasporti proclamato per la giornata di domani, la lezione del 14 novembre sarà in presenza ma verrà anche trasmessa da remoto a <a href="https://uniroma1.zoom.us/j/83573624225?pwd=nUcwtO4HlCSSPROGKv9Mlrxr3aT81Y.1">questo link</a>.
 <br>
 <!---
 <u>30/09/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 4 ottobre sarà da remoto a <a href="https://uniroma1.zoom.us/j/86123921107?pwd=YICFZ9rvjNF2eSqU7mN6c8xoJOIndS.1">questo link</a>.
@@ -187,20 +190,20 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
             <td>Varianti di macchine di Turing: La macchina di Turing multi-nastro e macchine di Turing non-deterministiche. Equivalenza con la macchina di Turing deterministica a singolo nastro.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture13_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                                               
         <tr>
-            <td>Lezione 14 13/11/24</td>
-            <td>Esistenza di linguaggi non decidibili e non Turing-riconoscibili. Macchine di Turing enumeratori. La diagonalizzazione ed esempi di linguaggi indecidibili. Primi esempi di riducibilità. Riducibilità mediante funzione. Esercizi di calcolabilità.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture14_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 14 12/11/25</td>
+            <td>Esempi di linguaggi decidibili basati su automi e grammatiche acontestuali. Esistenza di linguaggi non decidibili tramite diagonalizzazione.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture14_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 15 15/11/24</td>
-            <td>Teoremi di incompletezza di Goedel.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture15_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 15 14/11/25</td>
+            <td>Esistenza di linguaggi non riconoscibili. Riducibilità mediante funzione.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture15_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                                                      
         <tr>
             <td>Lezione 16 20/11/24</td>
-            <td>Teoremi di incompletezza di Goedel. Complessità di tempo. Le classi P ed EXP. Esempi di problemi in P.</td>
+            <td>Teoremi di incompletezza di Goedel. Esercizi di calcolabilità. Complessità di tempo. Le classi P ed EXP. Esempi di problemi in P.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture16_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

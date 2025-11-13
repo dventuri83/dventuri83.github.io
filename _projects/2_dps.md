@@ -213,59 +213,54 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Advanced composition. The exponential mechanism and its applications.</td>
             <td>Chapter 5</td>
         </tr>
-<!---                                       
         <tr>
-            <td>Lecture 15 12/11/24</td>
+            <td>Lecture 15 11/11/25</td>
             <td>The SmallDB mechanism. Information-theoretic lower bounds. Traitor tracing and computational lower bounds. Differential privacy and game theory.</td>
             <td>Chapter 5</td>
         </tr>
         <tr>
-            <td>Lecture 16 14/11/24</td>
-            <td>The SmallDB mechanism. Information-theoretic lower bounds. Traitor tracing and computational lower bounds. Differential privacy and game theory.</td>
-            <td>Chapter 5</td>
-        </tr>
-        <tr>
-            <td>Lecture 17 19/11/24</td>
+            <td>Lecture 16 13/11/25</td>
             <td>Introduction to Bitcoin. Basic design principles.</td>
             <td>Chapter 6</td>
         </tr>
+<!---                                              
         <tr>
-            <td>Lecture 18 21/11/24</td>
+            <td>Lecture 17 20/11/25</td>
             <td>Mining pools and attacks. Security of Bitcoin.</td>
             <td>Chapter 6</td>
         </tr>
         <tr>
-            <td>Lecture 19 26/11/24</td>
+            <td>Lecture 18 26/11/24</td>
             <td>Lightning networks. Altcoins: Ethereum.</td>
             <td>Chapter 6, Chapter 7</td>
         </tr>
         <tr>
-            <td>Lecture 20 28/11/24</td>
+            <td>Lecture 19 28/11/24</td>
             <td>Altcoins: Cardano, Algorand, Litecoin, Filecoin.</td>
             <td>Chapter 7</td>
         </tr>
         <tr>
-            <td>Lecture 21 03/12/24</td>
+            <td>Lecture 20 03/12/24</td>
             <td>Altcoins: Zerocash.</td>
             <td>Chapter 7</td>
         </tr>
         <tr>
-            <td>Lecture 22 05/12/24</td>
+            <td>Lecture 21 05/12/24</td>
             <td>Introduction to multi-party computation. Coin tossing and oblivious transfer.</td>
             <td>Chapter 8</td>
         </tr>
         <tr>
-            <td>Lecture 23 10/12/24</td>
+            <td>Lecture 22 10/12/24</td>
             <td>Yao's protocol for semi-honest and malicious adversaries.</td>
             <td>Chapter 8</td>
         </tr>
         <tr>
-            <td>Lecture 24 17/12/24</td>
+            <td>Lecture 23 17/12/24</td>
             <td>Secret sharing. MPC with honest majority.</td>
             <td>Chapter 8</td>
         </tr>
         <tr>
-            <td>Lecture 25 19/12/24</td>
+            <td>Lecture 24 19/12/24</td>
             <td>Redactable blockchain.</td>
             <td>Chapter 8</td>
         </tr>

@@ -100,6 +100,7 @@ You may also find useful the following lecture notes from a past edition of the 
 
 <h2>Exams</h2>
 The exam dates for academic year 2025/2026 will appear below. Please always register via Infostud.
+<br>
 <u><em>Exam 8</em></u>. Reserved to part-time and working students a.y. 2024/2025 (you must make a formal request to the secretariat; registration in Infostud is still required). Date: 05/11/2025. Aula: 4 (RM158). Time: 08:00-11:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame07_2425_scores.pdf">pdf</a>].
 <br>
 <!---
@@ -124,6 +125,8 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
 <u>02/10/2025:</u> Due to the national strike announced for tomorrow, the lecture on October 3 will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/84580904785?pwd=XuEpGhYpm650li6wVU0jmqny7rIxPq.1">this link</a>.
 <br>
 <u>30/10/2025:</u> The lecture on 04/11/2025 will not take place.
+<br>
+<u>13/11/2025:</u> Due to the transportations strike announced for tomorrow, the lecture on November 14 will take place in person but also exceptionally streamed at <a href="https://uniroma1.zoom.us/j/81263907289?pwd=2UOa8FQtiBNCWtv01D7BFPrrRV4Is4.1">this link</a>.
 <br>
 <!---
 <u>02/10/2024:</u> Due to the ongoing construction works in Aula Magna, the lecture on 08/10/2024 will take place in Aula 301 - Palazzina D, Viale Regina Elena 295, 00161 Rome.
@@ -208,17 +211,17 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Blockciphers: DES and AES. Feistel networks and substitution-permutation networks.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture13_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                                      
         <tr>
-            <td>Lecture 15 15/11/24</td>
+            <td>Lecture 14 11/11/25</td>
             <td>Collision-resistant hash functions. The Merklee-Damgaard paradigm. Building compression functions.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture15_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture14_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 16 19/11/24</td>
-            <td>Brush-up on number theory (continued). The Diffie-Hellmann key exchange.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture16_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lecture 15 14/11/25</td>
+            <td>Brush-up on number theory. The Diffie-Hellmann key exchange.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture15_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                                             
         <tr>
             <td>Lecture 17 22/11/24</td>
             <td>Symmetric cryptography using number theory. Public-key encryption. The ElGamal PKE.</td>
