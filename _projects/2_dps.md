@@ -175,12 +175,12 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
         </tr>
         <tr>
             <td>Lecture 7 13/10/25</td>
-            <td> Free software and freedom in the digial society (invited lecture by Richard Stallman).</td>
+            <td>Free software and freedom in the digial society (invited lecture by Richard Stallman).</td>
             <td>--</td>
         </tr>                
         <tr>
             <td>Lecture 8 16/10/25</td>
-            <td> Key exchange protocols. Diffie-Hellmann key exchange. Security in the Canetti-Krawczyk model. The ISO 9697 protocol. IPsec and IKE: SKEME and SIGMA. MQV and HMQV.</td>
+            <td>Key exchange protocols. Diffie-Hellmann key exchange. Security in the Canetti-Krawczyk model. The ISO 9697 protocol. IPsec and IKE: SKEME and SIGMA. MQV and HMQV.</td>
             <td>Chapter 3</td>
         </tr>
         <tr>
@@ -223,20 +223,20 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Introduction to Bitcoin. Basic design principles.</td>
             <td>Chapter 6</td>
         </tr>
-<!---                                              
         <tr>
-            <td>Lecture 17 20/11/25</td>
-            <td>Mining pools and attacks. Security of Bitcoin.</td>
+            <td>Lecture 17 18/11/25</td>
+            <td>Mining pools and attacks.</td>
             <td>Chapter 6</td>
         </tr>
         <tr>
-            <td>Lecture 18 26/11/24</td>
-            <td>Lightning networks. Altcoins: Ethereum.</td>
-            <td>Chapter 6, Chapter 7</td>
+            <td>Lecture 18 20/11/25</td>
+            <td>Security of Bitcoin. Lightning networks.</td>
+            <td>Chapter 6</td>
         </tr>
+<!---                                                     
         <tr>
             <td>Lecture 19 28/11/24</td>
-            <td>Altcoins: Cardano, Algorand, Litecoin, Filecoin.</td>
+            <td>Altcoins: Ethereum, Cardano, Algorand, Litecoin, Filecoin.</td>
             <td>Chapter 7</td>
         </tr>
         <tr>

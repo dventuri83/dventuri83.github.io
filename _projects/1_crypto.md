@@ -178,12 +178,12 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
         </tr>
         <tr>
             <td>Lecture 7 14/10/25</td>
-            <td>Definition of one-time computationally secure and chosen-plaintext attacks (CPA) secure SKE. Construction of one-time computationally secure SKE from any PRG. Definition of pseudorandom functions (PRFs)</td>
+            <td>Definition of one-time computationally secure and chosen-plaintext attacks (CPA) secure SKE. Construction of one-time computationally secure SKE from any PRG. Definition of pseudorandom functions (PRFs).</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture07_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
             <td>Lecture 8 17/10/25</td>
-            <td>Constructing PRFs from OWFs: The GGM construction and its proof of security. </td>
+            <td>Constructing PRFs from OWFs: The GGM construction and its proof of security.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture08_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
@@ -218,54 +218,54 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
         </tr>
         <tr>
             <td>Lecture 15 14/11/25</td>
-            <td>Brush-up on number theory. The Diffie-Hellmann key exchange.</td>
+            <td>Brush-up on number theory.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture15_2526.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <!---                                                             
+        </tr>                                                             
         <tr>
-            <td>Lecture 17 22/11/24</td>
-            <td>Symmetric cryptography using number theory. Public-key encryption. The ElGamal PKE.</td>
+            <td>Lecture 16 18/11/25</td>
+            <td>The Diffie-Hellmann key exchange. Symmetric cryptography using number theory.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture16_2526.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <!---        
+        <tr>
+            <td>Lecture 17 21/11/25</td>
+            <td>Public-key encryption. The ElGamal PKE. The RSA PKE and the PKCS standard.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture17_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 18 26/11/24</td>
-            <td>The RSA PKE and the PKCS standard. Collision-resistant hash functions.</td>
+            <td>Lecture 18 25/11/25</td>
+            <td>Merkle trees and the Merklee-Damgaard paradigm. Building compression functions.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture18_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 19 29/11/24</td>
-            <td>Merkle trees and the Merklee-Damgaard paradigm. Building compression functions.</td>
+            <td>Lecture 19 28/11/25</td>
+            <td>Digital signatures and universal unforgeability under chosen-message attacks. Public key infrastructures. Full-domain hash signatures and the random oracle model.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture19_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 20 03/12/24</td>
-            <td>Digital signatures and universal unforgeability under chosen-message attacks. Public key infrastructures. Full-domain hash signatures and the random oracle model.</td>
+            <td>Lecture 20 02/12/25</td>
+            <td>Identification schemes and passive security. The Schnorr protocol. Honest-verifier zero knowledge.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture20_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 21 06/12/24</td>
-            <td>Identification schemes and passive security. The Schnorr protocol. Honest-verifier zero knowledge.</td>
+            <td>Lecture 21 05/12/25</td>
+            <td>Special soundness. Proof that honest-verifier zero knowledge and special soundness imply passive security. Fiat-Shamir signatures.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture21_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 22 10/11/24</td>
-            <td>Special soundness. Proof that honest-verifier zero knowledge and special soundness imply passive security. Fiat-Shamir signatures.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture22_2425.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <tr>
-            <td>Lecture 23 13/11/24</td>
+            <td>Lecture 22 09/12/25</td>
             <td>Lattices. The short integer solution (SIS) problem and the learning with errors (LWE) problem. Regev's PKE.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lattices_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 24 17/12/24</td>
+            <td>Lecture 23 12/12/25</td>
             <td>Lattice trapdoors. Signatures from lattices. Identity-based encryption.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lattices_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 25 20/12/24</td>
+            <td>Lecture 24 17/12/25</td>
             <td>Exercises.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture25_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture24_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         --->
     </tbody>
