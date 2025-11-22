@@ -223,15 +223,15 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
         </tr>                                                             
         <tr>
             <td>Lecture 16 18/11/25</td>
-            <td>The Diffie-Hellmann key exchange. Symmetric cryptography using number theory. New Hope.</td>
+            <td>The Diffie-Hellmann key exchange. Symmetric cryptography using number theory.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture16_2526.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <!---        
+        </tr>     
         <tr>
             <td>Lecture 17 21/11/25</td>
-            <td>Public-key encryption. The ElGamal PKE. The RSA PKE and the PKCS standard.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture17_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Public-key encryption. The ElGamal PKE.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture17_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---           
         <tr>
             <td>Lecture 18 25/11/25</td>
             <td>Merkle trees and the Merklee-Damgaard paradigm. Building compression functions.</td>

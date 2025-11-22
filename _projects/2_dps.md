@@ -229,7 +229,7 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Chapter 6</td>
         </tr>
         <tr>
-            <td>Lecture 18 20/11/25</td>
+            <td>Lecture 18 25/11/25</td>
             <td>Security of Bitcoin. Lightning networks.</td>
             <td>Chapter 6</td>
         </tr>

@@ -199,21 +199,21 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
             <td>Lezione 15 14/11/25</td>
             <td>Esistenza di linguaggi non riconoscibili. Riducibilità mediante funzione.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture15_2526.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <!---                                                                      
+        </tr>     
         <tr>
-            <td>Lezione 16 20/11/24</td>
-            <td>Teoremi di incompletezza di Goedel. Esercizi di calcolabilità. Complessità di tempo. Le classi P ed EXP. Esempi di problemi in P.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture16_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 16 19/11/25</td>
+            <td>Teoremi di incompletezza di Goedel.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture16_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 17 22/11/24</td>
-            <td>Soddisfacibilità. 2-SAT in P. Definizione di NP tramite verificatori.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture17_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 17 21/11/25</td>
+            <td>Esercizi di calcolabilità. Complessità di tempo.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture17_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                                                         
         <tr>
             <td>Lezione 18 27/11/24</td>
-            <td>Definizione di NP tramite non-determinismo. Esempi di linguaggi in NP. Equivalenza delle due definizioni di NP. NP-completezza.</td>
+            <td>Le classi P ed EXP. Esempi di problemi in P. Soddisfacibilità. 2-SAT in P. Definizione di NP tramite verificatori. Definizione di NP tramite non-determinismo. Esempi di linguaggi in NP. Equivalenza delle due definizioni di NP. NP-completezza.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture18_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
