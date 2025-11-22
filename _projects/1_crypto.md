@@ -223,7 +223,7 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
         </tr>                                                             
         <tr>
             <td>Lecture 16 18/11/25</td>
-            <td>The Diffie-Hellmann key exchange. Symmetric cryptography using number theory.</td>
+            <td>The Diffie-Hellmann key exchange. Symmetric cryptography using number theory. Hope?</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture16_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <!---        
