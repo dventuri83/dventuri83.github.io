@@ -128,13 +128,7 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
 <br>
 <u>13/11/2025:</u> Due to the transportations strike announced for tomorrow, the lecture on November 14 will take place in person but also exceptionally streamed at <a href="https://uniroma1.zoom.us/j/81263907289?pwd=2UOa8FQtiBNCWtv01D7BFPrrRV4Is4.1">this link</a>.
 <br>
-<!---
-<u>02/10/2024:</u> Due to the ongoing construction works in Aula Magna, the lecture on 08/10/2024 will take place in Aula 301 - Palazzina D, Viale Regina Elena 295, 00161 Rome.
-<br>
-<u>07/11/2024:</u> Due to the national strike announced for tomorrow, the lecture on November 8th will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/89487521223?pwd=KzrfMElWv3v7c6bOi7BGXR9U9rCw49.1">this link</a>.
-<br>
-<u>12/12/2024:</u> Due to the national strike announced for tomorrow, the lecture on December 13th will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/82386433484?pwd=i5bFdUzJBkya2gzWTd7jlUuH1lcyQr.1">this link</a>.
---->
+<u>27/11/2025:</u> Due to the transportations strike announced for tomorrow, the lecture on November 28 will be exclusively remote at <a href="https://uniroma1.zoom.us/j/85474176836?pwd=ODU8pjAHFJSyZOKKylO71AlwIDoZEh.1">this link</a>.
 
 <h2>Lectures</h2>
 <table>
@@ -231,15 +225,15 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Public-key encryption. The ElGamal PKE.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture17_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---           
         <tr>
             <td>Lecture 18 25/11/25</td>
-            <td>Merkle trees and the Merklee-Damgaard paradigm. Building compression functions.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture18_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>RSA PKE. Digital signatures and universal unforgeability under chosen-message attacks. Public key infrastructures. Full-domain hash signatures and the random oracle model.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture18_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                   
         <tr>
             <td>Lecture 19 28/11/25</td>
-            <td>Digital signatures and universal unforgeability under chosen-message attacks. Public key infrastructures. Full-domain hash signatures and the random oracle model.</td>
+            <td></td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture19_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

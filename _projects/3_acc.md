@@ -93,6 +93,8 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
 <br>
 <u>13/11/2025:</u> A causa dello sciopero dei trasporti proclamato per la giornata di domani, la lezione del 14 novembre sarà in presenza ma verrà anche trasmessa da remoto a <a href="https://uniroma1.zoom.us/j/83573624225?pwd=nUcwtO4HlCSSPROGKv9Mlrxr3aT81Y.1">questo link</a>.
 <br>
+<u>27/11/2025:</u> La lezione del 28 novembre non avrà luogo.
+<br>
 <!---
 <u>30/09/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 4 ottobre sarà da remoto a <a href="https://uniroma1.zoom.us/j/86123921107?pwd=YICFZ9rvjNF2eSqU7mN6c8xoJOIndS.1">questo link</a>.
 <br>
@@ -209,16 +211,16 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
             <td>Lezione 17 21/11/25</td>
             <td>Esercizi di calcolabilità. Complessità di tempo.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture17_2526.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <!---                                                                         
+        </tr>                               
         <tr>
-            <td>Lezione 18 27/11/24</td>
-            <td>Le classi P ed EXP. Esempi di problemi in P. Soddisfacibilità. 2-SAT in P. Definizione di NP tramite verificatori. Definizione di NP tramite non-determinismo. Esempi di linguaggi in NP. Equivalenza delle due definizioni di NP. NP-completezza.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture18_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 18 26/11/25</td>
+            <td>Le classi P ed EXP. Esempi di problemi in P. Soddisfacibilità. 2-SAT in P.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture18_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                                  
         <tr>
             <td>Lezione 19 29/11/24</td>
-            <td>Teorema di Cook-Levin. Ulteriori problemi NP-completi.</td>
+            <td>Definizione di NP tramite verificatori. Definizione di NP tramite non-determinismo. Esempi di linguaggi in NP. Equivalenza delle due definizioni di NP. NP-completezza. Teorema di Cook-Levin. Ulteriori problemi NP-completi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture19_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

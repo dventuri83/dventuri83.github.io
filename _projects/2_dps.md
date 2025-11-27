@@ -233,12 +233,12 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>Security of Bitcoin. Lightning networks.</td>
             <td>Chapter 6</td>
         </tr>
-<!---                                                     
         <tr>
-            <td>Lecture 19 28/11/24</td>
+            <td>Lecture 19 27/11/25</td>
             <td>Altcoins: Ethereum, Cardano, Algorand, Litecoin, Filecoin.</td>
             <td>Chapter 7</td>
         </tr>
+<!---                                                             
         <tr>
             <td>Lecture 20 03/12/24</td>
             <td>Altcoins: Zerocash.</td>
