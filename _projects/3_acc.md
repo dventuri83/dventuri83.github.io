@@ -64,25 +64,20 @@ Gli appunti che seguono, relativi a un'edizione passata del corso, possono anche
 </ul>
 
 <h2>Esami</h2>
-Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
+Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La registrazione su Infostud è obbligatoria.
+<u><em>Esame 1</em></u>. Data: 12/01/26. Aula: 3L (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame01_2526_scores.pdf">pdf</a>].
 <br>
-<u><em>Esame 8</em></u>. Riservato agli studenti part-time e fuori corso a.a. 2024/2025 (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: 05/11/2025. Aula: 4 (RM158). Orario: 08:00-11:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame07_2425_scores.pdf">pdf</a>].
+<u><em>Esame 2</em></u>. Data: 09/02/26. Aula: 3L (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame02_2526_scores.pdf">pdf</a>].
 <br>
-<!---
-<u><em>Esame 1</em></u>. Data: 14/01/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame01_2425_scores.pdf">pdf</a>].
+<u><em>Esame 3</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su Infostud). Data: TBA. Aula: TBA. Orario: TBA. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame03_2526_scores.pdf">pdf</a>].
 <br>
-<u><em>Esame 2</em></u>. Data: 04/02/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame02_2425_scores.pdf">pdf</a>].
+<u><em>Esame 4</em></u>. Data: 08/06/26. Aula: 3L (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame04_2526_scores.pdf">pdf</a>].
 <br>
-<u><em>Esame 3</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: 04/04/25. Aula: 3 (RM018). Orario: 08:30-11:30. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame03_2425_scores.pdf">pdf</a>].
+<u><em>Esame 5</em></u>. Data: 13/07/26. Aula: 3L (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame05_2526_scores.pdf">pdf</a>].
 <br>
-<u><em>Esame 4</em></u>. Data: 10/06/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame04_2425_scores.pdf">pdf</a>].
+<u><em>Esame 6</em></u>. Data: 07/09/26. Aula: 3L (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame06_2526_scores.pdf">pdf</a>].
 <br>
-<u><em>Esame 5</em></u>. Data: 15/07/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame05_2425_scores.pdf">pdf</a>].
-<br>
-<u><em>Esame 6</em></u>. Data: 09/09/25. Aula 3 (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame06_2425_scores.pdf">pdf</a>].
-<br>
-<u><em>Esame 7</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su INFOSTUD). Data: TBA. Aula: TBA. Orario: TBA. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame07_2425_scores.pdf">pdf</a>].
---->
+<u><em>Esame 7</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su Infostud). Data: TBA. Aula: TBA. Orario: TBA. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame07_2526_scores.pdf">pdf</a>].
 
 <h2>Avvisi</h2>
 <u>20/09/2025:</u> Il corso inizierà il 23 settembre 2025.
@@ -219,37 +214,37 @@ Le date degli esami per l'anno accademico 2025/2026 saranno mostrate di seguito.
         </tr>
         <!---                                                  
         <tr>
-            <td>Lezione 19 29/11/24</td>
+            <td>Lezione 19 03/12/25</td>
             <td>Definizione di NP tramite verificatori. Definizione di NP tramite non-determinismo. Esempi di linguaggi in NP. Equivalenza delle due definizioni di NP. NP-completezza. Teorema di Cook-Levin. Ulteriori problemi NP-completi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture19_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 20 04/12/24</td>
+            <td>Lezione 20 05/12/25</td>
             <td>Conseguenze di P = NP. coNP e coNP-completezza. Complessità di spazio: definizioni e primi esempi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture20_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 21 06/12/24</td>
+            <td>Lezione 21 10/12/25</td>
             <td>Classi PSPACE, L, NPSPACE, NL. PATH in SPACE(log^2 n). PATH in NL.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture21_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 22 11/12/24</td>
+            <td>Lezione 22 12/12/25</td>
             <td>NL-completezza. Teorema di Savitch. Riduzioni in spazio logaritmico.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture22_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 23 13/12/24</td>
+            <td>Lezione 23 17/12/25</td>
             <td>PSPACE-completezza. NL=coNL.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture23_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 24 18/12/24</td>
+            <td>Lezione 24 19/12/25</td>
             <td>Teoremi di gerarchia tempo e spazio. La domanda P vs NP.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture24_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 25 20/12/24</td>
+            <td>Lezione 25 22/12/25</td>
             <td>Esercizi di complessità.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture25_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>

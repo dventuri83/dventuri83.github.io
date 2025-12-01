@@ -99,25 +99,20 @@ You may also find useful the following lecture notes from a past edition of the 
 </ul>
 
 <h2>Exams</h2>
-The exam dates for academic year 2025/2026 will appear below. Please always register via Infostud.
+The exam dates for academic year 2025/2026 are indicated below. Please always register via Infostud.
+<u><em>Exam 1</em></u>. Date: 13/01/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame01_2526_scores.pdf">pdf</a>].
 <br>
-<u><em>Exam 8</em></u>. Reserved to part-time and working students a.y. 2024/2025 (you must make a formal request to the secretariat; registration in Infostud is still required). Date: 05/11/2025. Aula: 4 (RM158). Time: 08:00-11:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame07_2425_scores.pdf">pdf</a>].
+<u><em>Exam 2</em></u>. Date: 10/02/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame02_2526_scores.pdf">pdf</a>].
 <br>
-<!---
-<u><em>Exam 1</em></u>. Date: 13/01/25. Aula 3 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame01_2425_scores.pdf">pdf</a>].
+<u><em>Exam 3</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Time: TBA. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame03_2526_scores.pdf">pdf</a>].
 <br>
-<u><em>Exam 2</em></u>. Date: 03/02/25. Aula 1 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame02_2425_scores.pdf">pdf</a>].
+<u><em>Exam 4</em></u>. Date: 09/06/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame04_2526_scores.pdf">pdf</a>].
 <br>
-<u><em>Exam 3</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: 04/04/25. Aula: 3 (RM018). Time: 08:30-11:30. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame03_2425_scores.pdf">pdf</a>].
+<u><em>Exam 5</em></u>. Date: 14/07/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame05_2526_scores.pdf">pdf</a>].
 <br>
-<u><em>Exam 4</em></u>. Date: 09/06/25. Aula 1 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame04_2425_scores.pdf">pdf</a>].
+<u><em>Exam 6</em></u>. Date: 08/09/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame06_2526_scores.pdf">pdf</a>].
 <br>
-<u><em>Exam 5</em></u>. Date: 14/07/25. Aula 1 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame05_2425_scores.pdf">pdf</a>].
-<br>
-<u><em>Exam 6</em></u>. Date: 08/09/25. Aula 1 (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame06_2425_scores.pdf">pdf</a>].
-<br>
-<u><em>Exam 7</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Time: TBA. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame07_2425_scores.pdf">pdf</a>].
---->
+<u><em>Exam 7</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Time: TBA. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame07_2526_scores.pdf">pdf</a>].
 
 <h2>Announcements</h2>
 <u>20/09/2025:</u> The course will start on September 23, 2025.
@@ -238,28 +233,33 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
         <!---                           
         <tr>
             <td>Lecture 20 02/12/25</td>
-            <td>Identification schemes and passive security. The Schnorr protocol. Honest-verifier zero knowledge.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture20_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Proof that honest-verifier zero knowledge and special soundness imply passive security. Fiat-Shamir signatures.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture20_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
             <td>Lecture 21 05/12/25</td>
-            <td> Proof that honest-verifier zero knowledge and special soundness imply passive security. Fiat-Shamir signatures.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture21_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lattices. The short integer solution (SIS) problem and the learning with errors (LWE) problem. Regev's PKE.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture21_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
             <td>Lecture 22 09/12/25</td>
-            <td>Lattices. The short integer solution (SIS) problem and the learning with errors (LWE) problem. Regev's PKE.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lattices_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Lattice trapdoors. Signatures from lattices.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture22_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
             <td>Lecture 23 12/12/25</td>
-            <td>Lattice trapdoors. Signatures from lattices. Identity-based encryption.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lattices_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Bonus lecture???</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture23_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 24 17/12/25</td>
+            <td>Lecture 24 16/12/25</td>
+            <td>Bonus lecture???</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture24_2526.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <tr>
+            <td>Lecture 25 19/12/25</td>
             <td>Exercises.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture24_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture25_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         --->
     </tbody>

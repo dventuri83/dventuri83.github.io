@@ -109,22 +109,20 @@ While we will not follow a single book; the following sources are suggested as r
 As part of the exam, students are required to solve a small project and present their project work during the exam. Reach out to me by email after choosing a topic of preference (among those covered in the course) in order to get an assignment. Collaboration among students is welcome.
 
 <h2>Exams</h2>
-The exam dates for academic year 2025/2026 will appear below. Please always register via Infostud.
-<!---
-<u><em>Exam 1</em></u>. Date: 15/01/25. Aula T1 (Viale Regina Elena 295). Starting time: 09:30.
+The exam dates for academic year 2025/2026 are indicated below. Please always register via Infostud.
+<u><em>Exam 1</em></u>. Date: 15/01/26. Aula: G50 (Viale Regina Elena 295). Starting time: 10:00.
 <br>
-<u><em>Exam 2</em></u>. Date: 05/02/25. Aula T1 (Viale Regina Elena 295). Starting time: 09:30.
+<u><em>Exam 2</em></u>. Date: 11/02/26. Aula: G50 (Viale Regina Elena 295). Starting time: 10:00.
 <br>
-<u><em>Exam 3</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: 26/03/25. Stanza G29 (Viale Regina Elena 295). Starting time: 09:30.
+<u><em>Exam 3</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Starting time: TBA.
 <br>
-<u><em>Exam 4</em></u>. Date: 11/06/25. Aula T1 (Viale Regina Elena 295). Starting time: 09:30.
+<u><em>Exam 4</em></u>. Date: 08/06/26. Aula: G50 (Viale Regina Elena 295). Starting time: 14:00.
 <br>
-<u><em>Exam 5</em></u>. Date: 16/07/25. Aula G0 (Viale Regina Elena 295). Starting time: 09:30.
+<u><em>Exam 5</em></u>. Date: 15/07/26. Aula: G50 (Viale Regina Elena 295). Starting time: 10:00.
 <br>
-<u><em>Exam 6</em></u>. Date: 10/09/25. Aula T1 (Viale Regina Elena 295). Starting time: 09:30.
+<u><em>Exam 6</em></u>. Date: 10/09/26. Aula: G50 (Viale Regina Elena 295). Starting time: 10:00.
 <br>
-<u><em>Exam 7</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: 14/10/25. Stanza G29 (Viale Regina Elena 295). Starting time: 09:30.
---->
+<u><em>Exam 7</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Starting time: TBA.
 
 <h2>Announcements</h2>
 <u>20/09/2025:</u> The course will start on September 23, 2025.
@@ -235,15 +233,15 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
         </tr>
         <tr>
             <td>Lecture 19 27/11/25</td>
-            <td>Altcoins: Ethereum, Cardano, Algorand, Litecoin, Filecoin.</td>
+            <td>Altcoins: Ethereum, Cardano, Algorand, Litecoin.</td>
             <td>Chapter 7</td>
         </tr>
-<!---                                                             
         <tr>
-            <td>Lecture 20 03/12/24</td>
-            <td>Altcoins: Zerocash.</td>
+            <td>Lecture 20 02/12/25</td>
+            <td>Altcoins: Filecoin, Zerocash.</td>
             <td>Chapter 7</td>
         </tr>
+<!---                                                                     
         <tr>
             <td>Lecture 21 05/12/24</td>
             <td>Introduction to multi-party computation. Coin tossing and oblivious transfer.</td>
