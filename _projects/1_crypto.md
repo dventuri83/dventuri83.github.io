@@ -230,12 +230,12 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
             <td>RSA PKE. Digital signatures and universal unforgeability under chosen-message attacks. Public key infrastructures. Full-domain hash signatures and the random oracle model.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture18_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                   
         <tr>
             <td>Lecture 19 28/11/25</td>
-            <td></td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture19_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Identification schemes and passive security. The Schnorr protocol. Definitions of honest-verifier zero knowledge and special soundness.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture19_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                           
         <tr>
             <td>Lecture 20 02/12/25</td>
             <td>Identification schemes and passive security. The Schnorr protocol. Honest-verifier zero knowledge.</td>
@@ -243,7 +243,7 @@ The exam dates for academic year 2025/2026 will appear below. Please always regi
         </tr>
         <tr>
             <td>Lecture 21 05/12/25</td>
-            <td>Special soundness. Proof that honest-verifier zero knowledge and special soundness imply passive security. Fiat-Shamir signatures.</td>
+            <td> Proof that honest-verifier zero knowledge and special soundness imply passive security. Fiat-Shamir signatures.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture21_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
