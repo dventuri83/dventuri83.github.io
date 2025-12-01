@@ -94,12 +94,13 @@ We will not follow a single book; the following textbooks are suggested as refer
 </ul>
 You may also find useful the following lecture notes from a past edition of the course (although not reviewed by myself):
 <ul>
-<li>[7] Simone Bianco, <em><a href="https://github.com/Exyss/university-notes/raw/main/Master/Cryptography.pdf">Lecture Notes for the Cryptography Course</a></em>, Sapienza University of Rome, A. Y. 2025/2026 (work in progress).
+<li>[7] Simone Bianco, <em><a href="https://github.com/Exyss/university-notes/raw/main/Master/Cryptography/Cryptography.pdf">Lecture Notes for the Cryptography Course</a></em>, Sapienza University of Rome, A. Y. 2025/2026 (work in progress).
 </li>
 </ul>
 
 <h2>Exams</h2>
 The exam dates for academic year 2025/2026 are indicated below. Please always register via Infostud.
+<br>
 <u><em>Exam 1</em></u>. Date: 13/01/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame01_2526_scores.pdf">pdf</a>].
 <br>
 <u><em>Exam 2</em></u>. Date: 10/02/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame02_2526_scores.pdf">pdf</a>].

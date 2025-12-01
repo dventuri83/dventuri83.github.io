@@ -59,12 +59,13 @@ Prova scritta. La prova consiste nella risoluzione di tre esercizi e nella rispo
 </ul>
 Gli appunti che seguono, relativi a un'edizione passata del corso, possono anche essere un riferimento utile:
 <ul>
-<li>Simone Bianco, <em><a href="https://github.com/Exyss/university-notes/raw/main/Bachelor/Terzo%20Anno/Automi%2C%20Calcolabilita%20e%20Complessita.pdf">Appunti del Corso di Automi, Calcolabilità e Complessità</a></em>, Sapienza Università di Roma, A. A. 2024/2025.
+<li>Simone Bianco, <em><a href="https://github.com/Exyss/university-notes/raw/main/Bachelor/Terzo%20Anno/Automi%2C%20Calcolabilita%20e%20Complessita/Automi%2C%20Calcolabilita%20e%20Complessita.pdf">Appunti del Corso di Automi, Calcolabilità e Complessità</a></em>, Sapienza Università di Roma, A. A. 2024/2025.
 </li>
 </ul>
 
 <h2>Esami</h2>
 Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La registrazione su Infostud è obbligatoria.
+<br>
 <u><em>Esame 1</em></u>. Data: 12/01/26. Aula: 3L (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame01_2526_scores.pdf">pdf</a>].
 <br>
 <u><em>Esame 2</em></u>. Data: 09/02/26. Aula: 3L (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame02_2526_scores.pdf">pdf</a>].

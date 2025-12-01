@@ -110,6 +110,7 @@ As part of the exam, students are required to solve a small project and present 
 
 <h2>Exams</h2>
 The exam dates for academic year 2025/2026 are indicated below. Please always register via Infostud.
+<br>
 <u><em>Exam 1</em></u>. Date: 15/01/26. Aula: G50 (Viale Regina Elena 295). Starting time: 10:00.
 <br>
 <u><em>Exam 2</em></u>. Date: 11/02/26. Aula: G50 (Viale Regina Elena 295). Starting time: 10:00.
