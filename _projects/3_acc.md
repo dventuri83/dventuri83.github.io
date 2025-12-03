@@ -213,15 +213,15 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
             <td>Le classi P ed EXP. Esempi di problemi in P. Soddisfacibilità. 2-SAT in P.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture18_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                                  
         <tr>
             <td>Lezione 19 03/12/25</td>
-            <td>Definizione di NP tramite verificatori. Definizione di NP tramite non-determinismo. Esempi di linguaggi in NP. Equivalenza delle due definizioni di NP. NP-completezza. Teorema di Cook-Levin. Ulteriori problemi NP-completi.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture19_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Le classi NP e NEXP. Definizione di NP tramite verificatori. Definizione di NP tramite non-determinismo. Esempi di linguaggi in NP. Equivalenza delle due definizioni di NP.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture19_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                                          
         <tr>
             <td>Lezione 20 05/12/25</td>
-            <td>Conseguenze di P = NP. coNP e coNP-completezza. Complessità di spazio: definizioni e primi esempi.</td>
+            <td>NP-completezza. Teorema di Cook-Levin. Ulteriori problemi NP-completi. Conseguenze di P = NP. coNP e coNP-completezza. Complessità di spazio: definizioni e primi esempi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture20_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

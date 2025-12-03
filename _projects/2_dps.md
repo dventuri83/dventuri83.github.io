@@ -241,25 +241,25 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Lecture 20 02/12/25</td>
             <td>Altcoins: Filecoin, Zerocash.</td>
             <td>Chapter 7</td>
-        </tr>
-<!---                                                                     
+        </tr>                                                                     
         <tr>
-            <td>Lecture 21 05/12/24</td>
+            <td>Lecture 21 04/12/25</td>
             <td>Introduction to multi-party computation. Coin tossing and oblivious transfer.</td>
             <td>Chapter 8</td>
         </tr>
+<!---        
         <tr>
-            <td>Lecture 22 10/12/24</td>
+            <td>Lecture 22 09/12/25</td>
             <td>Yao's protocol for semi-honest and malicious adversaries.</td>
             <td>Chapter 8</td>
         </tr>
         <tr>
-            <td>Lecture 23 17/12/24</td>
+            <td>Lecture 23 11/12/25</td>
             <td>Secret sharing. MPC with honest majority.</td>
             <td>Chapter 8</td>
         </tr>
         <tr>
-            <td>Lecture 24 19/12/24</td>
+            <td>Lecture 24 16/12/25</td>
             <td>Redactable blockchain.</td>
             <td>Chapter 8</td>
         </tr>

@@ -231,12 +231,12 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Identification schemes and passive security. The Schnorr protocol. Definitions of honest-verifier zero knowledge and special soundness.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture19_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                           
         <tr>
             <td>Lecture 20 02/12/25</td>
             <td>Proof that honest-verifier zero knowledge and special soundness imply passive security. Fiat-Shamir signatures.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture20_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                   
         <tr>
             <td>Lecture 21 05/12/25</td>
             <td>Lattices. The short integer solution (SIS) problem and the learning with errors (LWE) problem. Regev's PKE.</td>
