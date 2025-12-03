@@ -125,6 +125,7 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <u>13/11/2025:</u> Due to the transportations strike announced for tomorrow, the lecture on November 14 will take place in person but also exceptionally streamed at <a href="https://uniroma1.zoom.us/j/81263907289?pwd=2UOa8FQtiBNCWtv01D7BFPrrRV4Is4.1">this link</a>.
 <br>
 <u>27/11/2025:</u> Due to the transportations strike announced for tomorrow, the lecture on November 28 will be exclusively remote at <a href="https://uniroma1.zoom.us/j/85474176836?pwd=ODU8pjAHFJSyZOKKylO71AlwIDoZEh.1">this link</a>.
+<u>03/12/2025:</u> The students are invited to express their preference about the last topic to be covered in the final lectures of the course. Please vote only once using <a href="https://forms.gle/yo4HpH77DvUZTLHg9">this link</a>.
 
 <h2>Lectures</h2>
 <table>
