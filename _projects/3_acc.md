@@ -217,16 +217,16 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
             <td>Lezione 19 03/12/25</td>
             <td>Le classi NP e NEXP. Definizione di NP tramite verificatori. Definizione di NP tramite non-determinismo. Esempi di linguaggi in NP. Equivalenza delle due definizioni di NP.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture19_2526.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <!---                                                          
+        </tr>      
         <tr>
             <td>Lezione 20 05/12/25</td>
-            <td>NP-completezza. Teorema di Cook-Levin. Ulteriori problemi NP-completi. Conseguenze di P = NP. coNP e coNP-completezza. Complessità di spazio: definizioni e primi esempi.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture20_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>NP-completezza. Teorema di Cook-Levin.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture20_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                                            
         <tr>
             <td>Lezione 21 10/12/25</td>
-            <td>Classi PSPACE, L, NPSPACE, NL. PATH in SPACE(log^2 n). PATH in NL.</td>
+            <td>Ulteriori problemi NP-completi. Conseguenze di P = NP. coNP e coNP-completezza. Complessità di spazio: definizioni e primi esempi. Classi PSPACE, L, NPSPACE, NL. PATH in SPACE(log^2 n). PATH in NL.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture21_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

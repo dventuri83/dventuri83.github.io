@@ -237,15 +237,15 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Proof that honest-verifier zero knowledge and special soundness imply passive security. Fiat-Shamir signatures.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture20_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                   
         <tr>
             <td>Lecture 21 05/12/25</td>
-            <td>Lattices. The short integer solution (SIS) problem and the learning with errors (LWE) problem. Regev's PKE.</td>
+            <td>Lattices. The short integer solution (SIS) problem and the learning with errors (LWE) problem.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture21_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                           
         <tr>
             <td>Lecture 22 09/12/25</td>
-            <td>Lattice trapdoors. Signatures from lattices.</td>
+            <td>Regev's PKE. Lattice trapdoors. Signatures from lattices.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture22_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
