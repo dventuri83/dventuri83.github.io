@@ -91,27 +91,7 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
 <br>
 <u>27/11/2025:</u> La lezione del 28 novembre non avrà luogo.
 <br>
-<!---
-<u>30/09/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 4 ottobre sarà da remoto a <a href="https://uniroma1.zoom.us/j/86123921107?pwd=YICFZ9rvjNF2eSqU7mN6c8xoJOIndS.1">questo link</a>.
-<br>
-<u>12/10/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 18 ottobre avrà luogo in Aula 101 - Palazzina D - Viale Regina Elena 295.
-<br>
-<u>22/10/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 25 ottobre avrà luogo in Aula 301 - Palazzina D - Viale Regina Elena 295.
-<br>
-<u>02/11/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 08 novembre avrà luogo in Aula 301 - Palazzina D - Viale Regina Elena 295.
-<br>
-<u>07/11/2024:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 8 novembre sarà eccezionalmente da remoto a <a href="https://uniroma1.zoom.us/j/81229907754?pwd=EZK66yAlBNbtC8NDMubGoZA3MJtGs3.1">questo link</a>.
-<br>
-<u>09/11/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 15 novembre avrà luogo in Aula 201 - Palazzina D - Viale Regina Elena 295.
-<br>
-<u>16/11/2024:</u> A causa dei lavori in corso nelle aule in Via De Lollis, la lezione del 22 novembre avrà luogo in Aula 201 - Palazzina D - Viale Regina Elena 295.
-<br>
-<u>18/10/2024:</u> Gli studenti sono invitati al prossimo appuntamento della serie di seminari <a href="https://www.di.uniroma1.it/it/notizie/seminari/distinguished-lectures">Distinguished Lectures</a>, sponsorizzata dal Dipartimento di Informatica. Il seminario avrà luogo il 25/11/24 alle ore 12pm in Viale Regina Elena 295, Palazzina D, Aula 101.
-<br>
-<u>23/11/2024:</u> A partire dalla prossima settimana, le lezioni del venerdì avranno luogo in Aula 4 De Lollis (Via Tiburtina 205).
-<br>
-<u>12/12/2024:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 13 dicembre sarà eccezionalmente da remoto a <a href="https://uniroma1.zoom.us/j/89788890233?pwd=BnKB3PL5q96ZyhbAbobid00lrPIUc1.1">questo link</a>.
---->
+<u>11/12/2025:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 12 dicembre sarà in presenza ma verrà anche trasmessa da remoto a <a href="https://uniroma1.zoom.us/j/81197204009?pwd=6sGBZoyCAxiB0RyuhGrBewAjIwxP9I.1">questo link</a>.
 
 <h2>Diario delle lezioni</h2>
 <table>
@@ -223,20 +203,20 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
             <td>NP-completezza. Teorema di Cook-Levin.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture20_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                                            
         <tr>
             <td>Lezione 21 10/12/25</td>
-            <td>Ulteriori problemi NP-completi. Conseguenze di P = NP. coNP e coNP-completezza. Complessità di spazio: definizioni e primi esempi. Classi PSPACE, L, NPSPACE, NL. PATH in SPACE(log^2 n). PATH in NL.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture21_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Ulteriori problemi NP-completi. coNP e coNP-completezza.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture21_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
             <td>Lezione 22 12/12/25</td>
-            <td>NL-completezza. Teorema di Savitch. Riduzioni in spazio logaritmico.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture22_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>Complessità di spazio: definizioni ed esempi. Classi PSPACE, L, NPSPACE, NL. PATH in SPACE(log^2 n).</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture22_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                                                    
         <tr>
             <td>Lezione 23 17/12/25</td>
-            <td>PSPACE-completezza. NL=coNL.</td>
+            <td>PATH in NL. NL-completezza. Teorema di Savitch. Riduzioni in spazio logaritmico. PSPACE-completezza. NL=coNL.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture23_2425.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

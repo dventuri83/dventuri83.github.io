@@ -122,10 +122,13 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <br>
 <u>30/10/2025:</u> The lecture on 04/11/2025 will not take place.
 <br>
-<u>13/11/2025:</u> Due to the transportations strike announced for tomorrow, the lecture on November 14 will take place in person but also exceptionally streamed at <a href="https://uniroma1.zoom.us/j/81263907289?pwd=2UOa8FQtiBNCWtv01D7BFPrrRV4Is4.1">this link</a>.
+<u>13/11/2025:</u> Due to the transportations strike announced for tomorrow, the lecture on November 14 will take place in person but also exceptionally be streamed at <a href="https://uniroma1.zoom.us/j/81263907289?pwd=2UOa8FQtiBNCWtv01D7BFPrrRV4Is4.1">this link</a>.
 <br>
 <u>27/11/2025:</u> Due to the transportations strike announced for tomorrow, the lecture on November 28 will be exclusively remote at <a href="https://uniroma1.zoom.us/j/85474176836?pwd=ODU8pjAHFJSyZOKKylO71AlwIDoZEh.1">this link</a>.
+<br>
 <u>03/12/2025:</u> The students are invited to express their preference about the last topic to be covered in the final lectures of the course. Please vote only once using <a href="https://forms.gle/yo4HpH77DvUZTLHg9">this link</a>.
+<br>
+<u>11/12/2025:</u> Due to the national strike announced for tomorrow, the lecture on December 12 will take place in person but also exceptionally be streamed at at <a href="https://uniroma1.zoom.us/j/82414082275?pwd=2jT1zMRzmdcDBdQQCjzGFirU62H2dH.1">this link</a>.
 
 <h2>Lectures</h2>
 <table>
@@ -242,7 +245,6 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Lattices. The short integer solution (SIS) problem and the learning with errors (LWE) problem.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture21_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                           
         <tr>
             <td>Lecture 22 09/12/25</td>
             <td>Regev's PKE. Lattice trapdoors. Signatures from lattices.</td>
@@ -250,12 +252,13 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
         </tr>
         <tr>
             <td>Lecture 23 12/12/25</td>
-            <td>Bonus lecture???</td>
+            <td>Identity-based encryption: definitions and constructions.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture23_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                                           
         <tr>
             <td>Lecture 24 16/12/25</td>
-            <td>Bonus lecture???</td>
+            <td>Identity-based encryption: applications.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture24_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
