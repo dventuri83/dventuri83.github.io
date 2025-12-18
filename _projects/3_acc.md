@@ -92,6 +92,8 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
 <u>27/11/2025:</u> La lezione del 28 novembre non avrà luogo.
 <br>
 <u>11/12/2025:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 12 dicembre sarà in presenza ma verrà anche trasmessa da remoto a <a href="https://uniroma1.zoom.us/j/81197204009?pwd=6sGBZoyCAxiB0RyuhGrBewAjIwxP9I.1">questo link</a>.
+<br>
+<u>18/11/2025:</u> La lezione del 19 dicembre non avrà luogo. Sarà recuperata il 22 dicembre alle ore 08:00 in Aula 4 (RM158). La lezione verrà anche trasmessa da remoto a <a href="https://uniroma1.zoom.us/j/81013571492?pwd=hD7XcbG2ru552buWAtkpGw5Vj5IFDQ.1">questo link</a>.
 
 <h2>Diario delle lezioni</h2>
 <table>
@@ -213,22 +215,15 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
             <td>Complessità di spazio: definizioni ed esempi. Classi PSPACE, L, NPSPACE, NL. PATH in SPACE(log^2 n).</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture22_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                                                    
         <tr>
             <td>Lezione 23 17/12/25</td>
-            <td>PATH in NL. NL-completezza. Teorema di Savitch. Riduzioni in spazio logaritmico. PSPACE-completezza. NL=coNL.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture23_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>PATH in NL. NL-completezza. Riduzioni in spazio logaritmico. Teoremi di gerarchia tempo e spazio.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture23_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 24 19/12/25</td>
-            <td>Teoremi di gerarchia tempo e spazio. La domanda P vs NP.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture24_2425.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <tr>
-            <td>Lezione 25 22/12/25</td>
+            <td>Lezione 24 22/12/25</td>
             <td>Esercizi di complessità.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture25_2425.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture24_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        --->
     </tbody>
 </table>
