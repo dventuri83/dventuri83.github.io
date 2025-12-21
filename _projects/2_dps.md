@@ -247,7 +247,6 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Introduction to multi-party computation. Coin tossing and oblivious transfer.</td>
             <td>Chapter 8</td>
         </tr>
-<!---        
         <tr>
             <td>Lecture 22 09/12/25</td>
             <td>Yao's protocol for semi-honest and malicious adversaries.</td>
@@ -263,6 +262,5 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Redactable blockchain.</td>
             <td>Chapter 8</td>
         </tr>
-        --->
     </tbody>
 </table>

@@ -255,7 +255,6 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Identity-based encryption: definitions and constructions.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture23_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                                           
         <tr>
             <td>Lecture 24 16/12/25</td>
             <td>Identity-based encryption: applications.</td>
@@ -266,6 +265,5 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Exercises.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture25_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        --->
     </tbody>
 </table>

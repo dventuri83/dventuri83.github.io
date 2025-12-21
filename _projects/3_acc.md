@@ -217,7 +217,7 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
         </tr>
         <tr>
             <td>Lezione 23 17/12/25</td>
-            <td>PATH in NL. NL-completezza. Riduzioni in spazio logaritmico. Teoremi di gerarchia tempo e spazio.</td>
+            <td>Teorema di Savitch. PATH in NL. NL-completezza. Riduzioni in spazio logaritmico. Teoremi di gerarchia tempo e spazio.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture23_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
