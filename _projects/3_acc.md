@@ -66,7 +66,7 @@ Gli appunti che seguono, relativi a un'edizione passata del corso, possono anche
 <h2>Esami</h2>
 Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La registrazione su Infostud è obbligatoria.
 <br>
-<u><em>Esame 1</em></u>. Data: 12/01/26. Aula: 3L (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame01_2526_scores.pdf">pdf</a>].
+<u><em>Esame 1</em></u>. Data: 12/01/26. Aula: 11 (RM005). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame01_2526_scores.pdf">pdf</a>].
 <br>
 <u><em>Esame 2</em></u>. Data: 09/02/26. Aula: 3L (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame02_2526_scores.pdf">pdf</a>].
 <br>
