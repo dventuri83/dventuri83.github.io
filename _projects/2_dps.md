@@ -115,7 +115,7 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <br>
 <u><em>Exam 2</em></u>. Date: 11/02/26. Aula: G50 (Viale Regina Elena 295). Starting time: 10:00.
 <br>
-<u><em>Exam 3</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Starting time: TBA.
+<u><em>Exam 3</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration via Infostud is still required). Date: 30/03/26. Aula: G29 (Viale Regina Elena 295). Starting time: 10:00.
 <br>
 <u><em>Exam 4</em></u>. Date: 08/06/26. Aula: G50 (Viale Regina Elena 295). Starting time: 14:00.
 <br>
