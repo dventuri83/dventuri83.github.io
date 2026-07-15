@@ -15,7 +15,6 @@
 
 @article{DBLP:journals/joc/AvitabileBFVV25,
   abbr = {JoC},
-  bibtex_show={false},  
   author = {Gennaro Avitabile and Vincenzo Botta and Daniele Friolo and Daniele Venturi and Ivan Visconti},
   title = {Compact Proofs of Partial Knowledge for Overlapping {CNF} Formulae},
   journal      = {Journal of Cryptology},
@@ -23,7 +22,6 @@
   number       = {1},
   pages        = {7},
   year         = {2025},
-  doi          = {10.1007/S00145-024-09532-3},
   html = {https://link.springer.com/article/10.1007/s00145-024-09532-3},
   pdf = {https://eprint.iacr.org/2024/1488},
   dimensions = {false},
@@ -32,8 +30,6 @@
 
 @article{DBLP:journals/joc/FrancatiFMV24,
   abbr = {JoC},
-  bibtex_show={true},  
-  abstract = {},
   author = {Danilo Francati and Daniele Friolo and Giulio Malavolta and Daniele Venturi},
   title = {Multi-key and Multi-input Predicate Encryption (for Conjunctions) from Learning with Errors},
   journal      = {Journal of Cryptology},
@@ -41,20 +37,14 @@
   number       = {24},
   pages        = {99},
   year         = {2024},
-  doi          = {10.1007/s00145-024-09504-7},
   html = {https://link.springer.com/article/10.1007/s00145-024-09504-7},
   pdf = {https://eprint.iacr.org/2022/806},
   dimensions = {true},
-  google_scholar_id = {5ugPr518TE4C},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/acns/FrancatiV24,
   abbr = {ACNS 24},
-  bibtex_show={true},
-  abstract = {Fuzzy extractors (Dodis et al. EUROCRYPT’04) allow to generate close to uniform randomness using correlated distributions outputting samples that are close over some metric space. The latter requires to produce a helper value (along with the extracted key) that can be used to recover the key using close samples. Robust fuzzy extractors (Dodis et al., CRYPTO’06) further protect the helper string from arbitrary active manipulations, by requiring that the reconstructed key using a modified helper string cannot yield a different extractor output.
-It is well known that statistical robustness inherently requires large min-entropy (in fact,  $m > n/2$ where $n$ is the bit length of the samples) from the underlying correlated distributions, even assuming trusted setup. Motivated by this limitation, we start the investigation of security properties weaker than robustness, but that can be achieved in the plain model assuming only minimal min-entropy (in fact,  $m=\omega(\log n)$), while still being useful for applications. We identify one such property and put forward the notion of non-malleable fuzzy extractors. Intuitively, non-malleability relaxes the robustness property by allowing the reconstructed key using a modified helper string to be different from the original extractor output, as long as it is a completely unrelated value.
-We give a black-box construction of non-malleable fuzzy extractors in the plain model for min-entropy $m=\omega(\log n)$, against interesting families of manipulations including split-state tampering, small-depth circuits tampering, and space-bounded tampering (in the information-theoretic setting), as well as tampering via partial functions (assuming one-way functions). We leave it as an open problem to establish whether non-malleability is possible for arbitrary manipulations of the helper string. Finally, we show an application of non-malleable fuzzy extractors to protect stateless cryptographic primitives whose secret keys are derived using fuzzy correlated distributions.},
   author = {Danilo Francati and Daniele Venturi},
   title = {Non-malleable Fuzzy Extractors},
   booktitle = {22nd International Conference on Applied Cryptography and Network Security},
@@ -63,20 +53,14 @@ We give a black-box construction of non-malleable fuzzy extractors in the plain 
   pages = {135--155},
   publisher = {Springer},
   year = {2024},
-  doi = {10.1007/978-3-031-54770-6\_6},
   html = {https://wp.nyu.edu/acns2024/},
   pdf = {https://link.springer.com/chapter/10.1007/978-3-031-54770-6_6},
   dimensions = {true},
-  google_scholar_id = {PR6Y55bgFSsC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/asiacrypt/FrancatiV24,
   abbr = {ASIACRYPT 24},
-  bibtex_show={true},  
-  abstract = {Evolving secret sharing (Komargodski, Naor, and Yogev, TCC’16) generalizes the notion of secret sharing to the setting of evolving access structures, in which the share holders are added to the system in an online manner, and where the dealer does not know neither the access structure nor the maximum number of parties in advance. Here, the main difficulty is to distribute shares to the new players without updating the shares of old players; moreover, one would like to minimize the share size as a function of the number of players.
-In this paper, we initiate a systematic study of evolving secret sharing in the computational setting, where the maximum number of parties is polynomial in the security parameter, but the dealer still does not know this value, neither it knows the access structure in advance. Moreover, the privacy guarantee only holds against computationally bounded adversaries corrupting an unauthorized subset of the players.
-Our main result is that for many interesting, and practically relevant, evolving access structures (including graphs access structures, DNF and CNF formulas access structures, monotone circuits access structures, and threshold access structures), under standard hardness assumptions, there exist efficient secret sharing schemes with computational privacy and in which the shares are succinct (i.e., much smaller compared to the size of a natural computational representation of the evolving access structure).},
   author       = {Danilo Francati and
                   Daniele Venturi},
   editor       = {Kai{-}Min Chung and
@@ -90,20 +74,14 @@ Our main result is that for many interesting, and practically relevant, evolving
   pages        = {69--99},
   publisher    = {Springer},
   year         = {2024},
-  doi          = {10.1007/978-981-96-0941-3\_3},
   html          = {https://link.springer.com/chapter/10.1007/978-981-96-0941-3_3},
   pdf = {https://eprint.iacr.org/2023/1534},
   dimensions = {true},
-  google_scholar_id = {ye4kPcJQO24C},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/asiacrypt/ChakrabortyMMV24,
   abbr = {ASIACRYPT 24},
-  bibtex_show={true},  
-  abstract = {Password-Authenticated Key Exchange (PAKE) allows two parties to establish a common high-entropy secret from a possibly low-entropy pre-shared secret such as a password. In this work, we provide the first PAKE protocol with subversion resilience in the framework of universal composability (UC), where the latter roughly means that UC security still holds even if one of the two parties is malicious and the honest party's code has been subverted (in an undetectable manner). 
-We achieve this result by sanitizing the PAKE protocol from oblivious transfer (OT) due to Canetti et al. (PKC'12) via cryptographic reverse firewalls in the UC framework (Chakraborty et al.,  EUROCRYPT'22). This requires new techniques, which help us uncover new cryptographic primitives with sanitation-friendly properties along the way (such as OT, dual-mode cryptosystems, and signature schemes).
-As an additional contribution, we delve deeper in the backbone of communication required in the subversion-resilient UC framework, extending it to the unauthenticated setting, in line with the work of Barak et al. (CRYPTO'05).},
   author       = {Suvradip Chakraborty and
                   Lorenzo Magliocco and
                   Bernardo Magri and
@@ -120,19 +98,14 @@ As an additional contribution, we delve deeper in the backbone of communication 
   pages        = {101--133},
   publisher    = {Springer},
   year         = {2024},
-  doi          = {10.1007/978-981-96-0935-2\_4},
   html          = {https://link.springer.com/chapter/10.1007/978-981-96-0935-2_4},
   pdf = {https://eprint.iacr.org/2023/1827},
   dimensions = {true},
-  google_scholar_id = {_Re3VWB3Y0AC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/crypto/ObresmkiRRSV24,
   abbr = {CRYPTO 24},
-  bibtex_show={true},
-  abstract = {There exists a mismatch between the theory and practice of cryptography in the presence of leakage. On the theoretical front, the bounded leakage model, where the adversary learns bounded-length but noiseless information about secret components, and the random probing model, where the adversary learns some internal values of a leaking implementation with some probability, are convenient abstractions to analyze the security of numerous designs. On the practical front, side-channel attacks produce long transcripts which are inherently noisy but provide information about all internal computations, and this noisiness is usually evaluated with closely related metrics like the mutual information or statistical distance. Ideally, we would like to claim that resilience to bounded leakage or random probing implies resilience to noisy leakage evaluated according to these metrics. However, prior work (Duc, Dziembowski and Faust, Eurocrypt 2014; Brian et al., Eurocrypt 2021) has shown that proving such reductions with useful parameters is challenging.    
-In this work, we study noisy leakage models stemming from hockey-stick divergences, which generalize statistical distance and are also the basis of differential privacy. First, we show that resilience to bounded leakage and random probing implies resilience to our new noisy leakage model with improved parameters compared to models based on the statistical distance or mutual information. Second, we establish composition theorems for our model, showing that these connections extend to a setting where multiple leakages are obtained from a leaking  implementation. We complement our theoretical results with a discussion of practical relevance, highlighting that (i) the reduction to bounded leakage applies to realistic leakage functions with noise levels that are decreased by several orders of magnitude compared to Brian et al., and (ii) the reduction to random probing usefully generalizes the seminal work of Duc, Dziembowski, and Faust, although it remains limited when the field size in which masking operates grows (i.e., hockey-stick divergences can better hide the field size dependency of the noise requirements, but do not annihilate it).},
   author       = {Maciej Obremski and Jo{\~{a}}o Ribeiro and Lawrence Roy and Fran{\c{c}}ois{-}Xavier Standaert and Daniele Venturi},
   editor       = {Leonid Reyzin and Douglas Stebila},
   title        = {Improved Reductions from Noisy to Bounded and Probing Leakages via Hockey-Stick Divergences},
@@ -142,20 +115,14 @@ In this work, we study noisy leakage models stemming from hockey-stick divergenc
   pages        = {461--491},
   publisher    = {Springer},
   year         = {2024},
-  doi          = {10.1007/978-3-031-68391-6\_14},
   html          = {https://crypto.iacr.org/2024/},
   pdf = {https://eprint.iacr.org/2024/1009},
   dimensions = {true},
-  google_scholar_id = {W5xh706n7nkC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/icml/ZEFVAB24,
   abbr = {ICML 24},
-  bibtex_show={true},
-  abstract = {Watermarking generative models consists of planting a statistical signal (watermark) in a model’s output so that it can be later verified that the output was generated by the given model. A strong watermarking scheme satisfies the property that a computationally bounded attacker cannot erase the watermark without causing significant quality degradation. In this paper, we study the (im)possibility of strong watermarking schemes. We prove that, under well-specified and natural assumptions, strong watermarking is impossible to achieve. This holds even in the private detection algorithm setting, where the watermark insertion and detection algorithms share a secret key, unknown to the attacker. To prove this result, we introduce a generic efficient watermark attack; the attacker is not required to know the private key of the scheme or even which scheme is used.
-Our attack is based on two assumptions: (1) The attacker has access to a “quality oracle” that can evaluate whether a candidate output is a high-quality response to a prompt, and (2) The attacker has access to a “perturbation oracle” which can modify an output with a nontrivial probability of maintaining quality, and which induces an efficiently mixing random walk on high-quality outputs. We argue that both assumptions can be satisfied in practice by an attacker with weaker computational capabilities than the watermarked model itself, to which the attacker has only black-box access. Furthermore, our assumptions will likely only be easier to satisfy over time as models grow in capabilities and modalities.
-We demonstrate the feasibility of our attack by instantiating it to attack three existing watermarking schemes for large language models: Kirchenbauer et al. (2023), Kuditipudi et al. (2023), and Zhao et al. (2023). The same attack successfully removes the watermarks planted by all three schemes, with only minor quality degradation.},
   author = {Hanlin Zhang and Benjamin L. Edelman and Danilo Francati and Daniele Venturi and Giuseppe Ateniese and Boaz Barak},
   title = {Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models},
   booktitle = {41st International Conference on Machine Learning},
@@ -167,16 +134,11 @@ We demonstrate the feasibility of our attack by instantiating it to attack three
   html = {https://icml.cc},
   pdf = {https://eprint.iacr.org/2023/1776},
   dimensions = {true},
-  google_scholar_id = {VL0QpB8kHFEC},
   selected = {true}
 }
 
 @inproceedings{DBLP:conf/acns/FrioloSV23,
   abbr = {ACNS 23},
-  bibtex_show={true},
-  abstract = {The Fujisaki-Okamoto (FO) transform (CRYPTO 1999 and JoC 2013) turns any weakly (i.e., IND-CPA) secure public-key encryption (PKE) scheme into a strongly (i.e., IND-CCA) secure key encapsulation method (KEM) in the random oracle model (ROM). Recently, the FO transform re-gained momentum as part of CRISTAL-Kyber, selected by the NIST as the PKE winner of the post-quantum cryptography standardization project. 
-Following Fischlin (ICALP 2005), we study the complete non-malleability of KEMs obtained via the FO transform. Intuitively, a KEM is completely non-malleable if no adversary can maul a given public key and ciphertext into a new public key and ciphertext encapsulating a related key for the underlying blockcipher. 
-On the negative side, we find that KEMs derived via FO are not completely non-malleable in general. On the positive side, we show that complete non-malleability holds in the ROM by assuming the underlying PKE scheme meets an additional property, or by a slight tweak of the transformation.},
   author = {Daniele Friolo and Matteo Salvino and Daniele Venturi},
   title = {On the Complete Non-malleability of the Fujisaki-Okamoto Transform},
   booktitle = {21st International Conference on Applied Cryptography and Network Security},
@@ -185,22 +147,14 @@ On the negative side, we find that KEMs derived via FO are not completely non-ma
   pages = {307--335},
   publisher = {Springer},
   year = {2023},
-  doi = {10.1007/978-3-031-33491-7\_12},
   html = {https://sulab-sever.u-aizu.ac.jp/ACNS2023/},
   pdf = {https://eprint.iacr.org/2022/1654},
   dimensions = {true},
-  google_scholar_id = {Y5dfb0dijaUC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/asiacrypt/FrancatiFMMRV23,
   abbr = {ASIACRYPT 23},
-  bibtex_show={true},
-  abstract = {Registered encryption (Garg et al. , TCC'18) is an emerging  paradigm that tackles the key-escrow problem associated with identity-based encryption by replacing the private-key generator with a much weaker entity known as the key curator. The key curator holds no secret information, and is responsible to: 
-(i) update the master public key whenever a new user registers its own public key to the system;
-(ii) provide helper decryption keys to the  users already registered in the system, in order to still enable them to decrypt after new users join the system.
-For practical purposes, tasks (i) and (ii) need to be efficient, in the sense that the size of the public parameters, of the master public key, and of the helper decryption keys, as well as the running times for key generation and user registration, and the number of updates, must be small.
-In this paper, we generalize the notion of registered encryption to the setting of functional encryption (FE). As our main contribution, we show an efficient construction of registered FE for the special case of (attribute-based) inner-product predicates, built over asymmetric bilinear groups of prime order. Our scheme supports a large attribute universe and is proven secure in the bilinear generic group model. We also implement our scheme and experimentally demonstrate the efficiency requirements of the registered settings. Our second contribution is a feasibility result where we build registered FE for P/poly  based on indistinguishability obfuscation and somewhere statistically binding hash functions.},
   author = {Danilo Francati and Daniele Friolo and Monosij Maitra and Giulio Malavolta and Ahmadreza Rahimi and Daniele Venturi},
   title = {Registered (Inner-Product) Functional Encryption},
   booktitle = {29th International Conference on the Theory and Application of Cryptology and Information Security},
@@ -209,18 +163,14 @@ In this paper, we generalize the notion of registered encryption to the setting 
   pages = {98--133},
   publisher = {Springer},
   year = {2023},
-  doi = {10.1007/978-981-99-8733-7\_4},
   html = {https://asiacrypt.iacr.org/2023/},
   pdf = {https://eprint.iacr.org/2023/395},
   dimensions = {true},
-  google_scholar_id = {B80troHkn4C},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/edoc/MarangoneCFNVW23,
   abbr = {EDOC 23},
-  bibtex_show={true},
-  abstract = {Blockchain technology is apt to facilitate the automation of multi-party cooperations among various players in a decentralized setting, especially in cases where trust among participants is limited. Transactions are stored in a ledger, a replica of which is retained by every node of the blockchain network. The operations saved thereby are thus publicly accessible. While this aspect enhances transparency, reliability, and persistence, it hinders the utilization of public blockchains for process automation as it violates typical confidentiality requirements in corporate settings. To overcome this issue, we propose our approach named Multi-Authority Approach to Transaction Systems for Interoperating Applications (MARTSIA). Based on Multi-Authority Attribute-Based Encryption (MA-ABE), MARTSIA enables read-access control over shared data at the level of message parts. User-defined policies determine whether an actor can interpret the publicly stored information or not, depending on the actor's attributes declared by a consortium of certifiers. Still, all nodes in the blockchain network can attest to the publication of the (encrypted) data. We provide a formal analysis of the security guarantees of MARTSIA, and illustrate the proof-of-concept implementation over multiple blockchain platforms. To demonstrate its interoperability, we showcase its usage in ensemble with a state-of-the-art blockchain-based engine for multi-party process execution, and three real-world decentralized applications in the context of NFT markets, supply chain, and retail.},
   author = {Edoardo Marangone and Claudio Di Ciccio and Daniele Friolo and Eugenio Nerio Nemmi and Daniele Venturi and Ingo Weber},
   title = {{MARTSIA:} Enabling Data Confidentiality for Blockchain-Based Process Execution},
   booktitle = {27th International Conference on Enterprise Design, Operations, and Computing},
@@ -229,22 +179,14 @@ In this paper, we generalize the notion of registered encryption to the setting 
   pages = {58--76},
   publisher = {Springer},
   year = {2023},
-  doi = {10.1007/978-3-031-46587-1\_4},
   html = {https://www.rug.nl/research/bernoulli/conf/},
   pdf = {https://arxiv.org/abs/2308.03791},
   dimensions = {true},
-  google_scholar_id = {PELIpwtuRlgC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/eurocrypt/FrancatiFMV23,
   abbr = {EUROCRYPT 23},
-  bibtex_show={true},  
-  abstract = {We put forward two natural generalizations of predicate encryption (PE), dubbed multi-key and multi-input PE. More in details, our contributions are threefold.
-- Definitions. We formalize security of multi-key PE and multi-input PE following the standard indistinguishability paradigm, and modeling security both against malicious senders (i.e., corruption of encryption keys) and malicious receivers (i.e., collusions).
-- Constructions. We construct adaptively secure multi-key and multi-input PE supporting the conjunction of poly-many arbitrary single-input predicates, assuming the sub-exponential hardness of the learning with errors (LWE) problem.
-- Applications. We show that multi-key and multi-input PE for expressive enough predicates suffices for interesting cryptographic applications, including non-interactive multi-party computation (NI-MPC) and matchmaking encryption (ME).
-In particular, plugging in our constructions of multi-key and multi-input PE, under the sub-exponential LWE assumption, we obtain the first ME supporting arbitrary policies with unbounded collusions, as well as robust (resp. non-robust) NI-MPC for so-called all-or-nothing functions satisfying a non-trivial notion of reusability and supporting a constant (resp. polynomial) number of parties. Prior to our work, both of these applications required much heavier tools such as indistinguishability obfuscation or compact functional encryption.},
   author = {Danilo Francati and Daniele Friolo and Giulio Malavolta and Daniele Venturi},
   title = {Multi-key and Multi-input Predicate Encryption from Learning with Errors},
   booktitle = {42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques},
@@ -253,38 +195,28 @@ In particular, plugging in our constructions of multi-key and multi-input PE, un
   pages = {573--604},
   publisher = {Springer},
   year = {2023},
-  doi = {10.1007/978-3-031-30620-4\_19},
   html = {https://eurocrypt.iacr.org/2023/},
   pdf = {https://eprint.iacr.org/2022/806},
   dimensions = {true},
-  google_scholar_id = {5ugPr518TE4C},
   selected = {true}
 }
 
 @article{DBLP:journals/tifs/FrioloMNV22,
   abbr = {IEEE TIFS},
-  bibtex_show={true},
-  abstract = {A recent trend in multi-party computation is to achieve cryptographic fairness via monetary penalties, i.e. each honest player either obtains the output or receives a compensation in the form of a cryptocurrency. We pioneer another type of fairness, financial fairness, that is closer to the real-world valuation of financial transactions. Intuitively, a penalty protocol is financially fair if the net present cost of participation (the total value of cash inflows less cash outflows, weighted by the relative discount rate) is the same for all honest participants, even when some parties cheat.
-We formally define the notion, show several impossibility results based on game theory, and analyze the practical effects of (lack of) financial fairness if one was to run the protocols for real on Bitcoin using Bloomberg's dark pool trading.
-For example, we show that the ladder protocol (CRYPTO'14), and its variants (CCS'15 and CCS'16), fail to achieve financial fairness both in theory and in practice, while the penalty protocols of Kumaresan and Bentov (CCS'14) and Baum, David and Dowsley (FC'20) are financially fair. This version contains formal definitions, detailed security proofs, demos and experimental data in the appendix.},
   author = {Daniele Friolo and Fabio Massacci and Chan Nam Ngo and Daniele Venturi},
   title = {Cryptographic and Financial Fairness},
   journal = {{IEEE} Transactions on Information Forensics and Security},
   volume = {17},
   pages = {3391--3406},
   year = {2022},
-  doi = {10.1109/TIFS.2022.3198852},
   html = {https://doi.org/10.1109/TIFS.2022.3198852},
   pdf = {https://arxiv.org/abs/2207.10780},
   dimensions = {true},
-  google_scholar_id = {Mojj43d5GZwC},
   selected = {true}
 }
 
 @article{DBLP:journals/tit/BrianFORSSV22,
   abbr = {IEEE TIT},
-  bibtex_show={true},
-  abstract = {We show that noisy leakage can be simulated in the information-theoretic setting using a single query of bounded leakage, up to a small statistical simulation error and a slight loss in the leakage parameter. The latter holds true in particular for one of the most used noisy-leakage models, where the noisiness is measured using the conditional average min-entropy (Naor and Segev, CRYPTO'09 and SICOMP'12). Our reductions between noisy and bounded leakage are achieved in two steps. First, we put forward a new leakage model (dubbed the dense leakage model) and prove that dense leakage can be simulated in the information-theoretic setting using a single query of bounded leakage, up to small statistical distance. Second, we show that the most common noisy-leakage models fall within the class of dense leakage, with good parameters. We also provide a complete picture of the relationships between different noisy-leakage models, and prove lower bounds showing that our reductions are nearly optimal. Our result finds applications to leakage-resilient cryptography, where we are often able to lift security in the presence of bounded leakage to security in the presence of noisy leakage, both in the information-theoretic and in the computational setting. Additionally, we show how to use lower bounds in communication complexity to prove that bounded-collusion protocols (Kumar, Meka, and Sahai, FOCS'19) for certain functions do not only require long transcripts, but also necessarily need to reveal enough information about the inputs.},
   author       = {Gianluca Brian and
                   Antonio Faonio and
                   Maciej Obremski and
@@ -299,18 +231,14 @@ For example, we show that the ladder protocol (CRYPTO'14), and its variants (CCS
   number       = {12},
   pages        = {8197--8227},
   year         = {2022},
-  doi          = {10.1109/TIT.2022.3193848},
   html = {https://ieeexplore.ieee.org/document/9840398},
   pdf = {https://eprint.iacr.org/2020/1246},
   dimensions = {true},
-  google_scholar_id = {5Ul4iDaHHb8C},
   selected = {true}
 }
 
 @article{DBLP:journals/tosc/BrianFRV22,
   abbr = {IACR ToSC},
-  bibtex_show={true},
-  abstract = {We construct non-malleable codes in the split-state model with codeword length $m + 3\lambda$ or $m + 5\lambda$, where $m$ is the message size and $\lambda$ is the security parameter, depending on how conservative one is. Our scheme is very simple and involves a single call to a block cipher meeting a new security notion which we dub entropic fixed-related-key security, which essentially means that the block cipher behaves like a pseudorandom permutation when queried upon inputs sampled from a distribution with sufficient min-entropy, even under related-key attacks with respect to an arbitrary but fixed key relation. Importantly, indistinguishability only holds with respect to the original secret key (and not with respect to the tampered secret key). In a previous work, Fehr, Karpman, and Mennink (ToSC 2018) used a related assumption (where the block cipher inputs can be chosen by the adversary, and where indistinguishability holds even with respect to the tampered key) to construct a non-malleable code in the split-state model with codeword length $m + 2\lambda$. Unfortunately, no block cipher (even an ideal one) satisfies their assumption when the tampering function is allowed to be  cipher-dependent. In contrast, we are able to show that entropic fixed-related-key security holds in the ideal cipher model with respect to a large class of cipher-dependent tampering attacks (including those which break the assumption of Fehr, Karpman, and Mennink).},
   author       = {Gianluca Brian and
                   Antonio Faonio and
                   Jo{\~{a}}o Ribeiro and
@@ -321,21 +249,14 @@ For example, we show that the ladder protocol (CRYPTO'14), and its variants (CCS
   number       = {3},
   pages        = {1--19},
   year         = {2022},
-  doi          = {10.46586/TOSC.V2022.I3.1-19},
   html = {https://fse.iacr.org/2023/},
   pdf = {https://eprint.iacr.org/2022/1100},
   dimensions = {true},
-  google_scholar_id = {AXPGKjj_ei8C},
   selected = {true}
 }
 
 @inproceedings{DBLP:conf/asiacrypt/BrianFMV22,
   abbr = {ASIACRYPT 22},
-  bibtex_show={true},
-  abstract = {Non-malleable codes (Dziembowski, Pietrzak and Wichs, ICS 2010 & JACM 2018) allow protecting arbitrary cryptographic primitives against related-key attacks (RKAs). Even when using codes that are guaranteed to be non-malleable against a single tampering attempt, one obtains RKA security against poly-many tampering attacks at the price of assuming perfect memory erasures. In contrast, continuously non-malleable codes (Faust, Mukherjee, Nielsen and Venturi, TCC 2014) do not suffer from this limitation, as the non-malleability guarantee holds against poly-many tampering attempts. 
-    Unfortunately, there are only a handful of constructions of continuously non-malleable codes, while standard non-malleable codes are known for a large variety of tampering families including, e.g., NC0 and decision-tree tampering, AC0, and recently even bounded polynomial-depth tampering. We change this state of affairs by providing the first constructions of continuously non-malleable codes in the following natural settings:
-- Against decision-tree tampering, where, in each tampering attempt, every bit of the tampered codeword can be set arbitrarily after adaptively reading up to $d$ locations within the input codeword. Our scheme is in the plain model, can be instantiated assuming the existence of one-way functions, and tolerates tampering by decision trees of depth $d = O(n^{1/8})$, where $n$ is the length of the codeword. Notably, this class includes NC0.
-- Against bounded polynomial-depth tampering, where in each tampering attempt the adversary can select any tampering function that can be computed by a circuit of bounded polynomial depth (and unbounded polynomial size). Our scheme is in the common reference string model, and can be instantiated assuming the existence of time-lock puzzles and simulation-extractable (succinct) non-interactive zero-knowledge proofs.},
   author       = {Gianluca Brian and
                   Sebastian Faust and
                   Elena Micheli and
@@ -349,24 +270,14 @@ For example, we show that the ladder protocol (CRYPTO'14), and its variants (CCS
   pages        = {384--413},
   publisher    = {Springer},
   year         = {2022},
-  doi          = {10.1007/978-3-031-22972-5\_14},
   html = {https://asiacrypt.iacr.org/2022/},
   pdf = {https://eprint.iacr.org/2022/1231},
   dimensions = {true},
-  google_scholar_id = {eMMeJKvmdy0C},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/citc/MadathilOS022,
   abbr = {ITC 22},
-  bibtex_show={true},
-  abstract = {We present an information-theoretic transformation from any 2-round OT protocol with only game-based security in the presence of malicious adversaries into a 4-round (which is known to be optimal) OT protocol with simulation-based security in the presence of malicious adversaries.
-Our transform is the first satisfying all of the following properties at the same time:
-– It is in the plain model, without requiring any setup assumption.
-– It only makes black-box usage of the underlying OT protocol.
-– It is information-theoretic, as it does not require any further cryptographic assumption
-(besides the existence of the underlying OT protocol).
-Additionally, our transform yields a cubic improvement in communication complexity over the best previously known transformation.},
   author       = {Varun Madathil and
                   Chris Orsini and
                   Alessandra Scafuro and
@@ -379,24 +290,14 @@ Additionally, our transform yields a cubic improvement in communication complexi
   pages        = {5:1--5:20},
   publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
   year         = {2022},
-  doi          = {10.4230/LIPICS.ITC.2022.5},
   html = {https://itcrypto.github.io/},
   pdf = {https://eprint.iacr.org/2022/034},
   dimensions = {true},
-  google_scholar_id = {mvPsJ3kp5DgC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/eurocrypt/ChakrabortyMNV22,
   abbr = {EUROCRYPT 22},
-  bibtex_show={true},
-  abstract = {Subversion attacks undermine security of cryptographic protocols by replacing a legitimate honest party's implementation with one that leaks information in an undetectable manner. An important limitation of all currently known techniques for designing cryptographic protocols with security against subversion attacks is that they do not automatically guarantee security in the realistic setting where a protocol session may run concurrently with other protocols.
-We remedy this situation by providing a foundation of *reverse firewalls* (Mironov and Stephens-Davidowitz, EUROCRYPT'15) in the *universal composability* (UC) framework (Canetti, FOCS'01 and J. ACM'20).  More in details, our contributions are threefold:
-- We generalize the UC framework to the setting where each party consists of a core (which has secret inputs and is in charge of generating protocol messages) and a firewall (which has no secrets and sanitizes the outgoing/incoming communication from/to the core). Both the core and the firewall can be subject to different flavors of corruption, modeling different kinds of subversion attacks.
-For instance,  we capture the setting where a subverted core looks like the honest core to any efficient test, yet it may leak secret information via covert channels (which we call *specious subversion*).
-- We show how to sanitize UC commitments and UC coin tossing against specious subversion, under the DDH assumption.
-- We show how to sanitize the classical GMW compiler (Goldreich, Micali and Wigderson, STOC 1987) for turning MPC with security in the presence of semi-honest adversaries into MPC with security in the presence of malicious adversaries. This yields a completeness theorem for maliciously secure MPC in the presence of specious subversion.
-Additionally, all our sanitized protocols are *transparent*, in the sense that communicating with a sanitized core looks indistinguishable from communicating with an honest core. Thanks to the composition theorem, our methodology allows, for the first time, to design subversion-resilient protocols by sanitizing different sub-components in a modular way.},
   author       = {Suvradip Chakraborty and
                   Bernardo Magri and
                   Jesper Buus Nielsen and
@@ -410,18 +311,14 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
   pages        = {272--302},
   publisher    = {Springer},
   year         = {2022},
-  doi          = {10.1007/978-3-031-06944-4\_10},
   html = {https://eurocrypt.iacr.org/2022/},
   pdf = {https://eprint.iacr.org/2022/244},
   dimensions = {true},
-  google_scholar_id = {kRWSkSYxWN8C},
   selected = {false}
 }
 
 @article{DBLP:journals/joc/AtenieseFNV21,
   abbr = {JoC},
-  bibtex_show={true},
-  abstract = {We introduce a new form of encryption that we name matchmaking encryption (ME). Using ME, sender S and receiver R (each with its own attributes) can both specify policies the other party must satisfy in order for the message to be revealed. The main security guarantee is that of privacy-preserving policy matching: During decryption nothing is leaked beyond the fact that a match occurred/did not occur. ME opens up new ways of secretly communicating, and enables several new applications where both participants can specify fine-grained access policies to encrypted data. For instance, in social matchmaking, S can encrypt a file containing his/her personal details and specify a policy so that the file can be decrypted only by his/her ideal partner. On the other end, a receiver R will be able to decrypt the file only if S corresponds to his/her ideal partner defined through a policy. On the theoretical side, we define security for ME, as well as provide generic frameworks for constructing ME from functional encryption. These constructions need to face the technical challenge of simultaneously checking the policies chosen by S and R, to avoid any leakage. On the practical side, we construct an efficient identity-based scheme for equality policies, with provable security in the random oracle model under the standard BDH assumption. We implement and evaluate our scheme and provide experimental evidence that our construction is practical. We also apply identity-based ME to a concrete use case, in particular for creating an anonymous bulletin board over a Tor network.},
   author       = {Giuseppe Ateniese and
                   Danilo Francati and
                   David Nu{\~{n}}ez and
@@ -432,18 +329,14 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
   number       = {3},
   pages        = {16},
   year         = {2021},
-  doi          = {10.1007/S00145-021-09381-4},
   html = {https://link.springer.com/article/10.1007/s00145-021-09381-4},
   pdf = {https://eprint.iacr.org/2018/1094},
   dimensions = {true},
-  google_scholar_id = {dQ2og3OwTAUC},
   selected = {false}
 }
 
 @article{DBLP:journals/tcs/GaneshMV21,
   abbr = {TCS},
-  bibtex_show={true},
-  abstract = {We study interactive proof systems (IPSes) in a strong adversarial setting where the machines of *honest parties* might be corrupted and under control of the adversary. Our aim is to answer the following, seemingly paradoxical, questions: - Can Peggy convince Vic of the veracity of an NP statement, without leaking any information about the witness even in case Vic is malicious and Peggy does not trust her computer? - Can we avoid that Peggy fools Vic into accepting false statements, even if Peggy is malicious and Vic does not trust her computer? At EUROCRYPT 2015, Mironov and Stephens-Davidowitz introduced cryptographic reverse firewalls (RFs) as an attractive approach to tackling such questions. Intuitively, a RF for Peggy/Vic is an external party that sits between Peggy/Vic and the outside world and whose scope is to sanitize Peggy's/Vic's incoming and outgoing messages in the face of subversion of her/his computer, e.g. in order to destroy subliminal channels. In this paper, we put forward several natural security properties for RFs in the concrete setting of IPSes. As our main contribution, we construct efficient RFs for different IPSes derived from a large class of Sigma protocols that we call malleable. A nice feature of our design is that it is completely transparent, in the sense that our RFs can be directly applied to already deployed IPSes, without the need to re-implement them.},
   author       = {Chaya Ganesh and
                   Bernardo Magri and
                   Daniele Venturi},
@@ -452,18 +345,14 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
   volume       = {855},
   pages        = {104--132},
   year         = {2021},
-  doi          = {10.1016/J.TCS.2020.11.043},
   html = {https://doi.org/10.1016/j.tcs.2020.11.043},
   pdf = {https://eprint.iacr.org/2020/204},
   dimensions = {true},
-  google_scholar_id = {08ZZubdj9fEC},
   selected = {false}  
 }
 
 @article{DBLP:journals/tcs/AtenieseFMV21,
   abbr = {TCS},
-  bibtex_show={true},
-  abstract = {We seek constructions of general-purpose immunizers that take arbitrary cryptographic primitives, and transform them into ones that withstand a powerful "malicious but proud" adversary, who attempts to break security by possibly subverting the implementation of all algorithms (including the immunizer itself!), while trying not to be detected. This question is motivated by the recent evidence of cryptographic schemes being intentionally weakened, or designed together with hidden backdoors, e.g., with the scope of mass surveillance. Our main result is a subversion-secure immunizer in the plain model, that works for a fairly large class of deterministic primitives, i.e. cryptoschemes where a secret (but tamperable) random source is used to generate the keys and the public parameters, whereas all other algorithms are deterministic. The immunizer relies on an additional independent source of public randomness, which is used to sample a public seed. Assuming the public source is untamperable, and that the subversion of the algorithms is chosen independently of the seed, we can instantiate our immunizer from any one-way function. In case the subversion is allowed to depend on the seed, and the public source is still untamperable, we obtain an instantiation from collision-resistant hash functions. In the more challenging scenario where the public source is also tamperable, we additionally need to assume that the initial cryptographic primitive has sub-exponential security. Previous work in the area only obtained subversion-secure immunization for very restricted classes of primitives, often in weaker models of subversion and using random oracles.},
   author       = {Giuseppe Ateniese and
                   Danilo Francati and
                   Bernardo Magri and
@@ -473,18 +362,14 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
   volume       = {859},
   pages        = {1--36},
   year         = {2021},
-  doi          = {10.1016/J.TCS.2021.01.002},
   html = {https://www.sciencedirect.com/science/article/pii/S0304397521000190?via%3Dihub},
   pdf = {https://eprint.iacr.org/2019/1173},
   dimensions = {true},
-  google_scholar_id = {UxriW0iASnsC},
   selected = {false}    
 }
 
 @article{DBLP:journals/tcs/SamarinFVA21,
   abbr = {TCS},
-  bibtex_show={true},
-  abstract = {At SCN 2018, Fiore and Pagnin proposed a generic compiler (called "Matrioska") allowing to transform sufficiently expressive single-key homomorphic signatures (SKHSs) into multi-key homomorphic signatures (MKHSs) under falsifiable assumptions in the standard model. Matrioska is designed for homomorphic signatures that support programs represented as circuits. The MKHS schemes obtained through Matrioska support the evaluation and verification of arbitrary circuits over data signed from multiple users, but they require the underlying SKHS scheme to work with circuits whose size  is *exponential* in the number of users,  and thus can only support a constant number of users. In this work, we propose a new generic compiler to convert an SKHS scheme into an MKHS scheme. Our compiler is a generalization of Matrioska for homomorphic signatures that support programs *in any model of computation*. When instantiated with SKHS for circuits, we recover the Matrioska compiler of Fiore and Pagnin. As an additional contribution, we show how to instantiate our generic compiler in the Turing Machines (TM) model and argue that this instantiation allows to overcome some limitations of Matrioska: - First, the MKHS we obtain require the underlying SKHS to support TMs whose size depends only {\em linearly} in the number of users. - Second, when instantiated with an SKHS with succinctness $\pl$ and fast enough verification time, e.g., $S \cdot \log \htime + n \cdot\pl$ or $T +\insize\cdot\pl$ (where $T$, $S$, and $\insize$ are the running time, description size, and input length of the program to verify, respectively), our compiler yields an MKHS in which the time complexity of both the prover and the verifier remains $\pl$ even if executed on programs with inputs from $\pl$ users. While we leave constructing an SKHS with these efficiency properties as an open problem,  we make one step towards this goal by proposing an SKHS scheme with verification time $\pl\cdot\htime$ under falsifiable assumptions in the standard model.},
   author       = {Somayeh Dolatnezhad Samarin and
                   Dario Fiore and
                   Daniele Venturi and
@@ -494,18 +379,14 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
   volume       = {889},
   pages        = {145--170},
   year         = {2021},
-  doi          = {10.1016/J.TCS.2021.08.002},
   html = {https://doi.org/10.1016/j.tcs.2021.08.002},
   pdf = {https://eprint.iacr.org/2021/1651},
   dimensions = {true},
-  google_scholar_id = {D_sINldO8mEC},
   selected = {false}    
 }
 
 @inproceedings{DBLP:conf/eurocrypt/BrianFO00S021,
   abbr = {EUROCRYPT 21},
-  bibtex_show={true},
-  abstract = {We show that noisy leakage can be simulated in the information-theoretic setting using a single query of bounded leakage, up to a small statistical simulation error and a slight loss in the leakage parameter. The latter holds true in particular for one of the most used noisy-leakage models, where the noisiness is measured using the conditional average min-entropy (Naor and Segev, CRYPTO'09 and SICOMP'12). Our reductions between noisy and bounded leakage are achieved in two steps. First, we put forward a new leakage model (dubbed the dense leakage model) and prove that dense leakage can be simulated in the information-theoretic setting using a single query of bounded leakage, up to small statistical distance. Second, we show that the most common noisy-leakage models fall within the class of dense leakage, with good parameters. We also provide a complete picture of the relationships between different noisy-leakage models, and prove lower bounds showing that our reductions are nearly optimal. Our result finds applications to leakage-resilient cryptography, where we are often able to lift security in the presence of bounded leakage to security in the presence of noisy leakage, both in the information-theoretic and in the computational setting. Additionally, we show how to use lower bounds in communication complexity to prove that bounded-collusion protocols (Kumar, Meka, and Sahai, FOCS'19) for certain functions do not only require long transcripts, but also necessarily need to reveal enough information about the inputs.},
   author       = {Gianluca Brian and
                   Antonio Faonio and
                   Maciej Obremski and
@@ -523,18 +404,14 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
   pages        = {408--437},
   publisher    = {Springer},
   year         = {2021},
-  doi          = {10.1007/978-3-030-77886-6\_14},
   html = {https://eurocrypt.iacr.org/2021/},
   pdf = {https://eprint.iacr.org/2020/1246},
   dimensions = {true},
-  google_scholar_id = {5Ul4iDaHHb8C},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/fc/BottaFVV21,
   abbr = {FC 21},
-  bibtex_show={true},
-  abstract = {In this work, we consider executions of smart contracts for implementing secure multi-party computation (MPC) protocols on forking blockchains (e.g., Ethereum), and we study security and delay issues due to forks. In this setting, the classical double-spending problem tells us that messages of the MPC protocol should be confirmed on-chain before playing the next ones, thus slowing down the entire execution. Our contributions are twofold: - For the concrete case of fairly tossing multiple coins with penalties, we notice that the lottery protocol of Andrychowicz et al. (S&P '14) becomes insecure if players do not wait for the confirmations of several transactions. In addition, we present a smart contract that instead retains security even when all honest players immediately answer to transactions appearing on-chain. We analyze the performance using Ethereum as testbed. - We design a compiler that takes any ``digital and universally composable'' MPC protocol (with or without honest majority), and transforms it into another one (for the same task and same setup) which maintains security even if all messages are played on-chain without delays. The special requirements on the starting protocol mean that messages consist only of bits (e.g., no hardware token is sent) and security holds also in the presence of other protocols. We further show that our compiler satisfies fairness with penalties as long as honest players only wait for confirmations once. By reducing the number of confirmations, our protocols can be significantly faster than natural constructions.},
   author       = {Vincenzo Botta and
                   Daniele Friolo and
                   Daniele Venturi and
@@ -548,18 +425,14 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
   pages        = {73--92},
   publisher    = {Springer},
   year         = {2021},
-  doi          = {10.1007/978-3-662-64322-8\_4},
   html = {https://fc21.ifca.ai/},
   pdf = {https://eprint.iacr.org/2019/891},
   dimensions = {true},
-  google_scholar_id = {fQNAKQ3IYiAC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/indocrypt/FrancatiGRV21,
   abbr = {INDOCRYPT 21},
-  bibtex_show={true},
-  abstract = {Identity-based matchmaking encryption (IB-ME) is a generalization of identity-based encryption where the sender and the receiver can both specify a target identity: if both the chosen target identities match the one of the other party, the plaintext is revealed, and otherwise the sender’s identity, the target identity, and the plaintext remain hidden. Previous work showed how to construct IB-ME in the random oracle model. We give the first construction in the plain model, based on standard assumptions over bilinear groups.},
   author       = {Danilo Francati and
                   Alessio Guidi and
                   Luigi Russo and
@@ -574,19 +447,14 @@ Additionally, all our sanitized protocols are *transparent*, in the sense that c
   pages        = {415--435},
   publisher    = {Springer},
   year         = {2021},
-  doi          = {10.1007/978-3-030-92518-5\_19},
   html = {https://indocrypt2021.lnmiit.ac.in/},
   pdf = {https://eprint.iacr.org/2021/1660},
   dimensions = {true},
-  google_scholar_id = {q3oQSFYPqjQC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/tcc/BrianF021,
   abbr = {TCC 21},
-  bibtex_show={true},
-  abstract = {We study non-malleable secret sharing against joint leakage and joint tampering attacks.
-Our main result is the first threshold secret sharing scheme in the plain model achieving resilience to noisy-leakage and continuous tampering. The above holds under (necessary) minimal computational assumptions (i.e., the existence of one-to-one one-way functions), and in a model where the adversary commits to a fixed partition of all the shares into non-overlapping subsets of at most $t-1$ shares (where $t$ is the reconstruction threshold), and subsequently jointly leaks from and tampers with  the shares within each partition. We also study the capacity (i.e., the maximum achievable asymptotic information rate) of continuously non-malleable secret sharing against joint continuous tampering attacks. In particular, we prove that whenever the attacker can tamper jointly with $k > t/2$  shares, the capacity is at most $t-k$. The rate of our construction matches this upper bound. An important corollary of our results is the first non-malleable secret sharing scheme against independent tampering attacks breaking the rate-one barrier (under the same computational assumptions as above).},
   author       = {Gianluca Brian and
                   Antonio Faonio and
                   Daniele Venturi},
@@ -600,18 +468,14 @@ Our main result is the first threshold secret sharing scheme in the plain model 
   pages        = {333--364},
   publisher    = {Springer},
   year         = {2021},
-  doi          = {10.1007/978-3-030-90453-1\_12},
   html = {https://tcc.iacr.org/2021/},
   pdf = {https://eprint.iacr.org/2021/1128},
   dimensions = {true},
-  google_scholar_id = {eflP2zaiRacC},
   selected = {false}
 }
 
 @article{DBLP:journals/joc/CorettiDMTV20,
   abbr = {JoC},
-  bibtex_show={true},
-  abstract = {In a seminal paper, Dolev et al. (STOC'91) introduced the notion of non-malleable encryption (NM-CPA). This notion is very intriguing since it suffices for many applications of chosen-ciphertext secure encryption (IND-CCA), and, yet, can be generically built from semantically secure (IND-CPA) encryption, as was shown in the seminal works by Pass et al. (CRYPTO'06) and by Choi et al. (TCC'08), the latter of which provided a black-box construction. In this paper we investigate three questions related to NM-CPA security: - Can the rate of the construction by Choi et al. of NM-CPA from IND-CPA be improved? - Is it possible to achieve multi-bit NM-CPA security more efficiently from a single-bit NM-CPA scheme than from IND-CPA? - Is there a notion stronger than NM-CPA that has natural applications and can be achieved from IND-CPA security? We answer all three questions in the positive. First, we improve the rate in the construction of Choi et al. by a factor O(k), where k is the security parameter. Still, encrypting a message of size O(k) would require ciphertext and keys of size O(k^2) times that of the IND-CPA scheme, even in our improved scheme. Therefore, we show a more efficient domain extension technique for building a k-bit NM-CPA scheme from a single-bit NM-CPA scheme with keys and ciphertext of size O(k) times that of the NM-CPA one-bit scheme. To achieve our goal, we define and construct a novel type of continuous non-malleable code (NMC), called secret-state NMC, as we show that standard continuous NMCs are not enough for the natural "encode-then-encrypt-bit-by-bit" approach to work. Finally, we introduce a new security notion for public-key encryption (PKE) that we dub non-malleability under (chosen-ciphertext) self-destruct attacks (NM-SDA). After showing that NM-SDA is a strict strengthening of NM-CPA and allows for more applications, we nevertheless show that both of our results---(faster) construction from IND-CPA and domain extension from one-bit scheme---also hold for our stronger NM-SDA security. In particular, the notions of IND-CPA, NM-CPA, and NM-SDA security are all equivalent, lying (plausibly, strictly?) below IND-CCA security.},
   author       = {Sandro Coretti and
                   Yevgeniy Dodis and
                   Ueli Maurer and
@@ -623,18 +487,14 @@ Our main result is the first threshold secret sharing scheme in the plain model 
   number       = {4},
   pages        = {1984--2033},
   year         = {2020},
-  doi          = {10.1007/S00145-020-09361-0},
   html = {https://link.springer.com/article/10.1007/s00145-020-09361-0?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst},
   pdf = {https://eprint.iacr.org/2015/772},
   dimensions = {true},
-  google_scholar_id = {ZeXyd9-uunAC},
   selected = {false}
 }
 
 @article{DBLP:journals/joc/FaustMNV20,
   abbr = {JoC},
-  bibtex_show={true},
-  abstract = {Non-malleable codes (Dziembowski et al., ICS’10 and J. ACM’18) are a natural relaxation of error correcting/detecting codes with useful applications in cryptography. Informally, a code is non-malleable if an adversary trying to tamper with an encoding of a message can only leave it unchanged or modify it to the encoding of an unrelated value. This paper introduces continuous non-malleability, a generalization of standard non-malleability where the adversary is allowed to tamper continuously with the same encoding. This is in contrast to the standard definition of non-malleable codes, where the adversary can only tamper a single time. The only restriction is that after the first invalid codeword is ever generated, a special self-destruct mechanism is triggered and no further tampering is allowed; this restriction can easily be shown to be necessary. We focus on the split-state model, where an encoding consists of two parts and the tampering functions can be arbitrary as long as they act independently on each part. Our main contributions are outlined below. We show that continuous non-malleability in the split-state model is impossible without relying on computational assumptions. We construct a computationally secure split-state code satisfying continuous non-malleability in the common reference string (CRS) model. Our scheme can be instantiated assuming the existence of collision-resistant hash functions and (doubly enhanced) trapdoor permutations, but we also give concrete instantiations based on standard number-theoretic assumptions. We revisit the application of non-malleable codes to protecting arbitrary cryptographic primitives against related-key attacks. Previous applications of non-malleable codes in this setting required perfect erasures and the adversary to be restricted in memory. We show that continuously non-malleable codes allow to avoid these restrictions.},
   author       = {Sebastian Faust and
                   Pratyay Mukherjee and
                   Jesper Buus Nielsen and
@@ -645,28 +505,14 @@ Our main result is the first threshold secret sharing scheme in the plain model 
   number       = {4},
   pages        = {2034--2077},
   year         = {2020},
-  doi          = {10.1007/S00145-020-09362-Z},
   html = {https://link.springer.com/article/10.1007/s00145-020-09362-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20200725},
   pdf = {https://link.springer.com/content/pdf/10.1007/s00145-020-09362-z.pdf},
   dimensions = {true},
-  google_scholar_id = {sSrBHYA8nusC},
   selected = {false}
 }
 
 @article{DBLP:journals/tcs/AtenieseMV20,
   abbr = {TCS},
-  bibtex_show={true},
-  abstract = {We provide a formal treatment of security of digital signatures against subversion attacks (SAs).
-Our model of subversion generalizes previous work in several directions, and is inspired by the proliferation of software attacks (e.g., malware and buffer overflow attacks), and by the recent revelations of Edward Snowden about intelligence agencies trying to surreptitiously sabotage cryptographic algorithms.
-The main security requirement we put forward demands that a signature scheme should remain unforgeable even in the presence of an attacker applying SAs (within a certain class of allowed attacks) in a fully-adaptive and continuous fashion. Previous notions---e.g., the notion of security against algorithm-substitution attacks introduced by Bellare et al. (CRYPTO '14) for symmetric encryption---were non-adaptive and non-continuous.
-In this vein, we show both positive and negative results for the goal of constructing subversion-resilient signature schemes.
-Negative results. As our main negative result, we show that a broad class of randomized signature schemes is unavoidably insecure against SAs, even if using just a single bit of randomness. This improves upon earlier work that was only able to attack schemes with larger randomness space. When designing our new attack we consider undetectability as an explicit
-adversarial goal, meaning that the end-users (even the ones knowing the signing key) should not be able to detect that the signature scheme was subverted.
-Positive results. We complement the above negative results by showing that signature schemes with unique signatures are subversion-resilient against all attacks that meet a basic undetectability requirement. A similar result was shown by Bellare et al. for symmetric encryption, who proved the necessity to rely on stateful schemes; in contrast unique signatures are stateless, and in fact they are among the fastest and most established digital signatures available.
-As our second positive result, we show how to construct subversion-resilient identification schemes from subversion-resilient signature schemes.
-We finally show that it is possible to devise signature schemes secure against arbitrary tampering with the computation, by making use of an un-tamperable cryptographic reverse firewall (Mironov and Stephens-Davidowitz, EUROCRYPT '15), i.e., an algorithm that "sanitizes" any signature given as input (using only public information).
-The firewall we design allows to successfully protect so-called re-randomizable signature schemes (which include unique signatures as special case). As an additional contribution, we extend our model to consider multiple users and show implications and separations among the various notions we introduced.
-While our study is mainly theoretical, due to its strong practical motivation, we believe that our results have important implications in practice and might influence the way digital signature schemes are selected or adopted in standards and protocols.},
   author       = {Giuseppe Ateniese and
                   Bernardo Magri and
                   Daniele Venturi},
@@ -675,24 +521,14 @@ While our study is mainly theoretical, due to its strong practical motivation, w
   volume       = {820},
   pages        = {91--122},
   year         = {2020},
-  doi          = {10.1016/J.TCS.2020.03.021},
   html = {http://eprint.iacr.org/2015/517},
   pdf = {https://doi.org/10.1016/j.tcs.2020.03.021},
   dimensions = {true},
-  google_scholar_id = {-f6ydRqryjwC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/crypto/BrianFO0020,
   abbr = {CRYPTO 20},
-  bibtex_show={true},
-  abstract = {Secret sharing enables a dealer to split a secret into a set of shares, in such a way that certain authorized subsets of share holders can reconstruct the secret, whereas all unauthorized subsets cannot.
-Non-malleable secret sharing (Goyal and Kumar, STOC 2018) additionally requires that, even if the shares have been tampered with, the reconstructed secret is either the original or a completely unrelated one.
-In this work, we construct non-malleable secret sharing tolerating -time {\em joint-tampering} attacks in the plain model (in the computational setting), where the latter means that, for any  fixed {\em a priori}, the attacker can tamper with the same target secret sharing up to  times. In particular, assuming one-to-one one-way functions, we obtain:
-- A secret sharing scheme for threshold access structures which tolerates joint -time tampering with subsets of the shares of maximal size ({\em i.e.}, matching the privacy threshold of the scheme). This holds in a model where the attacker commits to a partition of the shares into non-overlapping subsets, and keeps tampering jointly with the shares within such a partition (so-called {\em selective partitioning}).
-- A secret sharing scheme for general access structures which tolerates joint -time tampering with subsets of the shares of size , where  is the number of parties. This holds in a stronger model where the attacker is allowed to adaptively change the partition within each tampering query, under the restriction that once a subset of the shares has been tampered with jointly, that subset is always either tampered jointly or not modified by other tampering queries (so-called {\em semi-adaptive partitioning}).
-At the heart of our result for selective partitioning lies a new technique showing that every one-time {\em statistically} non-malleable secret sharing against joint tampering is in fact {\em leakage-resilient} non-malleable ({\em i.e.},\ the attacker can leak jointly from the shares prior to tampering).
-We believe this may be of independent interest, and in fact we show it implies lower bounds on the share size and randomness complexity of statistically non-malleable secret sharing against {\em independent} tampering.},
   author       = {Gianluca Brian and
                   Antonio Faonio and
                   Maciej Obremski and
@@ -708,18 +544,14 @@ We believe this may be of independent interest, and in fact we show it implies l
   pages        = {127--155},
   publisher    = {Springer},
   year         = {2020},
-  doi          = {10.1007/978-3-030-56877-1\_5},
   html = {https://crypto.iacr.org/2020/},
   pdf = {https://eprint.iacr.org/2020/725},
   dimensions = {true},
-  google_scholar_id = {4fKUyHm3Qg0C},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/eurosp/NgoFM0B20,
   abbr = {EuroUSEC 20},
-  bibtex_show={true},
-  abstract = {The question above seems absurd but it is what a Bank has to ask to its suppliers to meet the European Central Bank (ECB) regulations on the continuity of critical business functions. The bank has no intention of mingling in the daily work of the supplier (that’s the whole purpose of outsourcing). Nor the supplier has any intention to make available to the bank the keys of its kingdom (it is actually forbidden to do so by the very same regulations). We need a way to do so only when the hearts of the key people stop beating. In this paper, we discuss whether recent advances in cryptography (secret sharing and MPC, time-lock puzzles, etc.) can replace the classical approach based on human redundancy.},
   author       = {Chan Nam Ngo and
                   Daniele Friolo and
                   Fabio Massacci and
@@ -730,23 +562,14 @@ We believe this may be of independent interest, and in fact we show it implies l
   pages        = {178--183},
   publisher    = {{IEEE}},
   year         = {2020},
-  doi          = {10.1109/EUROSPW51379.2020.00032},
   html = {https://eusec20.cs.uchicago.edu/},
   pdf = {https://conferences.computer.org/eurosp/pdfs/EuroSPW2020-7k9FlVRX4z43j4uE2SeXU0/859700a178/859700a178.pdf},
   dimensions = {true},
-  google_scholar_id = {tS2w5q8j5-wC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/icalp/GaneshM020,
   abbr = {ICALP 20},
-  bibtex_show={true},
-  abstract = {We study interactive proof systems (IPSes) in a strong adversarial setting where the machines of *honest parties* might be corrupted and under control of the adversary. Our aim is to answer the following, seemingly paradoxical, questions:
-- Can Peggy convince Vic of the veracity of an NP statement, without leaking any information about the witness even in case Vic is malicious and Peggy does not trust her computer?
-- Can we avoid that Peggy fools Vic into accepting false statements, even if Peggy is malicious and Vic does not trust her computer?
-At EUROCRYPT 2015, Mironov and Stephens-Davidowitz introduced cryptographic reverse firewalls (RFs) as an attractive approach to tackling such questions. Intuitively, a RF for Peggy/Vic is an external party that sits between Peggy/Vic and the outside world and whose scope is to sanitize Peggy's/Vic's incoming and outgoing messages in the face of subversion of her/his computer, e.g. in order to destroy subliminal channels.
-In this paper, we put forward several natural security properties for RFs in the concrete setting of IPSes. As our main contribution, we construct efficient RFs for different IPSes derived from a large class of Sigma protocols that we call malleable.
-A nice feature of our design is that it is completely transparent, in the sense that our RFs can be directly applied to already deployed IPSes, without the need to re-implement them.},
   author       = {Chaya Ganesh and
                   Bernardo Magri and
                   Daniele Venturi},
@@ -760,24 +583,14 @@ A nice feature of our design is that it is completely transparent, in the sense 
   pages        = {55:1--55:16},
   publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
   year         = {2020},
-  doi          = {10.4230/LIPICS.ICALP.2020.55},
   html = {https://icalp2020.saarland-informatics-campus.de/},
   pdf = {https://eprint.iacr.org/2020/204},
   dimensions = {true},
-  google_scholar_id = {08ZZubdj9fEC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/scn/CiampiPV20,
   abbr = {SCN 20},
-  bibtex_show={true},
-  abstract = {We study adaptive security of delayed-input Sigma protocols and non-interactive zero-knowledge (NIZK) proof systems in the common reference string (CRS) model. Our contributions are threefold:
-- We exhibit a generic compiler taking any delayed-input Sigma protocol and returning a delayed-input Sigma protocol satisfying adaptive-input special honest-verifier zero-knowledge (SHVZK). In case the initial Sigma protocol also satisfies adaptive-input special soundness, our compiler preserves this property.
-- We revisit the recent paradigm by Canetti et al. (STOC 2019) for obtaining NIZK proof systems in the CRS model via the Fiat-Shamir transform applied to so-called trapdoor Sigma protocols, in the context of adaptive security. In particular, assuming correlation-intractable hash functions for all sparse relations, we prove that Fiat- Shamir NIZKs satisfy either:
-(i) Adaptive soundness (and non-adaptive zero-knowledge), so long as the challenge is obtained by hashing both the prover’s first round and the instance being proven;
-(ii) Adaptive zero-knowledge (and non-adaptive soundness), so long as the challenge is obtained by hashing only the prover’s first round, and further assuming that the initial trapdoor Sigma protocol satisfies adaptive-input SHVZK.
-- We exhibit a generic compiler taking any Sigma protocol and returning a trapdoor Sigma protocol. Unfortunately, this transform does not preserve the delayed-input property of the initial Sigma protocol (if any). To complement this result, we also give yet another compiler taking any delayed-input trapdoor Sigma protocol and returning a delayed-input trapdoor Sigma protocol with adaptive-input SHVZK.
-An attractive feature of our first two compilers is that they allow obtaining efficient delayed-input Sigma protocols with adaptive security, and efficient Fiat-Shamir NIZKs with adaptive soundness (and non-adaptive zero-knowledge) in the CRS model. Prior to our work, the latter was only possible using generic NP reductions.},
   author       = {Michele Ciampi and
                   Roberto Parisella and
                   Daniele Venturi},
@@ -791,20 +604,14 @@ An attractive feature of our first two compilers is that they allow obtaining ef
   pages        = {670--690},
   publisher    = {Springer},
   year         = {2020},
-  doi          = {10.1007/978-3-030-57990-6\_33},
   html = {https://scn.unisa.it/},
   pdf = {https://eprint.iacr.org/2020/831},
   dimensions = {true},
-  google_scholar_id = {B3FOqHPlNUQC},
   selected = {false}
 }
 
 @article{DBLP:journals/tcs/FaonioNSV19,
   abbr = {TCS},
-  bibtex_show={true},
-  abstract = {Non-malleable codes for the split-state model allow to encode a message into two parts, such that arbitrary independent tampering on each part, and subsequent decoding of the corresponding modified codeword, yields either the same as the original message, or a completely unrelated value. Continuously non-malleable codes further allow to tolerate an unbounded (polynomial) number of tampering attempts, until a decoding error happens. The drawback is that, after an error happens, the system must self-destruct and stop working, otherwise generic attacks become possible.
-In this paper we propose a solution to this limitation, by leveraging a split-state refreshing procedure. Namely, whenever a decoding error happens, the two parts of an encoding can be locally refreshed (i.e.,\ without any interaction), which allows to avoid the self-destruct mechanism in some applications. Additionally, the refreshing procedure can be exploited in order to obtain security against continual leakage attacks. We give an abstract framework for building refreshable continuously non-malleable codes in the common reference string model, and provide a concrete instantiation based on the external Diffie-Hellman assumption.
-Finally, we explore applications in which our notion turns out to be essential. The first application is a signature scheme tolerating an arbitrary polynomial number of split-state tampering attempts, without requiring a self-destruct capability, and in a model where refreshing of the memory happens only after an invalid output is produced. This circumvents an impossibility result from a recent work by Fuijisaki and Xagawa (Asiacrypt 2016). The second application is a compiler for tamper-resilient read-only RAM programs. In comparison to other tamper-resilient RAM compilers, ours has several advantages, among which the fact that, in some cases, it does not rely on the self-destruct feature.},
   author       = {Antonio Faonio and
                   Jesper Buus Nielsen and
                   Mark Simkin and
@@ -814,22 +621,14 @@ Finally, we explore applications in which our notion turns out to be essential. 
   volume       = {759},
   pages        = {98--132},
   year         = {2019},
-  doi          = {10.1016/J.TCS.2018.12.028},
   html = {https://doi.org/10.1016/j.tcs.2018.12.028},
   pdf = {https://eprint.iacr.org/2018/606},
   dimensions = {true},
-  google_scholar_id = {zA6iFVUQeVQC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/acns/CorettiF019,
   abbr = {ACNS 19},
-  bibtex_show={true},
-  abstract = {We study the *rate* of so-called *continuously* non-malleable codes, which allow to encode a message in such a way that (possibly adaptive) continuous tampering attacks on the codeword yield a decoded value that is unrelated to the original message. Our results are as follows:
--) For the case of bit-wise independent tampering, we establish the existence of rate-one continuously non-malleable codes with information-theoretic security, in the plain model.
--) For the case of split-state tampering, we establish the existence of rate-one continuously non-malleable codes with computational security, in the (non-programmable) random oracle model. We further exhibit a rate-1/2 code and a rate-one code in the common reference string model, but the latter only withstands *non-adaptive* tampering.
-It is well known that computational security is inherent for achieving continuous non-malleability in the split-state model (even in the presence of non-adaptive tampering).
-Continuously non-malleable codes are useful for protecting *arbitrary* cryptographic primitives against related-key attacks, as well as for constructing non-malleable public-key encryption schemes. Our results directly improve the efficiency of these applications.},
   author       = {Sandro Coretti and
                   Antonio Faonio and
                   Daniele Venturi},
@@ -844,21 +643,14 @@ Continuously non-malleable codes are useful for protecting *arbitrary* cryptogra
   pages        = {3--23},
   publisher    = {Springer},
   year         = {2019},
-  doi          = {10.1007/978-3-030-21568-2\_1},
   html = {https://www.acns19.com/},
   pdf = {https://eprint.iacr.org/2019/055},
   dimensions = {true},
-  google_scholar_id = {bFI3QPDXJZMC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/acns/AtenieseFM019,
   abbr = {ACNS 19},
-  bibtex_show={true},
-  abstract = {We seek constructions of general-purpose immunizers that take arbitrary cryptographic primitives, and transform them into ones that withstand a powerful “malicious but proud” adversary, who attempts to break security by possibly subverting the implementation of all algorithms (including the immunizer itself!), while trying not to be detected. This question is motivated by the recent evidence of cryptographic schemes being intentionally weakened, or designed together with hidden backdoors, e.g., with the scope of mass surveillance.
-Our main result is a subversion-secure immunizer in the plain model, that works for a fairly large class of deterministic primitives, i.e. cryptoschemes where a secret (but tamperable) random source is used to generate the keys and the public parameters, whereas all other algorithms are deterministic. The immunizer relies on an additional independent source of public randomness, which is used to sample a public seed.
-Assuming the public source is untamperable, and that the subversion of the algorithms is chosen independently of the seed, we can instantiate our immunizer from any one-way function. In case the subversion is allowed to depend on the seed, and the public source is still untamperable, we obtain an instantiation from collision-resistant hash functions. In the more challenging scenario where the public source is also tamperable, we additionally need to assume that the initial cryptographic primitive has sub-exponential security.
-Previous work in the area only obtained subversion-secure immunization for very restricted classes of primitives, often in weaker models of subversion and using random oracles.},
   author       = {Giuseppe Ateniese and
                   Danilo Francati and
                   Bernardo Magri and
@@ -874,22 +666,14 @@ Previous work in the area only obtained subversion-secure immunization for very 
   pages        = {465--485},
   publisher    = {Springer},
   year         = {2019},
-  doi          = {10.1007/978-3-030-21568-2\_23},
   html = {https://www.acns19.com/},
   pdf = {https://eprint.iacr.org/2019/1173},
   dimensions = {true},
-  google_scholar_id = {UxriW0iASnsC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/crypto/Faonio019,
   abbr = {CRYPTO 19},
-  bibtex_show={true},
-  abstract = {We revisit the concept of *non-malleable* secret sharing (Goyal and Kumar, STOC 2018) in the computational setting. In particular, under the assumption of one-to-one one-way functions, we exhibit a *computationally* private, *threshold* secret sharing scheme satisfying all of the following properties.
--) Continuous non-malleability: No computationally-bounded adversary tampering independently with all the shares can produce mauled shares that reconstruct to a value related to the original secret. This holds even in case the adversary can tamper *continuously*, for an *unbounded* polynomial number of times, with the same target secret sharing, where the next sequence of tampering functions, as well as the subset of shares used for reconstruction, can be chosen *adaptively* based on the outcome of previous reconstructions.
--) Resilience to noisy leakage: Non-malleability holds even if the adversary can additionally leak information independently from all the shares. There is no bound on the length of leaked information, as long as the overall leakage does not decrease the min-entropy of each share by too much.
--) Improved rate: The information rate of our final scheme, defined as the ratio between the size of the message and the maximal size of a share, asymptotically approaches 1 when the message length goes to infinity.
-Previous constructions achieved information-theoretic security, sometimes even for arbitrary access structures, at the price of *at least one* of the following limitations: (i) Non-malleability only holds against one-time tampering attacks; (ii) Non-malleability holds against a bounded number of tampering attacks, but both the choice of the tampering functions and of the sets used for reconstruction is non-adaptive; (iii) Information rate asymptotically approaching zero; (iv) No security guarantee in the presence of leakage.},
   author       = {Antonio Faonio and
                   Daniele Venturi},
   editor       = {Alexandra Boldyreva and
@@ -902,22 +686,14 @@ Previous constructions achieved information-theoretic security, sometimes even f
   pages        = {448--479},
   publisher    = {Springer},
   year         = {2019},
-  doi          = {10.1007/978-3-030-26951-7\_16},
   html = {https://crypto.iacr.org/2019/},
   pdf = {https://eprint.iacr.org/2019/105},
   dimensions = {true},
-  google_scholar_id = {b0M2c_1WBrUC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/crypto/AtenieseFN019,
   abbr = {CRYPTO 19},
-  bibtex_show={true},
-  abstract = {We introduce a new form of encryption that we name matchmaking encryption (ME). Using ME, sender S and receiver R (each with its own attributes) can both specify policies the other party must satisfy in order for the message to be revealed. The main security guarantee is that of privacy-preserving policy matching: During decryption nothing is leaked beyond the fact that a match occurred/did not occur.
-ME opens up new ways of secretly communicating, and enables several new applications where both participants can specify fine-grained access policies to encrypted data. For instance, in social matchmaking, S can encrypt a file containing his/her personal details and specify a policy so that the file can be decrypted only by his/her ideal partner. On the other end, a receiver R will be able to decrypt the file only if S corresponds to his/her ideal partner defined through a policy.
-On the theoretical side, we define security for ME, as well as provide generic frameworks for constructing ME from functional encryption.
-These constructions need to face the technical challenge of simultaneously checking the policies chosen by S and R, to avoid any leakage.
-On the practical side, we construct an efficient identity-based scheme for equality policies, with provable security in the random oracle model under the standard BDH assumption. We implement and evaluate our scheme and provide experimental evidence that our construction is practical. We also apply identity-based ME to a concrete use case, in particular for creating an anonymous bulletin board over a Tor network.},
   author       = {Giuseppe Ateniese and
                   Danilo Francati and
                   David Nu{\~{n}}ez and
@@ -931,18 +707,14 @@ On the practical side, we construct an efficient identity-based scheme for equal
   pages        = {701--731},
   publisher    = {Springer},
   year         = {2019},
-  doi          = {10.1007/978-3-030-26951-7\_24},
   html = {https://crypto.iacr.org/2019/},
   pdf = {https://eprint.iacr.org/2018/1094},
   dimensions = {true},
-  google_scholar_id = {dQ2og3OwTAUC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/sds/AkilMV19,
   abbr = {SDS 19},
-  bibtex_show={true},
-  abstract = {},
   author       = {Mahdi Akil and
                   Luigi V. Mancini and
                   Daniele Venturi},
@@ -951,20 +723,14 @@ On the practical side, we construct an efficient identity-based scheme for equal
   pages        = {160--165},
   publisher    = {{IEEE}},
   year         = {2019},
-  doi          = {10.1109/SDS.2019.8768563},
   html = {https://emergingtechnet.org/SDS2019/},
   pdf = {https://ieeexplore.ieee.org/document/8768563},
   dimensions = {true},
-  google_scholar_id = {XiSMed-E-HIC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/spw/FrioloMN019,
   abbr = {SPW 19},
-  bibtex_show={true},
-  abstract = {When we design a security protocol we assume that the humans (or organizations) playing Alice and Bob do not make a difference. In particular, their financial capacity seems to be irrelevant.
-In the latest trend to guarantee that secure multi-party computation protocols are fair and not vulnerable to malicious aborts, a slate of protocols has been proposed based on penalty mechanisms. We look at two well-known penalty mechanisms, and show that the so-called see-saw mechanism (Kumaresan et al., CCS 15), is only fit for people with deep pockets, well beyond the stake in the multi-party computation itself.
-Depending on the scheme, fairness is not affordable by everyone which has several policy implications on protocol design. To explicitly capture the above issues, we introduce a new property called financial fairness.},
   author       = {Daniele Friolo and
                   Fabio Massacci and
                   Chan Nam Ngo and
@@ -981,20 +747,14 @@ Depending on the scheme, fairness is not affordable by everyone which has severa
   pages        = {135--147},
   publisher    = {Springer},
   year         = {2019},
-  doi          = {10.1007/978-3-030-57043-9\_13},
   html = {https://www.cl.cam.ac.uk/events/spw/2019/},
   pdf = {https://link.springer.com/chapter/10.1007/978-3-030-57043-9_13},
   dimensions = {true},
-  google_scholar_id = {8AbLer7MMksC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/tcc/FrioloM019,
   abbr = {TCC 19},
-  bibtex_show={true},
-  abstract = {We show how to construct maliciously secure oblivious transfer (M-OT) from a strengthening of key agreement (KA) which we call *strongly uniform* KA (SU-KA), where the latter roughly means that the messages sent by one party are computationally close to uniform, even if the other party is malicious. Our transformation is black-box, almost round preserving (adding only a constant overhead of up to two rounds), and achieves standard simulation-based security in the plain model.
-As we show, 2-round SU-KA can be realized from cryptographic assumptions such as low-noise LPN, high-noise LWE, Subset Sum, DDH, CDH and RSA---all with polynomial hardness---thus yielding a black-box construction of fully-simulatable, round-optimal, M-OT from the same set of assumptions (some of which were not known before).
-},
   author       = {Daniele Friolo and
                   Daniel Masny and
                   Daniele Venturi},
@@ -1008,21 +768,14 @@ As we show, 2-round SU-KA can be realized from cryptographic assumptions such as
   pages        = {111--130},
   publisher    = {Springer},
   year         = {2019},
-  doi          = {10.1007/978-3-030-36030-6\_5},
   html = {https://tcc.iacr.org/2019/},
   pdf = {https://eprint.iacr.org/2018/473},
   dimensions = {true},
-  google_scholar_id = {P5F9QuxV20EC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/tcc/BrianF019,
   abbr = {TCC 19},
-  bibtex_show={true},
-  abstract = {We study leakage-resilient continuously non-malleable secret sharing, as recently introduced by Faonio and Venturi (CRYPTO 2019). In this setting, an attacker can continuously tamper and leak from a target secret sharing of some message, with the goal of producing a modified set of shares that reconstructs to a message related to the originally shared value. Our contributions are two fold.
--- In the plain model, assuming one-to-one one-way functions, we show how to obtain noisy-leakage-resilient continuous non-malleability for arbitrary access structures, in case the attacker can continuously leak from and tamper with all of the shares independently.
--- In the common reference string model, we show how to obtain a new flavor of security which we dub bounded-leakage-resilient continuous non-malleability under selective k-partitioning. In this model, the attacker is allowed to partition the target n shares into any number of non-overlapping blocks of maximal size k, and then can continuously leak from and tamper with the shares within each block jointly. Our construction works for arbitrary access structures, and assuming (doubly enhanced) trapdoor permutations and collision-resistant hash functions, we achieve a concrete instantiation for k = O(log(n)).
-Prior to our work, there was no secret sharing scheme achieving continuous non-malleability against joint tampering, and the only known scheme for independent tampering was tailored to threshold access structures.},
   author       = {Gianluca Brian and
                   Antonio Faonio and
                   Daniele Venturi},
@@ -1035,20 +788,14 @@ Prior to our work, there was no secret sharing scheme achieving continuous non-m
   pages        = {211--232},
   publisher    = {Springer},
   year         = {2019},
-  doi          = {10.1007/978-3-030-36033-7\_8},
   html = {https://tcc.iacr.org/2019/},
   pdf = {https://eprint.iacr.org/2019/602},
   dimensions = {true},
-  google_scholar_id = {OU6Ihb5iCvQC},
   selected = {false}
   }
 
 @article{DBLP:journals/ijisec/FaustH018,
   abbr = {IJIS},
-  bibtex_show={true},
-  abstract = {In secure delegatable computation, computationally weak devices (or clients) wish to outsource their computation and data to an untrusted server in the cloud. While most earlier work considers the general question of how to securely outsource any computation to the cloud server, we focus on concrete and important functionalities and give the first protocol for the pattern matching problem in the cloud.
-Loosely speaking, this problem considers a text T that is outsourced to the cloud S  by a sender SEN . In a query phase, receivers REC_1,...,REC_l run an efficient protocol with the server S and the sender SEN in order to learn the positions at which a pattern of length m matches the text (and nothing beyond that). This is called the outsourced pattern matching problem which is highly motivated in the context of delegatable computing since it offers storage alternatives for massive databases that contain confidential data (e.g., health related data about patient history).
-Our constructions are simulation-based secure in the presence of semi-honest and malicious adversaries (in the random oracle model) and limit the communication in the query phase to O(m) bits plus the number of occurrences---which is optimal. In contrast to generic solutions for delegatable computation, our schemes do not rely on fully homomorphic encryption but instead use novel ideas for solving pattern matching, based on a reduction to the subset sum problem. Interestingly, we do not rely on the hardness of the problem, but rather we exploit instances that are solvable in polynomial-time. A follow-up result demonstrates that the random oracle is essential in order to meet our communication bound.},
   author       = {Sebastian Faust and
                   Carmit Hazay and
                   Daniele Venturi},
@@ -1058,21 +805,14 @@ Our constructions are simulation-based secure in the presence of semi-honest and
   number       = {3},
   pages        = {327--346},
   year         = {2018},
-  doi          = {10.1007/S10207-017-0374-0},
   html = {https://doi.org/10.1007/s10207-017-0374-0},
   pdf = {http://eprint.iacr.org/2014/662},
   dimensions = {true},
-  google_scholar_id = {3fE2CSJIrl8C},
   selected = {false}
 }
 
 @article{DBLP:journals/tcs/MittelbachV18,
   abbr = {TCS},
-  bibtex_show={true},
-  abstract = {The Fiat-Shamir (FS) transformation (Fiat and Shamir, Crypto '86) is a popular paradigm for constructing very efficient non-interactive zero-knowledge (NIZK) arguments and signature schemes using a hash function, starting from any three-move interactive protocol satisfying certain properties. Despite its wide-spread applicability both in theory and in practice, the known positive results for proving security of the FS paradigm are in the random oracle model, i.e., they assume that the hash function is modelled as an external random function accessible to all parties. On the other hand, a sequence of negative results shows that for certain classes of interactive protocols, the FS transform cannot be instantiated in the standard model.
-We initiate the study of complementary positive results, namely, studying classes of interactive protocols where the FS transform *does* have standard-model instantiations. In particular, we show that for a class of "highly sound" protocols that we define, instantiating the FS transform via a q-wise independent hash function yields NIZK arguments and secure signature schemes. In the case of NIZK, we obtain a weaker "q-bounded" zero-knowledge flavor where the simulator works for all adversaries asking an a-priori bounded number of queries q; in the case of signatures, we obtain the weaker notion of random-message unforgeability against q-bounded random message attacks.
-Our main idea is that when the protocol is highly sound, then instead of using random-oracle programming, one can use complexity leveraging. The question is whether such highly sound protocols exist and if so, which protocols lie in this class. We answer this question in the affirmative in the common reference string (CRS) model and under strong assumptions. Namely, assuming indistinguishability obfuscation and puncturable pseudorandom functions we construct a compiler that transforms any 3-move interactive protocol with instance-independent commitments and simulators (a property satisfied by the Lapidot-Shamir protocol, Crypto '90) into a compiled protocol in the CRS model that is highly sound. We also present a second compiler, in order to be able to start from a larger class of protocols, which only requires instance-independent commitments (a property for example satisfied by the classical protocol for quadratic residuosity due to Blum, Crypto '81). For the second compiler we require dual-mode commitments.
-We hope that our work inspires more research on classes of (efficient) 3-move protocols where Fiat-Shamir is (efficiently) instantiable.},
   author       = {Arno Mittelbach and
                   Daniele Venturi},
   title        = {Fiat-Shamir for highly sound protocols is instantiable},
@@ -1080,20 +820,14 @@ We hope that our work inspires more research on classes of (efficient) 3-move pr
   volume       = {740},
   pages        = {28--62},
   year         = {2018},
-  doi          = {10.1016/J.TCS.2018.05.001},
   html = {https://doi.org/10.1016/j.tcs.2018.05.001},
   pdf = {http://eprint.iacr.org/2016/313},
   dimensions = {true},
-  google_scholar_id = {eq2jaN3J8jMC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/acns/FaonioNS018,
   abbr = {ACNS 18},
-  bibtex_show={true},
-  abstract = {Non-malleable codes for the split-state model allow to encode a message into two parts, such that arbitrary independent tampering on each part, and subsequent decoding of the corresponding modified codeword, yields either the same as the original message, or a completely unrelated value. Continuously non-malleable codes further allow to tolerate an unbounded (polynomial) number of tampering attempts, until a decoding error happens. The drawback is that, after an error happens, the system must self-destruct and stop working, otherwise generic attacks become possible.
-In this paper we propose a solution to this limitation, by leveraging a split-state refreshing procedure. Namely, whenever a decoding error happens, the two parts of an encoding can be locally refreshed (i.e.,\ without any interaction), which allows to avoid the self-destruct mechanism in some applications. Additionally, the refreshing procedure can be exploited in order to obtain security against continual leakage attacks. We give an abstract framework for building refreshable continuously non-malleable codes in the common reference string model, and provide a concrete instantiation based on the external Diffie-Hellman assumption.
-Finally, we explore applications in which our notion turns out to be essential. The first application is a signature scheme tolerating an arbitrary polynomial number of split-state tampering attempts, without requiring a self-destruct capability, and in a model where refreshing of the memory happens only after an invalid output is produced. This circumvents an impossibility result from a recent work by Fuijisaki and Xagawa (Asiacrypt 2016). The second application is a compiler for tamper-resilient read-only RAM programs. In comparison to other tamper-resilient RAM compilers, ours has several advantages, among which the fact that, in some cases, it does not rely on the self-destruct feature.},
   author       = {Antonio Faonio and
                   Jesper Buus Nielsen and
                   Mark Simkin and
@@ -1107,20 +841,14 @@ Finally, we explore applications in which our notion turns out to be essential. 
   pages        = {121--139},
   publisher    = {Springer},
   year         = {2018},
-  doi          = {10.1007/978-3-319-93387-0\_7},
   html = {https://www.cosic.esat.kuleuven.be/events/acns2018/},
   pdf = {https://eprint.iacr.org/2018/606},
   dimensions = {true},
-  google_scholar_id = {zA6iFVUQeVQC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/crypto/OstrovskyP0V18,
   abbr = {CRYPTO 18},
-  bibtex_show={true},
-  abstract = {At ICS 2010, Dziembowski, Pietrzak and Wichs introduced the notion of *non-malleable codes*, a weaker form of error-correcting codes guaranteeing that the decoding of a tampered codeword either corresponds to the original message or to an unrelated value.  The last few years established non-malleable codes as one of the recently invented cryptographic primitives with the highest impact and potential, with very challenging open problems and applications.
-In this work, we focus on so-called *continuously* non-malleable codes in the split-state model, as proposed by Faust et al. (TCC 2014), where a codeword is made of two shares and an adaptive adversary makes a polynomial number of attempts in order to tamper the target codeword, where each attempt is allowed to modify the two shares independently (yet arbitrarily). Achieving continuous non-malleability in the split-state model has been so far very hard. Indeed, the only known constructions require strong setup assumptions (i.e., the existence of a common reference string) and strong complexity-theoretic assumptions (i.e., the existence of non-interactive zero-knowledge proofs and collision-resistant hash functions).
-As our main result, we construct a continuously non-malleable code in the split-state model without setup assumptions, requiring only one-to-one one-way functions (i.e., essentially optimal computational assumptions). Our result introduces several new ideas that make progress towards understanding continuous non-malleability, and shows interesting connections with  protocol-design and proof-approach techniques used in other contexts (e.g., look-ahead simulation in zero-knowledge proofs, non-malleable commitments, and leakage resilience).},
   author       = {Rafail Ostrovsky and
                   Giuseppe Persiano and
                   Daniele Venturi and
@@ -1135,19 +863,14 @@ As our main result, we construct a continuously non-malleable code in the split-
   pages        = {608--639},
   publisher    = {Springer},
   year         = {2018},
-  doi          = {10.1007/978-3-319-96878-0\_21},
   html = {https://crypto.iacr.org/2018/},
   pdf = {https://eprint.iacr.org/2018/542},
   dimensions = {true},
-  google_scholar_id = {u_35RYKgDlwC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/provsec/AtenieseKMT018,
   abbr = {ProvSec 18},
-  bibtex_show={true},
-  abstract = {The fabrication process of integrated circuits (ICs) is complex and requires the use of off-shore foundries to lower the costs and to have access to leading-edge manufacturing facilities. Such an outsourcing trend leaves the possibility of inserting malicious circuitry (a.k.a. hardware Trojans) during the fabrication process, causing serious security concerns. Hardware Trojans are very hard and expensive to detect and can disrupt the entire circuit or covertly leak sensitive information via a subliminal channel.
-In this paper, we propose a formal model for assessing the security of ICs whose fabrication has been outsourced to an untrusted off-shore manufacturer. Our model captures that the IC specification and design are trusted but the fabrication facility(ies) may be malicious. Our objective is to investigate security in an ideal sense and follows a simulation based approach that ensures that Trojans cannot release any sensitive information to the outside. It follows that the Trojans' impact in the overall IC operation, in case they exist, will be negligible up to simulation. We then establish that such level of security is in fact achievable for the case of a single and of multiple outsourcing facilities. We present two compilers for ICs for the single outsourcing facility case relying on verifiable computation (VC) schemes, and another two compilers for the multiple outsourcing facilities case, one relying on multi-server VC schemes, and the other relying on secure multiparty computation (MPC) protocols with certain suitable properties that are attainable by existing schemes.},
   author       = {Giuseppe Ateniese and
                   Aggelos Kiayias and
                   Bernardo Magri and
@@ -1163,18 +886,14 @@ In this paper, we propose a formal model for assessing the security of ICs whose
   pages        = {75--93},
   publisher    = {Springer},
   year         = {2018},
-  doi          = {10.1007/978-3-030-01446-9\_5},
   html = {https://ssl.informatics.uow.edu.au/provsec2018/},
   pdf = {http://eprint.iacr.org/2016/527},
   dimensions = {true},
-  google_scholar_id = {yD5IFk8b50cC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/sp/MassacciNN0W18,
   abbr = {S&P 18},
-  bibtex_show={true},
-  abstract = {In a Futures-Exchange, such as the Chicago Mercantile Exchange, traders buy and sell contractual promises (futures) to acquire or deliver, at some future pre-specified date, assets ranging from wheat to crude oil and from bacon to cash in a desired currency. The interactions between economic and security properties and the exchange's essentially non-monotonic security behavior; a valid trader's valid action can invalidate other traders' previously valid positions, are a challenge for security research. We show the security properties that guarantee an Exchange's economic viability (availability of trading information, liquidity, confidentiality of positions, absence of price discrimination, risk-management) and an attack when traders' anonymity is broken. We describe all key operations for a secure, fully distributed Futures-Exchange, hereafter referred to as simply the 'Exchange'. Our distributed, asynchronous protocol simulates the centralized functionality under the assumptions of anonymity of the physical layer and availability of a distributed ledger. We consider security with abort (in absence of honest majority) and extend it to penalties. Our proof of concept implementation and its optimization (based on zk-SNARKs and SPDZ) demonstrate that the computation of actual trading days (along Thomson-Reuters Tick History DB) is feasible for low-frequency markets; however, more research is needed for high-frequency ones.},
   author       = {Fabio Massacci and
                   Chan Nam Ngo and
                   Jing Nie and
@@ -1185,20 +904,14 @@ In this paper, we propose a formal model for assessing the security of ICs whose
   pages        = {335--353},
   publisher    = {{IEEE} Computer Society},
   year         = {2018},
-  doi          = {10.1109/SP.2018.00028},
   html = {https://www.ieee-security.org/TC/SP2018/},
   pdf = {https://www.computer.org/csdl/proceedings/sp/2018/4353/00/435301a453-abs.html},
   dimensions = {true},
-  google_scholar_id = {g5m5HwL7SMYC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/spw/MassacciN0W18,
   abbr = {SPW 18},
-  bibtex_show={true},
-  abstract = {Security Protocols as we know them are monotonic: valid security evidence (e.g. commitments, signatures, etc.) accrues over protocol steps performed by honest parties. Once’s Alice proved she has an authentication token, got some digital cash, or casted a correct vote, the protocol can move on to validate Bob’s evidence. Alice’s evidence is never invalidated by honest Bob’s actions (as long as she stays honest and is not compromised). Protocol failures only stems from design failures or wrong assumptions (such as Alice’s own misbehavior). Security protocol designers can then focus on preventing or detecting misbehavior (e.g. double spending or double voting).
-We argue that general financial intermediation (e.g. Market Exchanges) requires us to consider new form of failures where honest Bob’s actions can make honest good standing. Security protocols must be able to deal with non-monotonic security and new types of failures that stems from rational behavior of honest agents finding themselves on the wrong side.
-This has deep implications for the efficient design of security protocols for general financial intermediation, in particular if we need to guarantee a proportional burden of computation to the various parties.},
   author       = {Fabio Massacci and
                   Chan Nam Ngo and
                   Daniele Venturi and
@@ -1215,22 +928,14 @@ This has deep implications for the efficient design of security protocols for ge
   pages        = {45--54},
   publisher    = {Springer},
   year         = {2018},
-  doi          = {10.1007/978-3-030-03251-7\_5},
   html = {https://www.cl.cam.ac.uk/events/spw/2018/},
   pdf = {https://link.springer.com/chapter/10.1007%2F978-3-030-03251-7_5},
   dimensions = {true},
-  google_scholar_id = {f2IySw72cVMC},
   selected = {false}
 }
 
 @article{DBLP:journals/joc/DamgardFMV17,
   abbr = {JoC},
-  bibtex_show={true},
-  abstract = {Related key attacks (RKAs) are powerful cryptanalytic attacks where an adversary can change the secret key and observe the effect of such changes at the output. The state of the art in RKA security protects against an a-priori unbounded number of certain algebraic induced key relations, e.g., affine functions or polynomials of bounded degree. In this work, we show that it is possible to go beyond the algebraic barrier and achieve security against arbitrary key relations, by restricting the number of tampering queries the adversary is allowed to ask for. The latter restriction is necessary in case of arbitrary key relations, as otherwise a generic attack of Gennaro et al. (TCC 2004) shows how to recover the key of almost any cryptographic primitive. We describe our contributions in more detail below.
-1) We show that standard ID and signature schemes constructed from a large class of $\Sigma$-protocols (including the Okamoto scheme, for instance) are secure even if the adversary can arbitrarily tamper with the prover’s state a bounded number of times and obtain some bounded amount of leakage. Interestingly, for the Okamoto scheme we can allow also independent tampering with the public parameters.
-2) We show a bounded tamper and leakage resilient CCA secure public key cryptosystem based on the DDH assumption. We first define a weaker CPA-like security notion that we can instantiate based on DDH, and then we give a general compiler that yields CCA-security with tamper and leakage resilience. This requires a public tamper-proof common reference string.
-3) Finally, we explain how to boost bounded tampering and leakage resilience (as in 1. and 2. above) to continuous tampering and leakage resilience, in the so-called floppy model where each user has a personal hardware token (containing leak- and tamper-free information) which can be used to refresh the secret key.
-We believe that bounded tampering is a meaningful and interesting alternative to avoid known impossibility results and can provide important insights into the security of existing standard cryptographic schemes.},
   author       = {Ivan Damg{\aa}rd and
                   Sebastian Faust and
                   Pratyay Mukherjee and
@@ -1241,18 +946,14 @@ We believe that bounded tampering is a meaningful and interesting alternative to
   number       = {1},
   pages        = {152--190},
   year         = {2017},
-  doi          = {10.1007/S00145-015-9218-0},
   html = {https://doi.org/10.1007/s00145-015-9218-0},
   pdf = {http://eprint.iacr.org/2013/677},
   dimensions = {true},
-  google_scholar_id = {KlAtU1dfN6UC},
   selected = {false}
 }
 
 @article{DBLP:journals/joc/KiltzPVCJ17,
   abbr = {JoC},
-  bibtex_show={true},
-  abstract = {We construct efficient authentication protocols and message authentication codes (MACs) whose security can be reduced to the learning parity with noise (LPN) problem. Despite a large body of work---starting with the HB protocol of Hopper and Blum in 2001---until now it was not even known how to construct an efficient authentication protocol from LPN which is secure against man-in-the-middle attacks. A MAC implies such a (two-round) protocol.},
   author       = {Eike Kiltz and
                   Krzysztof Pietrzak and
                   Daniele Venturi and
@@ -1264,20 +965,14 @@ We believe that bounded tampering is a meaningful and interesting alternative to
   number       = {4},
   pages        = {1238--1275},
   year         = {2017},
-  doi          = {10.1007/S00145-016-9247-3},
   html = {https://doi.org/10.1007/s00145-016-9247-3},
   pdf = {https://link.springer.com/article/10.1007/s00145-016-9247-3},
   dimensions = {true},
-  google_scholar_id = {u-x6o8ySG0sC},
   selected = {false}
 }
 
 @article{DBLP:journals/tcs/FaonioNV17,
   abbr = {TCS},
-  bibtex_show={true},
-  abstract = {We construct new leakage-resilient signature schemes. Our schemes remain unforgeable against an adversary leaking arbitrary (yet bounded) information on the entire state of the signer (sometimes known as *fully* leakage resilience), including the random coin tosses of the signing algorithm.
-The main feature of our constructions is that they offer a graceful degradation of security in situations where standard existential unforgeability is impossible. This property was recently put forward by Nielsen, Venturi, and Zottarel (PKC 2014) to deal with settings in which the secret key is much larger than the size of a signature. One remarkable such case is the so-called Bounded-Retrieval Model (BRM), where one intentionally inflates the size of the secret key while keeping constant the signature size and the computational complexity of the scheme.
-Our main constructions have leakage rate 1-o(1), and are proven secure in the standard model. We additionally give a construction in the BRM, relying on a random oracle. All of our schemes are described in terms of generic building blocks, but also admit efficient instantiations under fairly standard number-theoretic assumptions. Finally, we  explain how to extend some of our schemes to the setting of noisy leakage, where the only restriction on the leakage functions is that the output does not decrease the min-entropy of the secret key by too much.},
   author       = {Antonio Faonio and
                   Jesper Buus Nielsen and
                   Daniele Venturi},
@@ -1287,20 +982,14 @@ Our main constructions have leakage rate 1-o(1), and are proven secure in the st
   volume       = {660},
   pages        = {23--56},
   year         = {2017},
-  doi          = {10.1016/J.TCS.2016.11.016},
   html = {https://doi.org/10.1016/j.tcs.2016.11.016},
   pdf = {http://eprint.iacr.org/2014/913},
   dimensions = {true},
-  google_scholar_id = {TFP_iSt0sucC},
   selected = {false}
 }
 
 @article{DBLP:journals/tcs/BiagioniMV17,
   abbr = {TCS},
-  bibtex_show={true},
-  abstract = {The Naor-Yung paradigm (Naor and Yung, STOC '90) allows to generically boost security under chosen-plaintext attacks (CPA) to security against chosen-ciphertext attacks (CCA) for public-key encryption (PKE) schemes. The main idea is to encrypt the plaintext twice (under independent public keys), and to append a non-interactive zero-knowledge (NIZK) proof that the two ciphertexts indeed encrypt the same message. Later work by Camenisch, Chandran, and Shoup (Eurocrypt '09) and Naor and Segev (Crypto '09 and SIAM J. Comput. '12) established that the very same techniques can also be used in the settings of key-dependent message (KDM) and key-leakage attacks (respectively).
-In this paper we study the conditions under which the two ciphertexts in the Naor-Yung construction can share the same random coins. We find that this is possible, provided that the underlying PKE scheme meets an additional simple property. The motivation for re-using the same random coins is that this allows to design much more efficient NIZK proofs. We showcase such an improvement in the random oracle model, under standard complexity assumptions including Decisional Diffie-Hellman, Quadratic Residuosity, and Subset Sum. The length of the resulting ciphertexts is reduced by 50\%, yielding truly efficient PKE schemes achieving CCA security under KDM and key-leakage attacks.
-As an additional contribution, we design the first PKE scheme whose CPA security under KDM attacks can be directly reduced to (low-density instances of) the Subset Sum assumption. The scheme supports key-dependent messages computed via any affine function of the secret key.},
   author       = {Silvio Biagioni and
                   Daniel Masny and
                   Daniele Venturi},
@@ -1309,26 +998,14 @@ As an additional contribution, we design the first PKE scheme whose CPA security
   volume       = {692},
   pages        = {90--113},
   year         = {2017},
-  doi          = {10.1016/J.TCS.2017.06.019},
   html = {https://doi.org/10.1016/j.tcs.2017.06.019},
   pdf = {http://eprint.iacr.org/2016/880},
   dimensions = {true},
-  google_scholar_id = {JV2RwH3_ST0C},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/crypto/FaustHM017,
   abbr = {CRYPTO 17},
-  bibtex_show={true},
-  abstract = {Non-malleable codes---introduced by Dziembowski, Pietrzak and Wichs at ICS 2010---are key-less coding schemes in which mauling attempts to an encoding of a given message, w.r.t.\ some class of tampering adversaries, result in a decoded value that is either identical or unrelated to the original message. Such codes are very useful for protecting arbitrary cryptographic primitives against tampering attacks against the memory.
-Clearly, non-malleability is hopeless if the class of tampering adversaries includes the decoding and encoding algorithm. To circumvent this obstacle, the majority of past research focused on designing non-malleable codes for various tampering classes, albeit assuming that the adversary is unable to decode. Nonetheless, in many concrete settings, this assumption is not realistic.
-In this paper, we explore one particular such scenario where the class of tampering adversaries naturally includes the decoding (but not the encoding) algorithm.
-In particular, we consider the class of adversaries that are restricted in terms of memory/space.  Our main contributions can be summarized as follows:
--- We initiate a general study of non-malleable codes resisting space-bounded tampering. In our model, the encoding procedure requires large space, but decoding can be done in small space, and thus can be also performed by the adversary.
-Unfortunately, in such a setting it is impossible to achieve non-malleability in the standard sense, and we need to aim for slightly weaker security guarantees.
-In a nutshell, our main notion (dubbed {\em leaky space-bounded non-malleability}) ensures that this is the best the adversary can do, in that space-bounded tampering attacks can be simulated given a small amount of leakage on the encoded value.
--- We provide a simple construction of a leaky space-bounded non-malleable code. Our scheme is based on any Proof of Space (PoS)---a concept recently put forward by Ateniese {\em et al.} (SCN 2014) and Dziembowski {\em et al.} (CRYPTO 2015)---satisfying a variant of soundness. As we show, our paradigm can be instantiated by extending the analysis of the PoS construction by Ren and Devadas (TCC 2016-A), based on so-called stacks of localized expander graphs.
--- Finally, we show that our flavor of non-malleability yields a natural security guarantee against memory tampering attacks, where one can trade a small amount of leakage on the secret key for protection against space-bounded tampering attacks.},
   author       = {Sebastian Faust and
                   Kristina Host{\'{a}}kov{\'{a}} and
                   Pratyay Mukherjee and
@@ -1342,21 +1019,14 @@ In a nutshell, our main notion (dubbed {\em leaky space-bounded non-malleability
   pages        = {95--126},
   publisher    = {Springer},
   year         = {2017},
-  doi          = {10.1007/978-3-319-63715-0\_4},
   html = {https://crypto.iacr.org/2017/},
   pdf = {https://eprint.iacr.org/2017/530},
   dimensions = {true},
-  google_scholar_id = {O3NaXMp0MMsC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/eurosp/AtenieseM0A17,
   abbr = {EURO S&P 17},
-  bibtex_show={true},
-  abstract = {We put forward a new framework that makes it possible to re-write and/or compress the content of any number of blocks in decentralized services exploiting the blockchain technology.
-As we argue, there are several reasons to prefer an editable blockchain, spanning from  the necessity to remove improper content and the possibility to support applications requiring re-writable storage, to "the right to be forgotten".
-Our approach generically leverages so-called chameleon hash functions (Krawczyk and Rabin, NDSS '00), which allow to efficiently determine hash collisions given a secret trapdoor information. We detail how to integrate a chameleon hash function in virtually any blockchain-based technology, for both cases where the power of redacting the blockchain content is in the hands of a single trusted entity and where such a capability is distributed among several distrustful parties (as is the case in Bitcoin).
-We also report on a  proof-of-concept implementation of a redactable blockchain, building on top of Nakamoto's Bitcoin core. The implementation only requires minimal changes to the way current client software interprets information stored in the blockchain and to the current blockchain, block, or transaction structures. Moreover, our experiments show that the overhead imposed by a redactable blockchain is small compared to the case of an immutable one.},
   author       = {Giuseppe Ateniese and
                   Bernardo Magri and
                   Daniele Venturi and
@@ -1366,20 +1036,14 @@ We also report on a  proof-of-concept implementation of a redactable blockchain,
   pages        = {111--126},
   publisher    = {{IEEE}},
   year         = {2017},
-  doi          = {10.1109/EUROSP.2017.37},
   html = {https://www.ieee-security.org/TC/EuroSP2017/},
   pdf = {http://eprint.iacr.org/2016/757},
   dimensions = {true},
-  google_scholar_id = {M3NEmzRMIkIC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/pkc/FaonioN017,
   abbr = {PKC 17},
-  bibtex_show={true},
-  abstract = {We initiate a formal investigation on the power of*predictability* for argument of knowledge systems for NP. Specifically, we consider private-coin argument systems where the answer of the prover can be predicted, given the private randomness of the verifier; we call such protocols Predictable Arguments of Knowledge (PAoK).
-Our study encompasses a full characterization of PAoK, showing that such arguments can be made extremely laconic, with the prover sending a single bit, and assumed to have only one round (i.e., two messages) of communication without loss of generality.
-We additionally explore PAoK satisfying additional properties (including zero-knowledge and the possibility of re-using the same challenge across multiple executions with the prover), present several constructs of PAoK relying on different cryptographic tools, and discuss applications to cryptography.},
   author       = {Antonio Faonio and
                   Jesper Buus Nielsen and
                   Daniele Venturi},
@@ -1391,18 +1055,14 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
   pages        = {121--150},
   publisher    = {Springer},
   year         = {2017},
-  doi          = {10.1007/978-3-662-54365-8\_6},
   html = {https://www.iacr.org/workshops/pkc2017/},
   pdf = {https://eprint.iacr.org/2015/740},
   dimensions = {true},
-  google_scholar_id = {L8Ckcad2t8MC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/spw/MassacciNNVW17,
   abbr = {SPW 17},
-  bibtex_show={true},
-  abstract = {Traditionally, security and economics functionalities in IT financial services and protocols (FinTech) have been perceived as separate objectives. We argue that keeping them separate is a bad idea for FinTech “Decentralized Autonomous Organizations” (DAOs). In fact, security and economics are one for DAOs: we show that the failure of a security property, e.g. anonymity, can destroy a DAOs because economic attacks can be tailgated to security attacks. This is illustrated by the examples of “TheDAO” (built on the Ethereum platform) and the DAOed version of a Futures Exchange. We claim that security and economics vulnerabilities, which we named seconomics vulnerabilities, are indeed new “beasts” to be reckoned with.},
   author       = {Fabio Massacci and
                   Chan Nam Ngo and
                   Jing Nie and
@@ -1420,18 +1080,14 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
   pages        = {171--179},
   publisher    = {Springer},
   year         = {2017},
-  doi          = {10.1007/978-3-319-71075-4\_19},
   html = {https://www.cl.cam.ac.uk/events/spw/2017/},
   pdf = {https://link.springer.com/chapter/10.1007/978-3-319-71075-4_19},
   dimensions = {true},
-  google_scholar_id = {vV6vV6tmYwMC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/wuwnet/CaposselePSSV17,
   abbr = {WUWNet 17},
-  bibtex_show={true},
-  abstract = {This paper concerns the implementation and testing of a protocol that two honest parties can efficiently use to share a common secret session key. The protocol, based on the Fully Hashed Menezes-Qu-Vanstone (FHMQV) key agreement, is optimized to be used in underwater acoustic communications, thus enabling secure underwater acoustic networking. Our optimization is geared towards obtaining secure communications without affecting network performance by jointly keeping security-related overhead and energy consumption at bay. Implementation and testing experiments have been performed with the SUNSET SDCS framework and its SecFUN extension using as hardware two submerged acoustic modems. Results show that our approach imposes a low computational burden to the underwater node, which implies low local energy consumption. This is due to the fact the FHMQV protocol is highly efficient resulting in a small number of operations with a low computation cost. In addition the use of elliptic curves allows to further reduce the computational overhead.},
   author       = {Angelo Capossele and
                   Chiara Petrioli and
                   Gabriele Saturni and
@@ -1443,20 +1099,14 @@ We additionally explore PAoK satisfying additional properties (including zero-kn
   pages        = {12:1--12:5},
   publisher    = {{ACM}},
   year         = {2017},
-  doi          = {10.1145/3148675.3152760},
   html = {https://wuwnet.acm.org/2017/},
   pdf = {https://dl.acm.org/doi/10.1145/3148675.3152760},
   dimensions = {true},
-  google_scholar_id = {ldfaerwXgEUC},
   selected = {false}
 }
 
 @article{DBLP:journals/fgcs/AtenieseDDV16,
   abbr = {FGCS},
-  bibtex_show={true},
-  abstract = {Entangled cloud storage (Aspnes et al., ESORICS 2004) enables a set of clients to "entangle" their files into a single *clew* to be stored by a (potentially malicious) cloud provider. The entanglement makes it impossible to modify or delete significant part of the clew without affecting *all* files encoded in the clew. A clew  keeps the files in it private but still lets each client recover his own data by interacting with the cloud provider; no cooperation from other clients is needed. At the same time, the cloud provider is discouraged from altering or overwriting any significant part of the clew as this will imply that none of the clients can recover their files.
-We put forward the first simulation-based security definition for entangled cloud storage, in the framework of *universal composability* (Canetti, FOCS 2001). We then construct a protocol satisfying our security definition, relying on an *entangled encoding scheme* based on privacy-preserving polynomial interpolation; entangled encodings were originally proposed by Aspnes et al. as useful tools for the purpose of data entanglement. As a contribution of independent interest we revisit the security notions for entangled encodings, putting forward stronger definitions than previous work (that for instance did not consider collusion between clients and the cloud provider).
-Protocols for entangled cloud storage find application in the cloud setting, where clients store their files on a remote server and need to be ensured that the cloud provider will not modify or delete their data illegitimately. Current solutions, e.g., based on Provable Data Possession and Proof of Retrievability, require the server to be challenged regularly to provide evidence that the clients' files are stored *at a given time*. Entangled cloud storage provides an alternative approach where any single client operates implicitly on behalf of all others, i.e., as long as one client's files are intact, the entire remote database continues to be safe and unblemished.},
   author       = {Giuseppe Ateniese and
                   {\"{O}}zg{\"{u}}r Dagdelen and
                   Ivan Damg{\aa}rd and
@@ -1466,20 +1116,14 @@ Protocols for entangled cloud storage find application in the cloud setting, whe
   volume       = {62},
   pages        = {104--118},
   year         = {2016},
-  doi          = {10.1016/J.FUTURE.2016.01.008},
   html = {http://danieleventuri.altervista.org/10.1016/j.future.2016.01.008},
   pdf = {http://eprint.iacr.org/2012/511},
   dimensions = {true},
-  google_scholar_id = {zYLM7Y9cAGgC},
   selected = {false}
 }
 
 @article{DBLP:journals/tcs/DagdelenMV16,
   abbr = {TCS},
-  bibtex_show={true},
-  abstract = {We introduce the notion of rate-limited secure function evaluation (RL-SFE). Loosely speaking, in an RL-SFE protocol participants can monitor and limit the number of distinct inputs (i.e., rate) used by their counterparts in multiple executions of an SFE, in a private and verifiable manner. The need for RL-SFE naturally arises in a variety of scenarios: e.g., it enables service providers to ``meter'' their customers' usage without compromising their privacy, or can be used to prevent oracle attacks against SFE constructions.
-We consider three variants of RL-SFE providing different levels of security. As a stepping stone, we also formalize the notion of commit-first SFE (cf-SFE) wherein parties are committed to their inputs before each SFE execution. We provide compilers for transforming any cf-SFE protocol into each of the three RL-SFE variants. Our compilers are accompanied with simulation-based proofs of security in the standard model and show a clear tradeoff between the level of security offered and the  overhead required. Moreover, motivated by the fact that in many client-server applications clients do not keep state, we also describe a general approach for transforming the resulting RL-SFE protocols into stateless ones.
-As a case study, we take a closer look at the oblivious polynomial evaluation (OPE) protocol of Hazay and Lindell, show that it is commit-first and instantiate efficient rate-limited variants of it.},
   author       = {{\"{O}}zg{\"{u}}r Dagdelen and
                   Payman Mohassel and
                   Daniele Venturi},
@@ -1488,21 +1132,14 @@ As a case study, we take a closer look at the oblivious polynomial evaluation (O
   volume       = {653},
   pages        = {53--78},
   year         = {2016},
-  doi          = {10.1016/J.TCS.2016.09.020},
   html = {https://doi.org/10.1016/j.tcs.2016.09.020},
   pdf = {http://eprint.iacr.org/2013/021},
   dimensions = {true},
-  google_scholar_id = {fPk4N6BV_jEC},
   selected = {false}
 }
 
 @article{DBLP:journals/tit/FaustMVW16,
   abbr = {IEEE TIT},
-  bibtex_show={true},
-  abstract = {Non-malleable codes, defined by Dziembowski, Pietrzak and Wichs (ICS '10),  provide roughly the following guarantee: if a codeword $c$ encoding some message $x$ is tampered to $c' = f(c)$ such that $c' \neq c$, then the tampered message $x'$ contained in $c'$ reveals no information about $x$.  Non-malleable codes have applications to immunizing cryptosystems against tampering attacks and related-key attacks.
-One \emph{cannot} have an \emph{efficient} non-malleable code that protects against  \emph{all efficient} tampering functions $f$. However, in this work we show ``the next best thing'': for any polynomial bound $s$ given a-priori, there is an efficient non-malleable code that protects against all tampering functions $f$ computable by a circuit of size $s$. More generally, for any family of tampering functions $\F$ of size $|\F| \leq 2^{s}$, there is an efficient non-malleable code that protects against all $f \in \F$. The \emph{rate} of our codes, defined as the ratio of message to codeword size, approaches $1$. Our results are information-theoretic and our main proof technique relies on a careful probabilistic method argument using limited independence. As a result, we get an efficiently samplable family of efficient codes, such that a random member of the family is non-malleable with overwhelming probability. Alternatively, we can view the result as providing an efficient non-malleable code in the ``common reference string'' (CRS) model.
-We also introduce a new notion of non-malleable key derivation, which uses randomness $x$ to derive a secret key $y = h(x)$ in such a way that, even if $x$ is tampered to a different value $x' = f(x)$, the derived key $y'  = h(x')$ does not reveal any information about $y$. Our results for non-malleable key derivation are analogous to those for non-malleable codes.
-As a useful tool in our analysis, we rely on the notion of ``leakage-resilient storage'' of Dav\`{\i}, Dziembowski and Venturi (SCN '10) and, as a result of independent interest, we also significantly improve on the parameters of such schemes.},
   author       = {Sebastian Faust and
                   Pratyay Mukherjee and
                   Daniele Venturi and
@@ -1514,19 +1151,14 @@ As a useful tool in our analysis, we rely on the notion of ``leakage-resilient s
   number       = {12},
   pages        = {7179--7194},
   year         = {2016},
-  doi          = {10.1109/TIT.2016.2613919},
   html = {https://doi.org/10.1109/TIT.2016.2613919},
   pdf = {http://eprint.iacr.org/2013/702},
   dimensions = {true},
-  google_scholar_id = {4OULZ7Gr8RgC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/asiacrypt/Faonio016,
   abbr = {ASIACRYPT 16},
-  bibtex_show={true},
-  abstract = {We revisit the question of constructing public-key encryption and signature schemes with security in the presence of bounded leakage and tampering memory attacks. For signatures we obtain the first construction in the standard model; for public-key encryption we obtain the first construction free of pairing (avoiding non-interactive zero-knowledge proofs). Our constructions are based on generic building blocks, and, as we show, also admit efficient instantiations under fairly standard number-theoretic assumptions.
-The model of bounded tamper resistance was recently put forward by Damgård {\em et al.} (Asiacrypt 2013) as an attractive path to achieve security against arbitrary memory tampering attacks without making hardware assumptions (such as the existence of a protected self-destruct or key-update mechanism), the only restriction being on the number of allowed tampering attempts (which is a parameter of the scheme). This allows to circumvent known impossibility results for unrestricted tampering (Gennaro {\em et al.}, TCC 2010), while still being able to capture realistic tampering attacks.},
   author       = {Antonio Faonio and
                   Daniele Venturi},
   editor       = {Jung Hee Cheon and
@@ -1538,20 +1170,14 @@ The model of bounded tamper resistance was recently put forward by Damgård {\em
   volume       = {10031},
   pages        = {877--907},
   year         = {2016},
-  doi          = {10.1007/978-3-662-53887-6\_32},
   html = {https://www.asiacrypt2016.org/index.html},
   pdf = {http://eprint.iacr.org/2016/529},
   dimensions = {true},
-  google_scholar_id = {maZDTaKrznsC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/pkc/FaustMV16,
   abbr = {PKC 16},
-  bibtex_show={true},
-  abstract = {We construct a public-key encryption (PKE) scheme whose security is polynomial-time equivalent to the hardness of the Subset Sum problem. Our scheme achieves the standard notion of indistinguishability against chosen-ciphertext attacks (IND-CCA) and can be used to encrypt messages of arbitrary polynomial length, improving upon a previous construction by Lyubashevsky, Palacio, and Segev (TCC 2010) which achieved only the weaker notion of semantic security (IND-CPA) and whose concrete security decreases with the length of the message
-being encrypted.
-At the core of our construction is a trapdoor technique which originates in the work of Micciancio and Peikert (Eurocrypt 2012).},
   author       = {Sebastian Faust and
                   Daniel Masny and
                   Daniele Venturi},
@@ -1566,20 +1192,14 @@ At the core of our construction is a trapdoor technique which originates in the 
   pages        = {35--46},
   publisher    = {Springer},
   year         = {2016},
-  doi          = {10.1007/978-3-662-49384-7\_2},
   html = {https://troll.iis.sinica.edu.tw/pkc16/},
   pdf = {https://eprint.iacr.org/2015/1223},
   dimensions = {true},
-  google_scholar_id = {4JMBOYKVnBMC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/scn/BiagioniMV16,
   abbr = {SCN 16},
-  bibtex_show={true},
-  abstract = {The Naor-Yung paradigm (Naor and Yung, STOC '90) allows to generically boost security under chosen-plaintext attacks (CPA) to security against chosen-ciphertext attacks (CCA) for public-key encryption (PKE) schemes. The main idea is to encrypt the plaintext twice (under independent public keys), and to append a non-interactive zero-knowledge (NIZK) proof that the two ciphertexts indeed encrypt the same message. Later work by Camenisch, Chandran, and Shoup (Eurocrypt '09) and Naor and Segev (Crypto '09 and SIAM J. Comput. '12) established that the very same techniques can also be used in the settings of key-dependent message (KDM) and key-leakage attacks (respectively).
-In this paper we study the conditions under which the two ciphertexts in the Naor-Yung construction can share the same random coins. We find that this is possible, provided that the underlying PKE scheme meets an additional simple property. The motivation for re-using the same random coins is that this allows to design much more efficient NIZK proofs. We showcase such an improvement in the random oracle model, under standard complexity assumptions including Decisional Diffie-Hellman, Quadratic Residuosity, and Subset Sum. The length of the resulting ciphertexts is reduced by 50\%, yielding truly efficient PKE schemes achieving CCA security under KDM and key-leakage attacks.
-As an additional contribution, we design the first PKE scheme whose CPA security under KDM attacks can be directly reduced to (low-density instances of) the Subset Sum assumption. The scheme supports key-dependent messages computed via any affine function of the secret key.},
   author       = {Silvio Biagioni and
                   Daniel Masny and
                   Daniele Venturi},
@@ -1592,21 +1212,14 @@ As an additional contribution, we design the first PKE scheme whose CPA security
   pages        = {62--80},
   publisher    = {Springer},
   year         = {2016},
-  doi          = {10.1007/978-3-319-44618-9\_4},
   html = {http://scn16.di.unisa.it/},
   pdf = {http://eprint.iacr.org/2016/880},
   dimensions = {true},
-  google_scholar_id = {JV2RwH3_ST0C},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/scn/MittelbachV16,
   abbr = {SCN 16},
-  bibtex_show={true},
-  abstract = {The Fiat-Shamir (FS) transformation (Fiat and Shamir, Crypto '86) is a popular paradigm for constructing very efficient non-interactive zero-knowledge (NIZK) arguments and signature schemes using a hash function, starting from any three-move interactive protocol satisfying certain properties. Despite its wide-spread applicability both in theory and in practice, the known positive results for proving security of the FS paradigm are in the random oracle model, i.e., they assume that the hash function is modelled as an external random function accessible to all parties. On the other hand, a sequence of negative results shows that for certain classes of interactive protocols, the FS transform cannot be instantiated in the standard model.
-We initiate the study of complementary positive results, namely, studying classes of interactive protocols where the FS transform *does* have standard-model instantiations. In particular, we show that for a class of "highly sound" protocols that we define, instantiating the FS transform via a q-wise independent hash function yields NIZK arguments and secure signature schemes. In the case of NIZK, we obtain a weaker "q-bounded" zero-knowledge flavor where the simulator works for all adversaries asking an a-priori bounded number of queries q; in the case of signatures, we obtain the weaker notion of random-message unforgeability against q-bounded random message attacks.
-Our main idea is that when the protocol is highly sound, then instead of using random-oracle programming, one can use complexity leveraging. The question is whether such highly sound protocols exist and if so, which protocols lie in this class. We answer this question in the affirmative in the common reference string (CRS) model and under strong assumptions. Namely, assuming indistinguishability obfuscation and puncturable pseudorandom functions we construct a compiler that transforms any 3-move interactive protocol with instance-independent commitments and simulators (a property satisfied by the Lapidot-Shamir protocol, Crypto '90) into a compiled protocol in the CRS model that is highly sound. We also present a second compiler, in order to be able to start from a larger class of protocols, which only requires instance-independent commitments (a property for example satisfied by the classical protocol for quadratic residuosity due to Blum, Crypto '81). For the second compiler we require dual-mode commitments.
-We hope that our work inspires more research on classes of (efficient) 3-move protocols where Fiat-Shamir is (efficiently) instantiable.},
   author       = {Arno Mittelbach and
                   Daniele Venturi},
   editor       = {Vassilis Zikas and
@@ -1618,23 +1231,14 @@ We hope that our work inspires more research on classes of (efficient) 3-move pr
   pages        = {198--215},
   publisher    = {Springer},
   year         = {2016},
-  doi          = {10.1007/978-3-319-44618-9\_11},
   html = {http://scn16.di.unisa.it/},
   pdf = {http://eprint.iacr.org/2016/313},
   dimensions = {true},
-  google_scholar_id = {eq2jaN3J8jMC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/tcc/CorettiDTV16,
   abbr = {TCC 16},
-  bibtex_show={true},
-  abstract = {In a seminal paper, Dolev et al. (STOC'91) introduced the notion of non-malleable encryption (NM-CPA). This notion is very intriguing since it suffices for many applications of chosen-ciphertext secure encryption (IND-CCA), and, yet, can be generically built from semantically secure (IND-CPA) encryption, as was shown in the seminal works by Pass et al. (CRYPTO'06) and by Choi et al. (TCC'08), the latter of which provided a black-box construction. In this paper we investigate three questions related to NM-CPA security:
-- Can the rate of the construction by Choi et al. of NM-CPA from IND-CPA be improved?
-- Is it possible to achieve multi-bit NM-CPA security more efficiently from a single-bit NM-CPA scheme than from IND-CPA?
-- Is there a notion stronger than NM-CPA that has natural applications and can be achieved from IND-CPA security?
-We answer all three questions in the positive. First, we improve the rate in the construction of Choi et al. by a factor O(k), where k is the security parameter. Still, encrypting a message of size O(k) would require ciphertext and keys of size O(k^2) times that of the IND-CPA scheme, even in our improved scheme. Therefore, we show a more efficient domain extension technique for building a k-bit NM-CPA scheme from a single-bit NM-CPA scheme with keys and ciphertext of size O(k) times that of the NM-CPA one-bit scheme. To achieve our goal, we define and construct a novel type of continuous non-malleable code (NMC), called secret-state NMC, as we show that standard continuous NMCs are not enough for the natural "encode-then-encrypt-bit-by-bit" approach to work.
-Finally, we introduce a new security notion for public-key encryption (PKE) that we dub non-malleability under (chosen-ciphertext) self-destruct attacks (NM-SDA). After showing that NM-SDA is a strict strengthening of NM-CPA and allows for more applications, we nevertheless show that both of our results---(faster) construction from IND-CPA and domain extension from one-bit scheme---also hold for our stronger NM-SDA security. In particular, the notions of IND-CPA, NM-CPA, and NM-SDA security are all equivalent, lying (plausibly, strictly?) below IND-CCA security.},
   author       = {Sandro Coretti and
                   Yevgeniy Dodis and
                   Bj{\"{o}}rn Tackmann and
@@ -1648,20 +1252,14 @@ Finally, we introduce a new security notion for public-key encryption (PKE) that
   pages        = {306--335},
   publisher    = {Springer},
   year         = {2016},
-  doi          = {10.1007/978-3-662-49096-9\_13},
   html = {https://www.iacr.org/workshops/tcc2016a/},
   pdf = {https://eprint.iacr.org/2015/772},
   dimensions = {true},
-  google_scholar_id = {ZeXyd9-uunAC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/ccs/AtenieseDDV15,
   abbr = {SCC@ASIACCS 15},
-  bibtex_show={true},
-  abstract = {Entangled cloud storage (Aspnes et al., ESORICS 2004) enables a set of clients to "entangle" their files into a single *clew* to be stored by a (potentially malicious) cloud provider. The entanglement makes it impossible to modify or delete significant part of the clew without affecting *all* files encoded in the clew. A clew  keeps the files in it private but still lets each client recover his own data by interacting with the cloud provider; no cooperation from other clients is needed. At the same time, the cloud provider is discouraged from altering or overwriting any significant part of the clew as this will imply that none of the clients can recover their files.
-We put forward the first simulation-based security definition for entangled cloud storage, in the framework of *universal composability* (Canetti, FOCS 2001). We then construct a protocol satisfying our security definition, relying on an *entangled encoding scheme* based on privacy-preserving polynomial interpolation; entangled encodings were originally proposed by Aspnes et al. as useful tools for the purpose of data entanglement. As a contribution of independent interest we revisit the security notions for entangled encodings, putting forward stronger definitions than previous work (that for instance did not consider collusion between clients and the cloud provider).
-Protocols for entangled cloud storage find application in the cloud setting, where clients store their files on a remote server and need to be ensured that the cloud provider will not modify or delete their data illegitimately. Current solutions, e.g., based on Provable Data Possession and Proof of Retrievability, require the server to be challenged regularly to provide evidence that the clients' files are stored *at a given time*. Entangled cloud storage provides an alternative approach where any single client operates implicitly on behalf of all others, i.e., as long as one client's files are intact, the entire remote database continues to be safe and unblemished.},
   author       = {Giuseppe Ateniese and
                   {\"{O}}zg{\"{u}}r Dagdelen and
                   Ivan Damg{\aa}rd and
@@ -1675,22 +1273,14 @@ Protocols for entangled cloud storage find application in the cloud setting, whe
   pages        = {3--12},
   publisher    = {{ACM}},
   year         = {2015},
-  doi          = {10.1145/2732516.2732524},
   html = {https://conference.cs.cityu.edu.hk/asiaccsscc/},
   pdf = {http://eprint.iacr.org/2012/511},
   dimensions = {true},
-  google_scholar_id = {zYLM7Y9cAGgC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/ccs/AtenieseMV15,
   abbr = {ACM CCS 15},
-  bibtex_show={true},
-  abstract = {We provide a formal treatment of security of digital signatures against subversion attacks (SAs).
-Our model of subversion generalizes previous work in several directions, and is inspired by the proliferation of software attacks (e.g., malware and buffer overflow attacks), and by the recent revelations of Edward Snowden about intelligence agencies trying to surreptitiously sabotage cryptographic algorithms. The main security requirement we put forward demands that a signature scheme should remain unforgeable even in the presence of an attacker applying SAs (within a certain class of allowed attacks) in a fully-adaptive and continuous fashion. Previous notions---e.g., the notion of security against algorithm-substitution attacks introduced by Bellare et al. (CRYPTO '14) for symmetric encryption---were non-adaptive and non-continuous. In this vein, we show both positive and negative results for the goal of constructing subversion-resilient signature schemes.
-Negative results. As our main negative result, we show that a broad class of randomized signature schemes is unavoidably insecure against SAs, even if using just a single bit of randomness. This improves upon earlier work that was only able to attack schemes with larger randomness space. When designing our new attack we consider undetectability as an explicit adversarial goal, meaning that the end-users (even the ones knowing the signing key) should not be able to detect that the signature scheme was subverted.
-Positive results. We complement the above negative results by showing that signature schemes with unique signatures are subversion-resilient against all attacks that meet a basic undetectability requirement. A similar result was shown by Bellare et al. for symmetric encryption, who proved the necessity to rely on stateful schemes; in contrast unique signatures are stateless, and in fact they are among the fastest and most established digital signatures available. As our second positive result, we show how to construct subversion-resilient identification schemes from subversion-resilient signature schemes. We finally show that it is possible to devise signature schemes secure against arbitrary tampering with the computation, by making use of an un-tamperable cryptographic reverse firewall (Mironov and Stephens-Davidowitz, EUROCRYPT '15), i.e., an algorithm that "sanitizes" any signature given as input (using only public information). The firewall we design allows to successfully protect so-called re-randomizable signature schemes (which include unique signatures as special case). As an additional contribution, we extend our model to consider multiple users and show implications and separations among the various notions we introduced.
-While our study is mainly theoretical, due to its strong practical motivation, we believe that our results have important implications in practice and might influence the way digital signature schemes are selected or adopted in standards and protocols.},
   author       = {Giuseppe Ateniese and
                   Bernardo Magri and
                   Daniele Venturi},
@@ -1702,18 +1292,14 @@ While our study is mainly theoretical, due to its strong practical motivation, w
   pages        = {364--375},
   publisher    = {{ACM}},
   year         = {2015},
-  doi          = {10.1145/2810103.2813635},
   html = {https://www.sigsac.org/ccs/CCS2015/},
   pdf = {http://eprint.iacr.org/2015/517},
   dimensions = {true},
-  google_scholar_id = {7PzlFSSx8tAC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/cloudforward/SuzicRRVK15,
   abbr = {CCF 15},
-  bibtex_show={true},
-  abstract = {The extensive cloud adoption among the European Public Sector Players empowered them to own and operate a range of cloud infrastructures. These deployments vary both in the size and capabilities, as well as in the range of employed technologies and processes. The public sector, however, lacks the necessary technology to enable effective, interoperable and secure integration of a multitude of its computing clouds and services. In this work we focus on the federation of private clouds and the approaches that enable secure data sharing and processing among the collaborating infrastructures and services of public entities. We investigate the aspects of access control, data and security policy languages, as well as cryptographic approaches that enable fine-grained security and data processing in semi-trusted environments. We identify the main challenges and frame the future work that serve as an enabler of interoperability among heterogeneous infrastructures and services. Our goal is to enable both security and legal conformance as well as to facilitate transparency, privacy and effectivity of private cloud federations for the public sector needs.},
   author       = {Bojan Suzic and
                   Andreas Reiter and
                   Florian Reimair and
@@ -1728,20 +1314,14 @@ While our study is mainly theoretical, due to its strong practical motivation, w
   pages        = {116--126},
   publisher    = {Elsevier},
   year         = {2015},
-  doi          = {10.1016/J.PROCS.2015.09.228},
   html = {https://www.digitalmeetsculture.net/heritage-showcases/holacloud/cloud-forward-from-distributed-to-complete-computing/},
   pdf = {https://www.sciencedirect.com/science/article/pii/S1877050915030732},
   dimensions = {true},
-  google_scholar_id = {hC7cP41nSMkC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/icalp/FaonioNV15,
   abbr = {ICALP 15},
-  bibtex_show={true},
-  abstract = {We construct new leakage-resilient signature schemes. Our schemes remain unforgeable against an adversary leaking arbitrary (yet bounded) information on the entire state of the signer (sometimes known as *fully* leakage resilience), including the random coin tosses of the signing algorithm.
-The main feature of our constructions is that they offer a graceful degradation of security in situations where standard existential unforgeability is impossible. This property was recently put forward by Nielsen, Venturi, and Zottarel (PKC 2014) to deal with settings in which the secret key is much larger than the size of a signature. One remarkable such case is the so-called Bounded-Retrieval Model (BRM), where one intentionally inflates the size of the secret key while keeping constant the signature size and the computational complexity of the scheme.
-Our main constructions have leakage rate 1-o(1), and are proven secure in the standard model. We additionally give a construction in the BRM, relying on a random oracle. All of our schemes are described in terms of generic building blocks, but also admit efficient instantiations under fairly standard number-theoretic assumptions. Finally, we  explain how to extend some of our schemes to the setting of noisy leakage, where the only restriction on the leakage functions is that the output does not decrease the min-entropy of the secret key by too much.},
   author       = {Antonio Faonio and
                   Jesper Buus Nielsen and
                   Daniele Venturi},
@@ -1757,19 +1337,14 @@ Our main constructions have leakage rate 1-o(1), and are proven secure in the st
   pages        = {456--468},
   publisher    = {Springer},
   year         = {2015},
-  doi          = {10.1007/978-3-662-47672-7\_37},
   html = {http://www.kurims.kyoto-u.ac.jp/icalp2015/},
   pdf = {http://eprint.iacr.org/2014/913},
   dimensions = {true},
-  google_scholar_id = {4DMP91E08xMC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/icits/DamgardFMV15,
   abbr = {ICTS 15},
-  bibtex_show={true},
-  abstract = {We present a new information-theoretic result which we call the Chaining Lemma. It considers a so-called "chain" of random variables, defined by a source distribution X[0] with high min-entropy and a number (say, t in total) of arbitrary functions (T1,....Tt) which are applied in succession to that source to generate the chain X[0]-->X[1]-->.....-->X[t] such that X[i] = Ti(X[i-1]). Intuitively, the Chaining Lemma guarantees that, if the chain is not too long, then either (i) the entire chain is "highly random", in that every variable has high min-entropy; or (ii) it is possible to find a point j (1 <= j <= t) in the chain such that, conditioned on the end of the chain the preceding part remains highly random. We believe this is an interesting information-theoretic result which is intuitive but nevertheless requires rigorous case-analysis to prove.
-We believe that the above lemma will find applications in cryptography. We give an example of this, namely we show an application of the lemma to protect essentially any cryptographic scheme against memory-tampering attacks. We allow several tampering requests, the tampering functions can be arbitrary, however, they must be chosen from a bounded size set of functions that is fixed a priori.},
   author       = {Ivan Damg{\aa}rd and
                   Sebastian Faust and
                   Pratyay Mukherjee and
@@ -1783,20 +1358,14 @@ We believe that the above lemma will find applications in cryptography. We give 
   pages        = {181--196},
   publisher    = {Springer},
   year         = {2015},
-  doi          = {10.1007/978-3-319-17470-9\_11},
   html = {http://icits2015.inf.usi.ch/},
   pdf = {http://eprint.iacr.org/2014/979},
   dimensions = {true},
-  google_scholar_id = {Wp0gIr-vW9MC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/indocrypt/KohlweissMOTV15,
   abbr = {INDOCRYPT 15},
-  bibtex_show={true},
-  abstract = {TLS is one of the most widely deployed cryptographic protocols on the Internet; it is used to protect the confidentiality and integrity of transmitted data in various client-server protocols. Its non-standard use of cryptographic primitives, however, makes it hard to formally assess its security. It is in fact difficult to use traditional (well-understood) security notions for the key-exchange (here: handshake) and the encryption/authentication (here: record layer) parts of the protocol due to the fact that, on the one hand, traditional game-based notions do not easily support composition, and on the other hand, all TLS versions up to and including 1.2 combine the two phases in a non-standard way.
-In this paper, we provide a modular security analysis of the handshake in TLS version 1.2 and a slightly sanitized version of the handshake in the current draft of TLS version 1.3, following the constructive cryptography approach of Maurer and Renner (ICS 2011). We provide a deconstruction of the handshake into modular sub-protocols and a security proof for each such sub-protocol. We also show how these results can be combined with analyses of the respective record layer protocols, and the overall result is that in all cases the protocol constructs (unilaterally) secure channels between the two parties from insecure channels and a public-key infrastructure. This approach ensures that (1) each sub-protocol is proven in isolation and independently of the other sub-protocols, (2) the overall security statement proven can easily be used in higher-level protocols, and (3) TLS can be used in any composition with other secure protocols.
-In more detail, for the key-exchange step of TLS 1.2, we analyze the RSA-based and both Diffie-Hellman-based variants (with static and ephemeral server key share) under a non-randomizability assumption for RSA-PKCS and the Gap Diffie-Hellman assumption, respectively; in all cases we make use of random oracles. For the respective step of TLS 1.3, we prove security under the Decisional Diffie-Hellman assumption in the standard model. In all statements, we require additional standard computational assumptions on other primi- tives. In general, since the design of TLS is not modular, the constructive decomposition is less fine-grained than one might wish to have and than it is for a modular design. This paper therefore also suggests new insights into the intrinsic problems incurred by a non-modular protocol design such as that of TLS.},
   author       = {Markulf Kohlweiss and
                   Ueli Maurer and
                   Cristina Onete and
@@ -1811,20 +1380,14 @@ In more detail, for the key-exchange step of TLS 1.2, we analyze the RSA-based a
   pages        = {85--102},
   publisher    = {Springer},
   year         = {2015},
-  doi          = {10.1007/978-3-319-26617-6\_5},
   html = {https://web.archive.org/web/20160318203035/http://indocrypt2015.org/index.php},
   pdf = {http://eprint.iacr.org/2014/020},
   dimensions = {true},
-  google_scholar_id = {hFOr9nPyWt4C},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/pkc/FaustMNV15,
   abbr = {PKC 15},
-  bibtex_show={true},
-  abstract = {We present a universal framework for tamper and leakage resilient computation on a von Neumann Random Access Architecture (RAM  in short). The RAM has one CPU that accesses a storage, which we call the disk. The disk is subject to leakage and tampering. So is the bus connecting the CPU to the disk. We  assume that the CPU is leakage and tamper-free. For a fixed value of the security parameter, the CPU has constant size. Therefore the code of the program to be executed is stored on the disk, i.e., we consider a von Neumann architecture. The most prominent consequence of this is that the code of the program executed will be subject to tampering.
-We construct a compiler for this architecture which transforms any keyed primitive into a RAM program where the key is encoded and stored on the disk along with the program to evaluate the primitive on that key. Our compiler only assumes the existence of a so-called continuous non-malleable code, and it only needs black-box access to such a code. No further (cryptographic) assumptions are needed. This in particular means that given an information theoretic code, the overall construction is information theoretic secure.
-Although it is required that the CPU is tamper and leakage proof, its design is independent of the actual primitive being computed and its internal storage is non-persistent, i.e., all secret registers are reset between invocations.  Hence, our result can be interpreted as reducing the problem of shielding arbitrary complex computations to protecting a single, simple yet universal component.},
   author       = {Sebastian Faust and
                   Pratyay Mukherjee and
                   Jesper Buus Nielsen and
@@ -1837,21 +1400,14 @@ Although it is required that the CPU is tamper and leakage proof, its design is 
   pages        = {579--603},
   publisher    = {Springer},
   year         = {2015},
-  doi          = {10.1007/978-3-662-46447-2\_26},
   html = {https://www.iacr.org/workshops/pkc2015/},
   pdf = {http://eprint.iacr.org/2014/338},
   dimensions = {true},
-  google_scholar_id = {9ZlFYXVOiuMC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/tcc/CorettiMTV15,
   abbr = {TCC 15},
-  bibtex_show={true},
-  abstract = {One approach towards basing public-key encryption (PKE) schemes on weak and credible assumptions is to build ``stronger'' or more general schemes generically from ``weaker'' or more restricted ones. One particular line of work in this context was initiated by Myers and shelat (FOCS '09) and continued by Hohenberger, Lewko, and Waters (Eurocrypt '12), who provide constructions of multi-bit CCA-secure PKE from single-bit CCA-secure PKE.
-It is well-known that encrypting each bit of a plaintext string independently is not CCA-secure---the resulting scheme is *malleable*. We therefore investigate whether this malleability can be dealt with using the conceptually simple approach of applying a suitable non-malleable code (Dziembowski et al., ICS '10) to the plaintext and subsequently encrypting the resulting codeword bit-by-bit. We find that an attacker's ability to ask multiple decryption queries requires that the underlying code be *continuously* non-malleable (Faust et al., TCC '14). Since, as we show, this flavor of non-malleability can only be achieved if the code is allowed to ``self-destruct,'' the resulting scheme inherits this property and therefore only achieves a weaker variant of CCA security.
-We formalize this new notion of so-called *self-destruct CCA security (SD-CCA)* as CCA security with the restriction that the decryption oracle stops working once the attacker submits an invalid ciphertext.
-We first show that the above approach based on non-malleable codes yields a solution to the problem of domain extension for SD-CCA-secure PKE, provided that the underlying code is continuously non-malleable against a *reduced* form of bit-wise tampering. Then, we prove that the code of Dziembowski et al.\ is actually already continuously non-malleable against (even *full*) bit-wise tampering; this constitutes the first *information-theoretically* secure continuously non-malleable code, a technical contribution that we believe is of independent interest. Compared to the previous approaches to PKE domain extension, our scheme is more efficient and intuitive, at the cost of not achieving full CCA security. Our result is also one of the first applications of non-malleable codes in a context other than memory tampering.},
   author       = {Sandro Coretti and
                   Ueli Maurer and
                   Bj{\"{o}}rn Tackmann and
@@ -1866,20 +1422,14 @@ We first show that the above approach based on non-malleable codes yields a solu
   pages        = {532--560},
   publisher    = {Springer},
   year         = {2015},
-  doi          = {10.1007/978-3-662-46494-6\_22},
   html = {https://www.iacr.org/workshops/tcc2015/},
   pdf = {http://eprint.iacr.org/2014/324},
   dimensions = {true},
-  google_scholar_id = {M3ejUd6NZC8C},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/africacrypt/DagdelenV14,
   abbr = {AFRICACRYPT 14},
-  bibtex_show={true},
-  abstract = {Fischlin’s transformation is an alternative to the standard Fiat-Shamir transform to turn a certain class of public key identification schemes into digital signatures (in the random oracle model).
-We show that signatures obtained via Fischlin’s transformation are existentially unforgeable even in case the adversary is allowed to get arbitrary (yet bounded) information on the entire state of the signer (including the signing key and the random coins used to generate signatures). A similar fact was already known for the Fiat-Shamir transform, however, Fischlin’s transformation allows for a significantly higher leakage parameter than Fiat-Shamir.
-Moreover, in contrast to signatures obtained via Fiat-Shamir, signatures obtained via Fischlin enjoy a tight reduction to the underlying hard problem. We use this observation to show (via simulations) that Fischlin’s transformation, usually considered less efficient, outperforms the Fiat-Shamir transform in verification time for a reasonable choice of parameters. In terms of signing Fiat-Shamir is faster for equal signature sizes. Nonetheless, our experiments show that the signing time of Fischlin’s transformation becomes, e.g., 22% of the one via Fiat-Shamir if one allows the signature size to be doubled.},
   author       = {{\"{O}}zg{\"{u}}r Dagdelen and
                   Daniele Venturi},
   editor       = {David Pointcheval and
@@ -1890,19 +1440,14 @@ Moreover, in contrast to signatures obtained via Fiat-Shamir, signatures obtaine
   pages        = {356--376},
   publisher    = {Springer},
   year         = {2014},
-  doi          = {10.1007/978-3-319-06734-6\_22},
   html = {http://ensias.um5s.ac.ma/africacrypt/},
   pdf = {http://eprint.iacr.org/2014/188},
   dimensions = {true},
-  google_scholar_id = {4TOpqqG69KYC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/balkancryptsec/DagdelenV14,
   abbr = {BalkanCryptSec 14},
-  bibtex_show={true},
-  abstract = {The privacy-preserving cooperative linear system of equations (PPC-LSE) problem is an important scientific problem whose solutions find applications in many real-word scenarios, such as banking, manufacturing, and telecommunications. Roughly speaking, in PPC-LSE a set of parties want to jointly compute the solution to a linear system of equations without disclosing their own inputs. The linear system is built through the parties’ inputs.
-In this paper we design a novel protocol for PPC-LSE. Our protocol has simulation-based security in the semi-honest model, assuming that one of the participants is not willing to collude with other parties. Previously to our work, the only known solutions to PPC-LSE were for the two-party case, and the only known other protocol for the multi-party case was less efficient and proven secure in a weaker model.},
   author       = {{\"{O}}zg{\"{u}}r Dagdelen and
                   Daniele Venturi},
   editor       = {Berna {\"{O}}rs and
@@ -1915,21 +1460,14 @@ In this paper we design a novel protocol for PPC-LSE. Our protocol has simulatio
   pages        = {161--172},
   publisher    = {Springer},
   year         = {2014},
-  doi          = {10.1007/978-3-319-21356-9\_11},
   html = {http://www.gstl.itu.edu.tr/BalkanCryptSec/index.htm},
   pdf = {http://www.springer.com/us/book/9783319213552},
   dimensions = {true},
-  google_scholar_id = {IWHjjKOFINEC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/eurocrypt/FaustMVW14,
   abbr = {EUROCRYPT 14},
-  bibtex_show={true},
-  abstract = {Non-malleable codes, defined by Dziembowski, Pietrzak and Wichs (ICS '10),  provide roughly the following guarantee: if a codeword $c$ encoding some message $x$ is tampered to $c' = f(c)$ such that $c' \neq c$, then the tampered message $x'$ contained in $c'$ reveals no information about $x$.  Non-malleable codes have applications to immunizing cryptosystems against tampering attacks and related-key attacks.
-One \emph{cannot} have an \emph{efficient} non-malleable code that protects against  \emph{all efficient} tampering functions $f$. However, in this work we show ``the next best thing'': for any polynomial bound $s$ given a-priori, there is an efficient non-malleable code that protects against all tampering functions $f$ computable by a circuit of size $s$. More generally, for any family of tampering functions $\F$ of size $|\F| \leq 2^{s}$, there is an efficient non-malleable code that protects against all $f \in \F$. The \emph{rate} of our codes, defined as the ratio of message to codeword size, approaches $1$. Our results are information-theoretic and our main proof technique relies on a careful probabilistic method argument using limited independence. As a result, we get an efficiently samplable family of efficient codes, such that a random member of the family is non-malleable with overwhelming probability. Alternatively, we can view the result as providing an efficient non-malleable code in the ``common reference string'' (CRS) model.
-We also introduce a new notion of non-malleable key derivation, which uses randomness $x$ to derive a secret key $y = h(x)$ in such a way that, even if $x$ is tampered to a different value $x' = f(x)$, the derived key $y'  = h(x')$ does not reveal any information about $y$. Our results for non-malleable key derivation are analogous to those for non-malleable codes.
-As a useful tool in our analysis, we rely on the notion of ``leakage-resilient storage'' of Dav\`{\i}, Dziembowski and Venturi (SCN '10) and, as a result of independent interest, we also significantly improve on the parameters of such schemes.},
   author       = {Sebastian Faust and
                   Pratyay Mukherjee and
                   Daniele Venturi and
@@ -1944,54 +1482,14 @@ As a useful tool in our analysis, we rely on the notion of ``leakage-resilient s
   pages        = {111--128},
   publisher    = {Springer},
   year         = {2014},
-  doi          = {10.1007/978-3-642-55220-5\_7},
   html = {http://ec14.compute.dtu.dk/},
   pdf = {http://eprint.iacr.org/2013/702},
   dimensions = {true},
-  google_scholar_id = {4OULZ7Gr8RgC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/pkc/NielsenVZ14,
   abbr = {PKC 14},
-  bibtex_show={true},
-  abstract = {We investigate new models and constructions which allow
-leakage-resilient signatures secure against existential forgeries,
-where the signature is much shorter than the leakage bound.
-Current models of leakage-resilient signatures against existential
-forgeries demand that the adversary cannot produce a new valid
-message/signature pair $(m, \sigma)$ even after receiving some
-$\lambda$ bits of leakage on the signing key. If $\vert \sigma \vert
-\le \lambda$, then the adversary can just choose to leak a valid
-signature $\sigma$, and hence signatures must be larger than the
-allowed leakage, which is impractical as the goal often is to have
-large signing keys to allow a lot of leakage.
-
-We propose a new notion of leakage-resilient signatures against
-existential forgeries where we demand that the adversary cannot
-produce $n = \lfloor \lambda / \vert \sigma \vert \rfloor + 1$
-distinct valid message/signature pairs 
-$(m_1, \sigma_1), \ldots, (m_n, \sigma_n)$ after receiving 
-$\lambda$ bits of leakage. If $\lambda =
-0$, this is the usual notion of existential unforgeability.  If $1 <
-\lambda < \vert \sigma \vert$, this is essentially the usual notion of
-existential unforgeability in the presence of leakage. In addition, for
-$\lambda \ge \vert \sigma \vert$ our new notion still guarantees the
-best possible, namely that the adversary cannot produce more forgeries
-than he could have leaked, hence graceful degradation.
-Besides the game-based notion hinted above, we also consider a variant which
-is more simulation-based, in that it asks that from the leakage a
-simulator can ``extract'' a set of $n-1$ messages (to be thought of
-as the messages corresponding to the leaked signatures), and no 
-adversary can produce forgeries not in this small set. The game-based 
-notion is easier to prove for a
-concrete instantiation of a signature scheme. The simulation-based
-notion is easier to use, when leakage-resilient signatures are used as
-components in larger protocols. 
-We prove that the two notion are equivalent and present a generic
-construction of signature schemes meeting our new notion and a
-concrete instantiation under fairly standard assumptions. 
-We further give an application, to leakage-resilient identification.},
   author       = {Jesper Buus Nielsen and
                   Daniele Venturi and
                   Angela Zottarel},
@@ -2003,21 +1501,14 @@ We further give an application, to leakage-resilient identification.},
   pages        = {362--379},
   publisher    = {Springer},
   year         = {2014},
-  doi          = {10.1007/978-3-642-54631-0\_21},
   html = {https://www.iacr.org/workshops/pkc2014/},
   pdf = {http://eprint.iacr.org/2014/529},
   dimensions = {true},
-  google_scholar_id = {_kc_bZDykSQC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/tcc/FaustMNV14,
   abbr = {TCC 14},
-  bibtex_show={true},
-  abstract = {Non-malleable codes are a natural relaxation of error correcting/detecting codes that have useful applications in the context of tamper resilient cryptography. Informally, a code is non-malleable if an adversary trying to tamper with an encoding of a given message can only leave it unchanged or modify it to the encoding of a completely unrelated value. This paper introduces an extension of the standard non-malleability security notion – so-called continuous non-malleability – where we allow the adversary to tamper continuously with an encoding. This is in contrast to the standard notion of non-malleable codes where the adversary only is allowed to tamper a single time with an encoding. We show how to construct continuous non-malleable codes in the common split-state model where an encoding consist of two parts and the tampering can be arbitrary but has to be independent with both parts. Our main contributions are outlined below:
-1. We propose a new uniqueness requirement of split-state codes which states that it is computationally hard to find two codewords C = (X0;X1) and C0 = (X0;X1') such that both codewords are valid, but X0 is the same in both C and C0. A simple attack shows that uniqueness is necessary to achieve continuous non-malleability in the split-state model. Moreover, we illustrate that none of the existing constructions satisfies our uniqueness property and hence is not secure in the continuous setting.
-2. We construct a split-state code satisfying continuous non-malleability. Our scheme is based on the inner product function, collision-resistant hashing and non-interactive zero-knowledge proofs of knowledge and requires an untamperable common reference string.
-3. We apply continuous non-malleable codes to protect arbitrary cryptographic primitives against tampering attacks. Previous applications of non-malleable codes in this setting required to perfectly erase the entire memory after each execution and and required the adversary to be restricted in memory. We show that continuous non-malleable codes avoid these restrictions.},
   author       = {Sebastian Faust and
                   Pratyay Mukherjee and
                   Jesper Buus Nielsen and
@@ -2030,22 +1521,14 @@ We further give an application, to leakage-resilient identification.},
   pages        = {465--488},
   publisher    = {Springer},
   year         = {2014},
-  doi          = {10.1007/978-3-642-54242-8\_20},
   html = {https://www.iacr.org/workshops/tcc2014/},
   pdf = {http://eprint.iacr.org/2014/173},
   dimensions = {true},
-  google_scholar_id = {YOwf2qJgpHMC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/asiacrypt/DamgardFMV13,
   abbr = {ASIACRYPT 13},
-  bibtex_show={true},
-  abstract = {Related key attacks (RKAs) are powerful cryptanalytic attacks where an adversary can change the secret key and observe the effect of such changes at the output. The state of the art in RKA security protects against an a-priori unbounded number of certain algebraic induced key relations, e.g., affine functions or polynomials of bounded degree. In this work, we show that it is possible to go beyond the algebraic barrier and achieve security against arbitrary key relations, by restricting the number of tampering queries the adversary is allowed to ask for. The latter restriction is necessary in case of arbitrary key relations, as otherwise a generic attack of Gennaro et al. (TCC 2004) shows how to recover the key of almost any cryptographic primitive. We describe our contributions in more detail below.
-1) We show that standard ID and signature schemes constructed from a large class of $\Sigma$-protocols (including the Okamoto scheme, for instance) are secure even if the adversary can arbitrarily tamper with the prover’s state a bounded number of times and obtain some bounded amount of leakage. Interestingly, for the Okamoto scheme we can allow also independent tampering with the public parameters.
-2) We show a bounded tamper and leakage resilient CCA secure public key cryptosystem based on the DDH assumption. We first define a weaker CPA-like security notion that we can instantiate based on DDH, and then we give a general compiler that yields CCA-security with tamper and leakage resilience. This requires a public tamper-proof common reference string.
-3) Finally, we explain how to boost bounded tampering and leakage resilience (as in 1. and 2. above) to continuous tampering and leakage resilience, in the so-called floppy model where each user has a personal hardware token (containing leak- and tamper-free information) which can be used to refresh the secret key.
-We believe that bounded tampering is a meaningful and interesting alternative to avoid known impossibility results and can provide important insights into the security of existing standard cryptographic schemes.},
   author       = {Ivan Damg{\aa}rd and
                   Sebastian Faust and
                   Pratyay Mukherjee and
@@ -2059,20 +1542,14 @@ We believe that bounded tampering is a meaningful and interesting alternative to
   pages        = {140--160},
   publisher    = {Springer},
   year         = {2013},
-  doi          = {10.1007/978-3-642-42045-0\_8},
   html = {https://www.iacr.org/conferences/asiacrypt2013/},
   pdf = {http://eprint.iacr.org/2013/677},
   dimensions = {true},
-  google_scholar_id = {KlAtU1dfN6UC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/icalp/FaustHV13,
   abbr = {ICALP 13},
-  bibtex_show={true},
-  abstract = {In secure delegatable computation, computationally weak devices (or clients) wish to outsource their computation and data to an untrusted server in the cloud. While most earlier work considers the general question of how to securely outsource any computation to the cloud server, we focus on concrete and important functionalities and give the first protocol for the pattern matching problem in the cloud.
-Loosely speaking, this problem considers a text T that is outsourced to the cloud S  by a sender SEN . In a query phase, receivers REC_1,...,REC_l run an efficient protocol with the server S and the sender SEN in order to learn the positions at which a pattern of length m matches the text (and nothing beyond that). This is called the outsourced pattern matching problem which is highly motivated in the context of delegatable computing since it offers storage alternatives for massive databases that contain confidential data (e.g., health related data about patient history).
-Our constructions are simulation-based secure in the presence of semi-honest and malicious adversaries (in the random oracle model) and limit the communication in the query phase to O(m) bits plus the number of occurrences---which is optimal. In contrast to generic solutions for delegatable computation, our schemes do not rely on fully homomorphic encryption but instead use novel ideas for solving pattern matching, based on a reduction to the subset sum problem. Interestingly, we do not rely on the hardness of the problem, but rather we exploit instances that are solvable in polynomial-time. A follow-up result demonstrates that the random oracle is essential in order to meet our communication bound.},
   author       = {Sebastian Faust and
                   Carmit Hazay and
                   Daniele Venturi},
@@ -2087,19 +1564,14 @@ Our constructions are simulation-based secure in the presence of semi-honest and
   pages        = {545--556},
   publisher    = {Springer},
   year         = {2013},
-  doi          = {10.1007/978-3-642-39212-2\_48},
   html = {https://www.icalp2013.lu.lv/},
   pdf = {http://eprint.iacr.org/2014/662},
   dimensions = {true},
-  google_scholar_id = {3fE2CSJIrl8C},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/pet/KohlweissMOTV13,
   abbr = {PETS 13},
-  bibtex_show={true},
-  abstract = {A receiver-anonymous channel allows a sender to send a message to a receiver without an adversary learning for whom the message is intended. Wireless broadcast channels naturally provide receiver anonymity, as does multi-casting one message to a receiver population containing the intended receiver. While anonymity and confidentiality appear to be orthogonal properties, making anonymous communication confidential is more involved than one might expect, since the ciphertext might reveal which public key has been used to encrypt. To address this problem, public-key cryptosystems with enhanced security properties have been proposed.
-This paper investigates constructions as well as limitations for preserving receiver anonymity when using public-key encryption (PKE). We use the constructive cryptography approach by Maurer and Renner and interpret cryptographic schemes as constructions of a certain ideal resource (e.g. a confidential anonymous channel) from given real resources (e.g. a broadcast channel). We define appropriate anonymous communication resources and show that a very natural resource can be constructed by using a PKE scheme which fulfills three properties that appear in cryptographic literature (IND-CCA, key-privacy, weak robustness). We also show that a desirable stronger variant, preventing the adversary from selective “trial-deliveries” of messages, is unfortunately unachievable by any PKE scheme, no matter how strong. The constructive approach makes the guarantees achieved by applying a cryptographic scheme explicit in the constructed (ideal) resource; this specifies the exact requirements for the applicability of a cryptographic scheme in a given context. It also allows to decide which of the existing security properties of such a cryptographic scheme are adequate for the considered scenario, and which are too weak or too strong. Here, we show that weak robustness is necessary but that so-called strong robustness is unnecessarily strong in that it does not construct a (natural) stronger resource.},
   author       = {Markulf Kohlweiss and
                   Ueli Maurer and
                   Cristina Onete and
@@ -2114,20 +1586,14 @@ This paper investigates constructions as well as limitations for preserving rece
   pages        = {19--39},
   publisher    = {Springer},
   year         = {2013},
-  doi          = {10.1007/978-3-642-39077-7\_2},
   html = {https://petsymposium.org/2013/},
   pdf = {http://eprint.iacr.org/2013/238},
   dimensions = {true},
-  google_scholar_id = {MXK_kJrjxJIC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/pkc/DagdelenMV13,
   abbr = {PKC 13},
-  bibtex_show={true},
-  abstract = {We introduce the notion of rate-limited secure function evaluation (RL-SFE). Loosely speaking, in an RL-SFE protocol participants can monitor and limit the number of distinct inputs (i.e., rate) used by their counterparts in multiple executions of an SFE, in a private and verifiable manner. The need for RL-SFE naturally arises in a variety of scenarios: e.g., it enables service providers to ``meter'' their customers' usage without compromising their privacy, or can be used to prevent oracle attacks against SFE constructions.
-We consider three variants of RL-SFE providing different levels of security. As a stepping stone, we also formalize the notion of commit-first SFE (cf-SFE) wherein parties are committed to their inputs before each SFE execution. We provide compilers for transforming any cf-SFE protocol into each of the three RL-SFE variants. Our compilers are accompanied with simulation-based proofs of security in the standard model and show a clear tradeoff between the level of security offered and the  overhead required. Moreover, motivated by the fact that in many client-server applications clients do not keep state, we also describe a general approach for transforming the resulting RL-SFE protocols into stateless ones.
-As a case study, we take a closer look at the oblivious polynomial evaluation (OPE) protocol of Hazay and Lindell, show that it is commit-first and instantiate efficient rate-limited variants of it.},
   author       = {{\"{O}}zg{\"{u}}r Dagdelen and
                   Payman Mohassel and
                   Daniele Venturi},
@@ -2140,22 +1606,14 @@ As a case study, we take a closer look at the oblivious polynomial evaluation (O
   pages        = {461--478},
   publisher    = {Springer},
   year         = {2013},
-  doi          = {10.1007/978-3-642-36362-7\_28},
   html = {http://ohta-lab.jp/pkc2013/},
   pdf = {http://eprint.iacr.org/2013/021},
   dimensions = {true},
-  google_scholar_id = {fPk4N6BV_jEC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/pkc/NielsenVZ13,
   abbr = {PKC 13},
-  bibtex_show={true},
-  abstract = {We revisit the context of leakage-tolerant interactive protocols as defined by Bitanski, Canetti and Halevi (TCC 2012).  Our contributions can be summarized as follows:
-- For the purpose of secure message transmission, any encryption protocol with message space $\cM$ and secret key space $\cSK$ tolerating poly-logarithmic leakage on the secret state of the receiver must satisfy $|\cSK| \ge (1-\epsilon)|\cM|$, for every $0 < \epsilon \le 1$, and if $|\cSK| = |\cM|$, then the scheme must use a fresh key pair to encrypt each message.
-- More generally, we prove that an encryption protocol for secure message transmission tolerates leakage of $\approx\poly(\log\spar)$ bits on the receiver side at the end of the protocol execution, \emph{if and only if} the protocol has passive security against an adaptive corruption of the receiver at the end of the protocol execution. Indeed, there is nothing special about there being \emph{two} parties or the communication setting: any $n$ party protocol tolerates leakage of $\approx\poly(\log\spar)$ bits from party $i$ at the end of the protocol execution, \emph{if and only if} the protocol has passive security against an adaptive corruption of party $i$ at the end of the protocol execution. This shows shows that as soon as a little leakage is tolerated, one needs full adaptive security.
--  Our result can be generalized to \emph{arbitrary} corruptions in a leakage-tolerant $n$-party protocol. In case more than one party can be corrupted, we get that leakage tolerance is equivalent to a weaker form of adaptivity, which we call \emph{semi-adaptivity}.  Roughly, a protocol has semi-adaptive security if there exist a simulator which can simulate the internal state of corrupted parties, i.e.,\ it can output \emph{some} internal state consistent with what the party has sent and received. However, such a state is not required to be indistinguishable from a real state, only that it would have lead to the simulated communication.
-The results above complement the ones in Bitanski et al., who already showed that semi-honest adaptive security is \emph{sufficient} for leakage tolerance. Our techniques rely on a novel way to exploit succinct interactive arguments of knowledge for $\NP$, and can be instantiated based on the assumption that collision-resistant function ensembles exist.},
   author       = {Jesper Buus Nielsen and
                   Daniele Venturi and
                   Angela Zottarel},
@@ -2168,19 +1626,14 @@ The results above complement the ones in Bitanski et al., who already showed tha
   pages        = {497--515},
   publisher    = {Springer},
   year         = {2013},
-  doi          = {10.1007/978-3-642-36362-7\_30},
   html = {http://ohta-lab.jp/pkc2013/},
   pdf = {http://eprint.iacr.org/2014/517},
   dimensions = {true},
-  google_scholar_id = {W7OEmFMy1HYC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/indocrypt/FaustKMV12,
   abbr = {INDOCRYPT 12},
-  bibtex_show={true},
-  abstract = {The Fiat-Shamir transform is a well studied paradigm for removing interaction from public-coin protocols. We investigate whether the resulting non-interactive zero-knowledge (NIZK) proof systems also exhibit non-malleability properties that have up to now only been studied for NIZK proof systems in the common reference string model: first, we formally define simulation soundness and a weak form of simulation extraction in the random oracle model (ROM). Second, we show that in the ROM the Fiat-Shamir transform meets these properties under lenient conditions.
-A consequence of our result is that, in the ROM, we obtain truly efficient non malleable NIZK proof systems essentially for free. Our definitions are sufficient for instantiating the Naor-Yung paradigm for CCA2-secure encryption, as well as a generic construction for signature schemes from hard relations and simulation-extractable NIZK proof systems. These two constructions are interesting as the former preserves both the leakage resilience and key-dependent message security of the underlying CPA-secure encryption scheme, while the latter lifts the leakage resilience of the hard relation to the leakage resilience of the resulting signature scheme.},
   author       = {Sebastian Faust and
                   Markulf Kohlweiss and
                   Giorgia Azzurra Marson and
@@ -2193,18 +1646,14 @@ A consequence of our result is that, in the ROM, we obtain truly efficient non m
   pages        = {60--79},
   publisher    = {Springer},
   year         = {2012},
-  doi          = {10.1007/978-3-642-34931-7\_5},
   html = {https://www.math.auckland.ac.nz/~sgal018/indocrypt2012/},
   pdf = {http://eprint.iacr.org/2012/704},
   dimensions = {true},
-  google_scholar_id = {Tyk-4Ss8FVUC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/eurocrypt/KiltzPCJV11,
   abbr = {EUROCRYPT 11},
-  bibtex_show={true},
-  abstract = {We construct efficient authentication protocols and message authentication codes (MACs) whose security can be reduced to the learning parity with noise (LPN) problem. Despite a large body of work---starting with the HB protocol of Hopper and Blum in 2001---until now it was not even known how to construct an efficient authentication protocol from LPN which is secure against man-in-the-middle attacks. A MAC implies such a (two-round) protocol.},
   author       = {Eike Kiltz and
                   Krzysztof Pietrzak and
                   David Cash and
@@ -2218,19 +1667,14 @@ A consequence of our result is that, in the ROM, we obtain truly efficient non m
   pages        = {7--26},
   publisher    = {Springer},
   year         = {2011},
-  doi          = {10.1007/978-3-642-20465-4\_3},
   html = {https://www.iacr.org/conferences/eurocrypt2011/},
   pdf = {https://www.iacr.org/archive/eurocrypt2011/66320007/66320007.pdf},
   dimensions = {true},
-  google_scholar_id = {u-x6o8ySG0sC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/icalp/FaustPV11,
   abbr = {ICALP 11},
-  bibtex_show={true},
-  abstract = {Tampering attacks are cryptanalytic attacks on the implementation of cryptographic algorithms (e.g., smart cards), where an adversary introduces faults with the hope that the tampered device will reveal secret information. Inspired by the work of Ishai et al. [Eurocrypt'06], we propose a compiler that transforms any circuit into a new circuit with the same functionality, but which is resilient against a well-defined and powerful tampering adversary. More concretely, our transformed circuits remain secure even if the adversary can adaptively tamper with every wire in the circuit as long as the tampering fails with some probability $\delta >0$. This additional requirement is motivated by practical tampering attacks, where it is often difficult to guarantee the success of a specific attack.
-Formally, we show that a $q$-query tampering attack against the transformed circuit can be ``simulated'' with only black-box access to the original circuit and  $\log(q)$ bits of additional auxiliary information. Thus, if the implemented cryptographic scheme  is secure against $\log(q)$ bits of leakage, then our implementation is tamper-proof in the above sense. Surprisingly, allowing for this small amount of information leakage -- and not insisting on perfect simulability like in the work of Ishai et al. -- allows for much more efficient compilers, which moreover do not require randomness during evaluation. Similar to earlier work our compiler requires small, stateless and computation-independent tamper-proof gadgets. Thus, our result can be interpreted as reducing the problem of shielding arbitrary complex computation to protecting simple components.},
   author       = {Sebastian Faust and
                   Krzysztof Pietrzak and
                   Daniele Venturi},
@@ -2244,20 +1688,14 @@ Formally, we show that a $q$-query tampering attack against the transformed circ
   pages        = {391--402},
   publisher    = {Springer},
   year         = {2011},
-  doi          = {10.1007/978-3-642-22006-7\_33},
   html = {https://icalp11.inf.ethz.ch/},
   pdf = {http://eprint.iacr.org/2011/314},
   dimensions = {true},
-  google_scholar_id = {9yKSN-GCB0IC},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/scn/DaviDV10,
   abbr = {SCN 10},
-  bibtex_show={true},
-  abstract = {We study a problem of secure data storage on hardware that may leak information. We introduce a new primitive, that we call {\em leakage-resilient storage} (LRS), which is an (unkeyed) scheme for encoding messages, and can be viewed as a generalization of the {\em All-Or-Nothing Transform} (AONT, Rivest 1997).  The standard definition of AONT requires that it should be hard to reconstruct a message $m$ if not all the bits of its encoding $\Encode(m)$ are known. LRS is defined more generally, with respect to a class $\Gamma$ of functions. The security definition of LRS requires that it should be hard to reconstruct $m$ even if some values $g_1(\Encode(m)),\ldots,$ $g_t(\Encode(m))$ are known (where $g_1,\ldots,g_t \in \Gamma$), as long as the total length of $g_1(\Encode(m)),\ldots,g_t(\Encode(m))$ is smaller than some parameter $c$.
-We construct an LRS scheme that is secure with respect to $\Gamma$ being a set of functions that can depend only on some restricted part of the memory.  More precisely: we assume that the memory is divided in $2$ parts, and the functions in $\Gamma$ can be just applied to one of these parts.   We also construct a scheme that is secure if the cardinality of $\Gamma$ is restricted (but still it can be exponential in the length of the encoding).  This construction implies security in the case when the set $\Gamma$ consists of functions that are computable by Boolean circuits of a small size.
-We also discuss the connection between the problem of constructing leakage-resilient storage and a theory of the compressibility of NP-instances.},
   author       = {Francesco Dav{\`{\i}} and
                   Stefan Dziembowski and
                   Daniele Venturi},
@@ -2270,18 +1708,14 @@ We also discuss the connection between the problem of constructing leakage-resil
   pages        = {121--137},
   publisher    = {Springer},
   year         = {2010},
-  doi          = {10.1007/978-3-642-15317-4\_9},
   html = {http://www.dia.unisa.it/conferences/SCN10/},
   pdf = {http://eprint.iacr.org/2009/399},
   dimensions = {true},
-  google_scholar_id = {u5HHmVD_uO8C},
   selected = {false}
 }
 
 @inproceedings{DBLP:conf/icc/TodiniBV09,
   abbr = {IEEE ICC 09},
-  bibtex_show={true},
-  abstract = {The interaction between wireless optimized scheduling algorithms and TCP congestion control mechanisms can have adverse effects on the performance of the system. We focus on the queue based max-weight (QBMW) scheduler, a scheduling strategy which is known to be throughput-optimal under unregulated traffic sources. We use fluid modeling to describe the time evolution of the congestion window size and of the wireless buffer, and show by numerical results that under TCP traffic sources the QBMW scheduling policy leads to a very unfair outcome, in which some users may be completely shut off. We also evaluate and discuss the performance achieved by other scheduling policies: the proportional fair (PF) scheduler, and the queue age (QA) scheduler, which takes account of the age of the packets stored in the wireless buffers.},
   author       = {Alfredo Todini and
                   Andrea Baiocchi and
                   Daniele Venturi},
@@ -2291,10 +1725,8 @@ We also discuss the connection between the problem of constructing leakage-resil
   pages        = {1--6},
   publisher    = {{IEEE}},
   year         = {2009},
-  doi          = {10.1109/ICC.2009.5199080},
   html = {http://icc2009.ieee-icc.org/},
   pdf = {http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5199080},
   dimensions = {true},
-  google_scholar_id = {2osOgNQ5qMEC},
   selected = {false}
 }
