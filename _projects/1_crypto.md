@@ -79,17 +79,17 @@ Written exam. The written exam lasts 3 hours and consists of 3 exercises and 3 o
 <h2>References</h2>
 We will not follow a single book; the following textbooks are suggested as reference and for deeper study:
 <ul>
-<li>[1] Daniele Venturi, <em><a href="http://www.springer.com/us/book/9788847024809">Crittografia nel Paese delle Meraviglie</a></em>, Springer, Collana di Informatica, 2012.
+<li>[1] Daniele Venturi, <em><a href="https://link.springer.com/book/10.1007/978-88-470-2481-6">Crittografia nel Paese delle Meraviglie</a></em>, Springer, Collana di Informatica, 2012.
 </li>
-<li>[2] Jonathan Katz and Yehuda Lindell, <em><a href="https://www.crcpress.com/Introduction-to-Modern-Cryptography-Second-Edition/Katz-Lindell/p/book/9781466570269">Introduction to Modern Cryptography</a></em>, CRC Press, Second Edition, 2014.
+<li>[2] Jonathan Katz and Yehuda Lindell, <em><a href="https://www.routledge.com/Introduction-to-Modern-Cryptography-Revised-Third-Edition/Katz-Lindell/p/book/9781032496795">Introduction to Modern Cryptography</a></em>, CRC Press, 3rd Edition, 2025.
 </li>
-<li>[3] Jonathan Katz, <em><a href="http://www.springer.com/us/book/9780387277110">Digital Signatures</a></em>, Springer, 2010.
+<li>[3] Jonathan Katz, <em><a href="https://link.springer.com/book/10.1007/978-0-387-27712-7">Digital Signatures</a></em>, Springer, 2010.
 </li>
 <li>[4] Salil P. Vadhan, <em><a href="http://www.nowpublishers.com/article/Details/TCS-010">Pseudorandomness</a></em>, Foundations and Trends in Theoretical Computer Science, Vol. 7, Issue 1-3, 2012. Freely available <a href="http://people.seas.harvard.edu/~salil/pseudorandomness/">here</a>.
 </li>
 <li>[5] Jonathan Katz, Lecture Notes for a course on <em><a href="http://www.cs.umd.edu/~jkatz/gradcrypto2/">Advanced Topics in Cryptography</a></em>, (Sping 2004). Lecture 9 and Lecture 10 are about the Cramer-Shoup PKE scheme.
 </li>
-<li>[6] Sanjit Chatterjee and Palash Sarkar, <em><a href="https://www.springer.com/la/book/9781441993823">Identity-Based Encryption</a></em>, Springer, 2011.
+<li>[6] Sanjit Chatterjee and Palash Sarkar, <em><a href="https://link.springer.com/book/10.1007/978-1-4419-9383-0">Identity-Based Encryption</a></em>, Springer, 2011.
 </li>
 </ul>
 You may also find useful the following lecture notes from a past edition of the course (although not reviewed by myself):
@@ -111,9 +111,9 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <br>
 <u><em>Exam 5</em></u>. Date: 14/07/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame05_2526_scores.pdf">pdf</a>].
 <br>
-<u><em>Exam 6</em></u>. Date: 08/09/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame06_2526_scores.pdf">pdf</a>].
+<u><em>Exam 6</em></u>. Date: 08/09/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/">pdf</a>].
 <br>
-<u><em>Exam 7</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Time: TBA. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame07_2526_scores.pdf">pdf</a>].
+<u><em>Exam 7</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Time: TBA. <em>Scores</em> [<a href="https://dventuri83.github.io/">pdf</a>].
 
 <h2>Announcements</h2>
 <u>20/09/2025:</u> The course will start on September 23, 2025.

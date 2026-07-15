@@ -95,13 +95,13 @@ Project (30%), oral exam (70%).
 <h2>References</h2>
 While we will not follow a single book; the following sources are suggested as reference. However, only the material included in the slides will be part of the oral exam.
 <ul>
-<li> Daniele Venturi. <em><a href="http://www.springer.com/us/book/9788847024809">Crittografia nel Paese delle Meraviglie</a></em>, Springer, Collana di Informatica, 2012.
+<li> Daniele Venturi. <em><a href="https://link.springer.com/book/10.1007/978-88-470-2481-6">Crittografia nel Paese delle Meraviglie</a></em>, Springer, Collana di Informatica, 2012.
 </li>
-<li> Jonathan Katz, Yehuda Lindell. <em><a href="https://www.crcpress.com/Introduction-to-Modern-Cryptography-Second-Edition/Katz-Lindell/p/book/9781466570269">Introduction to Modern Cryptography</a></em>, CRC Press, Third Edition, 2020.
+<li> Jonathan Katz, Yehuda Lindell. <em><a href="https://www.routledge.com/Introduction-to-Modern-Cryptography-Revised-Third-Edition/Katz-Lindell/p/book/9781032496795">Introduction to Modern Cryptography</a></em>, CRC Press, Third Edition, 2025.
 </li>
-<li> Salil Vadhan. <em><a href="https://www.springer.com/gp/book/9783319570471">The Complexity of Differential Privacy</a></em>, Chapter 7 of Tutorials on the Foundations of Cryptography, Yehuda Lindell Ed., Springer, 2017.
+<li> Salil Vadhan. <em><a href="https://link.springer.com/chapter/10.1007/978-3-319-57048-8_7">The Complexity of Differential Privacy</a></em>, Chapter 7 of Tutorials on the Foundations of Cryptography, Yehuda Lindell Ed., Springer, 2017.
 </li>
-<li> Carmit Hazay and Yehuda Lindell. <em><a href="http://www.springer.com/la/book/9783642143021">Efficient Secure Two-Party Protocols</a></em>, Springer, 2010.
+<li> Carmit Hazay and Yehuda Lindell. <em><a href="https://link.springer.com/book/10.1007/978-3-642-14303-8">Efficient Secure Two-Party Protocols</a></em>, Springer, 2010.
 </li>
 </ul>
 

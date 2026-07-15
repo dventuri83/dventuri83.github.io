@@ -76,9 +76,9 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
 <br>
 <u><em>Esame 5</em></u>. Data: 13/07/26. Aula: 3L (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame05_2526_scores.pdf">pdf</a>].
 <br>
-<u><em>Esame 6</em></u>. Data: 07/09/26. Aula: 3L (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame06_2526_scores.pdf">pdf</a>].
+<u><em>Esame 6</em></u>. Data: 07/09/26. Aula: 3L (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/">pdf</a>].
 <br>
-<u><em>Esame 7</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su Infostud). Data: TBA. Aula: TBA. Orario: TBA. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame07_2526_scores.pdf">pdf</a>].
+<u><em>Esame 7</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su Infostud). Data: TBA. Aula: TBA. Orario: TBA. <em>Voti</em> [<a href="https://dventuri83.github.io/">pdf</a>].
 
 <h2>Avvisi</h2>
 <u>20/09/2025:</u> Il corso inizierà il 23 settembre 2025.
