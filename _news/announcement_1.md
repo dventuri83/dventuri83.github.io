@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:clap: My paper with Danilo Francati and Sara Giammusso on *"Taming Adaptive Security and New Access Structures in Evolving Secret Sharing"* has been accepted at [ASIACRYPT 2025](https://asiacrypt.iacr.org/2025/)
+:clap: My paper with Victor Dyseryn and Danilo Francati on *"Public-Key Pseudorandom Codes from Distorted McEliece Assumptions"* has been accepted at [ASIACRYPT 2026](https://asiacrypt.iacr.org/2026/)

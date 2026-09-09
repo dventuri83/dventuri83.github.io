@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:clap: My paper with Maciej Obremski, João Ribeiro, Lawrence Roy, and François-Xavier Standaert, on  *" Improved Reductions from Noisy to Bounded and Probing Leakages via Hockey-Stick Divergences"* has been accepted at [CRYPTO 2024](https://crypto.iacr.org/2024/) 
+:clap: My paper with Paweł Kędzior, Marcin Mielniczuk on  *"Practical Committee Sizes in YOSO MPC"* has been accepted at [CRYPTO 2026](https://crypto.iacr.org/2026/) 
