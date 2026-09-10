@@ -111,7 +111,7 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <br>
 <u><em>Exam 5</em></u>. Date: 14/07/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame05_2526_scores.pdf">pdf</a>].
 <br>
-<u><em>Exam 6</em></u>. Date: 08/09/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/">pdf</a>].
+<u><em>Exam 6</em></u>. Date: 08/09/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame06_2526_scores.pdf">pdf</a>].
 <br>
 <u><em>Exam 7</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Time: TBA. <em>Scores</em> [<a href="https://dventuri83.github.io/">pdf</a>].
 
