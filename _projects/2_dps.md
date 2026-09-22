@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Privacy and Security (Fall 2025)
+title: Data Privacy and Security (Fall 2026)
 description: Master's Degree in Data Science
 img: assets/img/dps.jpg
 importance: 1
@@ -22,7 +22,7 @@ The course is meant to cover an overview of modern techniques aimed at protectin
 </li>
 <li> Authentic communication, cryptographic hashing, message authentication codes and digital signatures.
 </li>
-<li> Key exchange protocols and TLS.
+<li> Key exchange protocols and TLS. Secure messaging.
 </li>
 <li> Post-quantum cryptography. Fully-homomorphic encryption.</li>
 </ul>
@@ -31,17 +31,23 @@ The course is meant to cover an overview of modern techniques aimed at protectin
 <ul>
 <li> Approximate and pure differential privacy. Properties.
 </li>
-<li> Examples of differentially-private mechanisms: randomized responses, the Laplace mechanism, the Gaussian mechanism, the exponential mechanism.
+<li> Differentially-private mechanisms: randomized responses, the Laplace mechanism, the Gaussian mechanism, the exponential mechanism.
 </li>
 <li> Lower bounds on differentially-private mechanisms.
+</li>
+</ul>
+
+<em>Proofs Systems:</em>
+<ul>
+<li> Interactive proofs, zero kwnoledge and proofs of knowledge.
+</li>
+<li> Non-interactive proofs and SNARKs.
 </li>
 </ul>
 
 <em>Blockchain:</em>
 <ul>
 <li> The Bitcoin protocol.
-</li>
-<li> Ethereum and smart contracts.
 </li>
 <li> Altcoins (Algorand, Cardano, ZCash, ...).
 </li>
@@ -51,9 +57,9 @@ The course is meant to cover an overview of modern techniques aimed at protectin
 <ul>
 <li> Two-party and multi-party computation.
 </li>
-<li> Yao's garbled circuits.
+<li> Yao's garbled circuits. MPC with honest majority.
 </li>
-<li> MPC with honest majority.
+<li> Private set intersection. Private information retrieval. 
 </li>
 </ul>
 
@@ -109,6 +115,8 @@ While we will not follow a single book; the following sources are suggested as r
 As part of the exam, students are required to solve a small project and present their project work during the exam. Reach out to me by email after choosing a topic of preference (among those covered in the course) in order to get an assignment. Collaboration among students is welcome.
 
 <h2>Exams</h2>
+The exam dates for academic year 2026/2027 will appear below when available.
+<!---
 The exam dates for academic year 2025/2026 are indicated below. Please always register via Infostud.
 <br>
 <u><em>Exam 1</em></u>. Date: 15/01/26. Aula: G50 (Viale Regina Elena 295). Starting time: 10:00.
@@ -124,14 +132,16 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <u><em>Exam 6</em></u>. Date: 10/09/26. Aula: G50 (Viale Regina Elena 295). Starting time: 10:00.
 <br>
 <u><em>Exam 7</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Starting time: TBA.
+--->
 
 <h2>Announcements</h2>
-<u>20/09/2025:</u> The course will start on September 23, 2025.
+<u>20/09/2026:</u> The course will start on September 23, 2026.
 <br>
 <!---
 <u>16/11/2024:</u> The lecture on 12/12/2024 will not take place in order to allow second year students to participate to the 52nd edition of the <a href="https://itmeeting.wordpress.com">ITMeeting</a>.
 --->
 
+<!---
 <h2>Lectures</h2>
 <table>
     <thead>
@@ -264,3 +274,4 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
         </tr>
     </tbody>
 </table>
+--->
