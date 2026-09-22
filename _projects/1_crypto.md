@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cryptography (Fall 2025)
+title: Cryptography (Fall 2026)
 description: Master's Degree in Computer Science, Master's Degree in Cybersecurity, Master's Degree in Mathematics
 img: assets/img/crypto.jpg
 importance: 1
@@ -38,25 +38,25 @@ The course is meant to be an introduction to modern cryptography, with a focus o
 <ul>
 <li> Pseudorandom Generators (PRGs), hard-core bits, PRGs constructions.
 </li>
-<li> Pseudorandom Functions (PRFs), PRFs constructions, Feistel networks.
+<li> Pseudorandom Functions (PRFs), PRFs constructions, Feistel networks and blockciphers.
 </li>
-<li> Symmetric encryption: Definitions and constructions, modes of operation.
+<li> Secret-key encryption (SKE) and modes of operation.
 </li>
-<li> Message authentication: Definitions and constructions, authenticated encryption.
+<li> Message authentication codes (MACs) and authenticated encryption.
 </li>
-<li> Hash functions: Random oracle model, first/second pre-image resistance, collision resistance, Merkle-Damgaard construction.
+<li> Collision-resistant hash functions and random oracles .
 </li>
 </ul>
 
 <em>Public-Key Cryptography:</em>
 <ul>
-<li> Public-key encryption: Definitions and constructions.
+<li> Public-key encryption (PKE).
 </li>
-<li> Digital signatures: Definitions and constructions.
+<li> Digital signatures.
 </li>
-<li> Identification schemes: Definitions, constructions and applications to signatures.
+<li> Identification schemes and applications to digital signatures.
 </li>
-<li> Identity-based encryption and applications.
+<li> Identity-based encryption and applications to public-key cryptography.
 </li>
 </ul>
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automi, Calcolabilità e Complessità (Autunno 2025)
+title: Automi, Calcolabilità e Complessità (Autunno 2026)
 description: Laurea Triennale in Informatica
 img: assets/img/acc.jpg
 importance: 1
@@ -20,6 +20,8 @@ Durante il corso saranno introdotti i pi&ugrave; importanti risultati dell'Infor
 <ul>
 <li> Linguaggi regolari e non regolari, automi finiti e non determinismo.
 </li>
+<li> Espressioni regolari.
+</li>
 <li> Grammatiche acontestuali, automi a pila.
 </li>
 </ul>
@@ -32,21 +34,23 @@ Durante il corso saranno introdotti i pi&ugrave; importanti risultati dell'Infor
 </li>
 <li> Riducibilit&agrave;.
 </li>
+<li> Teoremi di incompletezza di Goedel.
+</li>
 </ul>
 
 <em>Teoria della complessit&agrave;</em>
 <ul>
 <li> Complessit&agrave; di tempo e di spazio.
 </li>
-<li> Le classi P ed NP.
+<li> Le classi P, NP, EXP, NEXP, PSPACE, L, NL, coNP, coNL.
 </li>
-<li> NP completezza.
+<li> Teoremi di gerarchia di tempo e di spazio.
 </li>
 </ul>
 
 <h2>Logistica</h2>
 <p style="color:red;"><b> Importante: </b>Le lezioni avvengono esclusivamente in presenza (senza registrazioni).</p>
-<em>Orario:</em> Mercoled&igrave; (08:00 - 11:00) e Venerd&igrave; (08:00 - 10:00).
+<em>Orario:</em> Mercoled&igrave; (08:00 - 10:00) e Venerd&igrave; (08:00 - 11:00).
 <em>Aula:</em> Aula 4 (RM158).
 
 <h2>Modalit&agrave; di Esame</h2>
@@ -64,6 +68,8 @@ Gli appunti che seguono, relativi a un'edizione passata del corso, possono anche
 </ul>
 
 <h2>Esami</h2>
+Le date degli esami per l'anno accademico 2026/2027 appariranno di seguito non appena disponibili. 
+<!---
 Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La registrazione su Infostud è obbligatoria.
 <br>
 <u><em>Esame 1</em></u>. Data: 12/01/26. Aula: 11 (RM005). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame01_2526_scores.pdf">pdf</a>].
@@ -79,9 +85,11 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
 <u><em>Esame 6</em></u>. Data: 07/09/26. Aula: 3L (RM018). Orario: 10:00-13:00. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame06_2526_scores.pdf">pdf</a>].
 <br>
 <u><em>Esame 7</em></u>. Riservato agli studenti part-time e fuori corso (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su Infostud). Data: TBA. Aula: TBA. Orario: TBA. <em>Voti</em> [<a href="https://dventuri83.github.io/">pdf</a>].
+--->
 
 <h2>Avvisi</h2>
-<u>20/09/2025:</u> Il corso inizierà il 23 settembre 2025.
+<u>20/09/2026:</u> Il corso inizierà il 23 settembre 2026.
+<!---
 <br>
 <u>02/10/2025:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 3 ottobre sarà eccezionalmente da remoto a <a href="https://uniroma1.zoom.us/j/85012034183?pwd=UhBbmHbLMAbrBAh09OGjdus4sXOhqM.1">questo link</a>.
 <br>
@@ -94,7 +102,9 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
 <u>11/12/2025:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 12 dicembre sarà in presenza ma verrà anche trasmessa da remoto a <a href="https://uniroma1.zoom.us/j/81197204009?pwd=6sGBZoyCAxiB0RyuhGrBewAjIwxP9I.1">questo link</a>.
 <br>
 <u>18/11/2025:</u> La lezione del 19 dicembre non avrà luogo. Sarà recuperata il 22 dicembre alle ore 08:00 in Aula 4 (RM158). La lezione verrà anche trasmessa da remoto a <a href="https://uniroma1.zoom.us/j/81013571492?pwd=hD7XcbG2ru552buWAtkpGw5Vj5IFDQ.1">questo link</a>.
+--->
 
+<!---
 <h2>Diario delle lezioni</h2>
 <table>
     <thead>
@@ -227,3 +237,4 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
         </tr>
     </tbody>
 </table>
+--->
