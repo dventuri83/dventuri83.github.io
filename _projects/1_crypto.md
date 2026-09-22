@@ -26,19 +26,19 @@ The course is meant to be an introduction to modern cryptography, with a focus o
 
 <em>Computational Security:</em>
 <ul>
-<li> One-Way Functions (OWF) and complexity theory.
+<li> One-Way Functions (OWFs) and complexity theory.
 </li>
-<li> Brush-up on number theory, candidate OWF (Factoring, RSA, DL, LWE).
+<li> Candidate OWFs (Factoring, RSA, DL, LWE, SIS, LPN).
 </li>
-<li> Computational indistinguishability, decisional assumptions (DDH, LWE).
+<li> Computational indistinguishability, decisional assumptions (DDH, LWE, LPN).
 </li>
 </ul>
 
 <em>Symmetric Cryptography:</em>
 <ul>
-<li> Pseudorandom Generators (PRG), hard-core bits, PRG constructions.
+<li> Pseudorandom Generators (PRGs), hard-core bits, PRGs constructions.
 </li>
-<li> Pseudorandom Functions (PRF), PRF constructions, Feistel networks.
+<li> Pseudorandom Functions (PRFs), PRFs constructions, Feistel networks.
 </li>
 <li> Symmetric encryption: Definitions and constructions, modes of operation.
 </li>
@@ -50,9 +50,9 @@ The course is meant to be an introduction to modern cryptography, with a focus o
 
 <em>Public-Key Cryptography:</em>
 <ul>
-<li> Public-key encryption: Definitions, RSA and ElGamal cryptosystems. Cramer-Shoup encryption.
+<li> Public-key encryption: Definitions and constructions.
 </li>
-<li> Digital signatures: Definitions, full-domain hash, signatures from OWF, Waters' signatures.
+<li> Digital signatures: Definitions and constructions.
 </li>
 <li> Identification schemes: Definitions, constructions and applications to signatures.
 </li>
@@ -65,9 +65,9 @@ The course is meant to be an introduction to modern cryptography, with a focus o
 <!---
 <p style="color:red;"><b> Important: </b>The lecture on 08/11/24 will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/89487521223?pwd=KzrfMElWv3v7c6bOi7BGXR9U9rCw49.1">this link</a>.</p>
 --->
-<em>Lecture time:</em> Tuesday (8:00am - 11:00am) and Friday (11:00am - 13:00am).
+<em>Lecture time:</em> Tuesday (8:00am - 10:00am) and Friday (04:00pm - 07:00pm).
 <br>
-<em>Location:</em> Aula 1L (RM018) - Via del Castro Laurenziano 7a.
+<em>Location:</em> The lectures on tuesday are in Aula 1L (RM018) - Via del Castro Laurenziano 7a; the lectures on friday are in Aula 11 (RM005) - Via Scarpa 14.
 <br>
 <em>Twitter:</em> <a href="https://twitter.com/SapienzaCrypto">@SapienzaCrypto</a>.
 <br>
@@ -99,6 +99,8 @@ You may also find useful the following lecture notes from a past edition of the 
 </ul>
 
 <h2>Exams</h2>
+The exam dates for academic year 2026/2027 will appear below when available.
+<!---
 The exam dates for academic year 2025/2026 are indicated below. Please always register via Infostud.
 <br>
 <u><em>Exam 1</em></u>. Date: 13/01/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame01_2526_scores.pdf">pdf</a>].
@@ -114,10 +116,12 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <u><em>Exam 6</em></u>. Date: 08/09/26. Aula: 3L (RM018). Time: 10:00-13:00. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame06_2526_scores.pdf">pdf</a>].
 <br>
 <u><em>Exam 7</em></u>. Reserved to part-time and working students (you must make a formal request to the secretariat; registration in Infostud is still required). Date: TBA. Aula: TBA. Time: TBA. <em>Scores</em> [<a href="https://dventuri83.github.io/">pdf</a>].
+--->
 
 <h2>Announcements</h2>
-<u>20/09/2025:</u> The course will start on September 23, 2025.
+<u>22/09/2026:</u> The course will start on September 25, 2026.
 <br>
+<!---
 <u>02/10/2025:</u> Due to the national strike announced for tomorrow, the lecture on October 3 will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/84580904785?pwd=XuEpGhYpm650li6wVU0jmqny7rIxPq.1">this link</a>.
 <br>
 <u>30/10/2025:</u> The lecture on 04/11/2025 will not take place.
@@ -129,7 +133,9 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <u>03/12/2025:</u> The students are invited to express their preference about the last topic to be covered in the final lectures of the course. Please vote only once using <a href="https://forms.gle/yo4HpH77DvUZTLHg9">this link</a>.
 <br>
 <u>11/12/2025:</u> Due to the national strike announced for tomorrow, the lecture on December 12 will take place in person but also exceptionally be streamed at at <a href="https://uniroma1.zoom.us/j/82414082275?pwd=2jT1zMRzmdcDBdQQCjzGFirU62H2dH.1">this link</a>.
+--->
 
+<!---
 <h2>Lectures</h2>
 <table>
     <thead>
@@ -267,3 +273,4 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
         </tr>
     </tbody>
 </table>
+--->
