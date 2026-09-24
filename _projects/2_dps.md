@@ -78,7 +78,7 @@ Project (30%), oral exam (70%).
 
 <h2>Course Slides</h2>
 <ul>
-<li> Course info [<a href="https://dventuri83.github.io/assets/pdf/00_Course_Info.pdf" target="_blank">pdf</a>].
+<li> Course info [<a href="https://dventuri83.github.io/assets/pdf/00_Course_Info.pdf">pdf</a>].
 </li>
 <li> Chapter 1: Introducion to cryptography [<a href="https://dventuri83.github.io/assets/pdf/01_Crypto_101.pdf">pdf</a>].
 </li>
@@ -133,7 +133,7 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 --->
 
 <h2>Announcements</h2>
-<u>20/09/2026:</u> The course will start on September 23, 2026.
+<u>20/09/2026:</u> The course will start on September 24, 2026.
 <br>
 <!---
 <u>16/11/2024:</u> The lecture on 12/12/2024 will not take place in order to allow second year students to participate to the 52nd edition of the <a href="https://itmeeting.wordpress.com">ITMeeting</a>.
