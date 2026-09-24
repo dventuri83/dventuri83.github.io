@@ -80,21 +80,19 @@ Project (30%), oral exam (70%).
 <ul>
 <li> Course info [<a href="https://dventuri83.github.io/assets/pdf/00_Course_Info.pdf" target="_blank">pdf</a>].
 </li>
-<li> Chapter 1: Secret-key cryptography [<a href="https://dventuri83.github.io/assets/pdf/01_Crypto_101_Sym.pdf">pdf</a>].
+<li> Chapter 1: Introducion to cryptography [<a href="https://dventuri83.github.io/assets/pdf/01_Crypto_101.pdf">pdf</a>].
 </li>
-<li> Chapter 2: Public-key cryptography [<a href="https://dventuri83.github.io/assets/pdf/02_Crypto_101_Asym.pdf">pdf</a>].
+<li> Chapter 2: Key exchange protocols [<a href="">pdf</a>].
 </li>
-<li> Chapter 3: Key exchange protocols [<a href="https://dventuri83.github.io/assets/pdf/03_Crypto_101_Key_Exchange.pdf">pdf</a>].
+<li> Chapter 3: Post-quantum cryptography [<a href="">pdf</a>].
 </li>
-<li> Chapter 4: Post-quantum cryptography [<a href="https://dventuri83.github.io/assets/pdf/04_Crypto_101_PQC.pdf">pdf</a>].
+<li> Chapter 4: Differential privacy [<a href="">pdf</a>].
 </li>
-<li> Chapter 5: Differential privacy [<a href="https://dventuri83.github.io/assets/pdf/05_Diff_Priv.pdf">pdf</a>].
+<li> Chapter 5: Proof systems [<a href="">pdf</a>].
 </li>
-<li> Chapter 6: Bitcoin [<a href="https://dventuri83.github.io/assets/pdf/06_Bitcoin.pdf">pdf</a>].
+<li> Chapter 6: Bitcoin & altcoins [<a href="">pdf</a>].
 </li>
-<li> Chapter 7: Alternative currencies [<a href="https://dventuri83.github.io/assets/pdf/07_Alt_Curr.pdf">pdf</a>].
-</li>
-<li> Chapter 8: Secure multiparty computation [<a href="https://dventuri83.github.io/assets/pdf/08_MPC.pdf">pdf</a>].
+<li> Chapter 7: Secure multiparty computation [<a href="">pdf</a>].
 </li>
 </ul>
 
