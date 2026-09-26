@@ -104,7 +104,6 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
 <u>18/11/2025:</u> La lezione del 19 dicembre non avrà luogo. Sarà recuperata il 22 dicembre alle ore 08:00 in Aula 4 (RM158). La lezione verrà anche trasmessa da remoto a <a href="https://uniroma1.zoom.us/j/81013571492?pwd=hD7XcbG2ru552buWAtkpGw5Vj5IFDQ.1">questo link</a>.
 --->
 
-<!---
 <h2>Diario delle lezioni</h2>
 <table>
     <thead>
@@ -116,18 +115,19 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
     </thead>
     <tbody>
         <tr>
-            <td>Lezione 1 24/09/25</td>
+            <td>Lezione 1 23/09/26</td>
             <td>Introduzione al corso. Automi a stati finiti: prime definizioni ed esempi.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture01_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture01_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 2 26/09/25</td>
-            <td>Esempi di progettazione di DFA. Linguaggi regolari. Operazioni sui linguaggi.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture02_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 2 25/09/26</td>
+            <td>Esempi di progettazione di DFA. Linguaggi regolari. Operazioni sui linguaggi. Chiusura dei linguaggi regolari rispetto ad unione ed intersezione.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture02_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---
         <tr>
             <td>Lezione 3 01/10/25</td>
-            <td>Chiusura dei linguaggi regolari rispetto ad unione ed intersezione. Automi a stati finiti non deterministici: definizioni ed esempi. Equivalenza tra automi a stati finiti deterministici e non-deterministici.</td>
+            <td>Automi a stati finiti non deterministici: definizioni ed esempi. Equivalenza tra automi a stati finiti deterministici e non-deterministici.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture03_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>  
         <tr>
@@ -235,6 +235,6 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
             <td>Esercizi di complessità.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture24_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        --->
     </tbody>
 </table>
---->

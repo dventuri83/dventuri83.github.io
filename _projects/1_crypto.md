@@ -135,7 +135,6 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <u>11/12/2025:</u> Due to the national strike announced for tomorrow, the lecture on December 12 will take place in person but also exceptionally be streamed at at <a href="https://uniroma1.zoom.us/j/82414082275?pwd=2jT1zMRzmdcDBdQQCjzGFirU62H2dH.1">this link</a>.
 --->
 
-<!---
 <h2>Lectures</h2>
 <table>
     <thead>
@@ -147,13 +146,14 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
     </thead>
     <tbody>
         <tr>
-            <td>Lecture 1 23/09/25</td>
-            <td>Overview of the course. Definition of secret-key encryption (SKE). Definition of perfect secrecy. The one-time pad and Shannon's impossibility result.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture01_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>Lecture 1 25/09/26</td>
+            <td>Overview of the course. Definition of secret-key encryption (SKE). Definition of perfect secrecy. Equivalent notions of perfect secrecy and the one-time pad.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture01_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---
         <tr>
             <td>Lecture 2 26/09/25</td>
-            <td>Equivalent notions of perfect secrecy. Definition of statistically-secure (one-time) MACs.</td>
+            <td>Shannon's impossibility result. Definition of statistically-secure (one-time) MACs.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture02_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
@@ -271,6 +271,6 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Exercises.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture25_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        --->
     </tbody>
 </table>
---->
