@@ -139,7 +139,6 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <u>16/11/2024:</u> The lecture on 12/12/2024 will not take place in order to allow second year students to participate to the 52nd edition of the <a href="https://itmeeting.wordpress.com">ITMeeting</a>.
 --->
 
-<!---
 <h2>Lectures</h2>
 <table>
     <thead>
@@ -151,10 +150,11 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
     </thead>
     <tbody>
         <tr>
-            <td>Lecture 1 23/09/25</td>
+            <td>Lecture 1 24/09/26</td>
             <td>Introduction to the course. Modern cryptography. Message confidentiality and authenticity. Symmetric encryption. Perfect secrecy and Shannon's impossibility result.</td>
             <td>Chapter 1</td>
         </tr>
+        <!---
         <tr>
             <td>Lecture 2 26/09/25</td>
             <td>The AES blockcipher. Modes of operation: ECB, CBC, CFB, OFB and CTR. Definition of CPA security for symmetric encryption.</td>
@@ -270,6 +270,6 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Redactable blockchain.</td>
             <td>Chapter 8</td>
         </tr>
+        --->
     </tbody>
 </table>
---->
