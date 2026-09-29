@@ -82,7 +82,7 @@ Project (30%), oral exam (70%).
 </li>
 <li> Chapter 1: Introducion to cryptography [<a href="https://dventuri83.github.io/assets/pdf/01_Crypto_101.pdf">pdf</a>].
 </li>
-<li> Chapter 2: Key exchange protocols [<a href="">pdf</a>].
+<li> Chapter 2: Key exchange protocols [<a href="https://dventuri83.github.io/assets/pdf/02_Key_Exchange.pdf">pdf</a>].
 </li>
 <li> Chapter 3: Post-quantum cryptography [<a href="">pdf</a>].
 </li>
