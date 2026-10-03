@@ -124,17 +124,17 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
             <td>Esempi di progettazione di DFA. Linguaggi regolari. Operazioni sui linguaggi. Chiusura dei linguaggi regolari rispetto ad unione ed intersezione.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture02_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---
         <tr>
-            <td>Lezione 3 01/10/25</td>
+            <td>Lezione 3 29/09/26</td>
             <td>Automi a stati finiti non deterministici: definizioni ed esempi. Equivalenza tra automi a stati finiti deterministici e non-deterministici.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture03_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture03_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>  
         <tr>
-            <td>Lezione 4 03/10/25</td>
+            <td>Lezione 4 02/10/26</td>
             <td>Chiusura dei linguaggi regolari rispetto alla concatenzazione e all'operazione star. Espressioni regolari: definizioni ed esempi.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture04_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture04_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---        
         <tr>
             <td>Lezione 5 08/10/25</td>
             <td>Equivalenza tra espressioni regolari e linguaggi regolari.</td>

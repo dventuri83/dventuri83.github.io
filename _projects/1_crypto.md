@@ -150,17 +150,17 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Overview of the course. Definition of secret-key encryption (SKE). Definition of perfect secrecy. Equivalent notions of perfect secrecy and the one-time pad.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture01_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---
         <tr>
-            <td>Lecture 2 26/09/25</td>
+            <td>Lecture 2 30/09/26</td>
             <td>Shannon's impossibility result. Definition of statistically-secure (one-time) MACs.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture02_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture02_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 3 30/09/25</td>
+            <td>Lecture 3 02/10/26</td>
             <td>Constructions of pairwise independent hash functions and one-time statistically secure MACs. Randomness extraction. Impossibility of randomness extraction from a single min-entropy source. Definition of seeded extractors.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture03_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture03_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---
         <tr>
             <td>Lecture 4 03/10/25</td>
             <td>Leftover hash lemma. Beginning of computational security.</td>

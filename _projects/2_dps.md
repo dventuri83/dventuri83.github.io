@@ -154,17 +154,17 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Introduction to the course. Modern cryptography. Message confidentiality and authenticity. Symmetric encryption. Perfect secrecy and Shannon's impossibility result.</td>
             <td>Chapter 1</td>
         </tr>
-        <!---
         <tr>
-            <td>Lecture 2 26/09/25</td>
+            <td>Lecture 2 01/10/26</td>
             <td>The AES blockcipher. Modes of operation: ECB, CBC, CFB, OFB and CTR. Definition of CPA security for symmetric encryption.</td>
             <td>Chapter 1</td>
         </tr>
         <tr>
-            <td>Lecture 3 30/09/25</td>
+            <td>Lecture 3 29/09/26</td>
             <td>Message authentication codes and unforgeability. CBC-MAC and its security. Collision-resistant hash functions.</td>
             <td>Chapter 1</td>
         </tr>
+        <!---        
         <tr>
             <td>Lecture 4 02/10/25</td>
             <td>The Merkle-Damgaard paradigm and SHA-1. The sponge construction and SHA-3. HMAC. Definition of CCA security for symmetric encryption. Combining encryption and authentication.</td>
