@@ -100,6 +100,8 @@ You may also find useful the following lecture notes from a past edition of the 
 
 <h2>Exams</h2>
 The exam dates for academic year 2026/2027 will appear below when available.
+<br>
+<u><em>Exam 0</em></u>. Reserved to part-time and working students from the past academic year (you must make a formal request to the secretariat; registration via Infostud is still required). Date: 30/10/26. Aula: 4 De Lollis (RM158). Time: 08:30-11:30. <em>Scores</em> [<a href="https://dventuri83.github.io/">pdf</a>].
 <!---
 The exam dates for academic year 2025/2026 are indicated below. Please always register via Infostud.
 <br>
@@ -121,6 +123,7 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <h2>Announcements</h2>
 <u>22/09/2026:</u> The course will start on September 25, 2026.
 <br>
+<u>05/10/2026:</u> The lectures on 30/10/2026 and 03/11/2026 will not take place.
 <!---
 <u>02/10/2025:</u> Due to the national strike announced for tomorrow, the lecture on October 3 will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/84580904785?pwd=XuEpGhYpm650li6wVU0jmqny7rIxPq.1">this link</a>.
 <br>

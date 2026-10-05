@@ -51,7 +51,7 @@ Durante il corso saranno introdotti i pi&ugrave; importanti risultati dell'Infor
 <h2>Logistica</h2>
 <p style="color:red;"><b> Importante: </b>Le lezioni avvengono esclusivamente in presenza (senza registrazioni).</p>
 <em>Orario:</em> Mercoled&igrave; (08:00 - 10:00) e Venerd&igrave; (08:00 - 11:00).
-<em>Aula:</em> Aula 4 (RM158).
+<em>Aula:</em> Aula 4 De Lollis (RM158).
 
 <h2>Modalit&agrave; di Esame</h2>
 Prova scritta. La prova consiste nella risoluzione di tre esercizi e nella risposta a tre domande di teoria.
@@ -68,7 +68,9 @@ Gli appunti che seguono, relativi a un'edizione passata del corso, possono anche
 </ul>
 
 <h2>Esami</h2>
-Le date degli esami per l'anno accademico 2026/2027 appariranno di seguito non appena disponibili. 
+Le date degli esami per l'anno accademico 2026/2027 appariranno di seguito non appena disponibili.
+<br>
+<u><em>Esame 0</em></u>. Riservato agli studenti part-time e fuori corso dello scorso anno accademico (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su Infostud). Data: 30/10/2026. Aula: 4 De Lollis (RM158). Orario: 08:30-11:30. <em>Voti</em> [<a href="https://dventuri83.github.io/">pdf</a>]. 
 <!---
 Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La registrazione su Infostud è obbligatoria.
 <br>
@@ -89,6 +91,8 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
 
 <h2>Avvisi</h2>
 <u>20/09/2026:</u> Il corso inizierà il 23 settembre 2026.
+<br>
+<u>05/10/2026:</u> Le lezioni del 28/10/2026 e 30/10/2026 non avranno luogo.
 <!---
 <br>
 <u>02/10/2025:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 3 ottobre sarà eccezionalmente da remoto a <a href="https://uniroma1.zoom.us/j/85012034183?pwd=UhBbmHbLMAbrBAh09OGjdus4sXOhqM.1">questo link</a>.
