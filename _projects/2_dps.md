@@ -84,9 +84,9 @@ Project (30%), oral exam (70%).
 </li>
 <li> Chapter 2: Key exchange protocols [<a href="https://dventuri83.github.io/assets/pdf/02_Key_Exchange.pdf">pdf</a>].
 </li>
-<li> Chapter 3: Post-quantum cryptography [<a href="">pdf</a>].
+<li> Chapter 3: Post-quantum cryptography [<a href="https://dventuri83.github.io/assets/pdf/03_PQC.pdf">pdf</a>].
 </li>
-<li> Chapter 4: Differential privacy [<a href="">pdf</a>].
+<li> Chapter 4: Differential privacy [<a href="https://dventuri83.github.io/assets/pdf/04_Diff_Priv.pdf">pdf</a>].
 </li>
 <li> Chapter 5: Proof systems [<a href="">pdf</a>].
 </li>
