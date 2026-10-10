@@ -163,21 +163,21 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Lecture 3 29/09/26</td>
             <td>Message authentication codes and unforgeability. CBC-MAC and its security. Collision-resistant hash functions.</td>
             <td>Chapter 1</td>
-        </tr>
-        <!---        
+        </tr>        
         <tr>
-            <td>Lecture 4 02/10/25</td>
+            <td>Lecture 4 06/10/26</td>
             <td>The Merkle-Damgaard paradigm and SHA-1. The sponge construction and SHA-3. HMAC. Definition of CCA security for symmetric encryption. Combining encryption and authentication.</td>
             <td>Chapter 1</td>
         </tr>
         <tr>
-            <td>Lecture 5 07/10/25</td>
-            <td>A brief tour of Minicrypt: one-way functions, pseudorandom generators, pseudorandom functions and pseudorandom permutations. Beginning of asymmetric cryptography: brush-up on number theory.</td>
+            <td>Lecture 5 08/10/26</td>
+            <td>A brief tour of Minicrypt: one-way functions, pseudorandom generators, pseudorandom functions and pseudorandom permutations. Beginning of asymmetric cryptography: brush-up on number theory. The RSA public-key encryption.</td>
             <td>Chapter 2</td>
         </tr>
+        <!---        
         <tr>
             <td>Lecture 6 09/10/25</td>
-            <td>The RSA public-key encryption and its security. The ElGamal public-key encryption and its security. Diffie-Hellmann assumptions. Pairings and assumptions on bilinear groups. Digital signatures and unforgeability. Signing with RSA and Full-Domain Hash. Public-key infrastructures and X.509 certificates. Identity-based encryption.</td>
+            <td>The ElGamal public-key encryption. Diffie-Hellmann assumptions. Pairings and assumptions on bilinear groups. Digital signatures and unforgeability. Signing with RSA and Full-Domain Hash. Public-key infrastructures and X.509 certificates. Identity-based encryption.</td>
             <td>Chapter 2</td>
         </tr>
         <tr>

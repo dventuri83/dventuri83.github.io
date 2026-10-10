@@ -163,17 +163,17 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Constructions of pairwise independent hash functions and one-time statistically secure MACs. Randomness extraction. Impossibility of randomness extraction from a single min-entropy source. Definition of seeded extractors.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture03_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---
         <tr>
-            <td>Lecture 4 03/10/25</td>
+            <td>Lecture 4 06/10/26</td>
             <td>Leftover hash lemma. Beginning of computational security.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture04_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture04_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 5 07/10/25</td>
+            <td>Lecture 5 09/10/26</td>
             <td>Definition and examples of one-way functions. Definition of pseudorandom generators (PRGs). Proof that one bit of stretch implies unbounded polynomial stretch. Constructions of real-world PRGs.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture05_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture05_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---        
         <tr>
             <td>Lecture 6 10/10/25</td>
             <td>Hard-core predicates and the Goldreich-Levin theorem.</td>
