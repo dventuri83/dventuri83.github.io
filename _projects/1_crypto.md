@@ -165,12 +165,12 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
         </tr>
         <tr>
             <td>Lecture 4 06/10/26</td>
-            <td>Leftover hash lemma. Beginning of computational security.</td>
+            <td>Leftover hash lemma. Beginning of computational security. Definition of one-way functions (OWFs).</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture04_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
             <td>Lecture 5 09/10/26</td>
-            <td>Definition and examples of one-way functions. Definition of pseudorandom generators (PRGs). Proof that one bit of stretch implies unbounded polynomial stretch. Constructions of real-world PRGs.</td>
+            <td> Definition of pseudorandom generators (PRGs). Proof that one bit of stretch implies unbounded polynomial stretch.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture05_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <!---        
