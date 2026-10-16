@@ -148,20 +148,20 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
             <td>Linguaggi non regolari: pumping lemma. Esercizi sui linguaggi regolari.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture06_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---
         <tr>
-            <td>Lezione 7 15/10/25</td>
-            <td>Esercizi sui linguaggi regolari. Grammatiche acontestuali: prime definizioni ed esempi.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture07_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 7 14/10/26</td>
+            <td>Grammatiche acontestuali: definizioni ed esempi. Progettazione di grammatiche.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture07_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 8 17/10/25</td>
-            <td>Progettazione di grammatiche. Forma normale di Chomsky. Esempi.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture08_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 8 16/10/26</td>
+            <td>Forma normale di Chomsky. Esempi. Automi a pila: definizioni ed esempi.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture08_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---        
         <tr>
             <td>Lezione 9 22/10/25</td>
-            <td>Automi a pila: definizioni ed esempi. Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali.</td>
+            <td>Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture09_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

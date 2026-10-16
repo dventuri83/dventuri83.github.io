@@ -174,20 +174,20 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>A brief tour of Minicrypt: one-way functions, pseudorandom generators, pseudorandom functions and pseudorandom permutations. Beginning of asymmetric cryptography: brush-up on number theory. The RSA public-key encryption.</td>
             <td>Chapter 2</td>
         </tr>
-        <!---        
         <tr>
-            <td>Lecture 6 09/10/25</td>
+            <td>Lecture 6 13/10/26</td>
             <td>The ElGamal public-key encryption. Diffie-Hellmann assumptions. Pairings and assumptions on bilinear groups. Digital signatures and unforgeability. Signing with RSA and Full-Domain Hash. Public-key infrastructures and X.509 certificates. Identity-based encryption.</td>
             <td>Chapter 2</td>
         </tr>
         <tr>
-            <td>Lecture 7 13/10/25</td>
-            <td>Free software and freedom in the digial society (invited lecture by Richard Stallman).</td>
-            <td>--</td>
-        </tr>                
+            <td>Lecture 7 15/10/26</td>
+            <td>Key exchange protocols. Diffie-Hellmann key exchange. Security in the Canetti-Krawczyk model. The ISO 9697 protocol. IPsec and IKE: SKEME and SIGMA. MQV and HMQV.</td>
+            <td>Chapter 3</td>
+        </tr>
+        <!---                                
         <tr>
             <td>Lecture 8 16/10/25</td>
-            <td>Key exchange protocols. Diffie-Hellmann key exchange. Security in the Canetti-Krawczyk model. The ISO 9697 protocol. IPsec and IKE: SKEME and SIGMA. MQV and HMQV.</td>
+            <td></td>
             <td>Chapter 3</td>
         </tr>
         <tr>
