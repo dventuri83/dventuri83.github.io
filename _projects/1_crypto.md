@@ -172,18 +172,18 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Lecture 5 09/10/26</td>
             <td> Definition of pseudorandom generators (PRGs). Proof that one bit of stretch implies unbounded polynomial stretch.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture05_2627.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <!---        
+        </tr> 
         <tr>
-            <td>Lecture 6 10/10/25</td>
-            <td>Hard-core predicates and the Goldreich-Levin theorem.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture06_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>Lecture 6 13/10/26</td>
+            <td>Hard-core predicates and the Goldreich-Levin theorem. Definition of one-time computationally secure and chosen-plaintext attacks (CPA) secure SKE. Construction of one-time computationally secure SKE from any PRG.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture06_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 7 14/10/25</td>
-            <td>Definition of one-time computationally secure and chosen-plaintext attacks (CPA) secure SKE. Construction of one-time computationally secure SKE from any PRG. Definition of pseudorandom functions (PRFs).</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture07_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>Lecture 7 16/10/26</td>
+            <td> Definition of pseudorandom functions (PRFs). Definition of chosen-plaintext attacks (CPA) secure SKE. Construction of CPA-secure SKE from any PRF.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture07_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---               
         <tr>
             <td>Lecture 8 17/10/25</td>
             <td>Constructing PRFs from OWFs: The GGM construction and its proof of security.</td>
