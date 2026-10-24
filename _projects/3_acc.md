@@ -157,21 +157,21 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
             <td>Lezione 8 16/10/26</td>
             <td>Forma normale di Chomsky. Esempi. Automi a pila: definizioni ed esempi.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture08_2627.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <!---        
+        </tr>   
         <tr>
-            <td>Lezione 9 22/10/25</td>
+            <td>Lezione 9 21/10/26</td>
             <td>Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture09_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture09_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 10 24/10/25</td>
-            <td>Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Pumping lemma per linguaggi acontestuali.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture10_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 10 23/10/26</td>
+            <td>Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Pumping lemma per linguaggi acontestuali. Esercizi sulle grammatiche.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture10_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---             
         <tr>
             <td>Lezione 11 29/10/25</td>
-            <td> Pumping lemma per linguaggi acontestuali. Calcolabilità. Macchine di Turing: prime definizioni ed esempi. Linguaggi Turing-riconoscibili e linguaggi decidibili.</td>
+            <td> Calcolabilità. Macchine di Turing: prime definizioni ed esempi. Linguaggi Turing-riconoscibili e linguaggi decidibili.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture11_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>

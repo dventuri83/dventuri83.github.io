@@ -183,18 +183,18 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Lecture 7 15/10/26</td>
             <td>Key exchange protocols. Diffie-Hellmann key exchange. Security in the Canetti-Krawczyk model. The ISO 9697 protocol. IPsec and IKE: SKEME and SIGMA. MQV and HMQV.</td>
             <td>Chapter 3</td>
-        </tr>
-        <!---                                
+        </tr>                                
         <tr>
-            <td>Lecture 8 16/10/25</td>
-            <td></td>
+            <td>Lecture 8 20/10/26</td>
+            <td>Key derivation functions using HMAC. Passwords. Bloom filters. Password-based encryption. Password-authenticated key exchange. The TLS protocol.</td>
             <td>Chapter 3</td>
         </tr>
         <tr>
-            <td>Lecture 9 21/10/25</td>
-            <td>Key derivation functions using HMAC. Passwords. Bloom filters. Password-based encryption. Password-authenticated key exchange. The TLS protocol and TLS 1.3.</td>
+            <td>Lecture 9 22/10/26</td>
+            <td>Secure messagging and the Signal protocol.</td>
             <td>Chapter 3</td>
         </tr>
+        <!---
         <tr>
             <td>Lecture 10 23/10/25</td>
             <td>Post-quantum cryptography. Lattices and hard problems: SIS and LWE. Basic cryptographic primitives based on lattices. Lattice trapdoors.</td>

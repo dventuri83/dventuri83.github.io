@@ -182,21 +182,21 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Lecture 7 16/10/26</td>
             <td> Definition of pseudorandom functions (PRFs). Definition of chosen-plaintext attacks (CPA) secure SKE. Construction of CPA-secure SKE from any PRF.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture07_2627.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <!---               
+        </tr>               
         <tr>
-            <td>Lecture 8 17/10/25</td>
+            <td>Lecture 8 20/10/26</td>
             <td>Constructing PRFs from OWFs: The GGM construction and its proof of security.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture08_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture08_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 9 21/10/25</td>
-            <td> Modes of operation for SKE. CPA security of the CTR mode. Definition of universal unforgeability under chosen-message attacks (UFCMA) for MACs.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture09_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>Lecture 9 23/10/26</td>
+            <td> Blockciphers: DES and AES. Feistel networks and their security. Modes of operation for SKE. CPA security of the CTR mode. </td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture09_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!--- 
         <tr>
             <td>Lecture 10 24/10/25</td>
-            <td>Proof that PRFs imply UFCMA MACs for FIL messages. Domain extension for MACs. Universal hashing and CBC-MAC.</td>
+            <td> Definition of universal unforgeability under chosen-message attacks (UFCMA) for MACs. Proof that PRFs imply UFCMA MACs for FIL messages. Domain extension for MACs. Universal hashing and CBC-MAC.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture10_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
