@@ -194,17 +194,17 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Secure messagging and the Signal protocol.</td>
             <td>Chapter 3</td>
         </tr>
-        <!---
         <tr>
-            <td>Lecture 10 23/10/25</td>
-            <td>Post-quantum cryptography. Lattices and hard problems: SIS and LWE. Basic cryptographic primitives based on lattices. Lattice trapdoors.</td>
+            <td>Lecture 10 27/10/26</td>
+            <td>Post-quantum cryptography. Lattices and hard problems: SIS and LWE. Basic cryptographic primitives based on lattices.</td>
             <td>Chapter 4</td>
         </tr>
         <tr>
-            <td>Lecture 11 28/10/25</td>
-            <td>Falcon. Canonical identification schemes and Crystals-Dilithium. Regev public-key encryption. The Fujisaki-Okamoto transform and Crystals-Kyber.</td>
+            <td>Lecture 11 29/10/26</td>
+            <td>Regev public-key encryption. The Fujisaki-Okamoto transform and Crystals-Kyber. Lattice trapdoors. Falcon. Canonical identification schemes and Crystals-Dilithium.</td>
             <td>Chapter 4</td>
         </tr>
+        <!---        
         <tr>
             <td>Lecture 12 30/10/25</td>
             <td>Fully-homomorphic encryption and advanced cryptographic applications.</td>
