@@ -170,7 +170,7 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
         </tr>
         <tr>
             <td>Lecture 5 09/10/26</td>
-            <td> Definition of pseudorandom generators (PRGs). Proof that one bit of stretch implies unbounded polynomial stretch.</td>
+            <td>Definition of pseudorandom generators (PRGs). Proof that one bit of stretch implies unbounded polynomial stretch.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture05_2627.pdf" target="_blank">PDF</a>]</td>
         </tr> 
         <tr>
@@ -190,7 +190,7 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
         </tr>
         <tr>
             <td>Lecture 9 23/10/26</td>
-            <td> Blockciphers: DES and AES. Feistel networks and their security. Modes of operation for SKE. CPA security of the CTR mode. </td>
+            <td>Blockciphers: DES and AES. Feistel networks and their security. Modes of operation for SKE. CPA security of the CTR mode.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture09_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
