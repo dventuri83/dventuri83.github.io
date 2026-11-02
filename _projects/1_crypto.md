@@ -101,7 +101,7 @@ You may also find useful the following lecture notes from a past edition of the 
 <h2>Exams</h2>
 The exam dates for academic year 2026/2027 will appear below when available.
 <br>
-<u><em>Exam 0</em></u>. Reserved to part-time and working students from the past academic year (you must make a formal request to the secretariat; registration via Infostud is still required). Date: 30/10/26. Aula: 4 De Lollis (RM158). Time: 08:30-11:30. <em>Scores</em> [<a href="https://dventuri83.github.io/">pdf</a>].
+<u><em>Exam 0</em></u>. Reserved to part-time and working students from the past academic year (you must make a formal request to the secretariat; registration via Infostud is still required). Date: 30/10/26. Aula: 4 De Lollis (RM158). Time: 08:30-11:30. <em>Scores</em> [<a href="https://dventuri83.github.io/assets/pdf/crypto_esame07_2526_scores.pdf">pdf</a>].
 <!---
 The exam dates for academic year 2025/2026 are indicated below. Please always register via Infostud.
 <br>

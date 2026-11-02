@@ -70,7 +70,7 @@ Gli appunti che seguono, relativi a un'edizione passata del corso, possono anche
 <h2>Esami</h2>
 Le date degli esami per l'anno accademico 2026/2027 appariranno di seguito non appena disponibili.
 <br>
-<u><em>Esame 0</em></u>. Riservato agli studenti part-time e fuori corso dello scorso anno accademico (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su Infostud). Data: 30/10/2026. Aula: 4 De Lollis (RM158). Orario: 08:30-11:30. <em>Voti</em> [<a href="https://dventuri83.github.io/">pdf</a>]. 
+<u><em>Esame 0</em></u>. Riservato agli studenti part-time e fuori corso dello scorso anno accademico (compilare il modulo di richiesta in segreteria; ricordarsi di registrarsi comunque su Infostud). Data: 30/10/2026. Aula: 4 De Lollis (RM158). Orario: 08:30-11:30. <em>Voti</em> [<a href="https://dventuri83.github.io/assets/pdf/acc_esame07_2526_scores.pdf">pdf</a>]. 
 <!---
 Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La registrazione su Infostud è obbligatoria.
 <br>
