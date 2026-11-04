@@ -124,6 +124,8 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <u>22/09/2026:</u> The course will start on September 25, 2026.
 <br>
 <u>05/10/2026:</u> The lectures on 30/10/2026 and 03/11/2026 will not take place.
+<br>
+<u>04/11/2026:</u> The lecture on 13/11/2026 will not take place. We will instead have additional lectures on 17/12/2026 (09:30-12:30, Aula RE3 - RM019) and on 21/12/2026 (14:00-16:00, Aula RE2 - RM019).
 <!---
 <u>02/10/2025:</u> Due to the national strike announced for tomorrow, the lecture on October 3 will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/84580904785?pwd=XuEpGhYpm650li6wVU0jmqny7rIxPq.1">this link</a>.
 <br>

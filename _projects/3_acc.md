@@ -92,7 +92,9 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
 <h2>Avvisi</h2>
 <u>20/09/2026:</u> Il corso inizierà il 23 settembre 2026.
 <br>
-<u>05/10/2026:</u> Le lezioni del 28/10/2026 e 30/10/2026 non avranno luogo.
+<u>05/10/2026:</u> Le lezioni del 28/10/2026 e del 30/10/2026 non avranno luogo.
+<br>
+<u>05/10/2026:</u> La lezione del 13/11/2026 non avrà luogo. Faremo invece lezione il 21/12/2026 (08:00-11:00, Aula RE2 - RM019).
 <!---
 <br>
 <u>02/10/2025:</u> A causa dello sciopero nazionale proclamato per la giornata di domani, la lezione del 3 ottobre sarà eccezionalmente da remoto a <a href="https://uniroma1.zoom.us/j/85012034183?pwd=UhBbmHbLMAbrBAh09OGjdus4sXOhqM.1">questo link</a>.

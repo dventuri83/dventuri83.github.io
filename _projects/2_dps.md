@@ -135,6 +135,7 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <h2>Announcements</h2>
 <u>20/09/2026:</u> The course will start on September 24, 2026.
 <br>
+<u>04/11/2026:</u> The lectures on 12/11/2026 and 10/12/2026 will not take place.
 <!---
 <u>16/11/2024:</u> The lecture on 12/12/2024 will not take place in order to allow second year students to participate to the 52nd edition of the <a href="https://itmeeting.wordpress.com">ITMeeting</a>.
 --->
