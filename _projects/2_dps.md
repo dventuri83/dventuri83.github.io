@@ -205,20 +205,20 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Regev public-key encryption. The Fujisaki-Okamoto transform and Crystals-Kyber. Lattice trapdoors. Falcon. Canonical identification schemes and Crystals-Dilithium.</td>
             <td>Chapter 4</td>
         </tr>
-        <!---        
         <tr>
-            <td>Lecture 12 30/10/25</td>
-            <td>Fully-homomorphic encryption and advanced cryptographic applications.</td>
+            <td>Lecture 12 03/11/26</td>
+            <td>Advanced cryptographic applications: identity-based encryption and attribute-based encryption from lattices.</td>
             <td>Chapter 4</td>
         </tr>
         <tr>
-            <td>Lecture 13 04/11/25</td>
-            <td>Advanced cryptographic applications: identity-based encryption and attribute-based encryption from lattices. Differential privacy and approximate differential privacy. Properties. Randomized responses. The Laplace and the Gaussian mechanisms.</td>
-            <td>Chapters 4 and 5</td>
+            <td>Lecture 13 05/11/26</td>
+            <td>Fully-homomorphic encryption and advanced cryptographic applications.</td>
+            <td>Chapters 4</td>
         </tr>
+        <!---                
         <tr>
             <td>Lecture 14 06/11/25</td>
-            <td>Advanced composition. The exponential mechanism and its applications.</td>
+            <td>Differential privacy and approximate differential privacy. Properties. Randomized responses. The Laplace and the Gaussian mechanisms. Advanced composition. The exponential mechanism and its applications.</td>
             <td>Chapter 5</td>
         </tr>
         <tr>

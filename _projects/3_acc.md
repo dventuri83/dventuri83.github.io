@@ -170,20 +170,20 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
             <td>Equivalenza tra automi a pila non-deterministici e grammatiche acontestuali. Pumping lemma per linguaggi acontestuali. Esercizi sulle grammatiche.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture10_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---             
         <tr>
-            <td>Lezione 11 29/10/25</td>
+            <td>Lezione 11 03/11/26</td>
             <td> Calcolabilità. Macchine di Turing: prime definizioni ed esempi. Linguaggi Turing-riconoscibili e linguaggi decidibili.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture11_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture11_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lezione 12 31/10/25</td>
-            <td>Esercitazione.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture12_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>Lezione 12 06/11/26</td>
+            <td>Varianti di macchine di Turing: La macchina di Turing multi-nastro e macchine di Turing non-deterministiche. Equivalenza con la macchina di Turing deterministica a singolo nastro.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture12_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                     
         <tr>
             <td>Lezione 13 07/11/25</td>
-            <td>Varianti di macchine di Turing: La macchina di Turing multi-nastro e macchine di Turing non-deterministiche. Equivalenza con la macchina di Turing deterministica a singolo nastro.</td>
+            <td></td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture13_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
