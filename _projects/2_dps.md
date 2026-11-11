@@ -215,15 +215,15 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Fully-homomorphic encryption and advanced cryptographic applications.</td>
             <td>Chapters 4</td>
         </tr>
-        <!---                
         <tr>
-            <td>Lecture 14 06/11/25</td>
-            <td>Differential privacy and approximate differential privacy. Properties. Randomized responses. The Laplace and the Gaussian mechanisms. Advanced composition. The exponential mechanism and its applications.</td>
+            <td>Lecture 14 10/11/26</td>
+            <td>Differential privacy and approximate differential privacy. Properties. Randomized responses. The Laplace and the Gaussian mechanisms.</td>
             <td>Chapter 5</td>
         </tr>
+        <!---                        
         <tr>
             <td>Lecture 15 11/11/25</td>
-            <td>The SmallDB mechanism. Information-theoretic lower bounds. Traitor tracing and computational lower bounds. Differential privacy and game theory.</td>
+            <td>Advanced composition. The exponential mechanism and its applications. The SmallDB mechanism. Information-theoretic lower bounds. Traitor tracing and computational lower bounds. Differential privacy and game theory.</td>
             <td>Chapter 5</td>
         </tr>
         <tr>

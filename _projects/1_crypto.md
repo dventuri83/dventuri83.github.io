@@ -205,12 +205,12 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Definition of unforgeability under chosen-message attacks (UFCMA) for MACs. Proof that PRFs imply UFCMA MACs for FIL messages. Domain extension for MACs. Universal hashing and CBC-MAC.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture11_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                
         <tr>
-            <td>Lecture 12 31/10/25</td>
+            <td>Lecture 12 10/11/26</td>
             <td>Definition of CCA security for SKE. Combining encryption and authentication.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture12_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture12_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                        
         <tr>
             <td>Lecture 13 07/11/25</td>
             <td></td>
