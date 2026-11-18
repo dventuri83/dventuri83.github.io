@@ -210,12 +210,12 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Definition of CCA security for SKE. Combining encryption and authentication.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture12_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                        
         <tr>
-            <td>Lecture 13 07/11/25</td>
-            <td></td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture13_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>Lecture 13 07/11/26</td>
+            <td>Collision-resistant hash functions. The Merklee-Damgaard paradigm.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture13_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                        
         <tr>
             <td>Lecture 14 11/11/25</td>
             <td>Collision-resistant hash functions. The Merklee-Damgaard paradigm. Building compression functions.</td>

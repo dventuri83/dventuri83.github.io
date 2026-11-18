@@ -219,16 +219,16 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Lecture 14 10/11/26</td>
             <td>Differential privacy and approximate differential privacy. Properties. Randomized responses. The Laplace and the Gaussian mechanisms.</td>
             <td>Chapter 5</td>
-        </tr>
-        <!---                        
+        </tr>  
         <tr>
-            <td>Lecture 15 11/11/25</td>
-            <td>Advanced composition. The exponential mechanism and its applications. The SmallDB mechanism. Information-theoretic lower bounds. Traitor tracing and computational lower bounds. Differential privacy and game theory.</td>
+            <td>Lecture 15 17/11/26</td>
+            <td>Advanced composition. The exponential mechanism and its applications. The SmallDB mechanism. Information-theoretic lower bounds.</td>
             <td>Chapter 5</td>
         </tr>
+        <!---                              
         <tr>
             <td>Lecture 16 13/11/25</td>
-            <td>Introduction to Bitcoin. Basic design principles.</td>
+            <td>Traitor tracing and computational lower bounds. Differential privacy and game theory. Introduction to Bitcoin. Basic design principles.</td>
             <td>Chapter 6</td>
         </tr>
         <tr>

@@ -184,13 +184,13 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
             <td>Lezione 13 11/11/26</td>
             <td>Esempi di linguaggi decidibili basati su automi e grammatiche acontestuali</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture13_2627.pdf" target="_blank">PDF</a>]</td>
-        </tr>
-        <!---                           
+        </tr>                         
         <tr>
-            <td>Lezione 14 12/11/25</td>
+            <td>Lezione 14 18/11/26</td>
             <td>Esistenza di linguaggi non decidibili tramite diagonalizzazione.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture14_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture14_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---          
         <tr>
             <td>Lezione 15 14/11/25</td>
             <td>Esistenza di linguaggi non riconoscibili. Riducibilità mediante funzione.</td>
