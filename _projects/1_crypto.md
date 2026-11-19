@@ -126,9 +126,9 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
 <u>05/10/2026:</u> The lectures on 30/10/2026 and 03/11/2026 will not take place.
 <br>
 <u>04/11/2026:</u> The lecture on 13/11/2026 will not take place. We will instead have additional lectures on 17/12/2026 (09:30-12:30, Aula RE3 - RM019) and on 21/12/2026 (14:00-16:00, Aula RE2 - RM019).
-<!---
-<u>02/10/2025:</u> Due to the national strike announced for tomorrow, the lecture on October 3 will be exceptionally remote at <a href="https://uniroma1.zoom.us/j/84580904785?pwd=XuEpGhYpm650li6wVU0jmqny7rIxPq.1">this link</a>.
+<u>19/11/2026:</u> Due to the national strike announced for tomorrow, the lecture on November 20 will be hybrid and will additionally be streamed at <a href="https://uniroma1.zoom.us/j/89537441723?pwd=9hEktQe6tMMLRwY2nKR7gXTiTco63i.1">this link</a>.
 <br>
+<!---
 <u>30/10/2025:</u> The lecture on 04/11/2025 will not take place.
 <br>
 <u>13/11/2025:</u> Due to the transportations strike announced for tomorrow, the lecture on November 14 will take place in person but also exceptionally be streamed at <a href="https://uniroma1.zoom.us/j/81263907289?pwd=2UOa8FQtiBNCWtv01D7BFPrrRV4Is4.1">this link</a>.
