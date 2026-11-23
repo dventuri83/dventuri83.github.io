@@ -211,19 +211,19 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture12_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
-            <td>Lecture 13 07/11/26</td>
+            <td>Lecture 13 17/11/26</td>
             <td>Collision-resistant hash functions. The Merklee-Damgaard paradigm.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture13_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                        
         <tr>
-            <td>Lecture 14 11/11/25</td>
-            <td>Collision-resistant hash functions. The Merklee-Damgaard paradigm. Building compression functions.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture14_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>Lecture 14 20/11/26</td>
+            <td>The Merklee-Damgaard paradigm (continued). Building compression functions.Brush-up on number theory.</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture14_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                                
         <tr>
             <td>Lecture 15 14/11/25</td>
-            <td>Brush-up on number theory.</td>
+            <td>The Diffie-Hellmann key exchange. Symmetric cryptography using number theory.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture15_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>                                                             
         <tr>

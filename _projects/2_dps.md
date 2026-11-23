@@ -225,15 +225,15 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Advanced composition. The exponential mechanism and its applications. The SmallDB mechanism. Information-theoretic lower bounds.</td>
             <td>Chapter 5</td>
         </tr>
-        <!---                              
         <tr>
-            <td>Lecture 16 13/11/25</td>
-            <td>Traitor tracing and computational lower bounds. Differential privacy and game theory. Introduction to Bitcoin. Basic design principles.</td>
+            <td>Lecture 16 19/11/26</td>
+            <td>Traitor tracing and computational lower bounds. Differential privacy and game theory.</td>
             <td>Chapter 6</td>
         </tr>
+        <!---                                      
         <tr>
             <td>Lecture 17 18/11/25</td>
-            <td>Mining pools and attacks.</td>
+            <td>Introduction to Bitcoin. Basic design principles. Mining pools and attacks.</td>
             <td>Chapter 6</td>
         </tr>
         <tr>
