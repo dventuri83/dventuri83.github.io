@@ -88,7 +88,7 @@ Project (30%), oral exam (70%).
 </li>
 <li> Chapter 4: Differential privacy [<a href="https://dventuri83.github.io/assets/pdf/04_Diff_Priv.pdf">pdf</a>].
 </li>
-<li> Chapter 5: Proof systems [<a href="">pdf</a>].
+<li> Chapter 5: Proof systems [<a href="https://dventuri83.github.io/assets/pdf/05_ZK.pdf">pdf</a>].
 </li>
 <li> Chapter 6: Bitcoin & altcoins [<a href="">pdf</a>].
 </li>
