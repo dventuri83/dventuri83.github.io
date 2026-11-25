@@ -229,16 +229,16 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>Lecture 16 19/11/26</td>
             <td>Traitor tracing and computational lower bounds. Differential privacy and game theory.</td>
             <td>Chapter 6</td>
-        </tr>
-        <!---                                      
+        </tr>                                      
         <tr>
-            <td>Lecture 17 18/11/25</td>
-            <td>Introduction to Bitcoin. Basic design principles. Mining pools and attacks.</td>
+            <td>Lecture 17 24/11/26</td>
+            <td>Interactive proofs. Zero-knowledge proofs. Computational zero-knowledge proofs for all of NP using FHE.</td>
             <td>Chapter 6</td>
         </tr>
+        <!---        
         <tr>
             <td>Lecture 18 25/11/25</td>
-            <td>Security of Bitcoin. Lightning networks.</td>
+            <td>Introduction to Bitcoin. Basic design principles. Mining pools and attacks. Security of Bitcoin. Lightning networks.</td>
             <td>Chapter 6</td>
         </tr>
         <tr>

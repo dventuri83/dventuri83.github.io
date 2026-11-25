@@ -195,12 +195,12 @@ Le date degli esami per l'anno accademico 2025/2026 sono elencate di seguito. La
             <td>Esistenza di linguaggi non riconoscibili. Riducibilità mediante funzione. Esercizi di calcolabilità.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture15_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>     
-        <!---                  
         <tr>
-            <td>Lezione 16 19/11/25</td>
+            <td>Lezione 16 25/11/26</td>
             <td>Teoremi di incompletezza di Goedel.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture16_2526.pdf" target="_blank">PDF</a>]</td>
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/acc_lecture16_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
+        <!---                          
         <tr>
             <td>Lezione 17 21/11/25</td>
             <td>Complessità di tempo.</td>

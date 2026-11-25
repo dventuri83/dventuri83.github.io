@@ -220,20 +220,20 @@ The exam dates for academic year 2025/2026 are indicated below. Please always re
             <td>The Merklee-Damgaard paradigm (continued). Building compression functions.Brush-up on number theory.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture14_2627.pdf" target="_blank">PDF</a>]</td>
         </tr>
-        <!---                                
         <tr>
-            <td>Lecture 15 14/11/25</td>
+            <td>Lecture 15 24/11/26</td>
             <td>The Diffie-Hellmann key exchange. Symmetric cryptography using number theory.</td>
-            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture15_2526.pdf" target="_blank">PDF</a>]</td>
-        </tr>                                                             
+            <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture16_2627.pdf" target="_blank">PDF</a>]</td>
+        </tr>
+        <!---                                                                              
         <tr>
             <td>Lecture 16 18/11/25</td>
-            <td>The Diffie-Hellmann key exchange. Symmetric cryptography using number theory.</td>
+            <td>Public-key encryption. The ElGamal PKE. RSA PKE.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture16_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>     
         <tr>
             <td>Lecture 17 21/11/25</td>
-            <td>Public-key encryption. The ElGamal PKE.</td>
+            <td>Digital signatures and universal unforgeability under chosen-message attacks. Public key infrastructures.</td>
             <td>[<a href="https://dventuri83.github.io/assets/pdf/crypto_lecture17_2526.pdf" target="_blank">PDF</a>]</td>
         </tr>
         <tr>
